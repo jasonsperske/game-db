@@ -13,6 +13,13 @@ module.exports = (utils) => {
       publishers: utils.readJSON('publishers', 'index.json')
     });
   });
+  router.get('/:publisher', (req, res) => {
+    const publishers = utils.readJSON('publishers', 'index.json'),
+          publisher = publishers[req.params.publisher];
+    res.render('pages/publisher/view', {
+      publisher: publisher
+    });
+  });
 
   return router;
 };

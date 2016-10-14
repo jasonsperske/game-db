@@ -36,7 +36,7 @@
       "year": 1987
     }
   },
-  "720%C2%B0": {
+  "720": {
     "name": "720°",
     "publisher": "Mindscape",
     "released": {
@@ -81,7 +81,7 @@
       "year": 1990
     }
   },
-  "Advanced_Dungeons_%26_Dragons:_Heroes_of_the_Lance": {
+  "Advanced_Dungeons_&_Dragons:_Heroes_of_the_Lance": {
     "name": "Advanced Dungeons & Dragons: Heroes of the Lance",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -180,7 +180,7 @@
       "year": 1989
     }
   },
-  "Al_Unser_Jr.%27s_Turbo_Racing": {
+  "Al_Unser_Jr.'s_Turbo_Racing": {
     "name": "Al Unser Jr.'s Turbo Racing",
     "publisher": "Data_East",
     "released": {
@@ -279,7 +279,7 @@
       "year": 1987
     }
   },
-  "Arkista%27s_Ring": {
+  "Arkista's_Ring": {
     "name": "Arkista's Ring",
     "publisher": "Sammy_Corporation",
     "released": {
@@ -315,7 +315,7 @@
       "year": 1989
     }
   },
-  "Back_to_the_Future_Part_II_%26_III": {
+  "Back_to_the_Future_Part_II_&_III": {
     "name": "Back to the Future Part II & III",
     "publisher": "LJN",
     "released": {
@@ -387,7 +387,7 @@
       "year": 1991
     }
   },
-  "Barker_Bill%27s_Trick_Shooting": {
+  "Barker_Bill's_Trick_Shooting": {
     "name": "Barker Bill's Trick Shooting",
     "publisher": "Nintendo",
     "released": {
@@ -541,7 +541,7 @@
       "year": 1991
     }
   },
-  "Battletoads_%26_Double_Dragon": {
+  "Battletoads_&_Double_Dragon": {
     "name": "Battletoads & Double Dragon",
     "publisher": "Tradewest",
     "released": {
@@ -577,7 +577,7 @@
       "year": 1990
     }
   },
-  "Bill_%26_Ted%27s_Excellent_Video_Game_Adventure": {
+  "Bill_&_Ted's_Excellent_Video_Game_Adventure": {
     "name": "Bill & Ted's Excellent Video Game Adventure",
     "publisher": "LJN",
     "released": {
@@ -586,7 +586,7 @@
       "year": 1991
     }
   },
-  "Bill_Elliott%27s_NASCAR_Challenge": {
+  "Bill_Elliott's_NASCAR_Challenge": {
     "name": "Bill Elliott's NASCAR Challenge",
     "publisher": "Konami",
     "released": {
@@ -649,7 +649,7 @@
       "year": 1992
     }
   },
-  "Bonk%27s_Adventure": {
+  "Bonk's_Adventure": {
     "name": "Bonk's Adventure",
     "publisher": "Hudson_Soft",
     "released": {
@@ -667,7 +667,7 @@
       "year": 1990
     }
   },
-  "Bram_Stoker%27s_Dracula": {
+  "Bram_Stoker's_Dracula": {
     "name": "Bram Stoker's Dracula",
     "publisher": "Sony_Imagesoft",
     "released": {
@@ -712,7 +712,7 @@
       "year": 1993
     }
   },
-  "Bucky_O%27Hare": {
+  "Bucky_O'Hare": {
     "name": "Bucky O'Hare",
     "publisher": "Konami",
     "released": {
@@ -721,7 +721,7 @@
       "year": 1992
     }
   },
-  "Bump_%27n%27_Jump": {
+  "Bump_'n'_Jump": {
     "name": "Bump 'n' Jump",
     "publisher": "Vic_Tokai",
     "released": {
@@ -775,7 +775,7 @@
       "year": 1989
     }
   },
-  "Capcom%27s_Gold_Medal_Challenge_%2792": {
+  "Capcom's_Gold_Medal_Challenge_'92": {
     "name": "Capcom's Gold Medal Challenge '92",
     "publisher": "Capcom",
     "released": {
@@ -856,7 +856,7 @@
       "year": 1987
     }
   },
-  "Castlevania_II:_Simon%27s_Quest": {
+  "Castlevania_II:_Simon's_Quest": {
     "name": "Castlevania II: Simon's Quest",
     "publisher": "Konami",
     "released": {
@@ -865,7 +865,7 @@
       "year": 1988
     }
   },
-  "Castlevania_III:_Dracula%27s_Curse": {
+  "Castlevania_III:_Dracula's_Curse": {
     "name": "Castlevania III: Dracula's Curse",
     "publisher": "Konami",
     "released": {
@@ -910,7 +910,7 @@
       "year": 1990
     }
   },
-  "Chip_%27n_Dale_Rescue_Rangers": {
+  "Chip_'n_Dale_Rescue_Rangers": {
     "name": "Chip 'n Dale: Rescue Rangers",
     "publisher": "Capcom",
     "released": {
@@ -919,7 +919,7 @@
       "year": 1990
     }
   },
-  "Chip_%27n_Dale_Rescue_Rangers_2": {
+  "Chip_'n_Dale_Rescue_Rangers_2": {
     "name": "Chip 'n Dale Rescue Rangers 2",
     "publisher": "Capcom",
     "released": {
@@ -1101,9 +1101,9 @@
       "year": 1992
     }
   },
-  "Crash_%27n_the_Boys:_Street_Challenge": {
+  "Crash_'n_the_Boys:_Street_Challenge": {
     "name": "Crash 'n the Boys: Street Challenge",
-    "publisher": "Techn%C5%8Ds_Japan",
+    "publisher": "Technōs_Japan",
     "released": {
       "month": 10,
       "sortable": "000000001992-10-01-0000",
@@ -1136,7 +1136,7 @@
       "year": 1989
     }
   },
-  "D%C3%A9j%C3%A0_Vu": {
+  "Déjà_Vu": {
     "name": "Déjà Vu",
     "publisher": "Seika",
     "released": {
@@ -1154,7 +1154,7 @@
       "year": 1989
     }
   },
-  "Danny_Sullivan%27s_Indy_Heat": {
+  "Danny_Sullivan's_Indy_Heat": {
     "name": "Danny Sullivan's Indy Heat",
     "publisher": "Tradewest",
     "released": {
@@ -1190,7 +1190,7 @@
       "year": 1990
     }
   },
-  "Day_Dreamin%27_Davey": {
+  "Day_Dreamin'_Davey": {
     "name": "Day Dreamin' Davey",
     "publisher": "HAL_America",
     "released": {
@@ -1210,7 +1210,7 @@
   },
   "Deadly_Towers": {
     "name": "Deadly Towers",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 9,
       "sortable": "000000001987-09-01-0000",
@@ -1433,7 +1433,7 @@
       "year": 1990
     }
   },
-  "Dragon%27s_Lair": {
+  "Dragon's_Lair": {
     "name": "Dragon's Lair",
     "publisher": "Sony_Imagesoft",
     "released": {
@@ -1551,9 +1551,9 @@
       "year": 1990
     }
   },
-  "Dusty_Diamond%27s_All-Star_Softball": {
+  "Dusty_Diamond's_All-Star_Softball": {
     "name": "Dusty Diamond's All-Star Softball",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 7,
       "sortable": "000000001990-07-01-0000",
@@ -1660,7 +1660,7 @@
       "year": 1992
     }
   },
-  "Fester%27s_Quest": {
+  "Fester's_Quest": {
     "name": "Fester's Quest",
     "publisher": "Sunsoft",
     "released": {
@@ -1678,7 +1678,7 @@
       "year": 1990
     }
   },
-  "Fire_%27n_Ice": {
+  "Fire_'n_Ice": {
     "name": "Fire 'n Ice",
     "publisher": "Tecmo",
     "released": {
@@ -1831,7 +1831,7 @@
       "year": 1991
     }
   },
-  "Gargoyle%27s_Quest_II": {
+  "Gargoyle's_Quest_II": {
     "name": "Gargoyle's Quest II",
     "publisher": "Capcom",
     "released": {
@@ -1877,7 +1877,7 @@
       "year": 1990
     }
   },
-  "George_Foreman%27s_KO_Boxing": {
+  "George_Foreman's_KO_Boxing": {
     "name": "George Foreman's KO Boxing",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -1904,7 +1904,7 @@
       "year": 1990
     }
   },
-  "Ghosts_%27n_Goblins": {
+  "Ghosts_'n_Goblins": {
     "name": "Ghosts 'n Goblins",
     "publisher": "Capcom",
     "released": {
@@ -2004,7 +2004,7 @@
       "year": 1986
     }
   },
-  "Greg_Norman%27s_Golf_Power": {
+  "Greg_Norman's_Golf_Power": {
     "name": "Greg Norman's Golf Power",
     "publisher": "Virgin_Interactive",
     "released": {
@@ -2104,7 +2104,7 @@
       "year": 1990
     }
   },
-  "Heavy_Shreddin%27": {
+  "Heavy_Shreddin'": {
     "name": "Heavy Shreddin'",
     "publisher": "Parker_Brothers",
     "released": {
@@ -2131,7 +2131,7 @@
       "year": 1993
     }
   },
-  "Hogan%27s_Alley": {
+  "Hogan's_Alley": {
     "name": "Hogan's Alley",
     "publisher": "Nintendo",
     "released": {
@@ -2304,7 +2304,7 @@
       "year": 1988
     }
   },
-  "Ironsword:_Wizards_%26_Warriors_II": {
+  "Ironsword:_Wizards_&_Warriors_II": {
     "name": "Ironsword: Wizards & Warriors II",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -2322,7 +2322,7 @@
       "year": 1991
     }
   },
-  "Ivan_%27Ironman%27_Stewart%27s_Super_Off_Road": {
+  "Ivan_'Ironman'_Stewart's_Super_Off_Road": {
     "name": "Ivan 'Ironman' Stewart's Super Off Road",
     "publisher": "Tradewest",
     "released": {
@@ -2331,7 +2331,7 @@
       "year": 1990
     }
   },
-  "Jack_Nicklaus%27_Greatest_18_Holes_of_Major_Championship_Golf": {
+  "Jack_Nicklaus'_Greatest_18_Holes_of_Major_Championship_Golf": {
     "name": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
     "publisher": "Konami",
     "released": {
@@ -2349,7 +2349,7 @@
       "year": 1988
     }
   },
-  "Jackie_Chan%27s_Action_Kung_Fu": {
+  "Jackie_Chan's_Action_Kung_Fu": {
     "name": "Jackie Chan's Action Kung Fu",
     "publisher": "Hudson_Soft",
     "released": {
@@ -2394,7 +2394,7 @@
       "year": 1993
     }
   },
-  "Joe_%26_Mac": {
+  "Joe_&_Mac": {
     "name": "Joe & Mac",
     "publisher": "Data_East",
     "released": {
@@ -2403,7 +2403,7 @@
       "year": 1992
     }
   },
-  "John_Elway%27s_Quarterback": {
+  "John_Elway's_Quarterback": {
     "name": "John Elway's Quarterback",
     "publisher": "Tradewest",
     "released": {
@@ -2529,7 +2529,7 @@
       "year": 1987
     }
   },
-  "King%27s_Knight": {
+  "King's_Knight": {
     "name": "King's Knight",
     "publisher": "Square",
     "released": {
@@ -2538,7 +2538,7 @@
       "year": 1989
     }
   },
-  "King%27s_Quest_V:_Absence_Makes_the_Heart_Go_Yonder!": {
+  "King's_Quest_V:_Absence_Makes_the_Heart_Go_Yonder!": {
     "name": "King's Quest V: Absence Makes the Heart Go Yonder!",
     "publisher": "Konami",
     "released": {
@@ -2556,7 +2556,7 @@
       "year": 1990
     }
   },
-  "Kirby%27s_Adventure": {
+  "Kirby's_Adventure": {
     "name": "Kirby's Adventure",
     "publisher": "Nintendo",
     "released": {
@@ -2583,7 +2583,7 @@
       "year": 1989
     }
   },
-  "Krusty%27s_Fun_House": {
+  "Krusty's_Fun_House": {
     "name": "Krusty's Fun House",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -2611,7 +2611,7 @@
       "year": 1985
     }
   },
-  "L%27Empereur": {
+  "L'Empereur": {
     "name": "L'Empereur",
     "publisher": "Koei",
     "released": {
@@ -2638,7 +2638,7 @@
       "year": 1993
     }
   },
-  "Lee_Trevino%27s_Fighting_Golf": {
+  "Lee_Trevino's_Fighting_Golf": {
     "name": "Lee Trevino's Fighting Golf",
     "publisher": "SNK",
     "released": {
@@ -2649,7 +2649,7 @@
   },
   "Legacy_of_the_Wizard": {
     "name": "Legacy of the Wizard",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 4,
       "sortable": "000000001989-04-01-0000",
@@ -2739,7 +2739,7 @@
   },
   "Lode_Runner": {
     "name": "Lode Runner",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 9,
       "sortable": "000000001987-09-01-0000",
@@ -2837,7 +2837,7 @@
       "year": 1991
     }
   },
-  "Magic_Johnson%27s_Fast_Break": {
+  "Magic_Johnson's_Fast_Break": {
     "name": "Magic Johnson's Fast Break",
     "publisher": "Tradewest",
     "released": {
@@ -2891,7 +2891,7 @@
       "year": 1989
     }
   },
-  "Mario%27s_Time_Machine": {
+  "Mario's_Time_Machine": {
     "name": "Mario's Time Machine",
     "publisher": "Mindscape",
     "released": {
@@ -3035,7 +3035,7 @@
       "year": 1987
     }
   },
-  "Michael_Andretti%27s_World_GP": {
+  "Michael_Andretti's_World_GP": {
     "name": "Michael Andretti's World GP",
     "publisher": "Sammy_Corporation",
     "released": {
@@ -3044,7 +3044,7 @@
       "year": 1990
     }
   },
-  "Mickey%27s_Adventures_in_Numberland": {
+  "Mickey's_Adventures_in_Numberland": {
     "name": "Mickey's Adventures in Numberland",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -3053,7 +3053,7 @@
       "year": 1994
     }
   },
-  "Mickey%27s_Safari_in_Letterland": {
+  "Mickey's_Safari_in_Letterland": {
     "name": "Mickey's Safari in Letterland",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -3098,7 +3098,7 @@
       "year": 1993
     }
   },
-  "Mike_Tyson%27s_Punch-Out!!": {
+  "Mike_Tyson's_Punch-Out!!": {
     "name": "Mike Tyson's Punch-Out!!",
     "publisher": "Nintendo",
     "released": {
@@ -3116,7 +3116,7 @@
       "year": 1988
     }
   },
-  "Milon%27s_Secret_Castle": {
+  "Milon's_Secret_Castle": {
     "name": "Milon's Secret Castle",
     "publisher": "Hudson_Soft",
     "released": {
@@ -3268,7 +3268,7 @@
       "year": 1991
     }
   },
-  "Nigel_Mansell%27s_World_Championship_Racing": {
+  "Nigel_Mansell's_World_Championship_Racing": {
     "name": "Nigel Mansell's World Championship Racing",
     "publisher": "GameTek",
     "released": {
@@ -3357,7 +3357,7 @@
       "year": 1990
     }
   },
-  "Nobunaga%27s_Ambition": {
+  "Nobunaga's_Ambition": {
     "name": "Nobunaga's Ambition",
     "publisher": "Koei",
     "released": {
@@ -3366,7 +3366,7 @@
       "year": 1989
     }
   },
-  "Nobunaga%27s_Ambition_II": {
+  "Nobunaga's_Ambition_II": {
     "name": "Nobunaga's Ambition II",
     "publisher": "Koei",
     "released": {
@@ -3375,7 +3375,7 @@
       "year": 1991
     }
   },
-  "North_%26_South": {
+  "North_&_South": {
     "name": "North & South",
     "publisher": "Seika",
     "released": {
@@ -3655,7 +3655,7 @@
       "year": 1990
     }
   },
-  "Puss_%27n_Boots:_Pero%27s_Great_Adventure": {
+  "Puss_'n_Boots:_Pero's_Great_Adventure": {
     "name": "Puss 'n Boots: Pero's Great Adventure",
     "publisher": "Electro_Brain",
     "released": {
@@ -3756,7 +3756,7 @@
   },
   "Raid_on_Bungeling_Bay": {
     "name": "Raid on Bungeling Bay",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 9,
       "sortable": "000000001987-09-01-0000",
@@ -3845,7 +3845,7 @@
   },
   "River_City_Ransom": {
     "name": "River City Ransom",
-    "publisher": "Techn%C5%8Ds_Japan",
+    "publisher": "Technōs_Japan",
     "released": {
       "month": 1,
       "sortable": "000000001990-01-01-0000",
@@ -3906,7 +3906,7 @@
       "year": 1988
     }
   },
-  "Rock_%27n_Ball": {
+  "Rock_'n_Ball": {
     "name": "Rock 'n Ball",
     "publisher": "Nippon_Television",
     "released": {
@@ -3924,7 +3924,7 @@
       "year": 1990
     }
   },
-  "Rockin%27_Kats": {
+  "Rockin'_Kats": {
     "name": "Rockin' Kats",
     "publisher": "Atlus",
     "released": {
@@ -3933,7 +3933,7 @@
       "year": 1991
     }
   },
-  "Roger_Clemens%27_MVP_Baseball": {
+  "Roger_Clemens'_MVP_Baseball": {
     "name": "Roger Clemens' MVP Baseball",
     "publisher": "LJN",
     "released": {
@@ -3996,7 +3996,7 @@
       "year": 1992
     }
   },
-  "Rush%27n_Attack": {
+  "Rush'n_Attack": {
     "name": "Rush'n Attack",
     "publisher": "Konami",
     "released": {
@@ -4077,7 +4077,7 @@
       "year": 1991
     }
   },
-  "Sesame_Street:_Big_Bird%27s_Hide_%26_Speak": {
+  "Sesame_Street:_Big_Bird's_Hide_&_Speak": {
     "name": "Sesame Street: Big Bird's Hide & Speak",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -4148,7 +4148,7 @@
       "year": 1989
     }
   },
-  "Sid_Meier%27s_Pirates!": {
+  "Sid_Meier's_Pirates!": {
     "name": "Pirates!",
     "publisher": "Ultra_Games",
     "released": {
@@ -4257,7 +4257,7 @@
       "year": 1991
     }
   },
-  "Snake%27s_Revenge": {
+  "Snake's_Revenge": {
     "name": "Snake's Revenge",
     "publisher": "Ultra_Games",
     "released": {
@@ -4266,7 +4266,7 @@
       "year": 1990
     }
   },
-  "Snake_Rattle_%27n%27_Roll": {
+  "Snake_Rattle_'n'_Roll": {
     "name": "Snake Rattle 'n' Roll",
     "publisher": "Nintendo",
     "released": {
@@ -4275,7 +4275,7 @@
       "year": 1990
     }
   },
-  "Snoopy%27s_Silly_Sports_Spectacular": {
+  "Snoopy's_Silly_Sports_Spectacular": {
     "name": "Snoopy's Silly Sports Spectacular",
     "publisher": "Seika",
     "released": {
@@ -4312,7 +4312,7 @@
       "year": 1990
     }
   },
-  "Solomon%27s_Key": {
+  "Solomon's_Key": {
     "name": "Solomon's Key",
     "publisher": "Tecmo",
     "released": {
@@ -4341,7 +4341,7 @@
   },
   "Spelunker": {
     "name": "Spelunker",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 9,
       "sortable": "000000001987-09-01-0000",
@@ -4640,7 +4640,7 @@
       "year": 1987
     }
   },
-  "Super_Spike_V%27Ball": {
+  "Super_Spike_V'Ball": {
     "name": "Super Spike V'Ball",
     "publisher": "Nintendo",
     "released": {
@@ -4884,7 +4884,7 @@
       "year": 1992
     }
   },
-  "The_Addams_Family:_Pugsley%27s_Scavenger_Hunt": {
+  "The_Addams_Family:_Pugsley's_Scavenger_Hunt": {
     "name": "The Addams Family: Pugsley's Scavenger Hunt",
     "publisher": "Ocean_Software",
     "released": {
@@ -4902,7 +4902,7 @@
       "year": 1989
     }
   },
-  "The_Adventures_of_Gilligan%27s_Island": {
+  "The_Adventures_of_Gilligan's_Island": {
     "name": "The Adventures of Gilligan's Island",
     "publisher": "Bandai",
     "released": {
@@ -4947,7 +4947,7 @@
       "year": 1990
     }
   },
-  "The_Bard%27s_Tale": {
+  "The_Bard's_Tale": {
     "name": "The Bard's Tale",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -4958,7 +4958,7 @@
   },
   "The_Battle_of_Olympus": {
     "name": "The Battle of Olympus",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 12,
       "sortable": "000000001989-12-01-0000",
@@ -5017,7 +5017,7 @@
       "year": 1994
     }
   },
-  "The_Flintstones:_The_Rescue_of_Dino_%26_Hoppy": {
+  "The_Flintstones:_The_Rescue_of_Dino_&_Hoppy": {
     "name": "The Flintstones: The Rescue of Dino & Hoppy",
     "publisher": "Taito",
     "released": {
@@ -5046,7 +5046,7 @@
   },
   "The_Guardian_Legend": {
     "name": "The Guardian Legend",
-    "publisher": "Br%C3%B8derbund",
+    "publisher": "Brøderbund",
     "released": {
       "month": 4,
       "sortable": "000000001989-04-01-0000",
@@ -5080,7 +5080,7 @@
       "year": 1994
     }
   },
-  "The_Jetsons:_Cogswell%27s_Caper!": {
+  "The_Jetsons:_Cogswell's_Caper!": {
     "name": "The Jetsons: Cogswell's Caper!",
     "publisher": "Taito",
     "released": {
@@ -5207,7 +5207,7 @@
       "year": 1990
     }
   },
-  "The_Ren_%26_Stimpy_Show:_Buckaroo$!": {
+  "The_Ren_&_Stimpy_Show:_Buckaroo$!": {
     "name": "The Ren & Stimpy Show: Buckaroo$!",
     "publisher": "THQ",
     "released": {
@@ -5297,7 +5297,7 @@
       "year": 1993
     }
   },
-  "Thunder_%26_Lightning": {
+  "Thunder_&_Lightning": {
     "name": "Thunder & Lightning",
     "publisher": "Romstar",
     "released": {
@@ -5405,7 +5405,7 @@
       "year": 1991
     }
   },
-  "Tombs_%26_Treasure": {
+  "Tombs_&_Treasure": {
     "name": "Tombs & Treasure",
     "publisher": "Activision",
     "released": {
@@ -5432,7 +5432,7 @@
       "year": 1990
     }
   },
-  "Top_Players%27_Tennis": {
+  "Top_Players'_Tennis": {
     "name": "Top Players' Tennis",
     "publisher": "Asmik_Ace_Entertainment",
     "released": {
@@ -5468,7 +5468,7 @@
       "year": 1991
     }
   },
-  "Town_%26_Country_II:_Thrilla%27s_Surfari": {
+  "Town_&_Country_II:_Thrilla's_Surfari": {
     "name": "Town & Country II: Thrilla's Surfari",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5477,7 +5477,7 @@
       "year": 1992
     }
   },
-  "Town_%26_Country_Surf_Designs:_Wood_%26_Water_Rage": {
+  "Town_&_Country_Surf_Designs:_Wood_&_Water_Rage": {
     "name": "Town & Country Surf Designs: Wood & Water Rage",
     "publisher": "LJN",
     "released": {
@@ -5495,7 +5495,7 @@
       "year": 1992
     }
   },
-  "Track_%26_Field": {
+  "Track_&_Field": {
     "name": "Track & Field",
     "publisher": "Konami",
     "released": {
@@ -5504,7 +5504,7 @@
       "year": 1987
     }
   },
-  "Track_%26_Field_II": {
+  "Track_&_Field_II": {
     "name": "Track & Field II",
     "publisher": "Konami",
     "released": {
@@ -5738,7 +5738,7 @@
       "year": 1990
     }
   },
-  "Wario%27s_Woods": {
+  "Wario's_Woods": {
     "name": "Wario's Woods",
     "publisher": "Nintendo",
     "released": {
@@ -5748,7 +5748,7 @@
       "year": 1994
     }
   },
-  "Wayne%27s_World": {
+  "Wayne's_World": {
     "name": "Wayne's World",
     "publisher": "THQ",
     "released": {
@@ -5784,7 +5784,7 @@
       "year": 1992
     }
   },
-  "Where%27s_Waldo%3F": {
+  "Where's_Waldo": {
     "name": "Where's Waldo?",
     "publisher": "THQ",
     "released": {
@@ -5793,7 +5793,7 @@
       "year": 1991
     }
   },
-  "Where_in_Time_Is_Carmen_Sandiego%3F": {
+  "Where_in_Time_Is_Carmen_Sandiego": {
     "name": "Where in Time Is Carmen Sandiego?",
     "publisher": "Konami",
     "released": {
@@ -5811,7 +5811,7 @@
       "year": 1989
     }
   },
-  "Whomp_%27Em": {
+  "Whomp_'Em": {
     "name": "Whomp 'Em",
     "publisher": "Jaleco",
     "released": {
@@ -5884,7 +5884,7 @@
       "year": 1992
     }
   },
-  "Wizards_%26_Warriors": {
+  "Wizards_&_Warriors": {
     "name": "Wizards & Warriors",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5893,7 +5893,7 @@
       "year": 1987
     }
   },
-  "Wizards_%26_Warriors_III:_Kuros:_Visions_of_Power": {
+  "Wizards_&_Warriors_III:_Kuros:_Visions_of_Power": {
     "name": "Wizards & Warriors III: Kuros: Visions of Power",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -6012,7 +6012,7 @@
       "year": 1992
     }
   },
-  "Yoshi%27s_Cookie": {
+  "Yoshi's_Cookie": {
     "name": "Yoshi's Cookie",
     "publisher": "Nintendo",
     "released": {
@@ -6049,7 +6049,7 @@
       "year": 1993
     }
   },
-  "Zoda%27s_Revenge:_StarTropics_II": {
+  "Zoda's_Revenge:_StarTropics_II": {
     "name": "Zoda's Revenge: StarTropics II",
     "publisher": "Nintendo",
     "released": {
