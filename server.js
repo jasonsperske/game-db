@@ -12,7 +12,7 @@ const express = require('express'),
       utils = {
         readJSON: (base, module) => {
           try {
-            fs.accessSync(path.join(__dirname, 'content', base, module), fs.constants.R_OK | fs.constants.W_OK);
+            fs.accessSync(path.join(__dirname, 'content', base, module), fs.R_OK | fs.W_OK);
             delete require.cache[require.resolve('./content/'+base+'/'+module)];
             return require('./content/'+base+'/'+module);
           } catch(e) {
@@ -31,7 +31,10 @@ const express = require('express'),
         }
       };
 
-env(__dirname + '/.env');
+try {
+    fs.accessSync(__dirname + '/.env', fs.F_OK);
+    env(__dirname + '/.env');
+} catch (e) {}
 
 cms.set('view engine', 'html');
 cms.engine('html', ejs.renderFile);
