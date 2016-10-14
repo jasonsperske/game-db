@@ -15,9 +15,21 @@ module.exports = (utils) => {
   });
   router.get('/:publisher', (req, res) => {
     const publishers = utils.readJSON('publishers', 'index.json'),
-          publisher = publishers[req.params.publisher];
+          publisher = _.extend({guid:req.params.publisher}, publishers[req.params.publisher], utils.readJSON('publishers/'+req.params.publisher, 'index.json'));
+    let games = {};
+
+    publisher.platforms.forEach((platform) => {
+      var platfrom_games = utils.readJSON('platforms/'+platform, 'games.json');
+      Object.keys(platfrom_games).forEach((game) => {
+        if(platfrom_games[game].publisher === publisher.guid) {
+          games[platform+'/'+game] = platfrom_games[game];
+        }
+      });
+    });
+
     res.render('pages/publisher/view', {
-      publisher: publisher
+      publisher: publisher,
+      games: games
     });
   });
 

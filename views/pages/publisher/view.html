@@ -2,3 +2,13 @@
   <li><a href='/publisher/'>Publishers</a></li>
   <li class="active"><:- publisher.name :></li>
 </ol>
+<table>
+  <caption>Games Published</caption>
+  <tbody>
+  <: Object.keys(games).sort().forEach((game) => { :>
+    <tr>
+      <td><a href="/platform/<:= game :>"><:= games[game].name :></a></td>
+    </tr>
+  <: }) :>
+  </tbody>
+</table>
