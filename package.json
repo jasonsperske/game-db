@@ -1,0 +1,30 @@
+{
+  "name": "game-db",
+  "description": "a public database of videogames",
+  "main": "server.js",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "4.x",
+    "express-ejs-layouts": "*",
+    "finalhandler": "*",
+    "mkdirp": "^0.5.1",
+    "nconf": "*",
+    "request": "*",
+    "serve-favicon": "*",
+    "serve-static": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "bower": "*",
+    "gulp": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-flatten": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*"
+  }
+}

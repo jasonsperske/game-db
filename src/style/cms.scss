@@ -1,0 +1,47 @@
+$icon-font-path: "../fonts/";
+
+@import "../bower/bootstrap-sass/assets/stylesheets/_bootstrap";
+@import "../bower/font-awesome/scss/font-awesome";
+
+.thin {
+  font-weight: 100;
+}
+
+.vresize {
+  resize: vertical;
+}
+
+input[type='checkbox'] {
+  &.icon-checkbox {
+    display: none;
+    &+label {
+      .unchecked { display:inline; }
+      .checked { display:none; }
+    }
+  }
+  &:checked.icon-checkbox {
+    display: none;
+    &+label {
+      .unchecked { display:none; }
+      .checked { display:inline; }
+    }
+  }
+}
+
+.nav.content-catalog-nav {
+  li.active > a {
+    border-left: 1px solid purple;
+  }
+  a {
+    cursor: pointer;
+  }
+  ul > li {
+    font-weight: 100;
+    padding-left: 10px;
+    ul > li {
+      font-weight: 100;
+      font-size: 0.85em;
+      padding-left: 15px;
+    }
+  }
+}

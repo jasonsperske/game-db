@@ -1,0 +1,24 @@
+{
+  "name": "game-db",
+  "description": "a public database of videogames",
+  "main": "server.js",
+  "authors": [
+    "Jason Sperske <jason@sperske.com>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory": "src/bower/",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap-sass": "*",
+    "font-awesome": "*",
+    "moment": "*",
+    "ace-builds": "*"
+  }
+}
