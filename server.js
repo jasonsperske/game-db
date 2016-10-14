@@ -4,6 +4,7 @@ const express = require('express'),
       urlencodedParser = require('body-parser').urlencoded({
         extended: true
       }),
+      env = require('node-env-file'),
       ejs = require('ejs'),
       fs = require('fs'),
       path = require('path'),
@@ -29,6 +30,8 @@ const express = require('express'),
           });
         }
       };
+
+env(__dirname + '/.env');
 
 cms.set('view engine', 'html');
 cms.engine('html', ejs.renderFile);
