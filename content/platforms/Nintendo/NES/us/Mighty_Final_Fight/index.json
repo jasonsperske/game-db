@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Mighty Final Fight",
+  "publisher": "Capcom",
+  "released": {
+    "month": 7,
+    "sortable": "000000001993-07-01-0000",
+    "year": 1993
+  }
+}

@@ -1,1 +1,9 @@
-{}
+{
+  "name": "RoboCop 3",
+  "publisher": "Ocean_Software",
+  "released": {
+    "month": 8,
+    "sortable": "000000001992-08-01-0000",
+    "year": 1992
+  }
+}

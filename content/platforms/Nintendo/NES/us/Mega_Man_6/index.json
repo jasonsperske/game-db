@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Mega Man 6",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 3,
+    "sortable": "000000001994-03-01-0000",
+    "year": 1994
+  }
+}

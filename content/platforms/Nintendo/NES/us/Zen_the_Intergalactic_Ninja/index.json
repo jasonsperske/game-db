@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Zen the Intergalactic Ninja",
+  "publisher": "Konami",
+  "released": {
+    "month": 3,
+    "sortable": "000000001993-03-01-0000",
+    "year": 1993
+  }
+}

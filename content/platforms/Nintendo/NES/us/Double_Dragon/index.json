@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Double Dragon",
+  "publisher": "Tradewest",
+  "released": {
+    "month": 6,
+    "sortable": "000000001988-06-01-0000",
+    "year": 1988
+  }
+}

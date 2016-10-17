@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Beetlejuice",
+  "publisher": "LJN",
+  "released": {
+    "month": 5,
+    "sortable": "000000001991-05-01-0000",
+    "year": 1991
+  }
+}

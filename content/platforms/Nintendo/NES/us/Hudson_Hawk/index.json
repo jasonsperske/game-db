@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Hudson Hawk",
+  "publisher": "Sony_Imagesoft",
+  "released": {
+    "month": 2,
+    "sortable": "000000001992-02-01-0000",
+    "year": 1992
+  }
+}

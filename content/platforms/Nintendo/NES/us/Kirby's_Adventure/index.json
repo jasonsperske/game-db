@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Kirby's Adventure",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 5,
+    "sortable": "000000001993-05-01-0000",
+    "year": 1993
+  }
+}

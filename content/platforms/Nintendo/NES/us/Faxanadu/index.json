@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Faxanadu",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 8,
+    "sortable": "000000001989-08-01-0000",
+    "year": 1989
+  }
+}

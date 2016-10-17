@@ -1,1 +1,9 @@
-{}
+{
+  "name": "World Games",
+  "publisher": "Milton_Bradley_Company",
+  "released": {
+    "month": 3,
+    "sortable": "000000001989-03-01-0000",
+    "year": 1989
+  }
+}

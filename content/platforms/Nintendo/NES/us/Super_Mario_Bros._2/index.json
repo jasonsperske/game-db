@@ -1,1 +1,10 @@
-{}
+{
+  "name": "Super Mario Bros. 2",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 10,
+    "month": 10,
+    "sortable": "000000001988-10-10-0000",
+    "year": 1988
+  }
+}

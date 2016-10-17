@@ -1,1 +1,9 @@
-{}
+{
+  "name": "The Lone Ranger",
+  "publisher": "Konami",
+  "released": {
+    "month": 8,
+    "sortable": "000000001991-08-01-0000",
+    "year": 1991
+  }
+}

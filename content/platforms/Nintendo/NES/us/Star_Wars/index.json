@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Star Wars",
+  "publisher": "JVC",
+  "released": {
+    "month": 11,
+    "sortable": "000000001991-11-01-0000",
+    "year": 1991
+  }
+}

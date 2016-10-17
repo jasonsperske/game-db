@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Joust",
+  "publisher": "HAL_America",
+  "released": {
+    "month": 10,
+    "sortable": "000000001988-10-01-0000",
+    "year": 1988
+  }
+}

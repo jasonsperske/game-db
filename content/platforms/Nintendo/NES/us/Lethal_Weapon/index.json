@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Lethal Weapon",
+  "publisher": "Ocean_Software",
+  "released": {
+    "month": 4,
+    "sortable": "000000001993-04-01-0000",
+    "year": 1993
+  }
+}

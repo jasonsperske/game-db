@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Mario's Time Machine",
+  "publisher": "Mindscape",
+  "released": {
+    "month": 6,
+    "sortable": "000000001994-06-01-0000",
+    "year": 1994
+  }
+}

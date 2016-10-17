@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Rush'n Attack",
+  "publisher": "Konami",
+  "released": {
+    "month": 4,
+    "sortable": "000000001987-04-01-0000",
+    "year": 1987
+  }
+}

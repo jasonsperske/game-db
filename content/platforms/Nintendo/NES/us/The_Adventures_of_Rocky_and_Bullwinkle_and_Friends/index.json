@@ -1,1 +1,9 @@
-{}
+{
+  "name": "The Adventures of Rocky and Bullwinkle and Friends",
+  "publisher": "THQ",
+  "released": {
+    "month": 12,
+    "sortable": "000000001992-12-01-0000",
+    "year": 1992
+  }
+}

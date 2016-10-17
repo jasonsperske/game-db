@@ -1,1 +1,9 @@
-{}
+{
+  "name": "DuckTales 2",
+  "publisher": "Capcom",
+  "released": {
+    "month": 6,
+    "sortable": "000000001993-06-01-0000",
+    "year": 1993
+  }
+}

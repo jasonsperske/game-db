@@ -1,1 +1,10 @@
-{}
+{
+  "name": "Rad Racer",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 1,
+    "month": 10,
+    "sortable": "000000001987-10-01-0000",
+    "year": 1987
+  }
+}

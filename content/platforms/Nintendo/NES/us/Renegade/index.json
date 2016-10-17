@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Renegade",
+  "publisher": "Taito",
+  "released": {
+    "month": 1,
+    "sortable": "000000001988-01-01-0000",
+    "year": 1988
+  }
+}

@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Fire 'n Ice",
+  "publisher": "Tecmo",
+  "released": {
+    "month": 3,
+    "sortable": "000000001993-03-01-0000",
+    "year": 1993
+  }
+}

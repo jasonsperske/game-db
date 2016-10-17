@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Donkey Kong 3",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 6,
+    "sortable": "000000001986-06-01-0000",
+    "year": 1986
+  }
+}

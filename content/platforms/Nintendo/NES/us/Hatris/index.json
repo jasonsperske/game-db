@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Hatris",
+  "publisher": "Blue_Planet_Software",
+  "released": {
+    "month": 4,
+    "sortable": "000000001992-04-01-0000",
+    "year": 1992
+  }
+}

@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Ikari Warriors",
+  "publisher": "SNK",
+  "released": {
+    "month": 5,
+    "sortable": "000000001987-05-01-0000",
+    "year": 1987
+  }
+}

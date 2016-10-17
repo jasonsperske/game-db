@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Trojan",
+  "publisher": "Capcom",
+  "released": {
+    "month": 2,
+    "sortable": "000000001987-02-01-0000",
+    "year": 1987
+  }
+}

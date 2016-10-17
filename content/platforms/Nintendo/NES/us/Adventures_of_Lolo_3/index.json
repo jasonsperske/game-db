@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Adventures of Lolo 3",
+  "publisher": "HAL_America",
+  "released": {
+    "month": 9,
+    "sortable": "000000001991-09-01-0000",
+    "year": 1991
+  }
+}

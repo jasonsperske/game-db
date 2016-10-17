@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Bram Stoker's Dracula",
+  "publisher": "Sony_Imagesoft",
+  "released": {
+    "month": 9,
+    "sortable": "000000001993-09-01-0000",
+    "year": 1993
+  }
+}

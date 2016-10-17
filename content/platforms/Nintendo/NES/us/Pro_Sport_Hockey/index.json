@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Pro Sport Hockey",
+  "publisher": "Jaleco",
+  "released": {
+    "month": 11,
+    "sortable": "000000001993-11-01-0000",
+    "year": 1993
+  }
+}

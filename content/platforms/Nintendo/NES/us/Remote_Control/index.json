@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Remote Control",
+  "publisher": "Hi_Tech_Expressions",
+  "released": {
+    "month": 5,
+    "sortable": "000000001990-05-01-0000",
+    "year": 1990
+  }
+}

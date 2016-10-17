@@ -1,1 +1,10 @@
-{}
+{
+  "name": "Wario's Woods",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 10,
+    "month": 12,
+    "sortable": "000000001994-12-10-0000",
+    "year": 1994
+  }
+}

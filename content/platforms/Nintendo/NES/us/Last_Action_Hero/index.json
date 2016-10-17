@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Last Action Hero",
+  "publisher": "Sony_Imagesoft",
+  "released": {
+    "month": 10,
+    "sortable": "000000001993-10-01-0000",
+    "year": 1993
+  }
+}

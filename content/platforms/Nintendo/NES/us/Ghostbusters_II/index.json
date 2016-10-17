@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Ghostbusters II",
+  "publisher": "Activision",
+  "released": {
+    "month": 4,
+    "sortable": "000000001990-04-01-0000",
+    "year": 1990
+  }
+}

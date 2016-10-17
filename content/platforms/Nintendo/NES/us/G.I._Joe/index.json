@@ -1,1 +1,9 @@
-{}
+{
+  "name": "G.I. Joe: A Real American Hero",
+  "publisher": "Taxan",
+  "released": {
+    "month": 1,
+    "sortable": "000000001991-01-01-0000",
+    "year": 1991
+  }
+}

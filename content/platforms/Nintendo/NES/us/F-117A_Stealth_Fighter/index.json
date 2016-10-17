@@ -1,1 +1,9 @@
-{}
+{
+  "name": "F-117A Stealth Fighter",
+  "publisher": "MicroProse",
+  "released": {
+    "month": 12,
+    "sortable": "000000001992-12-01-0000",
+    "year": 1992
+  }
+}

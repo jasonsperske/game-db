@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Baseball Stars 2",
+  "publisher": "Romstar",
+  "released": {
+    "month": 7,
+    "sortable": "000000001992-07-01-0000",
+    "year": 1992
+  }
+}

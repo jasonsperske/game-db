@@ -1,1 +1,9 @@
-{}
+{
+  "name": "The Addams Family",
+  "publisher": "Ocean_Software",
+  "released": {
+    "month": 1,
+    "sortable": "000000001992-01-01-0000",
+    "year": 1992
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "name": "Side Pocket",
+  "publisher": "Data_East",
+  "released": {
+    "day": 30,
+    "month": 11,
+    "sortable": "000000001987-11-30-0000",
+    "year": 1987
+  }
+}

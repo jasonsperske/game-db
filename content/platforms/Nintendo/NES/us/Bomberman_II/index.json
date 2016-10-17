@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Bomberman II",
+  "publisher": "Hudson_Soft",
+  "released": {
+    "month": 3,
+    "sortable": "000000001992-03-01-0000",
+    "year": 1992
+  }
+}

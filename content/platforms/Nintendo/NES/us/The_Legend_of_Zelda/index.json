@@ -1,1 +1,10 @@
-{}
+{
+  "name": "The Legend of Zelda",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 22,
+    "month": 8,
+    "sortable": "000000001987-08-22-0000",
+    "year": 1987
+  }
+}

@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Gargoyle's Quest II",
+  "publisher": "Capcom",
+  "released": {
+    "month": 10,
+    "sortable": "000000001992-10-01-0000",
+    "year": 1992
+  }
+}

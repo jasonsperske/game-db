@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Alfred Chicken",
+  "publisher": "Mindscape",
+  "released": {
+    "month": 2,
+    "sortable": "000000001994-02-01-0000",
+    "year": 1994
+  }
+}

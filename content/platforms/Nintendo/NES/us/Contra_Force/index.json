@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Contra Force",
+  "publisher": "Konami",
+  "released": {
+    "month": 9,
+    "sortable": "000000001992-09-01-0000",
+    "year": 1992
+  }
+}

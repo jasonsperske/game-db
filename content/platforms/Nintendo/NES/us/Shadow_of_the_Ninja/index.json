@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Shadow of the Ninja",
+  "publisher": "Natsume",
+  "released": {
+    "month": 12,
+    "sortable": "000000001990-12-01-0000",
+    "year": 1990
+  }
+}

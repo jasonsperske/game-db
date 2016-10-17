@@ -1,1 +1,10 @@
-{}
+{
+  "name": "Gauntlet",
+  "publisher": "Tengen",
+  "released": {
+    "day": 3,
+    "month": 1,
+    "sortable": "000000001987-01-03-0000",
+    "year": 1987
+  }
+}

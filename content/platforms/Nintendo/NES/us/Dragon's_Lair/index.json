@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Dragon's Lair",
+  "publisher": "Sony_Imagesoft",
+  "released": {
+    "month": 12,
+    "sortable": "000000001990-12-01-0000",
+    "year": 1990
+  }
+}

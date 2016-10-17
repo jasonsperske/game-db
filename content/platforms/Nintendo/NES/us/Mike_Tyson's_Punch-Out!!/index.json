@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Mike Tyson's Punch-Out!!",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 10,
+    "sortable": "000000001987-10-01-0000",
+    "year": 1987
+  }
+}

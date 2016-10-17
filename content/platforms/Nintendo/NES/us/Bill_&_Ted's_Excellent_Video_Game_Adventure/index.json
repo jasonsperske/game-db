@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Bill & Ted's Excellent Video Game Adventure",
+  "publisher": "LJN",
+  "released": {
+    "month": 4,
+    "sortable": "000000001991-04-01-0000",
+    "year": 1991
+  }
+}

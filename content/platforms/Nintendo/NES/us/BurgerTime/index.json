@@ -1,1 +1,9 @@
-{}
+{
+  "name": "BurgerTime",
+  "publisher": "Data_East",
+  "released": {
+    "month": 5,
+    "sortable": "000000001987-05-01-0000",
+    "year": 1987
+  }
+}

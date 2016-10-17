@@ -1,1 +1,9 @@
-{}
+{
+  "name": "The Guardian Legend",
+  "publisher": "Brøderbund",
+  "released": {
+    "month": 4,
+    "sortable": "000000001989-04-01-0000",
+    "year": 1989
+  }
+}

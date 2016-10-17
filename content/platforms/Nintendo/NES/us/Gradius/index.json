@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Gradius",
+  "publisher": "Konami",
+  "released": {
+    "month": 12,
+    "sortable": "000000001986-12-01-0000",
+    "year": 1986
+  }
+}

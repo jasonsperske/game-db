@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Panic Restaurant",
+  "publisher": "Taito",
+  "released": {
+    "month": 8,
+    "sortable": "000000001992-08-01-0000",
+    "year": 1992
+  }
+}

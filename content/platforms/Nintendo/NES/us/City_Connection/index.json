@@ -1,1 +1,9 @@
-{}
+{
+  "name": "City Connection",
+  "publisher": "Jaleco",
+  "released": {
+    "month": 5,
+    "sortable": "000000001988-05-01-0000",
+    "year": 1988
+  }
+}

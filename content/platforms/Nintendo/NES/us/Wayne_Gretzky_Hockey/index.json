@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Wayne Gretzky Hockey",
+  "publisher": "THQ",
+  "released": {
+    "month": 1,
+    "sortable": "000000001991-01-01-0000",
+    "year": 1991
+  }
+}

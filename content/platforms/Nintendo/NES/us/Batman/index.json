@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Batman",
+  "publisher": "Sunsoft",
+  "released": {
+    "month": 2,
+    "sortable": "000000001990-02-01-0000",
+    "year": 1990
+  }
+}

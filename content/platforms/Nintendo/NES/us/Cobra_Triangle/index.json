@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Cobra Triangle",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 7,
+    "sortable": "000000001989-07-01-0000",
+    "year": 1989
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "name": "Athletic World",
+  "publisher": "Bandai",
+  "released": {
+    "day": 18,
+    "month": 6,
+    "sortable": "000000001987-06-18-0000",
+    "year": 1987
+  }
+}

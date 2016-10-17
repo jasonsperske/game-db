@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Felix the Cat",
+  "publisher": "Hudson_Soft",
+  "released": {
+    "month": 10,
+    "sortable": "000000001992-10-01-0000",
+    "year": 1992
+  }
+}

@@ -1,1 +1,8 @@
-{}
+{
+  "name": "Nintendo World Championships",
+  "publisher": "Nintendo",
+  "released": {
+    "sortable": "000000001990-01-01-0000",
+    "year": 1990
+  }
+}

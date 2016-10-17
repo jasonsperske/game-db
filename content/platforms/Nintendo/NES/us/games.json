@@ -18,7 +18,7 @@
       "year": 1986
     }
   },
-  "1943:_The_Battle_of_Midway": {
+  "1943_The_Battle_of_Midway": {
     "name": "1943: The Battle of Midway",
     "publisher": "Capcom",
     "released": {
@@ -54,7 +54,7 @@
       "year": 1990
     }
   },
-  "A_Boy_and_His_Blob:_Trouble_on_Blobolonia": {
+  "A_Boy_and_His_Blob_Trouble_on_Blobolonia": {
     "name": "A Boy and His Blob: Trouble on Blobolonia",
     "publisher": "Absolute_Entertainment",
     "released": {
@@ -81,7 +81,7 @@
       "year": 1990
     }
   },
-  "Advanced_Dungeons_&_Dragons:_Heroes_of_the_Lance": {
+  "Advanced_Dungeons_&_Dragons_Heroes_of_the_Lance": {
     "name": "Advanced Dungeons & Dragons: Heroes of the Lance",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -261,7 +261,7 @@
       "year": 1990
     }
   },
-  "Archon:_The_Light_and_the_Dark": {
+  "Archon_The_Light_and_the_Dark": {
     "name": "Archon",
     "publisher": "Activision",
     "released": {
@@ -360,7 +360,7 @@
       "year": 1986
     }
   },
-  "Bandai_Golf:_Challenge_Pebble_Beach": {
+  "Bandai_Golf_Challenge_Pebble_Beach": {
     "name": "Bandai Golf: Challenge Pebble Beach",
     "publisher": "Bandai",
     "released": {
@@ -469,7 +469,7 @@
       "year": 1993
     }
   },
-  "Bases_Loaded_II:_Second_Season": {
+  "Bases_Loaded_II_Second_Season": {
     "name": "Bases Loaded II: Second Season",
     "publisher": "Jaleco",
     "released": {
@@ -487,7 +487,7 @@
       "year": 1990
     }
   },
-  "Batman:_Return_of_the_Joker": {
+  "Batman_Return_of_the_Joker": {
     "name": "Batman: Return of the Joker",
     "publisher": "Sunsoft",
     "released": {
@@ -559,7 +559,7 @@
       "year": 1991
     }
   },
-  "Best_of_the_Best:_Championship_Karate": {
+  "Best_of_the_Best_Championship_Karate": {
     "name": "Best of the Best: Championship Karate",
     "publisher": "Electro_Brain",
     "released": {
@@ -685,7 +685,7 @@
       "year": 1987
     }
   },
-  "Break_Time:_The_National_Pool_Tour": {
+  "Break_Time_The_National_Pool_Tour": {
     "name": "Break Time: The National Pool Tour",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -856,22 +856,22 @@
       "year": 1987
     }
   },
-  "Castlevania_II:_Simon's_Quest": {
-    "name": "Castlevania II: Simon's Quest",
-    "publisher": "Konami",
-    "released": {
-      "month": 12,
-      "sortable": "000000001988-12-01-0000",
-      "year": 1988
-    }
-  },
-  "Castlevania_III:_Dracula's_Curse": {
+  "Castlevania_III_Dracula's_Curse": {
     "name": "Castlevania III: Dracula's Curse",
     "publisher": "Konami",
     "released": {
       "month": 9,
       "sortable": "000000001990-09-01-0000",
       "year": 1990
+    }
+  },
+  "Castlevania_II_Simon's_Quest": {
+    "name": "Castlevania II: Simon's Quest",
+    "publisher": "Konami",
+    "released": {
+      "month": 12,
+      "sortable": "000000001988-12-01-0000",
+      "year": 1988
     }
   },
   "Caveman_Ughlympics": {
@@ -1011,7 +1011,7 @@
       "year": 1989
     }
   },
-  "Code_Name:_Viper": {
+  "Code_Name_Viper": {
     "name": "Code Name: Viper",
     "publisher": "Capcom",
     "released": {
@@ -1038,7 +1038,7 @@
       "year": 1986
     }
   },
-  "Conan:_The_Mysteries_of_Time": {
+  "Conan_The_Mysteries_of_Time": {
     "name": "Conan: The Mysteries of Time",
     "publisher": "Mindscape",
     "released": {
@@ -1101,7 +1101,7 @@
       "year": 1992
     }
   },
-  "Crash_'n_the_Boys:_Street_Challenge": {
+  "Crash_'n_the_Boys_Street_Challenge": {
     "name": "Crash 'n the Boys: Street Challenge",
     "publisher": "Technōs_Japan",
     "released": {
@@ -1127,22 +1127,13 @@
       "year": 1992
     }
   },
-  "Cybernoid:_The_Fighting_Machine": {
+  "Cybernoid_The_Fighting_Machine": {
     "name": "Cybernoid: The Fighting Machine",
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
       "sortable": "000000001989-12-01-0000",
       "year": 1989
-    }
-  },
-  "Déjà_Vu": {
-    "name": "Déjà Vu",
-    "publisher": "Seika",
-    "released": {
-      "month": 12,
-      "sortable": "000000001990-12-01-0000",
-      "year": 1990
     }
   },
   "Dance_Aerobics": {
@@ -1307,7 +1298,7 @@
       "year": 1989
     }
   },
-  "Digger_T._Rock:_Legend_of_the_Lost_City": {
+  "Digger_T._Rock_Legend_of_the_Lost_City": {
     "name": "Digger T. Rock: Legend of the Lost City",
     "publisher": "Milton_Bradley_Company",
     "released": {
@@ -1343,7 +1334,7 @@
       "year": 1986
     }
   },
-  "Donkey_Kong_Jr.": {
+  "Donkey_Kong_Jr": {
     "name": "Donkey Kong Jr.",
     "publisher": "Nintendo",
     "released": {
@@ -1379,22 +1370,22 @@
       "year": 1988
     }
   },
-  "Double_Dragon_II:_The_Revenge": {
-    "name": "Double Dragon II: The Revenge",
-    "publisher": "Acclaim_Entertainment",
-    "released": {
-      "month": 1,
-      "sortable": "000000001990-01-01-0000",
-      "year": 1990
-    }
-  },
-  "Double_Dragon_III:_The_Sacred_Stones": {
+  "Double_Dragon_III_The_Sacred_Stones": {
     "name": "Double Dragon III: The Sacred Stones",
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 2,
       "sortable": "000000001991-02-01-0000",
       "year": 1991
+    }
+  },
+  "Double_Dragon_II_The_Revenge": {
+    "name": "Double Dragon II: The Revenge",
+    "publisher": "Acclaim_Entertainment",
+    "released": {
+      "month": 1,
+      "sortable": "000000001990-01-01-0000",
+      "year": 1990
     }
   },
   "Double_Dribble": {
@@ -1478,7 +1469,7 @@
       "year": 1989
     }
   },
-  "Dragon_Quest_IV:_Chapters_of_the_Chosen": {
+  "Dragon_Quest_IV_Chapters_of_the_Chosen": {
     "name": "Dragon Warrior IV",
     "publisher": "Enix",
     "released": {
@@ -1542,7 +1533,7 @@
       "year": 1985
     }
   },
-  "Dungeon_Magic:_Sword_of_the_Elements": {
+  "Dungeon_Magic_Sword_of_the_Elements": {
     "name": "Dungeon Magic: Sword of the Elements",
     "publisher": "Taito",
     "released": {
@@ -1560,13 +1551,22 @@
       "year": 1990
     }
   },
-  "Dynowarz:_Destruction_of_Spondylus": {
+  "Dynowarz_Destruction_of_Spondylus": {
     "name": "Dynowarz: Destruction of Spondylus",
     "publisher": "Bandai",
     "released": {
       "month": 4,
       "sortable": "000000001989-04-01-0000",
       "year": 1989
+    }
+  },
+  "Déjà_Vu": {
+    "name": "Déjà Vu",
+    "publisher": "Seika",
+    "released": {
+      "month": 12,
+      "sortable": "000000001990-12-01-0000",
+      "year": 1990
     }
   },
   "Elevator_Action": {
@@ -1633,7 +1633,7 @@
       "year": 1991
     }
   },
-  "Faria:_A_World_of_Mystery_and_Danger": {
+  "Faria_A_World_of_Mystery_and_Danger": {
     "name": "Faria: A World of Mystery and Danger",
     "publisher": "ASCII",
     "released": {
@@ -1687,7 +1687,7 @@
       "year": 1993
     }
   },
-  "Fisher-Price:_Firehouse_Rescue": {
+  "Fisher-Price_Firehouse_Rescue": {
     "name": "Fisher-Price: Firehouse Rescue",
     "publisher": "GameTek",
     "released": {
@@ -1696,7 +1696,7 @@
       "year": 1992
     }
   },
-  "Fisher-Price:_I_Can_Remember": {
+  "Fisher-Price_I_Can_Remember": {
     "name": "Fisher-Price: I Can Remember",
     "publisher": "GameTek",
     "released": {
@@ -1705,7 +1705,7 @@
       "year": 1990
     }
   },
-  "Fisher-Price:_Perfect_Fit": {
+  "Fisher-Price_Perfect_Fit": {
     "name": "Fisher-Price: Perfect Fit",
     "publisher": "GameTek",
     "released": {
@@ -1732,7 +1732,7 @@
       "year": 1991
     }
   },
-  "Flying_Dragon:_The_Secret_Scroll": {
+  "Flying_Dragon_The_Secret_Scroll": {
     "name": "Flying Dragon: The Secret Scroll",
     "publisher": "Culture_Brain",
     "released": {
@@ -1750,7 +1750,7 @@
       "year": 1991
     }
   },
-  "Formula_One:_Built_to_Win": {
+  "Formula_One_Built_to_Win": {
     "name": "Formula One: Built to Win",
     "publisher": "SETA_Corporation",
     "released": {
@@ -1759,7 +1759,7 @@
       "year": 1990
     }
   },
-  "Frankenstein:_The_Monster_Returns": {
+  "Frankenstein_The_Monster_Returns": {
     "name": "Frankenstein: The Monster Returns",
     "publisher": "Bandai",
     "released": {
@@ -1804,7 +1804,7 @@
       "year": 1991
     }
   },
-  "G.I._Joe:_The_Atlantis_Factor": {
+  "G.I._Joe_The_Atlantis_Factor": {
     "name": "G.I. Joe: The Atlantis Factor",
     "publisher": "Capcom",
     "released": {
@@ -1940,22 +1940,22 @@
       "year": 1992
     }
   },
-  "Godzilla:_Monster_of_Monsters": {
-    "name": "Godzilla: Monster of Monsters",
-    "publisher": "Toho",
-    "released": {
-      "month": 10,
-      "sortable": "000000001989-10-01-0000",
-      "year": 1989
-    }
-  },
-  "Godzilla_2:_War_of_the_Monsters": {
+  "Godzilla_2_War_of_the_Monsters": {
     "name": "Godzilla 2: War of the Monsters",
     "publisher": "Toho",
     "released": {
       "month": 2,
       "sortable": "000000001992-02-01-0000",
       "year": 1992
+    }
+  },
+  "Godzilla_Monster_of_Monsters": {
+    "name": "Godzilla: Monster of Monsters",
+    "publisher": "Toho",
+    "released": {
+      "month": 10,
+      "sortable": "000000001989-10-01-0000",
+      "year": 1989
     }
   },
   "Golf": {
@@ -1977,7 +1977,7 @@
       "year": 1991
     }
   },
-  "Golgo_13:_Top_Secret_Episode": {
+  "Golgo_13_Top_Secret_Episode": {
     "name": "Golgo 13: Top Secret Episode",
     "publisher": "Vic_Tokai",
     "released": {
@@ -2013,7 +2013,7 @@
       "year": 1992
     }
   },
-  "Gremlins_2:_The_New_Batch": {
+  "Gremlins_2_The_New_Batch": {
     "name": "Gremlins 2: The New Batch",
     "publisher": "Sunsoft",
     "released": {
@@ -2159,7 +2159,7 @@
       "year": 1991
     }
   },
-  "Home_Alone_2:_Lost_in_New_York": {
+  "Home_Alone_2_Lost_in_New_York": {
     "name": "Home Alone 2: Lost in New York",
     "publisher": "THQ",
     "released": {
@@ -2223,7 +2223,7 @@
       "year": 1988
     }
   },
-  "Ikari_III:_The_Rescue": {
+  "Ikari_III_The_Rescue": {
     "name": "Ikari Warriors III: The Rescue",
     "publisher": "SNK",
     "released": {
@@ -2241,7 +2241,7 @@
       "year": 1987
     }
   },
-  "Ikari_Warriors_II:_Victory_Road": {
+  "Ikari_Warriors_II_Victory_Road": {
     "name": "Ikari Warriors II: Victory Road",
     "publisher": "SNK",
     "released": {
@@ -2268,7 +2268,7 @@
       "year": 1991
     }
   },
-  "Indiana_Jones_and_the_Last_Crusade:_The_Action_Game": {
+  "Indiana_Jones_and_the_Last_Crusade_The_Action_Game": {
     "name": "Indiana Jones and the Last Crusade",
     "publisher": "Ubisoft",
     "released": {
@@ -2304,7 +2304,7 @@
       "year": 1988
     }
   },
-  "Ironsword:_Wizards_&_Warriors_II": {
+  "Ironsword_Wizards_&_Warriors_II": {
     "name": "Ironsword: Wizards & Warriors II",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -2358,7 +2358,7 @@
       "year": 1990
     }
   },
-  "James_Bond_Jr.": {
+  "James_Bond_Jr": {
     "name": "James Bond Jr.",
     "publisher": "THQ",
     "released": {
@@ -2412,7 +2412,7 @@
       "year": 1989
     }
   },
-  "Jordan_vs._Bird:_One_on_One": {
+  "Jordan_vs._Bird_One_on_One": {
     "name": "Jordan vs. Bird: One on One",
     "publisher": "Milton_Bradley_Company",
     "released": {
@@ -2520,7 +2520,7 @@
       "year": 1990
     }
   },
-  "Kid_Niki:_Radical_Ninja": {
+  "Kid_Niki_Radical_Ninja": {
     "name": "Kid Niki: Radical Ninja",
     "publisher": "Data_East",
     "released": {
@@ -2538,7 +2538,7 @@
       "year": 1989
     }
   },
-  "King's_Quest_V:_Absence_Makes_the_Heart_Go_Yonder!": {
+  "King's_Quest_V_Absence_Makes_the_Heart_Go_Yonder!": {
     "name": "King's Quest V: Absence Makes the Heart Go Yonder!",
     "publisher": "Konami",
     "released": {
@@ -2701,7 +2701,7 @@
       "year": 1993
     }
   },
-  "Little_League_Baseball:_Championship_Series": {
+  "Little_League_Baseball_Championship_Series": {
     "name": "Little League Baseball: Championship Series",
     "publisher": "SNK",
     "released": {
@@ -2710,7 +2710,7 @@
       "year": 1990
     }
   },
-  "Little_Nemo:_The_Dream_Master": {
+  "Little_Nemo_The_Dream_Master": {
     "name": "Little Nemo: The Dream Master",
     "publisher": "Capcom",
     "released": {
@@ -2755,7 +2755,7 @@
       "year": 1990
     }
   },
-  "Low_G_Man:_The_Low_Gravity_Man": {
+  "Low_G_Man_The_Low_Gravity_Man": {
     "name": "Low G Man: The Low Gravity Man",
     "publisher": "Taxan",
     "released": {
@@ -2782,7 +2782,7 @@
       "year": 1992
     }
   },
-  "M.U.L.E.": {
+  "M.U.L.E": {
     "name": "M.U.L.E.",
     "publisher": "Mindscape",
     "released": {
@@ -2791,7 +2791,7 @@
       "year": 1990
     }
   },
-  "M.U.S.C.L.E.": {
+  "M.U.S.C.L.E": {
     "name": "M.U.S.C.L.E.",
     "publisher": "Bandai",
     "released": {
@@ -2909,7 +2909,7 @@
       "year": 1990
     }
   },
-  "Mario_Bros.": {
+  "Mario_Bros": {
     "name": "Mario Bros.",
     "publisher": "Nintendo",
     "released": {
@@ -3071,7 +3071,7 @@
       "year": 1988
     }
   },
-  "Might_and_Magic_Book_One:_The_Secret_of_the_Inner_Sanctum": {
+  "Might_and_Magic_Book_One_The_Secret_of_the_Inner_Sanctum": {
     "name": "Might and Magic Book One: The Secret of the Inner Sanctum",
     "publisher": "Sammy_Corporation",
     "released": {
@@ -3133,7 +3133,7 @@
       "year": 1990
     }
   },
-  "Mission:_Impossible": {
+  "Mission_Impossible": {
     "name": "Mission: Impossible",
     "publisher": "Ultra_Games",
     "released": {
@@ -3142,7 +3142,7 @@
       "year": 1990
     }
   },
-  "Moero_TwinBee:_Cinnamon-hakase_wo_Sukue!": {
+  "Moero_TwinBee_Cinnamon-hakase_wo_Sukue!": {
     "name": "Stinger",
     "publisher": "Konami",
     "released": {
@@ -3205,7 +3205,7 @@
       "year": 1993
     }
   },
-  "Muppet_Adventure:_Chaos_at_the_Carnival": {
+  "Muppet_Adventure_Chaos_at_the_Carnival": {
     "name": "Muppet Adventure: Chaos at the Carnival",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -3304,22 +3304,22 @@
       "year": 1989
     }
   },
-  "Ninja_Gaiden_II:_The_Dark_Sword_of_Chaos": {
-    "name": "Ninja Gaiden II: The Dark Sword of Chaos",
-    "publisher": "Tecmo",
-    "released": {
-      "month": 5,
-      "sortable": "000000001990-05-01-0000",
-      "year": 1990
-    }
-  },
-  "Ninja_Gaiden_III:_The_Ancient_Ship_of_Doom": {
+  "Ninja_Gaiden_III_The_Ancient_Ship_of_Doom": {
     "name": "Ninja Gaiden III: The Ancient Ship of Doom",
     "publisher": "Tecmo",
     "released": {
       "month": 8,
       "sortable": "000000001991-08-01-0000",
       "year": 1991
+    }
+  },
+  "Ninja_Gaiden_II_The_Dark_Sword_of_Chaos": {
+    "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "publisher": "Tecmo",
+    "released": {
+      "month": 5,
+      "sortable": "000000001990-05-01-0000",
+      "year": 1990
     }
   },
   "Ninja_Kid": {
@@ -3420,7 +3420,7 @@
       "year": 1993
     }
   },
-  "P.O.W.:_Prisoners_of_War": {
+  "P.O.W._Prisoners_of_War": {
     "name": "P.O.W.: Prisoners of War",
     "publisher": "SNK",
     "released": {
@@ -3500,7 +3500,7 @@
       "year": 1990
     }
   },
-  "Pin*Bot": {
+  "PinBot": {
     "name": "Pin*Bot",
     "publisher": "Nintendo",
     "released": {
@@ -3601,7 +3601,7 @@
       "year": 1992
     }
   },
-  "Predator:_Soon_the_Hunt_Will_Begin": {
+  "Predator_Soon_the_Hunt_Will_Begin": {
     "name": "Predator: Soon the Hunt Will Begin",
     "publisher": "Activision",
     "released": {
@@ -3655,7 +3655,7 @@
       "year": 1990
     }
   },
-  "Puss_'n_Boots:_Pero's_Great_Adventure": {
+  "Puss_'n_Boots_Pero's_Great_Adventure": {
     "name": "Puss 'n Boots: Pero's Great Adventure",
     "publisher": "Electro_Brain",
     "released": {
@@ -3673,7 +3673,7 @@
       "year": 1990
     }
   },
-  "Q*bert": {
+  "Qbert": {
     "name": "Q*bert",
     "publisher": "Ultra_Games",
     "released": {
@@ -3763,7 +3763,7 @@
       "year": 1987
     }
   },
-  "Rainbow_Islands:_The_Story_of_Bubble_Bobble_2": {
+  "Rainbow_Islands_The_Story_of_Bubble_Bobble_2": {
     "name": "Rainbow Islands: The Story of Bubble Bobble 2",
     "publisher": "Taito",
     "released": {
@@ -3825,7 +3825,7 @@
       "year": 1988
     }
   },
-  "Rescue:_The_Embassy_Mission": {
+  "Rescue_The_Embassy_Mission": {
     "name": "Rescue: The Embassy Mission",
     "publisher": "Seika",
     "released": {
@@ -3861,7 +3861,7 @@
       "year": 1990
     }
   },
-  "Robin_Hood:_Prince_of_Thieves": {
+  "Robin_Hood_Prince_of_Thieves": {
     "name": "Robin Hood: Prince of Thieves",
     "publisher": "Virgin_Interactive",
     "released": {
@@ -3987,7 +3987,7 @@
       "year": 1991
     }
   },
-  "Roundball:_2_on_2_Challenge": {
+  "Roundball_2_on_2_Challenge": {
     "name": "Roundball: 2 on 2 Challenge",
     "publisher": "Mindscape",
     "released": {
@@ -4014,7 +4014,7 @@
       "year": 1987
     }
   },
-  "S.C.A.T.:_Special_Cybernetic_Attack_Team": {
+  "S.C.A.T._Special_Cybernetic_Attack_Team": {
     "name": "S.C.A.T.: Special Cybernetic Attack Team",
     "publisher": "Natsume",
     "released": {
@@ -4050,7 +4050,7 @@
       "year": 1988
     }
   },
-  "Sesame_Street:_1-2-3": {
+  "Sesame_Street_1-2-3": {
     "name": "Sesame Street: 1-2-3",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -4059,7 +4059,7 @@
       "year": 1989
     }
   },
-  "Sesame_Street:_A-B-C": {
+  "Sesame_Street_A-B-C": {
     "name": "Sesame Street: A-B-C",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -4068,7 +4068,7 @@
       "year": 1989
     }
   },
-  "Sesame_Street:_A-B-C/1-2-3": {
+  "Sesame_Street_A-B-C1-2-3": {
     "name": "Sesame Street: A-B-C/1-2-3",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -4077,7 +4077,7 @@
       "year": 1991
     }
   },
-  "Sesame_Street:_Big_Bird's_Hide_&_Speak": {
+  "Sesame_Street_Big_Bird's_Hide_&_Speak": {
     "name": "Sesame Street: Big Bird's Hide & Speak",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -4086,7 +4086,7 @@
       "year": 1990
     }
   },
-  "Sesame_Street:_Countdown": {
+  "Sesame_Street_Countdown": {
     "name": "Sesame Street: Countdown",
     "publisher": "Hi_Tech_Expressions",
     "released": {
@@ -4139,7 +4139,7 @@
       "year": 1989
     }
   },
-  "Short_Order_/_Eggsplode!": {
+  "Short_Order__Eggsplode!": {
     "name": "Short Order / Eggsplode!",
     "publisher": "Nintendo",
     "released": {
@@ -4203,7 +4203,7 @@
       "year": 1988
     }
   },
-  "Skate_or_Die_2:_The_Search_for_Double_Trouble": {
+  "Skate_or_Die_2_The_Search_for_Double_Trouble": {
     "name": "Skate or Die 2: The Search for Double Trouble",
     "publisher": "Electronic_Arts",
     "released": {
@@ -4303,7 +4303,7 @@
       "year": 1985
     }
   },
-  "Solar_Jetman:_Hunt_for_the_Golden_Warpship": {
+  "Solar_Jetman_Hunt_for_the_Golden_Warpship": {
     "name": "Solar Jetman: Hunt for the Golden Warpship",
     "publisher": "Tradewest",
     "released": {
@@ -4321,7 +4321,7 @@
       "year": 1987
     }
   },
-  "Solstice:_The_Quest_for_the_Staff_of_Demnos": {
+  "Solstice_The_Quest_for_the_Staff_of_Demnos": {
     "name": "Solstice: The Quest for the Staff of Demnos",
     "publisher": "Sony_Imagesoft",
     "released": {
@@ -4348,7 +4348,7 @@
       "year": 1987
     }
   },
-  "Spider-Man:_Return_of_the_Sinister_Six": {
+  "Spider-Man_Return_of_the_Sinister_Six": {
     "name": "Spider-Man: Return of the Sinister Six",
     "publisher": "LJN",
     "released": {
@@ -4357,7 +4357,7 @@
       "year": 1992
     }
   },
-  "Spot:_The_Video_Game": {
+  "Spot_The_Video_Game": {
     "name": "Spot: The Video Game",
     "publisher": "Arcadia_Systems",
     "released": {
@@ -4412,7 +4412,7 @@
       "year": 1987
     }
   },
-  "Stanley:_The_Search_for_Dr._Livingston": {
+  "Stanley_The_Search_for_Dr._Livingston": {
     "name": "Stanley: The Search for Dr. Livingston",
     "publisher": "Electro_Brain",
     "released": {
@@ -4448,7 +4448,7 @@
       "year": 1989
     }
   },
-  "Star_Trek:_25th_Anniversary": {
+  "Star_Trek_25th_Anniversary": {
     "name": "Star Trek: 25th Anniversary",
     "publisher": "Ultra_Games",
     "released": {
@@ -4457,7 +4457,7 @@
       "year": 1992
     }
   },
-  "Star_Trek:_The_Next_Generation": {
+  "Star_Trek_The_Next_Generation": {
     "name": "Star Trek: The Next Generation",
     "publisher": "Absolute_Entertainment",
     "released": {
@@ -4484,7 +4484,7 @@
       "year": 1991
     }
   },
-  "Star_Wars:_The_Empire_Strikes_Back": {
+  "Star_Wars_The_Empire_Strikes_Back": {
     "name": "Star Wars: The Empire Strikes Back",
     "publisher": "JVC",
     "released": {
@@ -4520,7 +4520,7 @@
       "year": 1989
     }
   },
-  "Street_Fighter_2010:_The_Final_Fight": {
+  "Street_Fighter_2010_The_Final_Fight": {
     "name": "Street Fighter 2010: The Final Fight",
     "publisher": "Capcom",
     "released": {
@@ -4583,7 +4583,7 @@
       "year": 1991
     }
   },
-  "Super_Mario_Bros.": {
+  "Super_Mario_Bros": {
     "name": "Super Mario Bros.",
     "publisher": "Nintendo",
     "released": {
@@ -4593,7 +4593,7 @@
       "year": 1985
     }
   },
-  "Super_Mario_Bros./Duck_Hunt": {
+  "Super_Mario_Bros.Duck_Hunt": {
     "name": "Super Mario Bros./Duck Hunt",
     "publisher": "Nintendo",
     "released": {
@@ -4602,7 +4602,7 @@
       "year": 1988
     }
   },
-  "Super_Mario_Bros./Duck_Hunt/World_Class_Track_Meet": {
+  "Super_Mario_Bros.Duck_HuntWorld_Class_Track_Meet": {
     "name": "Super Mario Bros./Duck Hunt/World Class Track Meet",
     "publisher": "Nintendo",
     "released": {
@@ -4703,7 +4703,7 @@
       "year": 1990
     }
   },
-  "Taboo:_The_Sixth_Sense": {
+  "Taboo_The_Sixth_Sense": {
     "name": "Taboo: The Sixth Sense",
     "publisher": "Tradewest",
     "released": {
@@ -4730,7 +4730,7 @@
       "year": 1991
     }
   },
-  "Target:_Renegade": {
+  "Target_Renegade": {
     "name": "Target: Renegade",
     "publisher": "Taito",
     "released": {
@@ -4802,7 +4802,16 @@
       "year": 1989
     }
   },
-  "Teenage_Mutant_Ninja_Turtles:_The_Arcade_Game": {
+  "Teenage_Mutant_Ninja_Turtles_III_The_Manhattan_Project": {
+    "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+    "publisher": "Konami",
+    "released": {
+      "month": 2,
+      "sortable": "000000001992-02-01-0000",
+      "year": 1992
+    }
+  },
+  "Teenage_Mutant_Ninja_Turtles_The_Arcade_Game": {
     "name": "Teenage Mutant Ninja Turtles II: The Arcade Game",
     "publisher": "Ultra_Games",
     "released": {
@@ -4811,22 +4820,13 @@
       "year": 1990
     }
   },
-  "Teenage_Mutant_Ninja_Turtles:_Tournament_Fighters": {
+  "Teenage_Mutant_Ninja_Turtles_Tournament_Fighters": {
     "name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
     "publisher": "Konami",
     "released": {
       "month": 2,
       "sortable": "000000001994-02-01-0000",
       "year": 1994
-    }
-  },
-  "Teenage_Mutant_Ninja_Turtles_III:_The_Manhattan_Project": {
-    "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
-    "publisher": "Konami",
-    "released": {
-      "month": 2,
-      "sortable": "000000001992-02-01-0000",
-      "year": 1992
     }
   },
   "Tennis": {
@@ -4839,7 +4839,7 @@
       "year": 1985
     }
   },
-  "Terminator_2:_Judgment_Day": {
+  "Terminator_2_Judgment_Day": {
     "name": "Terminator 2: Judgment Day",
     "publisher": "LJN",
     "released": {
@@ -4884,7 +4884,7 @@
       "year": 1992
     }
   },
-  "The_Addams_Family:_Pugsley's_Scavenger_Hunt": {
+  "The_Addams_Family_Pugsley's_Scavenger_Hunt": {
     "name": "The Addams Family: Pugsley's Scavenger Hunt",
     "publisher": "Ocean_Software",
     "released": {
@@ -5008,7 +5008,7 @@
       "year": 1989
     }
   },
-  "The_Flintstones:_Surprise_at_Dinosaur_Peak": {
+  "The_Flintstones_Surprise_at_Dinosaur_Peak": {
     "name": "The Flintstones: Surprise at Dinosaur Peak",
     "publisher": "Taito",
     "released": {
@@ -5017,7 +5017,7 @@
       "year": 1994
     }
   },
-  "The_Flintstones:_The_Rescue_of_Dino_&_Hoppy": {
+  "The_Flintstones_The_Rescue_of_Dino_&_Hoppy": {
     "name": "The Flintstones: The Rescue of Dino & Hoppy",
     "publisher": "Taito",
     "released": {
@@ -5080,7 +5080,7 @@
       "year": 1994
     }
   },
-  "The_Jetsons:_Cogswell's_Caper!": {
+  "The_Jetsons_Cogswell's_Caper!": {
     "name": "The Jetsons: Cogswell's Caper!",
     "publisher": "Taito",
     "released": {
@@ -5180,7 +5180,7 @@
       "year": 1989
     }
   },
-  "The_Mutant_Virus:_Crisis_in_a_Computer_World": {
+  "The_Mutant_Virus_Crisis_in_a_Computer_World": {
     "name": "The Mutant Virus: Crisis in a Computer World",
     "publisher": "ASC_Games",
     "released": {
@@ -5207,7 +5207,7 @@
       "year": 1990
     }
   },
-  "The_Ren_&_Stimpy_Show:_Buckaroo$!": {
+  "The_Ren_&_Stimpy_Show_Buckaroo$!": {
     "name": "The Ren & Stimpy Show: Buckaroo$!",
     "publisher": "THQ",
     "released": {
@@ -5225,7 +5225,7 @@
       "year": 1991
     }
   },
-  "The_Simpsons:_Bart_vs._the_Space_Mutants": {
+  "The_Simpsons_Bart_vs._the_Space_Mutants": {
     "name": "The Simpsons: Bart vs. the Space Mutants",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5234,7 +5234,7 @@
       "year": 1991
     }
   },
-  "The_Simpsons:_Bart_vs._the_World": {
+  "The_Simpsons_Bart_vs._the_World": {
     "name": "The Simpsons: Bart vs. the World",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5243,7 +5243,7 @@
       "year": 1991
     }
   },
-  "The_Simpsons:_Bartman_Meets_Radioactive_Man": {
+  "The_Simpsons_Bartman_Meets_Radioactive_Man": {
     "name": "The Simpsons: Bartman Meets Radioactive Man",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5360,7 +5360,7 @@
       "year": 1991
     }
   },
-  "Tiny_Toon_Adventures_2:_Trouble_in_Wackyland": {
+  "Tiny_Toon_Adventures_2_Trouble_in_Wackyland": {
     "name": "Tiny Toon Adventures 2: Trouble in Wackyland",
     "publisher": "Konami",
     "released": {
@@ -5423,7 +5423,7 @@
       "year": 1987
     }
   },
-  "Top_Gun:_The_Second_Mission": {
+  "Top_Gun_The_Second_Mission": {
     "name": "Top Gun: The Second Mission",
     "publisher": "Konami",
     "released": {
@@ -5468,7 +5468,7 @@
       "year": 1991
     }
   },
-  "Town_&_Country_II:_Thrilla's_Surfari": {
+  "Town_&_Country_II_Thrilla's_Surfari": {
     "name": "Town & Country II: Thrilla's Surfari",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5477,7 +5477,7 @@
       "year": 1992
     }
   },
-  "Town_&_Country_Surf_Designs:_Wood_&_Water_Rage": {
+  "Town_&_Country_Surf_Designs_Wood_&_Water_Rage": {
     "name": "Town & Country Surf Designs: Wood & Water Rage",
     "publisher": "LJN",
     "released": {
@@ -5558,7 +5558,7 @@
       "year": 1989
     }
   },
-  "Ultima_III:_Exodus": {
+  "Ultima_III_Exodus": {
     "name": "Ultima III: Exodus",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -5567,7 +5567,7 @@
       "year": 1989
     }
   },
-  "Ultima_IV:_Quest_of_the_Avatar": {
+  "Ultima_IV_Quest_of_the_Avatar": {
     "name": "Ultima IV: Quest of the Avatar",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -5576,7 +5576,7 @@
       "year": 1990
     }
   },
-  "Ultima_V:_Warriors_of_Destiny": {
+  "Ultima_V_Warriors_of_Destiny": {
     "name": "Ultima V: Warriors of Destiny",
     "publisher": "Fujisankei_Communications_International",
     "released": {
@@ -5648,7 +5648,7 @@
       "year": 1990
     }
   },
-  "Vice:_Project_Doom": {
+  "Vice_Project_Doom": {
     "name": "Vice: Project Doom",
     "publisher": "Sammy_Corporation",
     "released": {
@@ -5702,15 +5702,6 @@
       "year": 1989
     }
   },
-  "WWF_WrestleMania:_Steel_Cage_Challenge": {
-    "name": "WWF WrestleMania: Steel Cage Challenge",
-    "publisher": "Acclaim_Entertainment",
-    "released": {
-      "month": 9,
-      "sortable": "000000001992-09-01-0000",
-      "year": 1992
-    }
-  },
   "WWF_WrestleMania_Challenge": {
     "name": "WWF WrestleMania Challenge",
     "publisher": "LJN",
@@ -5718,6 +5709,15 @@
       "month": 11,
       "sortable": "000000001990-11-01-0000",
       "year": 1990
+    }
+  },
+  "WWF_WrestleMania_Steel_Cage_Challenge": {
+    "name": "WWF WrestleMania: Steel Cage Challenge",
+    "publisher": "Acclaim_Entertainment",
+    "released": {
+      "month": 9,
+      "sortable": "000000001992-09-01-0000",
+      "year": 1992
     }
   },
   "Wacky_Races": {
@@ -5766,7 +5766,7 @@
       "year": 1991
     }
   },
-  "Werewolf:_The_Last_Warrior": {
+  "Werewolf_The_Last_Warrior": {
     "name": "Werewolf: The Last Warrior",
     "publisher": "Data_East",
     "released": {
@@ -5866,22 +5866,22 @@
       "year": 1987
     }
   },
-  "Wizardry:_Proving_Grounds_of_the_Mad_Overlord": {
-    "name": "Wizardry: Proving Grounds of the Mad Overlord",
-    "publisher": "ASCII",
-    "released": {
-      "month": 7,
-      "sortable": "000000001990-07-01-0000",
-      "year": 1990
-    }
-  },
-  "Wizardry_II:_The_Knight_of_Diamonds": {
+  "Wizardry_II_The_Knight_of_Diamonds": {
     "name": "Wizardry II: The Knight of Diamonds",
     "publisher": "ASCII",
     "released": {
       "month": 4,
       "sortable": "000000001992-04-01-0000",
       "year": 1992
+    }
+  },
+  "Wizardry_Proving_Grounds_of_the_Mad_Overlord": {
+    "name": "Wizardry: Proving Grounds of the Mad Overlord",
+    "publisher": "ASCII",
+    "released": {
+      "month": 7,
+      "sortable": "000000001990-07-01-0000",
+      "year": 1990
     }
   },
   "Wizards_&_Warriors": {
@@ -5893,7 +5893,7 @@
       "year": 1987
     }
   },
-  "Wizards_&_Warriors_III:_Kuros:_Visions_of_Power": {
+  "Wizards_&_Warriors_III_Kuros_Visions_of_Power": {
     "name": "Wizards & Warriors III: Kuros: Visions of Power",
     "publisher": "Acclaim_Entertainment",
     "released": {
@@ -5957,7 +5957,7 @@
       "year": 1985
     }
   },
-  "Wurm:_Journey_to_the_Center_of_the_Earth": {
+  "Wurm_Journey_to_the_Center_of_the_Earth": {
     "name": "Wurm: Journey to the Center of the Earth",
     "publisher": "Asmik_Ace_Entertainment",
     "released": {
@@ -6030,7 +6030,7 @@
       "year": 1987
     }
   },
-  "Zelda_II:_The_Adventure_of_Link": {
+  "Zelda_II_The_Adventure_of_Link": {
     "name": "Zelda II: The Adventure of Link",
     "publisher": "Nintendo",
     "released": {
@@ -6049,7 +6049,7 @@
       "year": 1993
     }
   },
-  "Zoda's_Revenge:_StarTropics_II": {
+  "Zoda's_Revenge_StarTropics_II": {
     "name": "Zoda's Revenge: StarTropics II",
     "publisher": "Nintendo",
     "released": {

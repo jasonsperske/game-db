@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Star Soldier",
+  "publisher": "Taxan",
+  "released": {
+    "month": 1,
+    "sortable": "000000001989-01-01-0000",
+    "year": 1989
+  }
+}

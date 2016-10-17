@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Young Indiana Jones Chronicles",
+  "publisher": "Jaleco",
+  "released": {
+    "month": 1,
+    "sortable": "000000001993-01-01-0000",
+    "year": 1993
+  }
+}

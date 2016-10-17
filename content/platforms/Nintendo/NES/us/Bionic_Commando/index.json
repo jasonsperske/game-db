@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Bionic Commando",
+  "publisher": "Capcom",
+  "released": {
+    "month": 12,
+    "sortable": "000000001988-12-01-0000",
+    "year": 1988
+  }
+}

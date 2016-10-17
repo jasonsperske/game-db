@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Section Z",
+  "publisher": "Capcom",
+  "released": {
+    "month": 7,
+    "sortable": "000000001987-07-01-0000",
+    "year": 1987
+  }
+}

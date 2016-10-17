@@ -1,1 +1,9 @@
-{}
+{
+  "name": "John Elway's Quarterback",
+  "publisher": "Tradewest",
+  "released": {
+    "month": 3,
+    "sortable": "000000001989-03-01-0000",
+    "year": 1989
+  }
+}

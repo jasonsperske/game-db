@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Jurassic Park",
+  "publisher": "Ocean_Software",
+  "released": {
+    "month": 6,
+    "sortable": "000000001993-06-01-0000",
+    "year": 1993
+  }
+}

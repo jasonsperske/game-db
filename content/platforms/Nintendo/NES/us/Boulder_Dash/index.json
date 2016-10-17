@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Boulder Dash",
+  "publisher": "JVC",
+  "released": {
+    "month": 6,
+    "sortable": "000000001990-06-01-0000",
+    "year": 1990
+  }
+}

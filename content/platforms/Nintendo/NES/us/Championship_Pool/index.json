@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Championship Pool",
+  "publisher": "Mindscape",
+  "released": {
+    "month": 10,
+    "sortable": "000000001993-10-01-0000",
+    "year": 1993
+  }
+}

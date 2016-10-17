@@ -1,1 +1,9 @@
-{}
+{
+  "name": "Ring King",
+  "publisher": "Data_East",
+  "released": {
+    "month": 9,
+    "sortable": "000000001987-09-01-0000",
+    "year": 1987
+  }
+}
