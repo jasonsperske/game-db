@@ -5,7 +5,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -14,7 +14,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 11,
-      "sortable": "000000001986-11-01-0000",
+      "sortable": "1986-11-01",
       "year": 1986
     }
   },
@@ -23,7 +23,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -32,7 +32,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -41,7 +41,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 11,
-      "sortable": "000000001989-11-01-0000",
+      "sortable": "1989-11-01",
       "year": 1989
     }
   },
@@ -50,7 +50,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -59,7 +59,7 @@
     "publisher": "Absolute_Entertainment",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -68,7 +68,7 @@
     "publisher": "LJN",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -77,7 +77,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -86,7 +86,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -95,7 +95,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -104,7 +104,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 9,
-      "sortable": "000000001992-09-01-0000",
+      "sortable": "1992-09-01",
       "year": 1992
     }
   },
@@ -113,7 +113,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -122,7 +122,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -131,7 +131,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -140,7 +140,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -149,7 +149,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -158,7 +158,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -167,7 +167,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -176,7 +176,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -185,7 +185,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -194,7 +194,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 2,
-      "sortable": "000000001994-02-01-0000",
+      "sortable": "1994-02-01",
       "year": 1994
     }
   },
@@ -203,7 +203,7 @@
     "publisher": "LJN",
     "released": {
       "month": 3,
-      "sortable": "000000001993-03-01-0000",
+      "sortable": "1993-03-01",
       "year": 1993
     }
   },
@@ -212,7 +212,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -221,7 +221,7 @@
     "publisher": "SNK",
     "released": {
       "month": 10,
-      "sortable": "000000001987-10-01-0000",
+      "sortable": "1987-10-01",
       "year": 1987
     }
   },
@@ -230,7 +230,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -239,7 +239,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -248,7 +248,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -257,7 +257,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -266,7 +266,7 @@
     "publisher": "Activision",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -275,7 +275,7 @@
     "publisher": "Taito",
     "released": {
       "month": 8,
-      "sortable": "000000001987-08-01-0000",
+      "sortable": "1987-08-01",
       "year": 1987
     }
   },
@@ -284,7 +284,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -293,7 +293,7 @@
     "publisher": "SNK",
     "released": {
       "month": 8,
-      "sortable": "000000001987-08-01-0000",
+      "sortable": "1987-08-01",
       "year": 1987
     }
   },
@@ -302,7 +302,7 @@
     "publisher": "THQ",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -311,7 +311,7 @@
     "publisher": "LJN",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -320,7 +320,7 @@
     "publisher": "LJN",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -329,7 +329,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -338,7 +338,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -347,7 +347,7 @@
     "publisher": "Mattel",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -356,7 +356,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001986-08-01-0000",
+      "sortable": "1986-08-01",
       "year": 1986
     }
   },
@@ -365,7 +365,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 2,
-      "sortable": "000000001989-02-01-0000",
+      "sortable": "1989-02-01",
       "year": 1989
     }
   },
@@ -374,7 +374,7 @@
     "publisher": "Koei",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -383,7 +383,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -392,7 +392,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -401,7 +401,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -411,7 +411,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -420,7 +420,7 @@
     "publisher": "Culture_Brain",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -429,7 +429,7 @@
     "publisher": "SNK",
     "released": {
       "month": 7,
-      "sortable": "000000001989-07-01-0000",
+      "sortable": "1989-07-01",
       "year": 1989
     }
   },
@@ -438,7 +438,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 7,
-      "sortable": "000000001992-07-01-0000",
+      "sortable": "1992-07-01",
       "year": 1992
     }
   },
@@ -447,7 +447,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 7,
-      "sortable": "000000001988-07-01-0000",
+      "sortable": "1988-07-01",
       "year": 1988
     }
   },
@@ -456,7 +456,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -465,7 +465,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 4,
-      "sortable": "000000001993-04-01-0000",
+      "sortable": "1993-04-01",
       "year": 1993
     }
   },
@@ -474,7 +474,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -483,7 +483,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 2,
-      "sortable": "000000001990-02-01-0000",
+      "sortable": "1990-02-01",
       "year": 1990
     }
   },
@@ -492,7 +492,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -501,7 +501,7 @@
     "publisher": "Konami",
     "released": {
       "month": 1,
-      "sortable": "000000001993-01-01-0000",
+      "sortable": "1993-01-01",
       "year": 1993
     }
   },
@@ -510,7 +510,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -519,7 +519,7 @@
     "publisher": "Absolute_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -528,7 +528,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 9,
-      "sortable": "000000001993-09-01-0000",
+      "sortable": "1993-09-01",
       "year": 1993
     }
   },
@@ -537,7 +537,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -546,7 +546,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 6,
-      "sortable": "000000001993-06-01-0000",
+      "sortable": "1993-06-01",
       "year": 1993
     }
   },
@@ -555,7 +555,7 @@
     "publisher": "LJN",
     "released": {
       "month": 5,
-      "sortable": "000000001991-05-01-0000",
+      "sortable": "1991-05-01",
       "year": 1991
     }
   },
@@ -564,7 +564,7 @@
     "publisher": "Electro_Brain",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -573,7 +573,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -582,7 +582,7 @@
     "publisher": "LJN",
     "released": {
       "month": 4,
-      "sortable": "000000001991-04-01-0000",
+      "sortable": "1991-04-01",
       "year": 1991
     }
   },
@@ -591,7 +591,7 @@
     "publisher": "Konami",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -600,7 +600,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -609,7 +609,7 @@
     "publisher": "Konami",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -618,7 +618,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -627,7 +627,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -636,7 +636,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 1,
-      "sortable": "000000001989-01-01-0000",
+      "sortable": "1989-01-01",
       "year": 1989
     }
   },
@@ -645,7 +645,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -654,7 +654,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 1,
-      "sortable": "000000001994-01-01-0000",
+      "sortable": "1994-01-01",
       "year": 1994
     }
   },
@@ -663,7 +663,7 @@
     "publisher": "JVC",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -672,7 +672,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 9,
-      "sortable": "000000001993-09-01-0000",
+      "sortable": "1993-09-01",
       "year": 1993
     }
   },
@@ -681,7 +681,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -690,7 +690,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 1,
-      "sortable": "000000001993-01-01-0000",
+      "sortable": "1993-01-01",
       "year": 1993
     }
   },
@@ -699,7 +699,7 @@
     "publisher": "Taito",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -708,7 +708,7 @@
     "publisher": "Taito",
     "released": {
       "month": 8,
-      "sortable": "000000001993-08-01-0000",
+      "sortable": "1993-08-01",
       "year": 1993
     }
   },
@@ -717,7 +717,7 @@
     "publisher": "Konami",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -726,7 +726,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -735,7 +735,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -744,7 +744,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 5,
-      "sortable": "000000001987-05-01-0000",
+      "sortable": "1987-05-01",
       "year": 1987
     }
   },
@@ -753,7 +753,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -762,7 +762,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -771,7 +771,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -780,7 +780,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 8,
-      "sortable": "000000001992-08-01-0000",
+      "sortable": "1992-08-01",
       "year": 1992
     }
   },
@@ -789,7 +789,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -798,7 +798,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -807,7 +807,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -816,7 +816,7 @@
     "publisher": "SOFEL",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -825,7 +825,7 @@
     "publisher": "SOFEL",
     "released": {
       "month": 4,
-      "sortable": "000000001993-04-01-0000",
+      "sortable": "1993-04-01",
       "year": 1993
     }
   },
@@ -834,7 +834,7 @@
     "publisher": "SETA_Corporation",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -843,7 +843,7 @@
     "publisher": "ASCII",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -852,7 +852,7 @@
     "publisher": "Konami",
     "released": {
       "month": 5,
-      "sortable": "000000001987-05-01-0000",
+      "sortable": "1987-05-01",
       "year": 1987
     }
   },
@@ -861,7 +861,7 @@
     "publisher": "Konami",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -870,7 +870,7 @@
     "publisher": "Konami",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -879,7 +879,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -888,7 +888,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -897,7 +897,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 10,
-      "sortable": "000000001993-10-01-0000",
+      "sortable": "1993-10-01",
       "year": 1993
     }
   },
@@ -906,7 +906,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -915,7 +915,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -924,7 +924,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 1,
-      "sortable": "000000001994-01-01-0000",
+      "sortable": "1994-01-01",
       "year": 1994
     }
   },
@@ -934,7 +934,7 @@
     "released": {
       "day": 29,
       "month": 10,
-      "sortable": "000000001986-10-29-0000",
+      "sortable": "1986-10-29",
       "year": 1986
     }
   },
@@ -943,7 +943,7 @@
     "publisher": "Toho",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -952,7 +952,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 5,
-      "sortable": "000000001988-05-01-0000",
+      "sortable": "1988-05-01",
       "year": 1988
     }
   },
@@ -961,7 +961,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -970,7 +970,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -979,7 +979,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -989,7 +989,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -998,7 +998,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -1007,7 +1007,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 7,
-      "sortable": "000000001989-07-01-0000",
+      "sortable": "1989-07-01",
       "year": 1989
     }
   },
@@ -1016,7 +1016,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -1025,7 +1025,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 7,
-      "sortable": "000000001993-07-01-0000",
+      "sortable": "1993-07-01",
       "year": 1993
     }
   },
@@ -1034,7 +1034,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 11,
-      "sortable": "000000001986-11-01-0000",
+      "sortable": "1986-11-01",
       "year": 1986
     }
   },
@@ -1043,7 +1043,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -1052,7 +1052,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -1061,7 +1061,7 @@
     "publisher": "Asmik_Ace_Entertainment",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -1070,7 +1070,7 @@
     "publisher": "Konami",
     "released": {
       "month": 2,
-      "sortable": "000000001988-02-01-0000",
+      "sortable": "1988-02-01",
       "year": 1988
     }
   },
@@ -1079,7 +1079,7 @@
     "publisher": "Konami",
     "released": {
       "month": 9,
-      "sortable": "000000001992-09-01-0000",
+      "sortable": "1992-09-01",
       "year": 1992
     }
   },
@@ -1088,7 +1088,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 6,
-      "sortable": "000000001993-06-01-0000",
+      "sortable": "1993-06-01",
       "year": 1993
     }
   },
@@ -1097,7 +1097,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -1106,7 +1106,7 @@
     "publisher": "Technōs_Japan",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -1115,7 +1115,7 @@
     "publisher": "SNK",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -1123,7 +1123,7 @@
     "name": "Cyberball",
     "publisher": "Jaleco",
     "released": {
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -1132,7 +1132,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -1141,7 +1141,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001989-03-01-0000",
+      "sortable": "1989-03-01",
       "year": 1989
     }
   },
@@ -1150,7 +1150,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 8,
-      "sortable": "000000001992-08-01-0000",
+      "sortable": "1992-08-01",
       "year": 1992
     }
   },
@@ -1159,7 +1159,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -1168,7 +1168,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 6,
-      "sortable": "000000001992-06-01-0000",
+      "sortable": "1992-06-01",
       "year": 1992
     }
   },
@@ -1177,7 +1177,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 2,
-      "sortable": "000000001990-02-01-0000",
+      "sortable": "1990-02-01",
       "year": 1990
     }
   },
@@ -1186,7 +1186,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 6,
-      "sortable": "000000001992-06-01-0000",
+      "sortable": "1992-06-01",
       "year": 1992
     }
   },
@@ -1195,7 +1195,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -1204,7 +1204,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -1213,7 +1213,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 7,
-      "sortable": "000000001988-07-01-0000",
+      "sortable": "1988-07-01",
       "year": 1988
     }
   },
@@ -1222,7 +1222,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 7,
-      "sortable": "000000001989-07-01-0000",
+      "sortable": "1989-07-01",
       "year": 1989
     }
   },
@@ -1231,7 +1231,7 @@
     "publisher": "JVC",
     "released": {
       "month": 7,
-      "sortable": "000000001992-07-01-0000",
+      "sortable": "1992-07-01",
       "year": 1992
     }
   },
@@ -1240,7 +1240,7 @@
     "publisher": "Taito",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -1249,7 +1249,7 @@
     "publisher": "Seika",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -1258,7 +1258,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 2,
-      "sortable": "000000001990-02-01-0000",
+      "sortable": "1990-02-01",
       "year": 1990
     }
   },
@@ -1267,7 +1267,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -1276,7 +1276,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -1285,7 +1285,7 @@
     "publisher": "Activision",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -1294,7 +1294,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -1303,7 +1303,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -1312,7 +1312,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -1321,7 +1321,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -1330,7 +1330,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 6,
-      "sortable": "000000001986-06-01-0000",
+      "sortable": "1986-06-01",
       "year": 1986
     }
   },
@@ -1339,7 +1339,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 6,
-      "sortable": "000000001986-06-01-0000",
+      "sortable": "1986-06-01",
       "year": 1986
     }
   },
@@ -1348,7 +1348,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 6,
-      "sortable": "000000001986-06-01-0000",
+      "sortable": "1986-06-01",
       "year": 1986
     }
   },
@@ -1357,7 +1357,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -1366,7 +1366,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 6,
-      "sortable": "000000001988-06-01-0000",
+      "sortable": "1988-06-01",
       "year": 1988
     }
   },
@@ -1375,7 +1375,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -1384,7 +1384,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -1393,7 +1393,7 @@
     "publisher": "Konami",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -1402,7 +1402,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -1411,7 +1411,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -1420,7 +1420,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -1429,7 +1429,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -1438,7 +1438,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 7,
-      "sortable": "000000001992-07-01-0000",
+      "sortable": "1992-07-01",
       "year": 1992
     }
   },
@@ -1447,7 +1447,7 @@
     "publisher": "SOFEL",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -1456,7 +1456,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 3,
-      "sortable": "000000001988-03-01-0000",
+      "sortable": "1988-03-01",
       "year": 1988
     }
   },
@@ -1465,7 +1465,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001989-08-01-0000",
+      "sortable": "1989-08-01",
       "year": 1989
     }
   },
@@ -1474,7 +1474,7 @@
     "publisher": "Enix",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -1483,7 +1483,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -1492,7 +1492,7 @@
     "publisher": "Enix",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -1501,7 +1501,7 @@
     "publisher": "Enix",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -1510,7 +1510,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -1519,7 +1519,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 6,
-      "sortable": "000000001993-06-01-0000",
+      "sortable": "1993-06-01",
       "year": 1993
     }
   },
@@ -1529,7 +1529,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -1538,7 +1538,7 @@
     "publisher": "Taito",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -1547,7 +1547,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -1556,7 +1556,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -1565,7 +1565,7 @@
     "publisher": "Seika",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -1574,7 +1574,7 @@
     "publisher": "Taito",
     "released": {
       "month": 8,
-      "sortable": "000000001987-08-01-0000",
+      "sortable": "1987-08-01",
       "year": 1987
     }
   },
@@ -1583,7 +1583,7 @@
     "publisher": "Electro_Brain",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -1593,7 +1593,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -1602,7 +1602,7 @@
     "publisher": "MicroProse",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -1611,7 +1611,7 @@
     "publisher": "MicroProse",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -1620,7 +1620,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 6,
-      "sortable": "000000001992-06-01-0000",
+      "sortable": "1992-06-01",
       "year": 1992
     }
   },
@@ -1629,7 +1629,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 5,
-      "sortable": "000000001991-05-01-0000",
+      "sortable": "1991-05-01",
       "year": 1991
     }
   },
@@ -1638,7 +1638,7 @@
     "publisher": "ASCII",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -1647,7 +1647,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001989-08-01-0000",
+      "sortable": "1989-08-01",
       "year": 1989
     }
   },
@@ -1656,7 +1656,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -1665,7 +1665,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -1674,7 +1674,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 5,
-      "sortable": "000000001990-05-01-0000",
+      "sortable": "1990-05-01",
       "year": 1990
     }
   },
@@ -1683,7 +1683,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 3,
-      "sortable": "000000001993-03-01-0000",
+      "sortable": "1993-03-01",
       "year": 1993
     }
   },
@@ -1692,7 +1692,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -1701,7 +1701,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -1710,7 +1710,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -1719,7 +1719,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -1728,7 +1728,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 5,
-      "sortable": "000000001991-05-01-0000",
+      "sortable": "1991-05-01",
       "year": 1991
     }
   },
@@ -1737,7 +1737,7 @@
     "publisher": "Culture_Brain",
     "released": {
       "month": 8,
-      "sortable": "000000001989-08-01-0000",
+      "sortable": "1989-08-01",
       "year": 1989
     }
   },
@@ -1746,7 +1746,7 @@
     "publisher": "Culture_Brain",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -1755,7 +1755,7 @@
     "publisher": "SETA_Corporation",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -1764,7 +1764,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 7,
-      "sortable": "000000001991-07-01-0000",
+      "sortable": "1991-07-01",
       "year": 1991
     }
   },
@@ -1773,7 +1773,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 4,
-      "sortable": "000000001988-04-01-0000",
+      "sortable": "1988-04-01",
       "year": 1988
     }
   },
@@ -1782,7 +1782,7 @@
     "publisher": "LJN",
     "released": {
       "month": 2,
-      "sortable": "000000001989-02-01-0000",
+      "sortable": "1989-02-01",
       "year": 1989
     }
   },
@@ -1791,7 +1791,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -1800,7 +1800,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -1809,7 +1809,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -1818,7 +1818,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -1827,7 +1827,7 @@
     "publisher": "Activision",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -1836,7 +1836,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -1846,7 +1846,7 @@
     "released": {
       "day": 3,
       "month": 1,
-      "sortable": "000000001987-01-03-0000",
+      "sortable": "1987-01-03",
       "year": 1987
     }
   },
@@ -1855,7 +1855,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -1864,7 +1864,7 @@
     "publisher": "Koei",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -1873,7 +1873,7 @@
     "publisher": "Koei",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -1882,7 +1882,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -1891,7 +1891,7 @@
     "publisher": "Activision",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -1900,7 +1900,7 @@
     "publisher": "Activision",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -1909,7 +1909,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 11,
-      "sortable": "000000001986-11-01-0000",
+      "sortable": "1986-11-01",
       "year": 1986
     }
   },
@@ -1918,7 +1918,7 @@
     "publisher": "Electro_Brain",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -1927,7 +1927,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -1936,7 +1936,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -1945,7 +1945,7 @@
     "publisher": "Toho",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -1954,7 +1954,7 @@
     "publisher": "Toho",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -1964,7 +1964,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -1973,7 +1973,7 @@
     "publisher": "Atlus",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -1982,7 +1982,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -1991,7 +1991,7 @@
     "publisher": "LJN",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -2000,7 +2000,7 @@
     "publisher": "Konami",
     "released": {
       "month": 12,
-      "sortable": "000000001986-12-01-0000",
+      "sortable": "1986-12-01",
       "year": 1986
     }
   },
@@ -2009,7 +2009,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 7,
-      "sortable": "000000001992-07-01-0000",
+      "sortable": "1992-07-01",
       "year": 1992
     }
   },
@@ -2018,7 +2018,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -2027,7 +2027,7 @@
     "publisher": "SNK",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -2036,7 +2036,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001986-08-01-0000",
+      "sortable": "1986-08-01",
       "year": 1986
     }
   },
@@ -2045,7 +2045,7 @@
     "publisher": "ASCII",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -2054,7 +2054,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 2,
-      "sortable": "000000001988-02-01-0000",
+      "sortable": "1988-02-01",
       "year": 1988
     }
   },
@@ -2064,7 +2064,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -2073,7 +2073,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 2,
-      "sortable": "000000001989-02-01-0000",
+      "sortable": "1989-02-01",
       "year": 1989
     }
   },
@@ -2082,7 +2082,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -2091,7 +2091,7 @@
     "publisher": "Blue_Planet_Software",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -2100,7 +2100,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -2109,7 +2109,7 @@
     "publisher": "Parker_Brothers",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -2118,7 +2118,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 7,
-      "sortable": "000000001991-07-01-0000",
+      "sortable": "1991-07-01",
       "year": 1991
     }
   },
@@ -2127,7 +2127,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 2,
-      "sortable": "000000001993-02-01-0000",
+      "sortable": "1993-02-01",
       "year": 1993
     }
   },
@@ -2137,7 +2137,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -2146,7 +2146,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -2155,7 +2155,7 @@
     "publisher": "THQ",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -2164,7 +2164,7 @@
     "publisher": "THQ",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -2173,7 +2173,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -2182,7 +2182,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -2191,7 +2191,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -2200,7 +2200,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -2210,7 +2210,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -2219,7 +2219,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001988-03-01-0000",
+      "sortable": "1988-03-01",
       "year": 1988
     }
   },
@@ -2228,7 +2228,7 @@
     "publisher": "SNK",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -2237,7 +2237,7 @@
     "publisher": "SNK",
     "released": {
       "month": 5,
-      "sortable": "000000001987-05-01-0000",
+      "sortable": "1987-05-01",
       "year": 1987
     }
   },
@@ -2246,7 +2246,7 @@
     "publisher": "SNK",
     "released": {
       "month": 4,
-      "sortable": "000000001988-04-01-0000",
+      "sortable": "1988-04-01",
       "year": 1988
     }
   },
@@ -2255,7 +2255,7 @@
     "publisher": "Irem",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -2264,7 +2264,7 @@
     "publisher": "Taito",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -2273,7 +2273,7 @@
     "publisher": "Ubisoft",
     "released": {
       "month": 12,
-      "sortable": "000000001993-12-01-0000",
+      "sortable": "1993-12-01",
       "year": 1993
     }
   },
@@ -2282,7 +2282,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -2291,7 +2291,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -2300,7 +2300,7 @@
     "publisher": "SNK",
     "released": {
       "month": 7,
-      "sortable": "000000001988-07-01-0000",
+      "sortable": "1988-07-01",
       "year": 1988
     }
   },
@@ -2309,7 +2309,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -2318,7 +2318,7 @@
     "publisher": "Nippon_Television",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -2327,7 +2327,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -2336,7 +2336,7 @@
     "publisher": "Konami",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -2345,7 +2345,7 @@
     "publisher": "Konami",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -2354,7 +2354,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -2363,7 +2363,7 @@
     "publisher": "THQ",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -2372,7 +2372,7 @@
     "publisher": "LJN",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -2381,7 +2381,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -2390,7 +2390,7 @@
     "publisher": "Ubisoft",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -2399,7 +2399,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -2408,7 +2408,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 3,
-      "sortable": "000000001989-03-01-0000",
+      "sortable": "1989-03-01",
       "year": 1989
     }
   },
@@ -2417,7 +2417,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 8,
-      "sortable": "000000001989-08-01-0000",
+      "sortable": "1989-08-01",
       "year": 1989
     }
   },
@@ -2426,7 +2426,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -2435,7 +2435,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -2444,7 +2444,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 6,
-      "sortable": "000000001993-06-01-0000",
+      "sortable": "1993-06-01",
       "year": 1993
     }
   },
@@ -2453,7 +2453,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -2462,7 +2462,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 11,
-      "sortable": "000000001986-11-01-0000",
+      "sortable": "1986-11-01",
       "year": 1986
     }
   },
@@ -2471,7 +2471,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 1,
-      "sortable": "000000001988-01-01-0000",
+      "sortable": "1988-01-01",
       "year": 1988
     }
   },
@@ -2480,7 +2480,7 @@
     "publisher": "Taito",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -2489,7 +2489,7 @@
     "publisher": "Irem",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -2498,7 +2498,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 7,
-      "sortable": "000000001987-07-01-0000",
+      "sortable": "1987-07-01",
       "year": 1987
     }
   },
@@ -2507,7 +2507,7 @@
     "publisher": "Kemco",
     "released": {
       "month": 4,
-      "sortable": "000000001993-04-01-0000",
+      "sortable": "1993-04-01",
       "year": 1993
     }
   },
@@ -2516,7 +2516,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -2525,7 +2525,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -2534,7 +2534,7 @@
     "publisher": "Square",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -2543,7 +2543,7 @@
     "publisher": "Konami",
     "released": {
       "month": 6,
-      "sortable": "000000001992-06-01-0000",
+      "sortable": "1992-06-01",
       "year": 1992
     }
   },
@@ -2552,7 +2552,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -2561,7 +2561,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 5,
-      "sortable": "000000001993-05-01-0000",
+      "sortable": "1993-05-01",
       "year": 1993
     }
   },
@@ -2570,7 +2570,7 @@
     "publisher": "SOFEL",
     "released": {
       "month": 7,
-      "sortable": "000000001991-07-01-0000",
+      "sortable": "1991-07-01",
       "year": 1991
     }
   },
@@ -2579,7 +2579,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -2588,7 +2588,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001992-09-01-0000",
+      "sortable": "1992-09-01",
       "year": 1992
     }
   },
@@ -2597,7 +2597,7 @@
     "publisher": "Culture_Brain",
     "released": {
       "month": 3,
-      "sortable": "000000001989-03-01-0000",
+      "sortable": "1989-03-01",
       "year": 1989
     }
   },
@@ -2607,7 +2607,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -2616,7 +2616,7 @@
     "publisher": "Koei",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -2625,7 +2625,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -2634,7 +2634,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 10,
-      "sortable": "000000001993-10-01-0000",
+      "sortable": "1993-10-01",
       "year": 1993
     }
   },
@@ -2643,7 +2643,7 @@
     "publisher": "SNK",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -2652,7 +2652,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -2661,7 +2661,7 @@
     "publisher": "Kemco",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -2670,7 +2670,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 7,
-      "sortable": "000000001988-07-01-0000",
+      "sortable": "1988-07-01",
       "year": 1988
     }
   },
@@ -2679,7 +2679,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -2688,7 +2688,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -2697,7 +2697,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 4,
-      "sortable": "000000001993-04-01-0000",
+      "sortable": "1993-04-01",
       "year": 1993
     }
   },
@@ -2706,7 +2706,7 @@
     "publisher": "SNK",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -2715,7 +2715,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -2724,7 +2724,7 @@
     "publisher": "Culture_Brain",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -2733,7 +2733,7 @@
     "publisher": "Taito",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -2742,7 +2742,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -2751,7 +2751,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -2760,7 +2760,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -2769,7 +2769,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 10,
-      "sortable": "000000001987-10-01-0000",
+      "sortable": "1987-10-01",
       "year": 1987
     }
   },
@@ -2778,7 +2778,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -2787,7 +2787,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -2797,7 +2797,7 @@
     "released": {
       "day": 29,
       "month": 10,
-      "sortable": "000000001986-10-29-0000",
+      "sortable": "1986-10-29",
       "year": 1986
     }
   },
@@ -2806,7 +2806,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001986-08-01-0000",
+      "sortable": "1986-08-01",
       "year": 1986
     }
   },
@@ -2815,7 +2815,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -2824,7 +2824,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -2833,7 +2833,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -2842,7 +2842,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -2851,7 +2851,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -2860,7 +2860,7 @@
     "publisher": "LJN",
     "released": {
       "month": 4,
-      "sortable": "000000001988-04-01-0000",
+      "sortable": "1988-04-01",
       "year": 1988
     }
   },
@@ -2869,7 +2869,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -2878,7 +2878,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -2887,7 +2887,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 3,
-      "sortable": "000000001989-03-01-0000",
+      "sortable": "1989-03-01",
       "year": 1989
     }
   },
@@ -2896,7 +2896,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 6,
-      "sortable": "000000001994-06-01-0000",
+      "sortable": "1994-06-01",
       "year": 1994
     }
   },
@@ -2905,7 +2905,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -2914,7 +2914,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 6,
-      "sortable": "000000001986-06-01-0000",
+      "sortable": "1986-06-01",
       "year": 1986
     }
   },
@@ -2923,7 +2923,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 7,
-      "sortable": "000000001993-07-01-0000",
+      "sortable": "1993-07-01",
       "year": 1993
     }
   },
@@ -2932,7 +2932,7 @@
     "publisher": "SNK",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -2941,7 +2941,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 12,
-      "sortable": "000000001987-12-01-0000",
+      "sortable": "1987-12-01",
       "year": 1987
     }
   },
@@ -2950,7 +2950,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -2959,7 +2959,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -2968,7 +2968,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -2977,7 +2977,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -2986,7 +2986,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001994-03-01-0000",
+      "sortable": "1994-03-01",
       "year": 1994
     }
   },
@@ -2995,7 +2995,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -3004,7 +3004,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 6,
-      "sortable": "000000001988-06-01-0000",
+      "sortable": "1988-06-01",
       "year": 1988
     }
   },
@@ -3013,7 +3013,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -3022,7 +3022,7 @@
     "publisher": "Irem",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -3031,7 +3031,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001987-08-01-0000",
+      "sortable": "1987-08-01",
       "year": 1987
     }
   },
@@ -3040,7 +3040,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -3049,7 +3049,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 3,
-      "sortable": "000000001994-03-01-0000",
+      "sortable": "1994-03-01",
       "year": 1994
     }
   },
@@ -3058,7 +3058,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 3,
-      "sortable": "000000001993-03-01-0000",
+      "sortable": "1993-03-01",
       "year": 1993
     }
   },
@@ -3067,7 +3067,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -3076,7 +3076,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 8,
-      "sortable": "000000001992-08-01-0000",
+      "sortable": "1992-08-01",
       "year": 1992
     }
   },
@@ -3085,7 +3085,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 7,
-      "sortable": "000000001987-07-01-0000",
+      "sortable": "1987-07-01",
       "year": 1987
     }
   },
@@ -3094,7 +3094,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 7,
-      "sortable": "000000001993-07-01-0000",
+      "sortable": "1993-07-01",
       "year": 1993
     }
   },
@@ -3103,7 +3103,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 10,
-      "sortable": "000000001987-10-01-0000",
+      "sortable": "1987-10-01",
       "year": 1987
     }
   },
@@ -3112,7 +3112,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -3121,7 +3121,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -3129,7 +3129,7 @@
     "name": "Miracle Piano Teaching System",
     "publisher": "Mindscape",
     "released": {
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -3138,7 +3138,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -3147,7 +3147,7 @@
     "publisher": "Konami",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -3156,7 +3156,7 @@
     "publisher": "Parker_Brothers",
     "released": {
       "month": 5,
-      "sortable": "000000001991-05-01-0000",
+      "sortable": "1991-05-01",
       "year": 1991
     }
   },
@@ -3165,7 +3165,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -3174,7 +3174,7 @@
     "publisher": "Intellivision",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -3183,7 +3183,7 @@
     "publisher": "Konami",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -3192,7 +3192,7 @@
     "publisher": "Matchbox",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -3201,7 +3201,7 @@
     "publisher": "Namco",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -3210,7 +3210,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -3219,7 +3219,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -3228,7 +3228,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -3237,7 +3237,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -3246,7 +3246,7 @@
     "publisher": "LJN",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -3255,7 +3255,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -3264,7 +3264,7 @@
     "publisher": "Triffix",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -3273,7 +3273,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 10,
-      "sortable": "000000001993-10-01-0000",
+      "sortable": "1993-10-01",
       "year": 1993
     }
   },
@@ -3282,7 +3282,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -3291,7 +3291,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -3300,7 +3300,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 3,
-      "sortable": "000000001989-03-01-0000",
+      "sortable": "1989-03-01",
       "year": 1989
     }
   },
@@ -3309,7 +3309,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 8,
-      "sortable": "000000001991-08-01-0000",
+      "sortable": "1991-08-01",
       "year": 1991
     }
   },
@@ -3318,7 +3318,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 5,
-      "sortable": "000000001990-05-01-0000",
+      "sortable": "1990-05-01",
       "year": 1990
     }
   },
@@ -3328,7 +3328,7 @@
     "released": {
       "day": 29,
       "month": 10,
-      "sortable": "000000001986-10-29-0000",
+      "sortable": "1986-10-29",
       "year": 1986
     }
   },
@@ -3336,7 +3336,7 @@
     "name": "Nintendo Campus Challenge",
     "publisher": "Nintendo",
     "released": {
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -3344,7 +3344,7 @@
     "name": "Nintendo World Championships",
     "publisher": "Nintendo",
     "released": {
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -3353,7 +3353,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -3362,7 +3362,7 @@
     "publisher": "Koei",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -3371,7 +3371,7 @@
     "publisher": "Koei",
     "released": {
       "month": 4,
-      "sortable": "000000001991-04-01-0000",
+      "sortable": "1991-04-01",
       "year": 1991
     }
   },
@@ -3380,7 +3380,7 @@
     "publisher": "Seika",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -3389,7 +3389,7 @@
     "publisher": "Taito",
     "released": {
       "month": 5,
-      "sortable": "000000001989-05-01-0000",
+      "sortable": "1989-05-01",
       "year": 1989
     }
   },
@@ -3398,7 +3398,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -3407,7 +3407,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -3416,7 +3416,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 1,
-      "sortable": "000000001993-01-01-0000",
+      "sortable": "1993-01-01",
       "year": 1993
     }
   },
@@ -3425,7 +3425,7 @@
     "publisher": "SNK",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -3434,7 +3434,7 @@
     "publisher": "Namco",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -3442,7 +3442,7 @@
     "name": "Palamedes",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -3451,7 +3451,7 @@
     "publisher": "Taito",
     "released": {
       "month": 8,
-      "sortable": "000000001992-08-01-0000",
+      "sortable": "1992-08-01",
       "year": 1992
     }
   },
@@ -3460,7 +3460,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -3469,7 +3469,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -3478,7 +3478,7 @@
     "publisher": "THQ",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -3487,7 +3487,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -3496,7 +3496,7 @@
     "publisher": "LJN",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -3505,7 +3505,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -3515,7 +3515,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -3524,7 +3524,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -3533,7 +3533,7 @@
     "publisher": "Blue_Planet_Software",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -3542,7 +3542,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -3551,7 +3551,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -3560,7 +3560,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 6,
-      "sortable": "000000001986-06-01-0000",
+      "sortable": "1986-06-01",
       "year": 1986
     }
   },
@@ -3569,7 +3569,7 @@
     "publisher": "Taito",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -3578,7 +3578,7 @@
     "publisher": "Taito",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -3588,7 +3588,7 @@
     "released": {
       "day": 18,
       "month": 6,
-      "sortable": "000000001987-06-18-0000",
+      "sortable": "1987-06-18",
       "year": 1987
     }
   },
@@ -3597,7 +3597,7 @@
     "publisher": "ASC_Games",
     "released": {
       "month": 6,
-      "sortable": "000000001992-06-01-0000",
+      "sortable": "1992-06-01",
       "year": 1992
     }
   },
@@ -3606,7 +3606,7 @@
     "publisher": "Activision",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -3615,7 +3615,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -3624,7 +3624,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -3633,7 +3633,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -3642,7 +3642,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001987-03-01-0000",
+      "sortable": "1987-03-01",
       "year": 1987
     }
   },
@@ -3651,7 +3651,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -3660,7 +3660,7 @@
     "publisher": "Electro_Brain",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -3669,7 +3669,7 @@
     "publisher": "Taito",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -3678,7 +3678,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 2,
-      "sortable": "000000001989-02-01-0000",
+      "sortable": "1989-02-01",
       "year": 1989
     }
   },
@@ -3687,7 +3687,7 @@
     "publisher": "Taito",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -3695,7 +3695,7 @@
     "name": "R.B.I. Baseball",
     "publisher": "Tengen",
     "released": {
-      "sortable": "000000001988-01-01-0000",
+      "sortable": "1988-01-01",
       "year": 1988
     }
   },
@@ -3704,7 +3704,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 2,
-      "sortable": "000000001988-02-01-0000",
+      "sortable": "1988-02-01",
       "year": 1988
     }
   },
@@ -3713,7 +3713,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -3722,7 +3722,7 @@
     "publisher": "Absolute_Entertainment",
     "released": {
       "month": 5,
-      "sortable": "000000001992-05-01-0000",
+      "sortable": "1992-05-01",
       "year": 1992
     }
   },
@@ -3731,7 +3731,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -3741,7 +3741,7 @@
     "released": {
       "day": 1,
       "month": 10,
-      "sortable": "000000001987-10-01-0000",
+      "sortable": "1987-10-01",
       "year": 1987
     }
   },
@@ -3750,7 +3750,7 @@
     "publisher": "Square",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -3759,7 +3759,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -3767,7 +3767,7 @@
     "name": "Rainbow Islands: The Story of Bubble Bobble 2",
     "publisher": "Taito",
     "released": {
-      "sortable": "000000001988-01-01-0000",
+      "sortable": "1988-01-01",
       "year": 1988
     }
   },
@@ -3776,7 +3776,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -3785,7 +3785,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 5,
-      "sortable": "000000001988-05-01-0000",
+      "sortable": "1988-05-01",
       "year": 1988
     }
   },
@@ -3794,7 +3794,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -3803,7 +3803,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -3812,7 +3812,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 5,
-      "sortable": "000000001990-05-01-0000",
+      "sortable": "1990-05-01",
       "year": 1990
     }
   },
@@ -3821,7 +3821,7 @@
     "publisher": "Taito",
     "released": {
       "month": 1,
-      "sortable": "000000001988-01-01-0000",
+      "sortable": "1988-01-01",
       "year": 1988
     }
   },
@@ -3830,7 +3830,7 @@
     "publisher": "Seika",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -3839,7 +3839,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -3848,7 +3848,7 @@
     "publisher": "Technōs_Japan",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -3857,7 +3857,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -3866,7 +3866,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -3875,7 +3875,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -3884,7 +3884,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 4,
-      "sortable": "000000001991-04-01-0000",
+      "sortable": "1991-04-01",
       "year": 1991
     }
   },
@@ -3893,7 +3893,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 8,
-      "sortable": "000000001992-08-01-0000",
+      "sortable": "1992-08-01",
       "year": 1992
     }
   },
@@ -3902,7 +3902,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -3911,7 +3911,7 @@
     "publisher": "Nippon_Television",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -3920,7 +3920,7 @@
     "publisher": "Seika",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -3929,7 +3929,7 @@
     "publisher": "Atlus",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -3938,7 +3938,7 @@
     "publisher": "LJN",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -3947,7 +3947,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -3956,7 +3956,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 2,
-      "sortable": "000000001990-02-01-0000",
+      "sortable": "1990-02-01",
       "year": 1990
     }
   },
@@ -3965,7 +3965,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 2,
-      "sortable": "000000001993-02-01-0000",
+      "sortable": "1993-02-01",
       "year": 1993
     }
   },
@@ -3974,7 +3974,7 @@
     "publisher": "Koei",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -3983,7 +3983,7 @@
     "publisher": "Koei",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -3992,7 +3992,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 5,
-      "sortable": "000000001992-05-01-0000",
+      "sortable": "1992-05-01",
       "year": 1992
     }
   },
@@ -4001,7 +4001,7 @@
     "publisher": "Konami",
     "released": {
       "month": 4,
-      "sortable": "000000001987-04-01-0000",
+      "sortable": "1987-04-01",
       "year": 1987
     }
   },
@@ -4010,7 +4010,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 7,
-      "sortable": "000000001987-07-01-0000",
+      "sortable": "1987-07-01",
       "year": 1987
     }
   },
@@ -4019,7 +4019,7 @@
     "publisher": "Natsume",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -4028,7 +4028,7 @@
     "publisher": "Konami",
     "released": {
       "month": 8,
-      "sortable": "000000001988-08-01-0000",
+      "sortable": "1988-08-01",
       "year": 1988
     }
   },
@@ -4037,7 +4037,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 7,
-      "sortable": "000000001987-07-01-0000",
+      "sortable": "1987-07-01",
       "year": 1987
     }
   },
@@ -4046,7 +4046,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -4055,7 +4055,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 1,
-      "sortable": "000000001989-01-01-0000",
+      "sortable": "1989-01-01",
       "year": 1989
     }
   },
@@ -4064,7 +4064,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -4073,7 +4073,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -4082,7 +4082,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -4091,7 +4091,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -4100,7 +4100,7 @@
     "publisher": "Natsume",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -4109,7 +4109,7 @@
     "publisher": "Seika",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -4118,7 +4118,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -4126,7 +4126,7 @@
     "name": "Shingen the Ruler",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -4135,7 +4135,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -4144,7 +4144,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -4153,7 +4153,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -4163,7 +4163,7 @@
     "released": {
       "day": 30,
       "month": 11,
-      "sortable": "000000001987-11-30-0000",
+      "sortable": "1987-11-30",
       "year": 1987
     }
   },
@@ -4172,7 +4172,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -4181,7 +4181,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -4190,7 +4190,7 @@
     "publisher": "Arcadia_Systems",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -4199,7 +4199,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -4208,7 +4208,7 @@
     "publisher": "Electronic_Arts",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -4217,7 +4217,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -4226,7 +4226,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -4235,7 +4235,7 @@
     "publisher": "Taito",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -4244,7 +4244,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001987-03-01-0000",
+      "sortable": "1987-03-01",
       "year": 1987
     }
   },
@@ -4253,7 +4253,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -4262,7 +4262,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -4271,7 +4271,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -4280,7 +4280,7 @@
     "publisher": "Seika",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -4289,7 +4289,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -4299,7 +4299,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -4308,7 +4308,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -4317,7 +4317,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 7,
-      "sortable": "000000001987-07-01-0000",
+      "sortable": "1987-07-01",
       "year": 1987
     }
   },
@@ -4326,7 +4326,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -4335,7 +4335,7 @@
     "publisher": "Absolute_Entertainment",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -4344,7 +4344,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -4353,7 +4353,7 @@
     "publisher": "LJN",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -4362,7 +4362,7 @@
     "publisher": "Arcadia_Systems",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -4371,7 +4371,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -4380,7 +4380,7 @@
     "publisher": "Seika",
     "released": {
       "month": 10,
-      "sortable": "000000001988-10-01-0000",
+      "sortable": "1988-10-01",
       "year": 1988
     }
   },
@@ -4389,7 +4389,7 @@
     "publisher": "Irem",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -4399,7 +4399,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -4408,7 +4408,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -4417,7 +4417,7 @@
     "publisher": "Electro_Brain",
     "released": {
       "month": 10,
-      "sortable": "000000001992-10-01-0000",
+      "sortable": "1992-10-01",
       "year": 1992
     }
   },
@@ -4426,7 +4426,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -4435,7 +4435,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -4444,7 +4444,7 @@
     "publisher": "Taxan",
     "released": {
       "month": 1,
-      "sortable": "000000001989-01-01-0000",
+      "sortable": "1989-01-01",
       "year": 1989
     }
   },
@@ -4453,7 +4453,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -4462,7 +4462,7 @@
     "publisher": "Absolute_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001993-09-01-0000",
+      "sortable": "1993-09-01",
       "year": 1993
     }
   },
@@ -4471,7 +4471,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -4480,7 +4480,7 @@
     "publisher": "JVC",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -4489,7 +4489,7 @@
     "publisher": "JVC",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -4498,7 +4498,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -4507,7 +4507,7 @@
     "publisher": "Activision",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -4516,7 +4516,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -4525,7 +4525,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -4534,7 +4534,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 7,
-      "sortable": "000000001989-07-01-0000",
+      "sortable": "1989-07-01",
       "year": 1989
     }
   },
@@ -4543,7 +4543,7 @@
     "publisher": "Electro_Brain",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -4552,7 +4552,7 @@
     "publisher": "Konami",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -4561,7 +4561,7 @@
     "publisher": "Sony_Imagesoft",
     "released": {
       "month": 6,
-      "sortable": "000000001988-06-01-0000",
+      "sortable": "1988-06-01",
       "year": 1988
     }
   },
@@ -4570,7 +4570,7 @@
     "publisher": "Mattel",
     "released": {
       "month": 10,
-      "sortable": "000000001990-10-01-0000",
+      "sortable": "1990-10-01",
       "year": 1990
     }
   },
@@ -4579,7 +4579,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -4589,7 +4589,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -4598,7 +4598,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -4607,7 +4607,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -4617,7 +4617,7 @@
     "released": {
       "day": 10,
       "month": 10,
-      "sortable": "000000001988-10-10-0000",
+      "sortable": "1988-10-10",
       "year": 1988
     }
   },
@@ -4627,7 +4627,7 @@
     "released": {
       "day": 12,
       "month": 2,
-      "sortable": "000000001990-02-12-0000",
+      "sortable": "1990-02-12",
       "year": 1990
     }
   },
@@ -4636,7 +4636,7 @@
     "publisher": "Activision",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -4645,7 +4645,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 2,
-      "sortable": "000000001990-02-01-0000",
+      "sortable": "1990-02-01",
       "year": 1990
     }
   },
@@ -4654,7 +4654,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -4663,7 +4663,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 11,
-      "sortable": "000000001988-11-01-0000",
+      "sortable": "1988-11-01",
       "year": 1988
     }
   },
@@ -4672,7 +4672,7 @@
     "publisher": "Seika",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -4681,7 +4681,7 @@
     "publisher": "THQ",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -4690,7 +4690,7 @@
     "publisher": "Activision",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -4699,7 +4699,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -4708,7 +4708,7 @@
     "publisher": "Tradewest",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -4717,7 +4717,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 10,
-      "sortable": "000000001986-10-01-0000",
+      "sortable": "1986-10-01",
       "year": 1986
     }
   },
@@ -4726,7 +4726,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -4735,7 +4735,7 @@
     "publisher": "Taito",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -4744,7 +4744,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 1,
-      "sortable": "000000001989-01-01-0000",
+      "sortable": "1989-01-01",
       "year": 1989
     }
   },
@@ -4753,7 +4753,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 2,
-      "sortable": "000000001989-02-01-0000",
+      "sortable": "1989-02-01",
       "year": 1989
     }
   },
@@ -4762,7 +4762,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 9,
-      "sortable": "000000001992-09-01-0000",
+      "sortable": "1992-09-01",
       "year": 1992
     }
   },
@@ -4771,7 +4771,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -4780,7 +4780,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -4789,7 +4789,7 @@
     "publisher": "Tecmo",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -4798,7 +4798,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -4807,7 +4807,7 @@
     "publisher": "Konami",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -4816,7 +4816,7 @@
     "publisher": "Ultra_Games",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -4825,7 +4825,7 @@
     "publisher": "Konami",
     "released": {
       "month": 2,
-      "sortable": "000000001994-02-01-0000",
+      "sortable": "1994-02-01",
       "year": 1994
     }
   },
@@ -4835,7 +4835,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -4844,7 +4844,7 @@
     "publisher": "LJN",
     "released": {
       "month": 2,
-      "sortable": "000000001992-02-01-0000",
+      "sortable": "1992-02-01",
       "year": 1992
     }
   },
@@ -4853,7 +4853,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -4862,7 +4862,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 11,
-      "sortable": "000000001989-11-01-0000",
+      "sortable": "1989-11-01",
       "year": 1989
     }
   },
@@ -4871,7 +4871,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 10,
-      "sortable": "000000001993-10-01-0000",
+      "sortable": "1993-10-01",
       "year": 1993
     }
   },
@@ -4880,7 +4880,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -4889,7 +4889,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 8,
-      "sortable": "000000001993-08-01-0000",
+      "sortable": "1993-08-01",
       "year": 1993
     }
   },
@@ -4898,7 +4898,7 @@
     "publisher": "Konami",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -4907,7 +4907,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -4916,7 +4916,7 @@
     "publisher": "Activision",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -4925,7 +4925,7 @@
     "publisher": "THQ",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -4934,7 +4934,7 @@
     "publisher": "SETA_Corporation",
     "released": {
       "month": 8,
-      "sortable": "000000001989-08-01-0000",
+      "sortable": "1989-08-01",
       "year": 1989
     }
   },
@@ -4943,7 +4943,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -4952,7 +4952,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -4961,7 +4961,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -4969,7 +4969,7 @@
     "name": "The Black Bass",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -4977,7 +4977,7 @@
     "name": "The Blue Marlin",
     "released": {
       "month": 7,
-      "sortable": "000000001992-07-01-0000",
+      "sortable": "1992-07-01",
       "year": 1992
     }
   },
@@ -4986,7 +4986,7 @@
     "publisher": "Titus_Software",
     "released": {
       "month": 9,
-      "sortable": "000000001992-09-01-0000",
+      "sortable": "1992-09-01",
       "year": 1992
     }
   },
@@ -4995,7 +4995,7 @@
     "publisher": "Kemco",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -5004,7 +5004,7 @@
     "publisher": "Kemco",
     "released": {
       "month": 8,
-      "sortable": "000000001989-08-01-0000",
+      "sortable": "1989-08-01",
       "year": 1989
     }
   },
@@ -5013,7 +5013,7 @@
     "publisher": "Taito",
     "released": {
       "month": 8,
-      "sortable": "000000001994-08-01-0000",
+      "sortable": "1994-08-01",
       "year": 1994
     }
   },
@@ -5022,7 +5022,7 @@
     "publisher": "Taito",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -5031,7 +5031,7 @@
     "publisher": "Konami",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -5040,7 +5040,7 @@
     "publisher": "THQ",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -5049,7 +5049,7 @@
     "publisher": "Brøderbund",
     "released": {
       "month": 4,
-      "sortable": "000000001989-04-01-0000",
+      "sortable": "1989-04-01",
       "year": 1989
     }
   },
@@ -5058,7 +5058,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -5067,7 +5067,7 @@
     "publisher": "Electronic_Arts",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -5076,7 +5076,7 @@
     "publisher": "LJN",
     "released": {
       "month": 8,
-      "sortable": "000000001994-08-01-0000",
+      "sortable": "1994-08-01",
       "year": 1994
     }
   },
@@ -5085,7 +5085,7 @@
     "publisher": "Taito",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -5094,7 +5094,7 @@
     "publisher": "Virgin_Interactive",
     "released": {
       "month": 8,
-      "sortable": "000000001994-08-01-0000",
+      "sortable": "1994-08-01",
       "year": 1994
     }
   },
@@ -5103,7 +5103,7 @@
     "publisher": "LJN",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -5112,7 +5112,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -5121,7 +5121,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -5130,7 +5130,7 @@
     "publisher": "Taito",
     "released": {
       "month": 8,
-      "sortable": "000000001987-08-01-0000",
+      "sortable": "1987-08-01",
       "year": 1987
     }
   },
@@ -5140,7 +5140,7 @@
     "released": {
       "day": 22,
       "month": 8,
-      "sortable": "000000001987-08-22-0000",
+      "sortable": "1987-08-22",
       "year": 1987
     }
   },
@@ -5149,7 +5149,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 7,
-      "sortable": "000000001991-07-01-0000",
+      "sortable": "1991-07-01",
       "year": 1991
     }
   },
@@ -5158,7 +5158,7 @@
     "publisher": "Konami",
     "released": {
       "month": 8,
-      "sortable": "000000001991-08-01-0000",
+      "sortable": "1991-08-01",
       "year": 1991
     }
   },
@@ -5167,7 +5167,7 @@
     "publisher": "Vic_Tokai",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -5176,7 +5176,7 @@
     "publisher": "Culture_Brain",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -5185,7 +5185,7 @@
     "publisher": "ASC_Games",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -5194,7 +5194,7 @@
     "publisher": "Taito",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -5203,7 +5203,7 @@
     "publisher": "LJN",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -5212,7 +5212,7 @@
     "publisher": "THQ",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -5221,7 +5221,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 5,
-      "sortable": "000000001991-05-01-0000",
+      "sortable": "1991-05-01",
       "year": 1991
     }
   },
@@ -5230,7 +5230,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -5239,7 +5239,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -5248,7 +5248,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -5257,7 +5257,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -5266,7 +5266,7 @@
     "publisher": "Activision",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -5275,7 +5275,7 @@
     "publisher": "LJN",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -5284,7 +5284,7 @@
     "publisher": "Ocean_Software",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -5293,7 +5293,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 1,
-      "sortable": "000000001993-01-01-0000",
+      "sortable": "1993-01-01",
       "year": 1993
     }
   },
@@ -5302,7 +5302,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -5311,7 +5311,7 @@
     "publisher": "Activision",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -5320,7 +5320,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 7,
-      "sortable": "000000001989-07-01-0000",
+      "sortable": "1989-07-01",
       "year": 1989
     }
   },
@@ -5329,7 +5329,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -5338,7 +5338,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -5347,7 +5347,7 @@
     "publisher": "Toho",
     "released": {
       "month": 5,
-      "sortable": "000000001991-05-01-0000",
+      "sortable": "1991-05-01",
       "year": 1991
     }
   },
@@ -5356,7 +5356,7 @@
     "publisher": "Konami",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -5365,7 +5365,7 @@
     "publisher": "Konami",
     "released": {
       "month": 4,
-      "sortable": "000000001993-04-01-0000",
+      "sortable": "1993-04-01",
       "year": 1993
     }
   },
@@ -5374,7 +5374,7 @@
     "publisher": "Konami",
     "released": {
       "month": 12,
-      "sortable": "000000001992-12-01-0000",
+      "sortable": "1992-12-01",
       "year": 1992
     }
   },
@@ -5383,7 +5383,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 11,
-      "sortable": "000000001989-11-01-0000",
+      "sortable": "1989-11-01",
       "year": 1989
     }
   },
@@ -5392,7 +5392,7 @@
     "publisher": "Taito",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -5401,7 +5401,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -5410,7 +5410,7 @@
     "publisher": "Activision",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -5419,7 +5419,7 @@
     "publisher": "Konami",
     "released": {
       "month": 11,
-      "sortable": "000000001987-11-01-0000",
+      "sortable": "1987-11-01",
       "year": 1987
     }
   },
@@ -5428,7 +5428,7 @@
     "publisher": "Konami",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -5437,7 +5437,7 @@
     "publisher": "Asmik_Ace_Entertainment",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -5446,7 +5446,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 8,
-      "sortable": "000000001990-08-01-0000",
+      "sortable": "1990-08-01",
       "year": 1990
     }
   },
@@ -5455,7 +5455,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -5464,7 +5464,7 @@
     "publisher": "SNK",
     "released": {
       "month": 2,
-      "sortable": "000000001991-02-01-0000",
+      "sortable": "1991-02-01",
       "year": 1991
     }
   },
@@ -5473,7 +5473,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -5482,7 +5482,7 @@
     "publisher": "LJN",
     "released": {
       "month": 2,
-      "sortable": "000000001988-02-01-0000",
+      "sortable": "1988-02-01",
       "year": 1988
     }
   },
@@ -5491,7 +5491,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -5500,7 +5500,7 @@
     "publisher": "Konami",
     "released": {
       "month": 4,
-      "sortable": "000000001987-04-01-0000",
+      "sortable": "1987-04-01",
       "year": 1987
     }
   },
@@ -5509,7 +5509,7 @@
     "publisher": "Konami",
     "released": {
       "month": 6,
-      "sortable": "000000001989-06-01-0000",
+      "sortable": "1989-06-01",
       "year": 1989
     }
   },
@@ -5518,7 +5518,7 @@
     "publisher": "ASC_Games",
     "released": {
       "month": 12,
-      "sortable": "000000001991-12-01-0000",
+      "sortable": "1991-12-01",
       "year": 1991
     }
   },
@@ -5527,7 +5527,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -5536,7 +5536,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 2,
-      "sortable": "000000001987-02-01-0000",
+      "sortable": "1987-02-01",
       "year": 1987
     }
   },
@@ -5545,7 +5545,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 1,
-      "sortable": "000000001990-01-01-0000",
+      "sortable": "1990-01-01",
       "year": 1990
     }
   },
@@ -5554,7 +5554,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 10,
-      "sortable": "000000001989-10-01-0000",
+      "sortable": "1989-10-01",
       "year": 1989
     }
   },
@@ -5563,7 +5563,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 2,
-      "sortable": "000000001989-02-01-0000",
+      "sortable": "1989-02-01",
       "year": 1989
     }
   },
@@ -5572,7 +5572,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 12,
-      "sortable": "000000001990-12-01-0000",
+      "sortable": "1990-12-01",
       "year": 1990
     }
   },
@@ -5581,7 +5581,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 1,
-      "sortable": "000000001993-01-01-0000",
+      "sortable": "1993-01-01",
       "year": 1993
     }
   },
@@ -5590,7 +5590,7 @@
     "publisher": "Activision",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -5599,7 +5599,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 9,
-      "sortable": "000000001990-09-01-0000",
+      "sortable": "1990-09-01",
       "year": 1990
     }
   },
@@ -5608,7 +5608,7 @@
     "publisher": "Koei",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -5617,7 +5617,7 @@
     "publisher": "Seika",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -5626,7 +5626,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001986-08-01-0000",
+      "sortable": "1986-08-01",
       "year": 1986
     }
   },
@@ -5635,7 +5635,7 @@
     "publisher": "Mindscape",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -5644,7 +5644,7 @@
     "publisher": "HAL_America",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -5653,7 +5653,7 @@
     "publisher": "Sammy_Corporation",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -5662,7 +5662,7 @@
     "publisher": "THQ",
     "released": {
       "month": 6,
-      "sortable": "000000001991-06-01-0000",
+      "sortable": "1991-06-01",
       "year": 1991
     }
   },
@@ -5671,7 +5671,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001987-03-01-0000",
+      "sortable": "1987-03-01",
       "year": 1987
     }
   },
@@ -5680,7 +5680,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -5689,7 +5689,7 @@
     "publisher": "LJN",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -5698,7 +5698,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 1,
-      "sortable": "000000001989-01-01-0000",
+      "sortable": "1989-01-01",
       "year": 1989
     }
   },
@@ -5707,7 +5707,7 @@
     "publisher": "LJN",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -5716,7 +5716,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001992-09-01-0000",
+      "sortable": "1992-09-01",
       "year": 1992
     }
   },
@@ -5725,7 +5725,7 @@
     "publisher": "Atlus",
     "released": {
       "month": 5,
-      "sortable": "000000001992-05-01-0000",
+      "sortable": "1992-05-01",
       "year": 1992
     }
   },
@@ -5734,7 +5734,7 @@
     "publisher": "SOFEL",
     "released": {
       "month": 6,
-      "sortable": "000000001990-06-01-0000",
+      "sortable": "1990-06-01",
       "year": 1990
     }
   },
@@ -5744,7 +5744,7 @@
     "released": {
       "day": 10,
       "month": 12,
-      "sortable": "000000001994-12-10-0000",
+      "sortable": "1994-12-10",
       "year": 1994
     }
   },
@@ -5753,7 +5753,7 @@
     "publisher": "THQ",
     "released": {
       "month": 11,
-      "sortable": "000000001993-11-01-0000",
+      "sortable": "1993-11-01",
       "year": 1993
     }
   },
@@ -5762,7 +5762,7 @@
     "publisher": "THQ",
     "released": {
       "month": 1,
-      "sortable": "000000001991-01-01-0000",
+      "sortable": "1991-01-01",
       "year": 1991
     }
   },
@@ -5771,7 +5771,7 @@
     "publisher": "Data_East",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -5780,7 +5780,7 @@
     "publisher": "GameTek",
     "released": {
       "month": 1,
-      "sortable": "000000001992-01-01-0000",
+      "sortable": "1992-01-01",
       "year": 1992
     }
   },
@@ -5789,7 +5789,7 @@
     "publisher": "THQ",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   },
@@ -5798,7 +5798,7 @@
     "publisher": "Konami",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -5807,7 +5807,7 @@
     "publisher": "LJN",
     "released": {
       "month": 9,
-      "sortable": "000000001989-09-01-0000",
+      "sortable": "1989-09-01",
       "year": 1989
     }
   },
@@ -5816,7 +5816,7 @@
     "publisher": "Jaleco",
     "released": {
       "month": 3,
-      "sortable": "000000001991-03-01-0000",
+      "sortable": "1991-03-01",
       "year": 1991
     }
   },
@@ -5825,7 +5825,7 @@
     "publisher": "Atlus",
     "released": {
       "month": 11,
-      "sortable": "000000001992-11-01-0000",
+      "sortable": "1992-11-01",
       "year": 1992
     }
   },
@@ -5835,7 +5835,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -5844,7 +5844,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 12,
-      "sortable": "000000001989-12-01-0000",
+      "sortable": "1989-12-01",
       "year": 1989
     }
   },
@@ -5853,7 +5853,7 @@
     "publisher": "Hi_Tech_Expressions",
     "released": {
       "month": 3,
-      "sortable": "000000001990-03-01-0000",
+      "sortable": "1990-03-01",
       "year": 1990
     }
   },
@@ -5862,7 +5862,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 9,
-      "sortable": "000000001987-09-01-0000",
+      "sortable": "1987-09-01",
       "year": 1987
     }
   },
@@ -5871,7 +5871,7 @@
     "publisher": "ASCII",
     "released": {
       "month": 4,
-      "sortable": "000000001992-04-01-0000",
+      "sortable": "1992-04-01",
       "year": 1992
     }
   },
@@ -5880,7 +5880,7 @@
     "publisher": "ASCII",
     "released": {
       "month": 7,
-      "sortable": "000000001990-07-01-0000",
+      "sortable": "1990-07-01",
       "year": 1990
     }
   },
@@ -5889,7 +5889,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 12,
-      "sortable": "000000001987-12-01-0000",
+      "sortable": "1987-12-01",
       "year": 1987
     }
   },
@@ -5898,7 +5898,7 @@
     "publisher": "Acclaim_Entertainment",
     "released": {
       "month": 3,
-      "sortable": "000000001992-03-01-0000",
+      "sortable": "1992-03-01",
       "year": 1992
     }
   },
@@ -5907,7 +5907,7 @@
     "publisher": "LJN",
     "released": {
       "month": 10,
-      "sortable": "000000001991-10-01-0000",
+      "sortable": "1991-10-01",
       "year": 1991
     }
   },
@@ -5916,7 +5916,7 @@
     "publisher": "Romstar",
     "released": {
       "month": 4,
-      "sortable": "000000001991-04-01-0000",
+      "sortable": "1991-04-01",
       "year": 1991
     }
   },
@@ -5925,7 +5925,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 8,
-      "sortable": "000000001988-08-01-0000",
+      "sortable": "1988-08-01",
       "year": 1988
     }
   },
@@ -5934,7 +5934,7 @@
     "publisher": "Milton_Bradley_Company",
     "released": {
       "month": 3,
-      "sortable": "000000001989-03-01-0000",
+      "sortable": "1989-03-01",
       "year": 1989
     }
   },
@@ -5943,7 +5943,7 @@
     "publisher": "Taito",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -5953,7 +5953,7 @@
     "released": {
       "day": 18,
       "month": 10,
-      "sortable": "000000001985-10-18-0000",
+      "sortable": "1985-10-18",
       "year": 1985
     }
   },
@@ -5962,7 +5962,7 @@
     "publisher": "Asmik_Ace_Entertainment",
     "released": {
       "month": 11,
-      "sortable": "000000001991-11-01-0000",
+      "sortable": "1991-11-01",
       "year": 1991
     }
   },
@@ -5971,7 +5971,7 @@
     "publisher": "Sunsoft",
     "released": {
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -5980,7 +5980,7 @@
     "publisher": "Bandai",
     "released": {
       "month": 9,
-      "sortable": "000000001988-09-01-0000",
+      "sortable": "1988-09-01",
       "year": 1988
     }
   },
@@ -5989,7 +5989,7 @@
     "publisher": "Hudson_Soft",
     "released": {
       "month": 4,
-      "sortable": "000000001990-04-01-0000",
+      "sortable": "1990-04-01",
       "year": 1990
     }
   },
@@ -5998,7 +5998,7 @@
     "publisher": "Capcom",
     "released": {
       "month": 11,
-      "sortable": "000000001990-11-01-0000",
+      "sortable": "1990-11-01",
       "year": 1990
     }
   },
@@ -6008,7 +6008,7 @@
     "released": {
       "day": 1,
       "month": 6,
-      "sortable": "000000001992-06-01-0000",
+      "sortable": "1992-06-01",
       "year": 1992
     }
   },
@@ -6017,7 +6017,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 4,
-      "sortable": "000000001993-04-01-0000",
+      "sortable": "1993-04-01",
       "year": 1993
     }
   },
@@ -6026,7 +6026,7 @@
     "publisher": "Fujisankei_Communications_International",
     "released": {
       "month": 10,
-      "sortable": "000000001987-10-01-0000",
+      "sortable": "1987-10-01",
       "year": 1987
     }
   },
@@ -6036,7 +6036,7 @@
     "released": {
       "day": 1,
       "month": 12,
-      "sortable": "000000001988-12-01-0000",
+      "sortable": "1988-12-01",
       "year": 1988
     }
   },
@@ -6045,7 +6045,7 @@
     "publisher": "Konami",
     "released": {
       "month": 3,
-      "sortable": "000000001993-03-01-0000",
+      "sortable": "1993-03-01",
       "year": 1993
     }
   },
@@ -6054,7 +6054,7 @@
     "publisher": "Nintendo",
     "released": {
       "month": 3,
-      "sortable": "000000001994-03-01-0000",
+      "sortable": "1994-03-01",
       "year": 1994
     }
   },
@@ -6063,7 +6063,7 @@
     "publisher": "Meldac",
     "released": {
       "month": 9,
-      "sortable": "000000001991-09-01-0000",
+      "sortable": "1991-09-01",
       "year": 1991
     }
   }
