@@ -1,5 +1,12 @@
 {
-  "NES": {
-    "name": "Nintendo Entrainment System"
+  "guid": "Nintendo",
+  "name": "Nintendo",
+  "platforms": {
+    "NES": {
+      "name": "Nintendo Entrainment System"
+    },
+    "SNES": {
+      "name": "Super Nintendo Entrainment System"
+    }
   }
 }

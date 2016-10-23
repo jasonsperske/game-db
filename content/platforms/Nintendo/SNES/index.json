@@ -1,7 +1,9 @@
 {
-  "set": {
+  "guid": "SNES",
+  "name": "Super Nintendo Entrainment System",
+  "regions": {
     "us": {
-      "label": "North American"
+      "name": "North American"
     }
   }
 }

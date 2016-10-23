@@ -1,5 +1,7 @@
 {
-  "Nintendo": {
-    "name": "Nintendo"
+  "companies": {
+    "Nintendo": {
+      "name": "Nintendo"
+    }
   }
 }

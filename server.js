@@ -49,6 +49,7 @@ cms.get('/', (req, res) => {
   res.render('pages/index');
 });
 
+cms.use('/platform', require('./routes/platform')(utils));
 cms.use('/publisher', require('./routes/publisher')(utils));
 
 cms.listen(process.env.PORT, process.env.IP, () => {

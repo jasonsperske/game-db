@@ -19,7 +19,7 @@ module.exports = (utils) => {
     let games = {};
 
     publisher.platforms.forEach((platform) => {
-      var platfrom_games = utils.readJSON('platforms/'+platform, 'games.json');
+      var platfrom_games = utils.readJSON('platforms/'+platform, 'index.json').games;
       Object.keys(platfrom_games).forEach((game) => {
         if(platfrom_games[game].publisher === publisher.guid) {
           games[platform+'/'+game] = platfrom_games[game];

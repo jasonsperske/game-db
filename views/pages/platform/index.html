@@ -1,0 +1,75 @@
+<ol class="breadcrumb">
+<: if(!locals.company) { :>
+  <li class="active">Platforms</li>
+<: } else { :>
+  <li><a href='/platform/'>Platforms</a></li>
+  <: if(!locals.platform) {:>
+    <li class="active"><:= company.name :></li>
+  <: } else { :>
+    <li><a href='/platform/<:=company.guid:>'><:= company.name :></a></li>
+    <: if(!locals.region) {:>
+      <li class="active"><:= platform.name :></li>
+    <: } else { :>
+      <li><a href='/platform/<:=company.guid:>/<:= platform.guid :>'><:= platform.name :></a></li>
+      <li class="active"><:= region.name :></li>
+    <: } :>
+  <: } :>
+<: } :>
+</ol>
+<: if(!locals.company) { :>
+  <h1>Companies</h1>
+  <: Object.keys(companies).sort().forEach((company) => { :>
+    <div class="media">
+      <div class="media-left">
+        <a href="<:= company :>">
+          <i class='fa fa-book'></i>
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="<:= company :>"><:= companies[company].name :></a></h4>
+      </div>
+    </div>
+  <: }) :>
+<: } else if(!locals.platform) { :>
+  <h1>Platforms</h1>
+  <: Object.keys(company.platforms).sort().forEach((platform) => { :>
+    <div class="media">
+      <div class="media-left">
+        <a href="<:= company.guid :>/<:= platform :>">
+          <i class='fa fa-book'></i>
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="<:= company.guid :>/<:= platform :>"><:= company.platforms[platform].name :></a></h4>
+      </div>
+    </div>
+  <: }) :>
+<: } else if(!locals.region) { :>
+  <h1>Regions</h1>
+  <: Object.keys(platform.regions).sort().forEach((region) => { :>
+    <div class="media">
+      <div class="media-left">
+        <a href="<:= platform.guid :>/<:= region :>">
+          <i class='fa fa-book'></i>
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="<:= platform.guid :>/<:= region :>"><:= platform.regions[region].name :></a></h4>
+      </div>
+    </div>
+  <: }) :>
+<: } else { :>
+  <h1>Games</h1>
+  <: Object.keys(region.games).sort().forEach((game) => { :>
+    <div class="media">
+      <div class="media-left">
+        <a href="<:= region.guid :>/<:= game :>">
+          <i class='fa fa-gamepad'></i>
+        </a>
+      </div>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="<:= region.guid :>/<:= game :>"><:= region.games[game].name :></a></h4>
+      </div>
+    </div>
+  <: }) :>
+<: } :>
