@@ -1,13 +1,4 @@
 {
-  "/w/index.php?title=Arcade_Zone&action=edit&redlink=1": {
-    "name": "Arcade Zone"
-  },
-  "/w/index.php?title=Hot-B&action=edit&redlink=1": {
-    "name": "Hot-B"
-  },
-  "/w/index.php?title=Probe_Software)&action=edit&redlink=1": {
-    "name": "Probe Software)"
-  },
   "2K_Czech": {
     "name": "Illusion Softworks"
   },
@@ -43,6 +34,9 @@
   },
   "Ape,_Inc.": {
     "name": "Ape, Inc."
+  },
+  "Arcade_Zone": {
+    "name": "Arcade Zone"
   },
   "Argonaut_Games": {
     "name": "Argonaut Games"
@@ -193,6 +187,9 @@
   },
   "HAL_Laboratory": {
     "name": "HAL Laboratory"
+  },
+  "Hot-B": {
+    "name": "Hot-B"
   },
   "Hudson_Soft": {
     "name": "Hudson Soft"
@@ -350,6 +347,9 @@
   "Park_Place_Productions": {
     "name": "Park Place Productions"
   },
+  "Probe_Software": {
+    "name": "Probe Software"
+  },
   "Produce": {
     "name": "Produce"
   },
@@ -449,7 +449,7 @@
   "Takara": {
     "name": "Takara"
   },
-  "Techn%C5%8Ds_Japan": {
+  "Technōs_Japan": {
     "name": "Technōs Japan"
   },
   "Technology_and_Entertainment_Software": {
