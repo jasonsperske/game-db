@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "name": "The Legend of the Mystical Ninja",
+  "publisher": "Konami",
+  "released": {
+    "day": 30,
+    "month": 6,
+    "sortable": "1992-06-30",
+    "year": 1992
+  }
+}

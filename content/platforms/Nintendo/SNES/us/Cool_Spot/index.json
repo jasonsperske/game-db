@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Virgin_Interactive"
+  ],
+  "name": "Cool Spot",
+  "publisher": "Virgin_Interactive",
+  "released": {
+    "day": 1,
+    "month": 9,
+    "sortable": "1993-09-01",
+    "year": 1993
+  }
+}

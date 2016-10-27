@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "name": "Super Mario RPG: Legend of the Seven Stars",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 13,
+    "month": 5,
+    "sortable": "1996-05-13",
+    "year": 1996
+  }
+}

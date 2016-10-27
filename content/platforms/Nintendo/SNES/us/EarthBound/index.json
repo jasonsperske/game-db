@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "HAL_Laboratory",
+    "Ape,_Inc."
+  ],
+  "name": "EarthBound",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 5,
+    "month": 6,
+    "sortable": "1995-06-05",
+    "year": 1995
+  }
+}

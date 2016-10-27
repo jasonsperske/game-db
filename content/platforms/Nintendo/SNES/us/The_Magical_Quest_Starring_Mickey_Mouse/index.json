@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Capcom"
+  ],
+  "name": "The Magical Quest Starring Mickey Mouse",
+  "publisher": "Capcom",
+  "released": {
+    "day": 23,
+    "month": 12,
+    "sortable": "1992-12-23",
+    "year": 1992
+  }
+}

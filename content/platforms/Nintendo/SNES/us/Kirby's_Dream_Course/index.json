@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "HAL_Laboratory"
+  ],
+  "name": "Kirby's Dream Course",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 28,
+    "month": 2,
+    "sortable": "1995-02-28",
+    "year": 1995
+  }
+}

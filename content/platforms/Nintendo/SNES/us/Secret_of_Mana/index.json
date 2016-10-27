@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "name": "Secret of Mana",
+  "publisher": "Square",
+  "released": {
+    "day": 3,
+    "month": 10,
+    "sortable": "1993-10-03",
+    "year": 1993
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "developers": [
+    "THQ"
+  ],
+  "name": "SimCity 2000",
+  "publisher": "THQ",
+  "released": {
+    "sortable": "1996-01-01",
+    "year": 1996
+  }
+}

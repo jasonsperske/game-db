@@ -1,0 +1,11 @@
+{
+  "developers": [
+    "Namco"
+  ],
+  "name": "Pac-Attack",
+  "publisher": "Namco",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

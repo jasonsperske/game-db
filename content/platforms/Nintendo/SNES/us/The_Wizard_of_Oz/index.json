@@ -1,0 +1,11 @@
+{
+  "developers": [
+    "SETA_Corporation"
+  ],
+  "name": "The Wizard of Oz",
+  "publisher": "SETA_Corporation",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

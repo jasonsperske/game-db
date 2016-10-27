@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Video_System"
+  ],
+  "name": "Aero Fighters",
+  "publisher": "Video_System",
+  "released": {
+    "day": 1,
+    "month": 11,
+    "sortable": "1994-11-01",
+    "year": 1994
+  }
+}

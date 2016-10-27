@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Acclaim_Cheltenham"
+  ],
+  "name": "Batman Forever",
+  "publisher": "Acclaim_Entertainment",
+  "released": {
+    "day": 26,
+    "month": 10,
+    "sortable": "1995-10-26",
+    "year": 1995
+  }
+}

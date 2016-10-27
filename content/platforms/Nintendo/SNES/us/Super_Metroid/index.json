@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Nintendo"
+  ],
+  "name": "Super Metroid",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 18,
+    "month": 4,
+    "sortable": "1994-04-18",
+    "year": 1994
+  }
+}

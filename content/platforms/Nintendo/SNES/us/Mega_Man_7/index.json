@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Capcom"
+  ],
+  "name": "Mega Man 7",
+  "publisher": "Capcom",
+  "released": {
+    "day": 30,
+    "month": 9,
+    "sortable": "1995-09-30",
+    "year": 1995
+  }
+}

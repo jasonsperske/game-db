@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Nintendo"
+  ],
+  "name": "TetrisDr. Mario",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 30,
+    "month": 12,
+    "sortable": "1994-12-30",
+    "year": 1994
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Taito_Corporation"
+  ],
+  "name": "Hit the Ice",
+  "publisher": "Taito_Corporation",
+  "released": {
+    "day": 1,
+    "month": 2,
+    "sortable": "1993-02-01",
+    "year": 1993
+  }
+}

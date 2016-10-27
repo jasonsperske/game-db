@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Imagineering"
+  ],
+  "name": "Family Feud",
+  "publisher": "GameTek",
+  "released": {
+    "day": 13,
+    "month": 9,
+    "sortable": "1993-09-13",
+    "year": 1993
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "HAL_Laboratory"
+  ],
+  "name": "Kirby Super Star",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 20,
+    "month": 9,
+    "sortable": "1996-09-20",
+    "year": 1996
+  }
+}

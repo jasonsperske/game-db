@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Capcom"
+  ],
+  "name": "Disney's Aladdin",
+  "publisher": "Capcom",
+  "released": {
+    "day": 21,
+    "month": 11,
+    "sortable": "1993-11-21",
+    "year": 1993
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Atlus"
+  ],
+  "name": "GP-1",
+  "publisher": "Atlus",
+  "released": {
+    "day": 29,
+    "month": 10,
+    "sortable": "1993-10-29",
+    "year": 1993
+  }
+}

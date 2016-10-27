@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Capcom"
+  ],
+  "name": "Breath of Fire",
+  "publisher": "Square",
+  "released": {
+    "day": 10,
+    "month": 8,
+    "sortable": "1994-08-10",
+    "year": 1994
+  }
+}

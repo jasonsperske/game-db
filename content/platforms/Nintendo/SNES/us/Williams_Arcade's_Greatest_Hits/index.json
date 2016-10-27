@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Backbone_Entertainment"
+  ],
+  "name": "Williams Arcade's Greatest Hits",
+  "publisher": "Midway_Games",
+  "released": {
+    "day": 31,
+    "month": 10,
+    "sortable": "1996-10-31",
+    "year": 1996
+  }
+}

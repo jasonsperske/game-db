@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "SNK_Playmore"
+  ],
+  "name": "Art of Fighting",
+  "publisher": "Takara",
+  "released": {
+    "day": 1,
+    "month": 12,
+    "sortable": "1993-12-01",
+    "year": 1993
+  }
+}

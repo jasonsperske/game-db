@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "name": "Final Fantasy Mystic Quest",
+  "publisher": "Square",
+  "released": {
+    "day": 5,
+    "month": 10,
+    "sortable": "1992-10-05",
+    "year": 1992
+  }
+}

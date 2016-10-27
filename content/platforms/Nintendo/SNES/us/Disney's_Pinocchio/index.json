@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Virgin_Interactive"
+  ],
+  "name": "Disney's Pinocchio",
+  "publisher": "Disney_Interactive",
+  "released": {
+    "day": 1,
+    "month": 11,
+    "sortable": "1996-11-01",
+    "year": 1996
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Core_Design"
+  ],
+  "name": "Chuck Rock",
+  "publisher": "Sony_Imagesoft",
+  "released": {
+    "day": 1,
+    "month": 11,
+    "sortable": "1992-11-01",
+    "year": 1992
+  }
+}

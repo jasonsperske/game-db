@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Imagineer"
+  ],
+  "name": "Mr. Do!",
+  "publisher": "THQ",
+  "released": {
+    "day": 1,
+    "month": 12,
+    "sortable": "1996-12-01",
+    "year": 1996
+  }
+}

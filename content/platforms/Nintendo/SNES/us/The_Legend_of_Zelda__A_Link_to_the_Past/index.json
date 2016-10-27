@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Nintendo"
+  ],
+  "name": "The Legend of Zelda: A Link to the Past",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 13,
+    "month": 4,
+    "sortable": "1992-04-13",
+    "year": 1992
+  }
+}

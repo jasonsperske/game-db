@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Kemco"
+  ],
+  "name": "First Samurai",
+  "publisher": "Kemco",
+  "released": {
+    "day": 2,
+    "month": 7,
+    "sortable": "1993-07-02",
+    "year": 1993
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Arsys_Software"
+  ],
+  "name": "Prince of Persia",
+  "publisher": "Konami",
+  "released": {
+    "day": 1,
+    "month": 11,
+    "sortable": "1992-11-01",
+    "year": 1992
+  }
+}

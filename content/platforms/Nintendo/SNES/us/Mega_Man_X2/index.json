@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Capcom"
+  ],
+  "name": "Mega Man X2",
+  "publisher": "Capcom",
+  "released": {
+    "day": 6,
+    "month": 1,
+    "sortable": "1995-01-06",
+    "year": 1995
+  }
+}

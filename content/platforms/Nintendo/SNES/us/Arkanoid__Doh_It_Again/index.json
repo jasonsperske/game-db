@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Taito_Corporation"
+  ],
+  "name": "Arkanoid: Doh It Again",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 1,
+    "month": 10,
+    "sortable": "1997-10-01",
+    "year": 1997
+  }
+}

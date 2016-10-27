@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Altron"
+  ],
+  "name": "Home Alone",
+  "publisher": "THQ",
+  "released": {
+    "day": 30,
+    "month": 12,
+    "sortable": "1991-12-30",
+    "year": 1991
+  }
+}

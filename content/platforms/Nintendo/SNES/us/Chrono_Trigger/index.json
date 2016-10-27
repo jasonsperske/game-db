@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "name": "Chrono Trigger",
+  "publisher": "Square",
+  "released": {
+    "day": 22,
+    "month": 8,
+    "sortable": "1995-08-22",
+    "year": 1995
+  }
+}

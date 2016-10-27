@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Ocean_Software"
+  ],
+  "name": "Jurassic Park",
+  "publisher": "Ocean_Software",
+  "released": {
+    "day": 30,
+    "month": 11,
+    "sortable": "1993-11-30",
+    "year": 1993
+  }
+}

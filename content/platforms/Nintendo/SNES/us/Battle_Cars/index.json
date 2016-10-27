@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Namco"
+  ],
+  "name": "Battle Cars",
+  "publisher": "Namco",
+  "released": {
+    "day": 11,
+    "month": 10,
+    "sortable": "1993-10-11",
+    "year": 1993
+  }
+}

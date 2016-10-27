@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Blue_Planet_Software"
+  ],
+  "name": "Yoshi's Cookie",
+  "publisher": "Blue_Planet_Software",
+  "released": {
+    "day": 1,
+    "month": 4,
+    "sortable": "1993-04-01",
+    "year": 1993
+  }
+}

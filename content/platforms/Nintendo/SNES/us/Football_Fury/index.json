@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Sammy_Corporation"
+  ],
+  "name": "Football Fury",
+  "publisher": "Sammy_Corporation",
+  "released": {
+    "day": 1,
+    "month": 10,
+    "sortable": "1993-10-01",
+    "year": 1993
+  }
+}

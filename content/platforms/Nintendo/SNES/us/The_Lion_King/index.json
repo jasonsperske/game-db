@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Westwood_Studios"
+  ],
+  "name": "The Lion King",
+  "publisher": "Virgin_Interactive",
+  "released": {
+    "day": 8,
+    "month": 12,
+    "sortable": "1994-12-08",
+    "year": 1994
+  }
+}

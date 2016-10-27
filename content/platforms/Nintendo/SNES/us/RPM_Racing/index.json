@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Blizzard_Entertainment"
+  ],
+  "name": "RPM Racing",
+  "publisher": "Interplay_Entertainment",
+  "released": {
+    "day": 1,
+    "month": 11,
+    "sortable": "1991-11-01",
+    "year": 1991
+  }
+}

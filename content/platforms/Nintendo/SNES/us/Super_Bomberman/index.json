@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Hudson_Soft"
+  ],
+  "name": "Super Bomberman",
+  "publisher": "Hudson_Soft",
+  "released": {
+    "day": 10,
+    "month": 5,
+    "sortable": "1993-05-10",
+    "year": 1993
+  }
+}

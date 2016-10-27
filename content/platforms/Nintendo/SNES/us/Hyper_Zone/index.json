@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "HAL_Laboratory"
+  ],
+  "name": "Hyper Zone",
+  "publisher": "HAL_Laboratory",
+  "released": {
+    "day": 1,
+    "month": 9,
+    "sortable": "1991-09-01",
+    "year": 1991
+  }
+}

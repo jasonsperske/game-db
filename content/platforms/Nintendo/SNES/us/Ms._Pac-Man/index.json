@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Digital_Eclipse_Software"
+  ],
+  "name": "Ms. Pac-Man",
+  "publisher": "WMS_Industries",
+  "released": {
+    "day": 1,
+    "month": 9,
+    "sortable": "1996-09-01",
+    "year": 1996
+  }
+}

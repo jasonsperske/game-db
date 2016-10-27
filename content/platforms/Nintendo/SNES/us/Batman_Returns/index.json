@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "name": "Batman Returns",
+  "publisher": "Konami",
+  "released": {
+    "day": 31,
+    "month": 5,
+    "sortable": "1993-05-31",
+    "year": 1993
+  }
+}

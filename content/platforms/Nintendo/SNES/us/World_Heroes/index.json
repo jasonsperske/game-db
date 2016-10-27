@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "ADK",
+    "SNK_Playmore"
+  ],
+  "name": "World Heroes",
+  "publisher": "Sunsoft",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

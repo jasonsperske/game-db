@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Sculptured_Software"
+  ],
+  "name": "NCAA Basketball",
+  "publisher": "HAL_Laboratory",
+  "released": {
+    "day": 1,
+    "month": 10,
+    "sortable": "1992-10-01",
+    "year": 1992
+  }
+}

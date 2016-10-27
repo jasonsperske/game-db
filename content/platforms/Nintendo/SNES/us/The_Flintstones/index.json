@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Ocean_Software"
+  ],
+  "name": "The Flintstones",
+  "publisher": "Ocean_Software",
+  "released": {
+    "day": 1,
+    "month": 2,
+    "sortable": "1995-02-01",
+    "year": 1995
+  }
+}

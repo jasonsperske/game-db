@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Tecmo"
+  ],
+  "name": "Ninja Gaiden Trilogy",
+  "publisher": "Tecmo",
+  "released": {
+    "day": 10,
+    "month": 8,
+    "sortable": "1995-08-10",
+    "year": 1995
+  }
+}

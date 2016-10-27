@@ -25,7 +25,7 @@ const express = require('express'),
             if (err) {
               console.error(err);
             } else {
-              fs.writeFile(path.join(__dirname, './content/', base, '/', filename), JSON.stringify(data, null, 2), then);
+              fs.writeFile(path.join(__dirname, './content/', base, '/', filename)+'\n', JSON.stringify(data, null, 2), then);
             }
           });
         }

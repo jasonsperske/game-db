@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "SCE_Studio_Liverpool"
+  ],
+  "name": "Lemmings",
+  "publisher": "Sunsoft",
+  "released": {
+    "day": 1,
+    "month": 3,
+    "sortable": "1992-03-01",
+    "year": 1992
+  }
+}

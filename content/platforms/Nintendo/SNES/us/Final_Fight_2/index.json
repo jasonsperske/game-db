@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Capcom"
+  ],
+  "name": "Final Fight 2",
+  "publisher": "Capcom",
+  "released": {
+    "day": 15,
+    "month": 8,
+    "sortable": "1993-08-15",
+    "year": 1993
+  }
+}

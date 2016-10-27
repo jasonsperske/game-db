@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Ocean_Software"
+  ],
+  "name": "The Addams Family",
+  "publisher": "Ocean_Software",
+  "released": {
+    "day": 10,
+    "month": 3,
+    "sortable": "1992-03-10",
+    "year": 1992
+  }
+}

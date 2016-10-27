@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Nintendo"
+  ],
+  "name": "Super Mario Kart",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 1,
+    "month": 9,
+    "sortable": "1992-09-01",
+    "year": 1992
+  }
+}

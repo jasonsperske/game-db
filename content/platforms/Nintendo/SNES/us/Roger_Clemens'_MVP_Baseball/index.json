@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Sculptured_Software"
+  ],
+  "name": "Roger Clemens' MVP Baseball",
+  "publisher": "LJN",
+  "released": {
+    "day": 12,
+    "month": 9,
+    "sortable": "1992-09-12",
+    "year": 1992
+  }
+}

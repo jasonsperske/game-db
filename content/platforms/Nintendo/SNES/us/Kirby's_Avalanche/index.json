@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Compile",
+    "HAL_Laboratory"
+  ],
+  "name": "Kirby's Avalanche",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 25,
+    "month": 4,
+    "sortable": "1995-04-25",
+    "year": 1995
+  }
+}

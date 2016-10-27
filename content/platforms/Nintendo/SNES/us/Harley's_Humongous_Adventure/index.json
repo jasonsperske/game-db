@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Visual_Concepts"
+  ],
+  "name": "Harley's Humongous Adventure",
+  "publisher": "Hi_Tech_Expressions",
+  "released": {
+    "day": 1,
+    "month": 2,
+    "sortable": "1993-02-01",
+    "year": 1993
+  }
+}

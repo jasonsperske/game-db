@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Sculptured_Software"
+  ],
+  "name": "Doom",
+  "publisher": "WMS_Industries",
+  "released": {
+    "day": 1,
+    "month": 9,
+    "sortable": "1995-09-01",
+    "year": 1995
+  }
+}
