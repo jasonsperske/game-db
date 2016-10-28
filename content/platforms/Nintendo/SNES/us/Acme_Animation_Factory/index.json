@@ -2,6 +2,7 @@
   "developers": [
     "Sunsoft"
   ],
+  "guid": "Acme_Animation_Factory",
   "name": "Acme Animation Factory",
   "publisher": "Sunsoft",
   "released": {

@@ -2,6 +2,26 @@
 const fs = require('fs'),
       path = require('path'),
       mkdirp = require('mkdirp'),
+      _ = require('underscore'),
+      sort = (object) => {
+        //Adapted from https://zackehh.com/sorting-object-recursively-node-jsjavascript/
+        let sorted = {},
+            keys = _.keys(object);
+
+        keys = _.sortBy(keys, function(key){
+          return key;
+        });
+
+        _.each(keys, function(key) {
+          if(typeof object[key] == 'object' && !(object[key] instanceof Array)){
+            sorted[key] = sort(object[key]);
+          } else {
+            sorted[key] = object[key];
+          }
+        });
+
+        return sorted;
+      },
       read = (base) => {
         try {
           fs.accessSync(path.join(__dirname, 'content', base, 'index.json'), fs.R_OK | fs.W_OK);
@@ -17,7 +37,7 @@ const fs = require('fs'),
           if (err) {
             console.error(err);
           } else {
-            fs.writeFile(path.join(__dirname, './content/', base, '/index.json'), JSON.stringify(data, null, 2)+'\n');
+            fs.writeFile(path.join(__dirname, './content/', base, '/index.json'), JSON.stringify(sort(data), null, 2)+'\n');
           }
         });
       };
@@ -31,6 +51,7 @@ const fs = require('fs'),
 // [] every JSON is valid and formatted
 
 let root = read('platforms');
+let delevopers = read('developers');
 Object.keys(root.companies).forEach((company) => {
   company = read(`platforms/${company}`);
   Object.keys(company.platforms).forEach((platform) => {
@@ -39,7 +60,9 @@ Object.keys(root.companies).forEach((company) => {
       region = read(`platforms/${company.guid}/${platform.guid}/${region}`);
       Object.keys(region.games).forEach((guid) => {
         let game = read(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`);
-        game['guid'] = guid;
+
+        //Makre
+        //Check and clead
         save(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`, game);
         console.log(company.guid, '>', platform.guid, '>', region.guid, '>', game.name);
       });
