@@ -51,7 +51,8 @@ const fs = require('fs'),
 // [] every JSON is valid and formatted
 
 let root = read('platforms');
-let delevopers = read('developers');
+let publishers = read('publishers');
+
 Object.keys(root.companies).forEach((company) => {
   company = read(`platforms/${company}`);
   Object.keys(company.platforms).forEach((platform) => {
@@ -61,7 +62,17 @@ Object.keys(root.companies).forEach((company) => {
       Object.keys(region.games).forEach((guid) => {
         let game = read(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`);
 
-        //Makre
+        //Make sure there is a publisher profile
+
+        let publisher = read(`publishers/${game.publisher}`);
+        if(publisher.platforms) {
+          if(!_.contains(publisher.platforms, `${company.guid}/${platform.guid}/${region.guid}`)) {
+            publisher.platforms.push(`${company.guid}/${platform.guid}/${region.guid}`);
+          }
+        } else {
+          publisher['platforms'] = [`${company.guid}/${platform.guid}/${region.guid}`];
+        }
+        save(`publishers/${game.publisher}`, publisher);
         //Check and clead
         save(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`, game);
         console.log(company.guid, '>', platform.guid, '>', region.guid, '>', game.name);
