@@ -10,6 +10,8 @@ gulp.task('script', function() {
                      'src/bower/bootstrap-sass/assets/javascripts/bootstrap.js',
                      'src/bower/ace-builds/src-noconflict/ace.js',
                      'src/bower/moment/moment.js',
+                     'src/bower/datatables.net/js/jquery.dataTables.js',
+                     'src/bower/datatables.net-bs/js/dataTables.bootstrap.js',
                      'src/script/cms.js'
                    ], {base: './src'})
                .pipe(uglify())

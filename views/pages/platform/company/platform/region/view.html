@@ -1,0 +1,26 @@
+<ol class="breadcrumb">
+  <li><a href='/platform/'>Platforms</a></li>
+  <li><a href='/platform/<:=company.guid:>'><:= company.name :></a></li>
+  <li><a href='/platform/<:=company.guid:>/<:= platform.guid :>'><:= platform.name :></a></li>
+  <li class="active"><:= region.name :></li>
+</ol>
+<table class='table' id='Games' data-page-length="100">
+  <caption>Games</caption>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Released</th>
+    </tr>
+  </thead>
+  <tbody>
+<: Object.keys(region.games).sort().forEach((game) => { :>
+  <tr>
+    <td><a href="<:= region.guid :>/<:= game :>"><:= region.games[game].name :></a></td>
+    <td data-order='<:=region.games[game].released.sortable:>'><:= releasedOn(region.games[game]) :></td>
+  </tr>
+<: }) :>
+  </tbody>
+</table>
+<script>
+  $('#Games').DataTable();
+</script>

@@ -1,0 +1,18 @@
+<ol class="breadcrumb">
+  <li><a href='/platform/'>Platforms</a></li>
+  <li><a href='/platform/<:=company.guid:>'><:= company.name :></a></li>
+  <li class="active"><:= platform.name :></li>
+</ol>
+<h1>Regions</h1>
+<: Object.keys(platform.regions).sort().forEach((region) => { :>
+  <div class="media">
+    <div class="media-left">
+      <a href="<:= platform.guid :>/<:= region :>">
+        <i class='fa fa-book'></i>
+      </a>
+    </div>
+    <div class="media-body">
+      <h4 class="media-heading"><a href="<:= platform.guid :>/<:= region :>"><:= platform.regions[region].name :></a></h4>
+    </div>
+  </div>
+<: }) :>

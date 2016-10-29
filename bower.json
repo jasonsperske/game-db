@@ -19,6 +19,8 @@
     "bootstrap-sass": "*",
     "font-awesome": "*",
     "moment": "*",
-    "ace-builds": "*"
+    "ace-builds": "*",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12"
   }
 }
