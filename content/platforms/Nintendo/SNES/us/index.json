@@ -567,7 +567,7 @@
     },
     "Battletoads_Double_Dragon": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Battletoads & Double Dragon",
       "publisher": "Tradewest",
@@ -580,7 +580,7 @@
     },
     "Battletoads_in_Battlemaniacs": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Battletoads in Battlemaniacs",
       "publisher": "Tradewest",
@@ -1030,6 +1030,7 @@
         "Silicon_Sorcery"
       ],
       "name": "California Games 2",
+      "publisher": "DTMC",
       "released": {
         "day": 1,
         "month": 1,
@@ -1653,7 +1654,7 @@
     },
     "Donkey_Kong_Country": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Donkey Kong Country",
       "publisher": "Nintendo",
@@ -1666,7 +1667,7 @@
     },
     "Donkey_Kong_Country_2_Diddy's_Kong_Quest": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Donkey Kong Country 2: Diddy's Kong Quest",
       "publisher": "Nintendo",
@@ -1679,7 +1680,7 @@
     },
     "Donkey_Kong_Country_3_Dixie_Kong's_Double_Trouble": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
       "publisher": "Nintendo",
@@ -3009,7 +3010,7 @@
       "developers": [
         "Sammy_Corporation"
       ],
-      "name": "",
+      "name": "Jimmy_Houston's Bass Tournament U.S.A.",
       "publisher": "Sammy_Corporation",
       "released": {
         "day": 1,
@@ -3150,7 +3151,7 @@
     },
     "Ken_Griffey_Jr.'s_Winning_Run": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Ken Griffey Jr.'s Winning Run",
       "publisher": "Nintendo",
@@ -3198,7 +3199,7 @@
     },
     "Killer_Instinct": {
       "developers": [
-        "Rare_Ltd."
+        "Rare_Ltd"
       ],
       "name": "Killer Instinct",
       "publisher": "Nintendo",
