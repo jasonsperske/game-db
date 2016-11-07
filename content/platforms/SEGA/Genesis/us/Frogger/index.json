@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami",
+    "Morning_Star_Multimedia"
+  ],
+  "guid": "Frogger",
+  "name": "Frogger",
+  "publisher": "Majesco_Sales",
+  "released": {
+    "sortable": "1998-01-01",
+    "year": 1998
+  }
+}

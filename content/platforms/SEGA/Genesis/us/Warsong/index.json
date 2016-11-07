@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NCS",
+    "Cube"
+  ],
+  "guid": "Warsong",
+  "name": "Warsong",
+  "publisher": "Treco",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

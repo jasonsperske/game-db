@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "SNK",
+    "Takara",
+    "Aspect"
+  ],
+  "guid": "Fatal_Fury_2",
+  "name": "Fatal Fury 2",
+  "publisher": "Takara",
+  "released": {
+    "sortable": "1994-01-01",
+    "year": 1994
+  }
+}

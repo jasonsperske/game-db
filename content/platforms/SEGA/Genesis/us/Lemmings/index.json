@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "DMA_Design",
+    "Sunsoft"
+  ],
+  "guid": "Lemmings",
+  "name": "Lemmings",
+  "publisher": "Sunsoft",
+  "released": {
+    "sortable": "1992-01-01",
+    "year": 1992
+  }
+}

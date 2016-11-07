@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Codemasters"
+  ],
+  "guid": "Micro_Machines",
+  "name": "Micro Machines",
+  "publisher": "Codemasters",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

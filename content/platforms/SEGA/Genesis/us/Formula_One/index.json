@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Lankhor",
+    "Tiertex",
+    "Domark"
+  ],
+  "guid": "Formula_One",
+  "name": "Formula One",
+  "publisher": "Domark",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

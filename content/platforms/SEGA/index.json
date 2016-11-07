@@ -1,0 +1,9 @@
+{
+  "guid": "SEGA",
+  "name": "Sega",
+  "platforms": {
+    "Genesis": {
+      "name": "Genesis"
+    }
+  }
+}

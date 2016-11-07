@@ -1,0 +1,9 @@
+{
+  "guid": "Genesis",
+  "name": "Genesis",
+  "regions": {
+    "us": {
+      "name": "North American"
+    }
+  }
+}

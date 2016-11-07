@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Disney_Interactive",
+    "Creative_Capers"
+  ],
+  "guid": "Donald_in_Maui_Mallard",
+  "name": "Donald in Maui Mallard",
+  "publisher": "Disney_Interactive",
+  "released": {
+    "sortable": "1995-01-01",
+    "year": 1995
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Core_Design"
+  ],
+  "guid": "Skeleton_Krew",
+  "name": "Skeleton Krew",
+  "publisher": "Core_Design",
+  "released": {
+    "sortable": "1995-01-01",
+    "year": 1995
+  }
+}

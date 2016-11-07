@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Gray_Matter_Inc",
+    "Imagexcel",
+    "Punk_Development"
+  ],
+  "guid": "Techno_Cop",
+  "name": "Techno Cop",
+  "publisher": "RazorSoft",
+  "released": {
+    "sortable": "1990-01-01",
+    "year": 1990
+  }
+}

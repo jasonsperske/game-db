@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Brøderbund",
+    "Domark"
+  ],
+  "guid": "Prince_of_Persia",
+  "name": "Prince of Persia",
+  "publisher": "Tengen",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

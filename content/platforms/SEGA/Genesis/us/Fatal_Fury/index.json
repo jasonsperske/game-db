@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "SNK",
+    "Takara",
+    "Aspect"
+  ],
+  "guid": "Fatal_Fury",
+  "name": "Fatal Fury",
+  "publisher": "Takara",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

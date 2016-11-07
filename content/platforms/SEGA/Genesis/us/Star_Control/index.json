@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Toys_For_Bob"
+  ],
+  "guid": "Star_Control",
+  "name": "Star Control",
+  "publisher": "Accolade",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Discovery_Software",
+    "Cyclone_System",
+    "Sigma_Pro-Tech"
+  ],
+  "guid": "Zoom!",
+  "name": "Zoom!",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1989-01-01",
+    "year": 1989
+  }
+}

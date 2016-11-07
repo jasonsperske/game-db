@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sega"
+  ],
+  "guid": "Shadow_Dancer",
+  "name": "Shadow Dancer",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1990-01-01",
+    "year": 1990
+  }
+}

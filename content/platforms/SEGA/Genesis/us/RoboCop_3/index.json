@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Ocean_Software",
+    "Eden_Entertainment",
+    "Krisalis_Software"
+  ],
+  "guid": "RoboCop_3",
+  "name": "RoboCop 3",
+  "publisher": "Flying_Edge",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Disney_Interactive",
+    "Creative_Capers",
+    "Renegade_Animation"
+  ],
+  "guid": "Gargoyles",
+  "name": "Gargoyles",
+  "publisher": "Buena_Vista_Interactive",
+  "released": {
+    "sortable": "1995-01-01",
+    "year": 1995
+  }
+}

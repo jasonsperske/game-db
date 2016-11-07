@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Namco"
+  ],
+  "guid": "Powerball",
+  "name": "Powerball",
+  "publisher": "Namco_Hometek",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Atari_Games",
+    "Motivetime",
+    "Arc_Developments"
+  ],
+  "guid": "Paperboy",
+  "name": "Paperboy",
+  "publisher": "Tengen",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

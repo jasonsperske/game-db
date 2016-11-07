@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NCS",
+    "Cube"
+  ],
+  "guid": "Wings_of_Wor",
+  "name": "Wings of Wor",
+  "publisher": "DreamWorks",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

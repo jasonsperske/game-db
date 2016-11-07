@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Core_Design"
+  ],
+  "guid": "Chuck_Rock",
+  "name": "Chuck Rock",
+  "publisher": "Virgin_Games",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

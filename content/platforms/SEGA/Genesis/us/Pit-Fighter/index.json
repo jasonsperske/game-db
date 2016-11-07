@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Atari_Games",
+    "Sterling_Silver_Software"
+  ],
+  "guid": "Pit-Fighter",
+  "name": "Pit-Fighter",
+  "publisher": "Tengen",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

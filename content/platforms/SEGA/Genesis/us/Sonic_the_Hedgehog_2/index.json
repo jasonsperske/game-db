@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sonic_Team"
+  ],
+  "guid": "Sonic_the_Hedgehog_2",
+  "name": "Sonic the Hedgehog 2",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1992-01-01",
+    "year": 1992
+  }
+}

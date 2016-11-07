@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Namco"
+  ],
+  "guid": "Burning_Force",
+  "name": "Burning Force",
+  "publisher": "Namco",
+  "released": {
+    "sortable": "1990-01-01",
+    "year": 1990
+  }
+}

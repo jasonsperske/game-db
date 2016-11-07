@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sonic_Team"
+  ],
+  "guid": "Sonic_the_Hedgehog",
+  "name": "Sonic the Hedgehog",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

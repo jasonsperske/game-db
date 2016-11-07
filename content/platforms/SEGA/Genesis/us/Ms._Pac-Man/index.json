@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Tengen"
+  ],
+  "guid": "Ms._Pac-Man",
+  "name": "Ms. Pac-Man",
+  "publisher": "Tengen",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

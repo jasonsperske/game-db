@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Sega",
+    "Probe_Software",
+    "Krisalis_Software"
+  ],
+  "guid": "G-LOC_Air_Battle",
+  "name": "G-LOC: Air Battle",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1992-01-01",
+    "year": 1992
+  }
+}

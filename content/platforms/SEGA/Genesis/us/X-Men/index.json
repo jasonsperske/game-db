@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Western_Technologies"
+  ],
+  "guid": "X-Men",
+  "name": "X-Men",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

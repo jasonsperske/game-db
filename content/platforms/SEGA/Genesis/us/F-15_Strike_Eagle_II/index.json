@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "MicroProse_UK",
+    "Krisalis_Software"
+  ],
+  "guid": "F-15_Strike_Eagle_II",
+  "name": "F-15 Strike Eagle II",
+  "publisher": "MicroProse",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

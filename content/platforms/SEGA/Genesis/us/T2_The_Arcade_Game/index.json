@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Probe_Software",
+    "Krisalis_Software"
+  ],
+  "guid": "T2_The_Arcade_Game",
+  "name": "T2: The Arcade Game",
+  "publisher": "Arena_Entertainment",
+  "released": {
+    "sortable": "1992-01-01",
+    "year": 1992
+  }
+}

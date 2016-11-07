@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "guid": "Rocket_Knight_Adventures",
+  "name": "Rocket Knight Adventures",
+  "publisher": "Konami",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

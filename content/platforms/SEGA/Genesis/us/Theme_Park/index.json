@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Bullfrog_Productions",
+    "Images_Software"
+  ],
+  "guid": "Theme_Park",
+  "name": "Theme Park",
+  "publisher": "Electronic_Arts",
+  "released": {
+    "sortable": "1995-01-01",
+    "year": 1995
+  }
+}

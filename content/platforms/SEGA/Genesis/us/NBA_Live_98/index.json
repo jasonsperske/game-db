@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NuFX",
+    "Tiertex"
+  ],
+  "guid": "NBA_Live_98",
+  "name": "NBA Live 98",
+  "publisher": "EA_Sports",
+  "released": {
+    "sortable": "1997-01-01",
+    "year": 1997
+  }
+}

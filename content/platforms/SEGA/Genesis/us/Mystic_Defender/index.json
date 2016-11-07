@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sega"
+  ],
+  "guid": "Mystic_Defender",
+  "name": "Mystic Defender",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1989-01-01",
+    "year": 1989
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Westwood_Studios",
+    "Disney_Software"
+  ],
+  "guid": "The_Lion_King",
+  "name": "The Lion King",
+  "publisher": "Virgin_Interactive",
+  "released": {
+    "sortable": "1994-01-01",
+    "year": 1994
+  }
+}

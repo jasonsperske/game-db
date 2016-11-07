@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Sega_AM3",
+    "CRI",
+    "Cube"
+  ],
+  "guid": "Galaxy_Force_II",
+  "name": "Galaxy Force II",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Epyx",
+    "Novotrade"
+  ],
+  "guid": "California_Games",
+  "name": "California Games",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "SNK",
+    "Sega"
+  ],
+  "guid": "Art_of_Fighting",
+  "name": "Art of Fighting",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1994-01-01",
+    "year": 1994
+  }
+}

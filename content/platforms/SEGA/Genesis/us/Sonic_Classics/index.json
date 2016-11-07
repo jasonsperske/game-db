@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sega_Technical_Institute"
+  ],
+  "guid": "Sonic_Classics",
+  "name": "Sonic Classics",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1997-01-01",
+    "year": 1997
+  }
+}

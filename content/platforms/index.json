@@ -2,6 +2,9 @@
   "companies": {
     "Nintendo": {
       "name": "Nintendo"
+    },
+    "SEGA": {
+      "name": "SEGA"
     }
   }
 }

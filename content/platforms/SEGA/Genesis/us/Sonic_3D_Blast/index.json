@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Traveller's_Tales"
+  ],
+  "guid": "Sonic_3D_Blast",
+  "name": "Sonic 3D Blast",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1996-01-01",
+    "year": 1996
+  }
+}

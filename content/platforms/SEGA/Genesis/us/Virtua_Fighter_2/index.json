@@ -1,0 +1,15 @@
+{
+  "developers": [
+    "Sega_AM2",
+    "Success",
+    "Gaibrain",
+    "Winds"
+  ],
+  "guid": "Virtua_Fighter_2",
+  "name": "Virtua Fighter 2",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1996-01-01",
+    "year": 1996
+  }
+}

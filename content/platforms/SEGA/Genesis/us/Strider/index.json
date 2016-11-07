@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sega"
+  ],
+  "guid": "Strider",
+  "name": "Strider",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1990-01-01",
+    "year": 1990
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Probe_Software"
+  ],
+  "guid": "Alien_3",
+  "name": "Alien 3",
+  "publisher": "Arena_Entertainment",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

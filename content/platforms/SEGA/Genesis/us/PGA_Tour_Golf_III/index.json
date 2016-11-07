@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Polygames",
+    "High_Score_Productions"
+  ],
+  "guid": "PGA_Tour_Golf_III",
+  "name": "PGA Tour Golf III",
+  "publisher": "EA_Sports",
+  "released": {
+    "sortable": "1994-01-01",
+    "year": 1994
+  }
+}

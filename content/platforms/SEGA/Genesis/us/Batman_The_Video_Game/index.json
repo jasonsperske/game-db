@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sunsoft"
+  ],
+  "guid": "Batman_The_Video_Game",
+  "name": "Batman: The Video Game",
+  "publisher": "Sunsoft",
+  "released": {
+    "sortable": "1990-01-01",
+    "year": 1990
+  }
+}

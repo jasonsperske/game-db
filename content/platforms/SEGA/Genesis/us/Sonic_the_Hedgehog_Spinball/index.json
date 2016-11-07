@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Sega_Technical_Institute"
+  ],
+  "guid": "Sonic_the_Hedgehog_Spinball",
+  "name": "Sonic the Hedgehog Spinball",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

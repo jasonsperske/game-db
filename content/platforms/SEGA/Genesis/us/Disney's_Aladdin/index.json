@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Virgin_Games",
+    "Disney_Software"
+  ],
+  "guid": "Disney's_Aladdin",
+  "name": "Disney's Aladdin",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

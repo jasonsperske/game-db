@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Atari_Games",
+    "Silicon_Sorcery"
+  ],
+  "guid": "Rampart",
+  "name": "Rampart",
+  "publisher": "Tengen",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Realms",
+    "Nextgrand",
+    "Code_Monkeys_Ltd"
+  ],
+  "guid": "Onslaught",
+  "name": "Onslaught",
+  "publisher": "Ballistic",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

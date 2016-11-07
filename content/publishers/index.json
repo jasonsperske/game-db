@@ -17,17 +17,29 @@
   "Accolade": {
     "name": "Accolade"
   },
+  "Active_Enterprises": {
+    "name": "Active Enterprises"
+  },
   "Activision": {
     "name": "Activision"
   },
   "Advanced_Productions": {
     "name": "Advanced Productions"
   },
+  "American_Softworks": {
+    "name": "American Softworks"
+  },
   "American_Technōs": {
     "name": "American Technōs"
   },
   "Arcadia_Systems": {
     "name": "Arcadia Systems"
+  },
+  "Arena_Entertainment": {
+    "name": "Arena Entertainment"
+  },
+  "Asciiware": {
+    "name": "Asciiware"
   },
   "Asmik_Ace_Entertainment": {
     "name": "Asmik"
@@ -38,8 +50,14 @@
   "Atlus": {
     "name": "Atlus"
   },
+  "Ballistic": {
+    "name": "Ballistic"
+  },
   "Bandai": {
     "name": "Bandai"
+  },
+  "Black_Pearl_Software": {
+    "name": "Black Pearl Software"
   },
   "Blue_Planet_Software": {
     "name": "Bullet-Proof Software"
@@ -47,8 +65,17 @@
   "Brøderbund": {
     "name": "Brøderbund"
   },
+  "Buena_Vista_Interactive": {
+    "name": "Buena Vista Interactive"
+  },
   "Capcom": {
     "name": "Capcom"
+  },
+  "Codemasters": {
+    "name": "Codemasters"
+  },
+  "Core_Design": {
+    "name": "Core Design"
   },
   "Culture_Brain": {
     "name": "Culture Brain"
@@ -62,11 +89,32 @@
   "Data_East": {
     "name": "Data East"
   },
+  "Davidson_&_Associates": {
+    "name": "Davidson & Associates"
+  },
   "Davidson_Associates": {
     "name": "Davidson & Associates"
   },
+  "Deep_Water": {
+    "name": "Deep Water"
+  },
   "Disney_Interactive": {
     "name": "Disney Interactive"
+  },
+  "Disney_Interactive_Studios": {
+    "name": "Disney Interactive Studios"
+  },
+  "Domark": {
+    "name": "Domark"
+  },
+  "DreamWorks": {
+    "name": "DreamWorks"
+  },
+  "EASN": {
+    "name": "EASN"
+  },
+  "EA_Air_Force": {
+    "name": "EA Air Force"
   },
   "EA_Sports": {
     "name": "EA Sports"
@@ -86,8 +134,14 @@
   "Enix": {
     "name": "Enix"
   },
+  "Extreme_Entertainment": {
+    "name": "Extreme Entertainment"
+  },
   "Extreme_Entertainment_Group": {
     "name": "Extreme Entertainment Group"
+  },
+  "Flying_Edge": {
+    "name": "Flying Edge"
   },
   "Fox_Interactive": {
     "name": "Fox Interactive"
@@ -106,6 +160,9 @@
   },
   "HAL_Laboratory": {
     "name": "HAL Laboratory"
+  },
+  "Hi-Tech_Expressions": {
+    "name": "Hi-Tech Expressions"
   },
   "Hi_Tech_Expressions": {
     "name": "Hi Tech Expressions"
@@ -127,6 +184,9 @@
   },
   "Intellivision": {
     "name": "INTV"
+  },
+  "Interplay": {
+    "name": "Interplay"
   },
   "Interplay_Entertainment": {
     "name": "Interplay Entertainment"
@@ -155,6 +215,9 @@
   "Krome_Studios_Melbourne": {
     "name": "Laser Beam Entertainment"
   },
+  "Kyugo_Trading_Co": {
+    "name": "Kyugo Trading Co."
+  },
   "LJN": {
     "name": "LJN"
   },
@@ -173,6 +236,9 @@
   "Majesco_Entertainment": {
     "name": "Majesco Games"
   },
+  "Majesco_Sales": {
+    "name": "Majesco Sales"
+  },
   "Mandingo_Entertainment": {
     "name": "Mandingo Entertainment"
   },
@@ -188,11 +254,20 @@
   "Meldac": {
     "name": "Meldac"
   },
+  "Mentrix_Software": {
+    "name": "Mentrix Software"
+  },
   "MicroProse": {
     "name": "MicroProse"
   },
+  "Micronet": {
+    "name": "Micronet"
+  },
   "Midway_Games": {
     "name": "Midway Games"
+  },
+  "Midway_Home_Entertainment": {
+    "name": "Midway Home Entertainment"
   },
   "Milton_Bradley_Company": {
     "name": "Milton Bradley Company"
@@ -209,6 +284,9 @@
   "Namco": {
     "name": "Namco"
   },
+  "Namco_Hometek": {
+    "name": "Namco Hometek"
+  },
   "Natsume": {
     "name": "Natsume"
   },
@@ -217,6 +295,9 @@
   },
   "Nippon_Television": {
     "name": "NTVIC"
+  },
+  "Nuvision_Entertainment": {
+    "name": "Nuvision Entertainment"
   },
   "Ocean_Software": {
     "name": "Ocean Software"
@@ -227,14 +308,32 @@
   "Parker_Brothers": {
     "name": "Parker Brothers"
   },
+  "Playmates_Interactive": {
+    "name": "Playmates Interactive"
+  },
   "Playmates_Toys": {
     "name": "Playmates"
+  },
+  "Psygnosis": {
+    "name": "Psygnosis"
   },
   "Rare": {
     "name": "Rare"
   },
   "Raya_Systems": {
     "name": "Raya Systems"
+  },
+  "RazorSoft": {
+    "name": "RazorSoft"
+  },
+  "Razorsoft": {
+    "name": "Razorsoft"
+  },
+  "RazorsoftSanritsu": {
+    "name": "Razorsoft|\n\t\t\t\tSanritsu"
+  },
+  "Realtec": {
+    "name": "Realtec"
   },
   "Renovation_Products": {
     "name": "Renovation Products"
@@ -254,20 +353,50 @@
   "SOFEL": {
     "name": "SOFEL"
   },
+  "Sage's_Creation": {
+    "name": "Sage's Creation"
+  },
+  "Sammy": {
+    "name": "Sammy"
+  },
   "Sammy_Corporation": {
     "name": "American Sammy"
+  },
+  "Sega": {
+    "name": "Sega"
+  },
+  "Sega_Sports": {
+    "name": "Sega Sports"
   },
   "Seika": {
     "name": "Seika"
   },
+  "Seismic": {
+    "name": "Seismic"
+  },
+  "Sigma_Enterprises": {
+    "name": "Sigma Enterprises"
+  },
   "Software_Creations_(UK)": {
     "name": "Software Creations"
+  },
+  "Software_Toolworks": {
+    "name": "Software Toolworks"
   },
   "Sony_Imagesoft": {
     "name": "Sony Imagesoft"
   },
+  "Spectrum_HoloByte": {
+    "name": "Spectrum HoloByte"
+  },
   "Spectrum_Holobyte": {
     "name": "Spectrum Holobyte"
+  },
+  "Sport_Accolade": {
+    "name": "Sport Accolade"
+  },
+  "Sportsmaster": {
+    "name": "Sportsmaster"
   },
   "Square": {
     "name": "Square"
@@ -277,6 +406,9 @@
   },
   "Sunsoft": {
     "name": "Sunsoft"
+  },
+  "Super_Fighter_Team": {
+    "name": "Super Fighter Team"
   },
   "THQ": {
     "name": "THQ"
@@ -299,14 +431,23 @@
   "Technology_and_Entertainment_Software": {
     "name": "T&E Software"
   },
+  "Technosoft": {
+    "name": "Technosoft"
+  },
   "Technōs_Japan": {
     "name": "Technōs Japan"
   },
   "Tecmo": {
     "name": "Tecmo"
   },
+  "Tectoy": {
+    "name": "Tectoy"
+  },
   "Tengen": {
     "name": "Tengen"
+  },
+  "Time_Warner_Interactive": {
+    "name": "Time Warner Interactive"
   },
   "Titus_Software": {
     "name": "Titus Software"
@@ -319,6 +460,9 @@
   },
   "Tradewest": {
     "name": "Tradewest"
+  },
+  "Treco": {
+    "name": "Treco"
   },
   "Triffix": {
     "name": "Triffix"
@@ -338,11 +482,17 @@
   "Viacom": {
     "name": "Viacom New Media"
   },
+  "Viacom_New_Media": {
+    "name": "Viacom New Media"
+  },
   "Vic_Tokai": {
     "name": "Vic Tokai"
   },
   "Video_System": {
     "name": "Video System"
+  },
+  "Virgin_Games": {
+    "name": "Virgin Games"
   },
   "Virgin_Interactive": {
     "name": "Virgin Interactive"
@@ -352,5 +502,14 @@
   },
   "WMS_Industries": {
     "name": "Williams Entertainment"
+  },
+  "WaterMelon": {
+    "name": "WaterMelon"
+  },
+  "Williams_Entertainment": {
+    "name": "Williams Entertainment"
+  },
+  "Wisdom_Tree": {
+    "name": "Wisdom Tree"
   }
 }

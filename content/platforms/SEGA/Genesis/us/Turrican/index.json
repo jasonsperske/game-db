@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Rainbow_Arts",
+    "Code_Monkeys_Ltd"
+  ],
+  "guid": "Turrican",
+  "name": "Turrican",
+  "publisher": "Accolade",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

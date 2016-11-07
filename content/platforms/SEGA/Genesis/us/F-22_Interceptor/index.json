@@ -1,0 +1,12 @@
+{
+  "developers": [
+    "Electronic_Arts"
+  ],
+  "guid": "F-22_Interceptor",
+  "name": "F-22 Interceptor",
+  "publisher": "EA_Air_Force",
+  "released": {
+    "sortable": "1991-01-01",
+    "year": 1991
+  }
+}

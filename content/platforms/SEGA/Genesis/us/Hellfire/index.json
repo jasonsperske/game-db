@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NCS",
+    "Toaplan"
+  ],
+  "guid": "Hellfire",
+  "name": "Hellfire",
+  "publisher": "Seismic",
+  "released": {
+    "sortable": "1990-01-01",
+    "year": 1990
+  }
+}

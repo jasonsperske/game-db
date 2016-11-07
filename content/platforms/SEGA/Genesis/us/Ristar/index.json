@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Sonic_Team",
+    "Sega_AM7"
+  ],
+  "guid": "Ristar",
+  "name": "Ristar",
+  "publisher": "Sega",
+  "released": {
+    "sortable": "1995-01-01",
+    "year": 1995
+  }
+}

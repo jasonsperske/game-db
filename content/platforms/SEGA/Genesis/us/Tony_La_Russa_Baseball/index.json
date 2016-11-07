@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Beyond_Software",
+    "Electronic_Arts"
+  ],
+  "guid": "Tony_La_Russa_Baseball",
+  "name": "Tony La Russa Baseball",
+  "publisher": "EA_Sports",
+  "released": {
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}
