@@ -47,14 +47,9 @@ module.exports = function(base_path) {
         return {};
       }
     },
-    save: (base, filename, data, then) => {
-      mkdirp(path.join(base_path, 'content', base), (err) => {
-        if (err) {
-          console.error(err);
-        } else {
-          fs.writeFile(path.join(base_path, 'content', base, '/', filename)+'\n', JSON.stringify(sort(data), null, 2), then);
-        }
-      });
+    save: (base, filename, data) => {
+      mkdirp.sync(path.join(base_path, 'content', base));
+      fs.writeFileSync(path.join(base_path, 'content', base, filename), JSON.stringify(sort(data), null, 2)+'\n');
     }
   };
 };
