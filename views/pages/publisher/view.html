@@ -2,13 +2,28 @@
   <li><a href='/publisher/'>Publishers</a></li>
   <li class="active"><:- publisher.name :></li>
 </ol>
-<table>
+<table class='table' id='Games'>
   <caption>Games Published</caption>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Platfrom</th>
+      <th>Released</th>
+    </tr>
+  </thead>
   <tbody>
   <: Object.keys(games).sort().forEach((game) => { :>
     <tr>
       <td><a href="/platform/<:= game :>"><:= games[game].name :></a></td>
+      <td><span class='label label-success'><:= games[game].platform :></span></td>
+      <td data-order='<:=games[game].released.sortable:>'><:= releasedOn(games[game].released) :></td>
     </tr>
   <: }) :>
   </tbody>
 </table>
+<script>
+  $('#Games').DataTable({
+    paging: false,
+    searching: false
+  });
+</script>

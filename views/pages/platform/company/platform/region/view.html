@@ -4,7 +4,7 @@
   <li><a href='/platform/<:=company.guid:>/<:= platform.guid :>'><:= platform.name :></a></li>
   <li class="active"><:= region.name :></li>
 </ol>
-<table class='table' id='Games' data-page-length="100">
+<table class='table' id='Games'>
   <caption>Games</caption>
   <thead>
     <tr>
@@ -16,7 +16,7 @@
 <: Object.keys(region.games).sort().forEach((game) => { :>
   <tr>
     <td><a href="<:= region.guid :>/<:= game :>"><:= region.games[game].name :></a></td>
-    <td data-order='<:=region.games[game].released.sortable:>'><:= releasedOn(region.games[game]) :></td>
+    <td data-order='<:=region.games[game].released.sortable:>'><:= releasedOn(region.games[game].released) :></td>
   </tr>
 <: }) :>
   </tbody>
