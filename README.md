@@ -4,13 +4,13 @@ A public database of video games
 ## Scope of this project
 This is a database of all released games for all consoles starting with the Magnavox Odyssey up to the Playstation 4.  The purpose is to build a definitive and accessible set of lists that can function as a collection database or the starting point for some web service.  Included in the base schema is the following fields:
 
-   id
-   platform
-   region
-   name
-   released
-   publisher
-   developers
+    id
+    platform
+    region
+    name
+    released
+    publisher
+    developers
 
 For projects that need to extend this schema the id can act as a joining foreign key.  The fields included are intended to make sorting and organizing games easy.  There are many other dimensions that a game can be organized by but these dimensions make less sense in terms or sorting or organizing.  This schema is however arbitrary and if other projects fork off of this and build up substantial data it is conceivable that they can be merged into this project or even grow to replace this project.
 
@@ -21,18 +21,18 @@ With regard to collections, anthologies and emulated releases such as the Virtua
 ## Running the Content Management System
 To add or modify data in this database you can run the web interface locally by running the following commands:
 
-   npm update
-   node .
+    npm update
+    node .
 
 This will read the following environment variables `IP` and `PORT`.  If you don't have these defined you can create a file in your project called `.env` with these values (for `localhost` and port `3000`):
 
-   PORT=3000
-   IP=0.0.0.0
+    PORT=3000
+    IP=0.0.0.0
 
 ## Preparing a commit with updated information
 However you add new information, in order to cut down on git commit noise you should run the `optimize.js` script.  This will clean up any changed files and make sure that any new information is denormailzed and consistent across all files.  To optimize the database simply run this command:
 
-   node optimize.js
+    node optimize.js
 
 ## Motivations for building this
 I realized while building my third website that involves video games that I was building the same database again and again.  This project is an attempt to gather all of this data together and produce something that could help others.  The information that I needed to build my applications builds on top of this data, but it is sparse.  My hope is that people who have thier own uses cases (a mobile app that mananages)
