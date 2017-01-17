@@ -1,635 +1,1268 @@
 {
-  "2K_Czech": {
-    "name": "Illusion Softworks"
-  },
-  "A.I_Company": "A.I Company",
-  "ADK": "ADK",
-  "ASCII_Corporation": {
-    "name": "ASCII Entertainment"
-  },
-  "ASC_Games": {
-    "name": "American Softworks"
-  },
-  "AV_Artisan": "AV Artisan",
-  "Abalone_Entertainment": "Abalone Entertainment",
-  "Absolute_Entertainment": {
-    "name": "Absolute Entertainment"
-  },
-  "Access_Software": "Access Software",
-  "Acclaim_Cheltenham": {
-    "name": "Probe Entertainment"
-  },
-  "Acclaim_Studios_Austin": {
-    "name": "Iguana Entertainment"
-  },
-  "Accolade": "Accolade",
-  "Acme_Interactive": "Acme Interactive",
-  "Activision": "Activision",
-  "Adrenalin": "Adrenalin",
-  "Aisystem_Tokyo": "Aisystem Tokyo",
-  "Al_Baker_&_Associates": "Al Baker & Associates",
-  "Alexandria,_Inc": "Alexandria, Inc.",
-  "Almanic": {
-    "name": "Almanic"
-  },
-  "Almanic_Corp": "Almanic Corp.",
-  "Altron": {
-    "name": "Altron"
-  },
-  "Ancient": "\n\t\t\t\tAncient",
-  "Ape_Inc": {
-    "name": "Ape, Inc."
-  },
-  "Appaloosa_Interactive": "Appaloosa Interactive",
-  "Arc_Developments": "Arc Developments",
-  "Arcade_Zone": {
-    "name": "Arcade Zone"
-  },
-  "Argonaut_Games": {
-    "name": "Argonaut Games"
-  },
-  "Argonaut_Software": {
-    "name": "Argonaut Software"
-  },
-  "Arsys_Software": {
-    "name": "Arsys Software"
-  },
-  "Artech_Digital_Entertainment": {
-    "name": "Artech Digital Entertainment"
-  },
-  "Artech_Studios": "\n\t\t\t\tArtech Studios",
-  "Asmik_Ace_Entertainment": {
-    "name": "Asmik Ace Entertainment"
-  },
-  "Aspect": "\n\t\t\t\tAspect",
-  "Atari": "Atari",
-  "Atari_Games": "Atari Games",
-  "Athena": {
-    "name": "Athena"
-  },
-  "Atlus": {
-    "name": "Atlus"
-  },
-  "Atod": {
-    "name": "Atod"
-  },
-  "Atod_AB": "\n\t\t\t\tAtod AB",
-  "Audiogenic": "Audiogenic",
-  "Avalanche_Software": "Avalanche Software",
-  "Backbone_Entertainment": {
-    "name": "Digital Eclipse Software"
-  },
-  "Ballistic": "Ballistic",
-  "Bandai": {
-    "name": "Bandai"
-  },
-  "Banpresto": "Banpresto",
-  "Beam_Software": "Beam Software",
-  "Betop": "\n\t\t\t\tBetop",
-  "Beyond_Interactive": "\n\t\t\t\tBeyond Interactive",
-  "Beyond_Software": "Beyond Software",
-  "Binary_Systems": "Binary Systems",
-  "Bitmap_Brothers": {
-    "name": "Bitmap Brothers"
-  },
-  "Bitmasters": "Bitmasters",
-  "Bits_Corporation": "Bits Corporation",
-  "Bits_Studios": "Bits Studios",
-  "Bits_of_Magic": "Bits of Magic",
-  "Black_Pearl_Software": "Black Pearl Software",
-  "Blizzard_Entertainment": "Blizzard Entertainment",
-  "BlueSky_Software": "BlueSky Software",
-  "Blue_Byte_Software": {
-    "name": "Blue Byte Software"
-  },
-  "Blue_Planet_Software": {
-    "name": "Bullet-Proof Software"
-  },
-  "Brian_A._Rice,_Inc": "Brian A. Rice, Inc.",
-  "Brøderbund": "Brøderbund",
-  "BudgeCo": "BudgeCo",
-  "Bullfrog_Productions": "Bullfrog Productions",
-  "C&E,_Inc": "C&E, Inc.",
-  "CRI": "\n\t\t\t\tCRI",
-  "California_Dreams": "California Dreams",
-  "Capcom": "Capcom",
-  "Chameleon_Team": "Chameleon Team",
-  "Climax": "\n\t\t\t\tClimax",
-  "Climax_Entertainment": "Climax Entertainment",
-  "Climax_Group": "\n\t\t\t\tClimax Group",
-  "Clockwork_Tortoise": "Clockwork Tortoise",
-  "Coconuts_Japan": "Coconuts Japan",
-  "Code_Monkeys_Ltd": "Code Monkeys Ltd.",
-  "Codemasters": "Codemasters",
-  "Compile": "Compile",
-  "Condor,_Inc": "Condor, Inc.",
-  "Copya_System": "Copya System",
-  "Core_Design": "Core Design",
-  "Creative_Capers": "Creative Capers",
-  "Creative_Software_Designs": "Creative Software Designs",
-  "Cryo_Interactive": {
-    "name": "Cryo Interactive"
-  },
-  "Cube": "\n\t\t\t\tCube",
-  "Culture_Brain": {
-    "name": "Culture Brain"
-  },
-  "Cyclone_System": "Cyclone System",
-  "Cygnus_Multimedia": "Cygnus Multimedia",
-  "DMA_Design": "DMA Design",
-  "DMP_Productions": "DMP Productions",
-  "Data_East": "Data East",
-  "David_Crane": {
-    "name": "David Crane"
-  },
-  "Davidson_&_Associates": "Davidson & Associates",
-  "Delphine_Software": "Delphine Software",
-  "Delphine_Software_International": {
-    "name": "Delphine Software International"
-  },
-  "Designer_Software": "Designer Software",
-  "Developer_Resources": "Developer Resources",
-  "Digital_Developments": "Digital Developments",
-  "Digital_Eclipse_Software": "Digital Eclipse Software",
-  "Dinamic_Software": "Dinamic Software",
-  "Discovery_Software": "Discovery Software",
-  "Disney_Interactive": "Disney Interactive",
-  "Disney_Interactive_Studios": "\n\t\t\t\tDisney Interactive Studios",
-  "Disney_Software": "\n\t\t\t\tDisney Software",
-  "Distinctive_Software": "Distinctive Software",
-  "Domark": "\n\t\t\t\tDomark",
-  "Double_Diamond_Sports": "Double Diamond Sports",
-  "Dynamic_Planning": "Dynamic Planning",
-  "Dynamix": "Dynamix",
-  "EA_Canada": "\n\t\t\t\tEA Canada",
-  "EA_Creative_Development": "EA Creative Development",
-  "EA_Sports": {
-    "name": "EA Sports"
-  },
-  "EA_Studios": "EA Studios",
-  "EMI_Music_Japan": {
-    "name": "Toshiba EMI"
-  },
-  "East_Technology": "East Technology",
-  "Eden_Entertainment": "Eden Entertainment",
-  "Electronic_Arts": "\n\t\t\t\tElectronic Arts",
-  "Elite": {
-    "name": "Elite"
-  },
-  "Epyx": "Epyx",
-  "Eurocom": "Eurocom",
-  "Eurocom_Entertainment_Software": {
-    "name": "Eurocom Entertainment Software"
-  },
-  "Eutechnyx": {
-    "name": "Zeppelin Games"
-  },
-  "Extended_Play_Productions": "Extended Play Productions",
-  "FASA": "FASA",
-  "FTL_Games": {
-    "name": "FTL Games"
-  },
-  "Factor_5": "Factor 5",
-  "FarSight_Technologies": "\n\t\t\t\tFarSight Technologies",
-  "Foley_Hi-Tech_Systems": "Foley Hi-Tech Systems",
-  "Fortyfive": {
-    "name": "AIM"
-  },
-  "Funcom": "Funcom",
-  "GTE_ImagiTrek": "GTE ImagiTrek",
-  "GTE_Interactive_Media": {
-    "name": "GTE Interactive Media"
-  },
-  "Gaibrain": "Gaibrain\n\t\t\t\t",
-  "Gainax": "\n\t\t\t\tGainax",
-  "GameTek": {
-    "name": "GameTek"
-  },
-  "Game_Arts": "Game Arts",
-  "Game_Freak": "Game Freak",
-  "Game_Refuge": "Game Refuge",
-  "Gamtec": "Gamtec",
-  "Gau_Entertainment": "Gau Entertainment",
-  "Genki": {
-    "name": "Genki"
-  },
-  "Graftgold": "Graftgold",
-  "Granite_Bay_Software": "Granite Bay Software",
-  "Graphic_Research": "Graphic Research",
-  "Gray_Matter_Inc": "Gray Matter Inc.",
-  "Gremlin_Graphics": "Gremlin Graphics",
-  "Gremlin_Interactive": {
-    "name": "Gremlin Interactive"
-  },
-  "HAL_Laboratory": {
-    "name": "HAL Laboratory"
-  },
-  "Headgames": "Headgames",
-  "Hertz_Co.,_Ltd": "Hertz Co., Ltd.",
-  "Hewson": "Hewson",
-  "High_Score_Entertainment": "High Score Entertainment",
-  "High_Score_Productions": "High Score Productions",
-  "Hitmen_Productions": "Hitmen Productions",
-  "Holocronet": "Holocronet",
-  "Home_Data": "Home Data",
-  "Hookstone": "Hookstone",
-  "Hot-B": "Hot-B",
-  "Hot_B": "Hot B",
-  "Hudson_Soft": {
-    "name": "Hudson Soft"
-  },
-  "Human_Entertainment": {
-    "name": "Human Entertainment"
-  },
-  "ICOM_Simulations": {
-    "name": "ICOM Simulations"
-  },
-  "ITL": "ITL",
-  "Iguana_Entertainment": "Iguana Entertainment",
-  "Iguana_Entertainment_UK": "Iguana Entertainment UK",
-  "Illusions": "Illusions",
-  "Illusions_(company)": "Illusions (company)",
-  "Illusions_Gaming_Company": "Illusions Gaming Company",
-  "Image_Impressions": "Image Impressions",
-  "Images_Software": "Images Software",
-  "Imagexcel": "\n\t\t\t\tImagexcel",
-  "Imagineer": {
-    "name": "Imagineer"
-  },
-  "Imagineering": "Imagineering",
-  "Imagitec_Design": "Imagitec Design",
-  "Incredible_Technologies": "Incredible Technologies",
-  "Infogrames": "Infogrames",
-  "Infogrames_Entertainment,_SA": {
-    "name": "Infogrames"
-  },
-  "Innerprise": "Innerprise",
-  "Innerprise_Software": "Innerprise Software",
-  "Intelligent_Systems": {
-    "name": "Intelligent Systems"
-  },
-  "Inter_State": "Inter State",
-  "Interactive_Designs": "Interactive Designs",
-  "Interplay": "Interplay",
-  "Interplay_Entertainment": {
-    "name": "Interplay Entertainment"
-  },
-  "Irem": {
-    "name": "Irem"
-  },
-  "Jaleco": {
-    "name": "Jaleco"
-  },
-  "Johnson-Voorsanger_Productions": "Johnson-Voorsanger Productions",
-  "Jorudan": "\n\t\t\t\tJorudan",
-  "KID": {
-    "name": "KID"
-  },
-  "KID_Corp": "KID Corp",
-  "Kalisto_Entertainment": {
-    "name": "Kalisto Entertainment"
-  },
-  "Kaneko": "Kaneko",
-  "Kellyn_Beck": "\n\t\t\t\tKellyn Beck",
-  "Kemco": {
-    "name": "Kemco"
-  },
-  "Koei": "Koei",
-  "Konami": "Konami",
-  "Krisalis_Software": "\n\t\t\t\tKrisalis Software",
-  "Krome_Studios_Melbourne": {
-    "name": "Beam Software"
-  },
-  "Lankhor": "Lankhor",
-  "Laser_Beam_Entertainment": {
-    "name": "Laser Beam Entertainment"
-  },
-  "Left_Field_Productions": {
-    "name": "Left Field Productions"
-  },
-  "Leland_Interactive_Media": "Leland Interactive Media",
-  "Looking_Glass_Technology": "Looking Glass Technology",
-  "Loriciel": "Loriciel",
-  "LucasArts": "LucasArts",
-  "M2": "\n\t\t\t\tM2",
-  "Magical": "Magical",
-  "Malibu_Comics": {
-    "name": "Malibu Interactive"
-  },
-  "Malibu_Games": "Malibu Games",
-  "Malibu_Interactive": "Malibu Interactive",
-  "Manley_&_Associates": "\n\t\t\t\tManley & Associates",
-  "Manley_Associates": {
-    "name": "Manley & Associates"
-  },
-  "Marsu": "Marsu",
-  "Maxis": {
-    "name": "Maxis"
-  },
-  "Megasoft": "Megasoft",
-  "Meldac": {
-    "name": "Meldac"
-  },
-  "MicroIllusions": "MicroIllusions",
-  "MicroProse": "MicroProse",
-  "MicroProse_UK": "MicroProse UK",
-  "Micro_Factory": "Micro Factory",
-  "Micronet": "Micronet",
-  "Micronics": "\n\t\t\t\tMicronics",
-  "Microprose": {
-    "name": "Microprose"
-  },
-  "Microsmiths": "Microsmiths",
-  "Millennium_Interactive": "Millennium Interactive",
-  "Minakuchi_Engineering": "Minakuchi Engineering",
-  "MindSpan_Technologies": "MindSpan Technologies",
-  "Mindscape": "Mindscape",
-  "Mirrorsoft": {
-    "name": "Mirrorsoft"
-  },
-  "Monkey_Do_Productions": "Monkey Do Productions",
-  "Morning_Star_Multimedia": "Morning Star Multimedia",
-  "Motivetime": "Motivetime\n\t\t\t\t",
-  "Motown_Software": {
-    "name": "Motown Software"
-  },
-  "Music_Pen": "Music Pen",
-  "Mutant_Productions": "Mutant Productions",
-  "NCS": "NCS",
-  "NMK": "NMK",
-  "Namco": "Namco",
-  "Natsume": {
-    "name": "Natsume"
-  },
-  "Naughty_Dog": "Naughty Dog",
-  "Neverland": {
-    "name": "Neverland"
-  },
-  "New_Wave_Graphics": "New Wave Graphics",
-  "New_World_Computing": "New World Computing",
-  "Nextech": "Nextech",
-  "Nextgrand": "Nextgrand\n\t\t\t\t",
-  "Nexus_Interact": "Nexus Interact",
-  "Nick_Pelling": "Nick Pelling",
-  "Nihon_Falcom": {
-    "name": "Nihon Falcom"
-  },
-  "Nintendo": {
-    "name": "Nintendo"
-  },
-  "Northwest_Synergistic_Software": {
-    "name": "Synergistic Software"
-  },
-  "NovaLogic": {
-    "name": "NovaLogic"
-  },
-  "Novotrade": "Novotrade",
-  "Now_Production": "Now Production",
-  "NuFX": "NuFX",
-  "Nu_Romantic_Productions": "Nu Romantic Productions",
-  "Ocean_Software": "Ocean Software",
-  "Opera_House": "Opera House",
-  "Opus": "Opus",
-  "Origin_Systems": {
-    "name": "Origin Systems"
-  },
-  "PF_Magic": "PF Magic",
-  "Pacific_Softscape": "Pacific Softscape",
-  "Pack-In-Video": {
-    "name": "Pack-In-Video"
-  },
-  "Panelcomp": "Panelcomp",
-  "Panoramic": {
-    "name": "Panoramic"
-  },
-  "Paramount_Interactive": {
-    "name": "Paramount Interactive"
-  },
-  "Park_Place_Productions": "Park Place Productions",
-  "Polygames": "Polygames",
-  "Probe_Entertainment": "Probe Entertainment",
-  "Probe_Software": "Probe Software",
-  "Produce": {
-    "name": "Produce"
-  },
-  "Psygnosis": "Psygnosis",
-  "Publishing_International": "Publishing International",
-  "Punk_Development": "Punk Development",
-  "Quest": {
-    "name": "Quest"
-  },
-  "Quintet": {
-    "name": "Quintet"
-  },
-  "Radiance_Software": "Radiance Software",
-  "Radical_Entertainment": "Radical Entertainment",
-  "Rage_Software": "Rage Software",
-  "Rainbow_Arts": "Rainbow Arts",
-  "Raising_Hell_Productions": "Raising Hell Productions",
-  "Rare": "Rare",
-  "Rare_Ltd": {
-    "name": "Rare Ltd."
-  },
-  "Realms": "Realms",
-  "Realtime_Associates": "Realtime Associates",
-  "Recreational_Brainware": "Recreational Brainware",
-  "Red_Company": {
-    "name": "Red Company"
-  },
-  "Red_Entertainment": {
-    "name": "Red Entertainment"
-  },
-  "Renegade_Animation": "\n\t\t\t\tRenegade Animation",
-  "Reno": "Reno",
-  "Ringler_Studios": "Ringler Studios",
-  "Riot": "Riot",
-  "Rockstar_North": {
-    "name": "DMA Design"
-  },
-  "Romstar": {
-    "name": "Romstar"
-  },
-  "SCE_Studio_Liverpool": {
-    "name": "Psygnosis"
-  },
-  "SCi": "SCi",
-  "SETA_Corporation": "SETA Corporation",
-  "SIMS": "SIMS",
-  "SNK": "SNK",
-  "SNK_Playmore": {
-    "name": "SNK"
-  },
-  "SPS_Co.,_Ltd": "SPS Co., Ltd.",
-  "Sage's_Creation": "Sage's Creation",
-  "Sales_Curve_Interactive": {
-    "name": "Sales Curve Interactive"
-  },
-  "Sammy_Corporation": {
-    "name": "American Sammy"
-  },
-  "Sandcastle_Productions": "Sandcastle Productions",
-  "Sanritsu": "\n\t\t\t\tSanritsu",
-  "Santos": "Santos",
-  "Saurus": "Saurus",
-  "Sculptured_Software": "Sculptured Software",
-  "Sega": "Sega",
-  "Sega_AM2": "Sega AM2",
-  "Sega_AM3": "Sega AM3",
-  "Sega_AM6": "Sega AM6",
-  "Sega_AM7": "Sega AM7",
-  "Sega_InterActive": "Sega InterActive",
-  "Sega_Midwest_Studio": "\n\t\t\t\tSega Midwest Studio",
-  "Sega_Sports": "Sega Sports",
-  "Sega_Technical_Institute": "Sega Technical Institute",
-  "Sega_interActive": "Sega interActive",
-  "Seibu_Kaihatsu": "Seibu Kaihatsu",
-  "Sensible_Software": "Sensible Software",
-  "Shiny_Entertainment": "Shiny Entertainment",
-  "Sigma_Pro-Tech": "Sigma Pro-Tech",
-  "Silicon_&_Synapse": "Silicon & Synapse",
-  "Silicon_Beach_Software": "Silicon Beach Software",
-  "Silicon_Sorcery": "\n\t\t\t\tSilicon Sorcery",
-  "Soft_Machine": "Soft Machine",
-  "Software_Creations": "Software Creations",
-  "Software_Creations_(UK)": {
-    "name": "Software Creations"
-  },
-  "Software_Toolworks": "Software Toolworks",
-  "Solid_Software": "Solid Software",
-  "Sonic": "Sonic",
-  "Sonic_Team": "Sonic Team",
-  "Sony_Imagesoft": "\n\t\t\t\tSony Imagesoft",
-  "Spectacular_Games": "Spectacular Games",
-  "Spectrum_Holobyte": {
-    "name": "Spectrum Holobyte"
-  },
-  "Spidersoft": "Spidersoft",
-  "Sprytes": "Sprytes",
-  "Square": {
-    "name": "Square"
-  },
-  "Square_Enix_Europe": {
-    "name": "Sales Curve Interactive"
-  },
-  "Sterling_Silver_Software": "Sterling Silver Software",
-  "Sting_Entertainment": {
-    "name": "Sting Entertainment"
-  },
-  "Stormfront_Studios": "Stormfront Studios",
-  "Strategic_Simulations": "Strategic Simulations",
-  "Success": "\n\t\t\t\tSuccess",
-  "Sunsoft": "Sunsoft",
-  "Supersonic_Software": "Supersonic Software",
-  "Synergistic": "Synergistic",
-  "Syrox_Developments": "Syrox Developments",
-  "System_3": {
-    "name": "System 3"
-  },
-  "System_Sacom": "System Sacom",
-  "System_Vision": "System Vision",
-  "Systemsoft": "Systemsoft",
-  "T&E_Soft": "T&E Soft",
-  "TAD_Corporation": "TAD Corporation",
-  "THQ": {
-    "name": "Black Pearl Software"
-  },
-  "Tahoe_Software": "Tahoe Software",
-  "Taito": "Taito",
-  "Taito_Corporation": {
-    "name": "Taito"
-  },
-  "Takara": "\n\t\t\t\tTakara",
-  "Team_Bubsy": "Team Bubsy",
-  "TecMagik": "TecMagik",
-  "Technology_and_Entertainment_Software": {
-    "name": "T&E Software"
-  },
-  "Technopop": "Technopop",
-  "Technosoft": "Technosoft",
-  "Technōs_Japan": "Technōs Japan",
-  "Tecmo": "Tecmo",
-  "Teeny_Weeny_Games": "Teeny Weeny Games",
-  "Telenet": "Telenet",
-  "Telenet_Japan": {
-    "name": "Telenet Japan"
-  },
-  "Tengen": "Tengen",
-  "Teque_London": "Teque London",
-  "The_Bitmap_Brothers": "The Bitmap Brothers",
-  "The_Cartoon_Mavericks": "The Cartoon Mavericks",
-  "The_Creative_Assembly": "The Creative Assembly",
-  "The_Global_Team": "The Global Team",
-  "The_Kremlin": "The Kremlin",
-  "Tiburon_Entertainment": "Tiburon Entertainment",
-  "Tiertex": "Tiertex",
-  "Tiertex_Design_Studios": {
-    "name": "Tiertex"
-  },
-  "Time_Warner_Interactive": "Time Warner Interactive",
-  "Titus_Software": {
-    "name": "Titus Software"
-  },
-  "Toaplan": "Toaplan",
-  "Toei_Company": {
-    "name": "Toei Company"
-  },
-  "Toho": {
-    "name": "Toho"
-  },
-  "Tokai_Communications": {
-    "name": "Vic Tokai"
-  },
-  "Tokyo_Shoseki": {
-    "name": "Tokyo Shoseki"
-  },
-  "Tommy_Tallarico_Studios": "\n\t\t\t\tTommy Tallarico Studios",
-  "Tonkin_House": {
-    "name": "Tonkin House"
-  },
-  "Tose": {
-    "name": "Tose"
-  },
-  "Toys_For_Bob": "Toys For Bob",
-  "Tradewest": "Tradewest",
-  "Traveller's_Tales": "Traveller's Tales",
-  "Treasure": "Treasure",
-  "Triad": "Triad",
-  "Triffix_Entertainment": {
-    "name": "Triffix"
-  },
-  "Trimark_Interactive": "Trimark Interactive",
-  "Twilight": {
-    "name": "Twilight Games"
-  },
-  "U.S._Gold": "U.S. Gold",
-  "UPL_Limited": "UPL Limited",
-  "Ukiyotei": "Ukiyotei",
-  "Vectordean": "Vectordean",
-  "Viacom": {
-    "name": "Viacom New Media"
-  },
-  "Vic_Tokai": "Vic Tokai",
-  "Video_System": "Video System",
-  "Virgin_Games": "Virgin Games",
-  "Virgin_Interactive": "Virgin Interactive",
-  "Virgin_Studios_London": "Virgin Studios London",
-  "Visco_Corporation": "\n\t\t\t\tVisco Corporation",
-  "Visual_Concepts": "Visual Concepts",
-  "WJS_Design": "WJS Design",
-  "WMS_Industries": {
-    "name": "Williams Entertainment"
-  },
-  "WaterMelon": "WaterMelon",
-  "Waterman_Design": "Waterman Design",
-  "Western_Technologies": "Western Technologies",
-  "Westone": "Westone",
-  "Westwood_Associates": "Westwood Associates",
-  "Westwood_Studios": "Westwood Studios",
-  "Winds": "Winds",
-  "Wisdom_Tree": "Wisdom Tree",
-  "Wolf_Team": "Wolf Team",
-  "XYZ_Productions": "XYZ Productions",
-  "Zeus_Software": "Zeus Software",
-  "Zono": "\n\t\t\t\tZono",
-  "Zyrinx": "Zyrinx"
+	"2K_Czech": {
+		"name": "Illusion Softworks"
+	},
+	"A.I_Company": {
+		"name": "A.I Company"
+	},
+	"ADK": {
+		"name": "ADK"
+	},
+	"ASCII_Corporation": {
+		"name": "ASCII Entertainment"
+	},
+	"ASC_Games": {
+		"name": "American Softworks"
+	},
+	"AV_Artisan": {
+		"name": "AV Artisan"
+	},
+	"Abalone_Entertainment": {
+		"name": "Abalone Entertainment"
+	},
+	"Absolute_Entertainment": {
+		"name": "Absolute Entertainment"
+	},
+	"Access_Software": {
+		"name": "Access Software"
+	},
+	"Acclaim_Cheltenham": {
+		"name": "Probe Entertainment"
+	},
+	"Acclaim_Studios_Austin": {
+		"name": "Iguana Entertainment"
+	},
+	"Accolade": {
+		"name": "Accolade"
+	},
+	"Acme_Interactive": {
+		"name": "Acme Interactive"
+	},
+	"Activision": {
+		"name": "Activision"
+	},
+	"Adrenalin": {
+		"name": "Adrenalin"
+	},
+	"Aisystem_Tokyo": {
+		"name": "Aisystem Tokyo"
+	},
+	"Al_Baker_&_Associates": {
+		"name": "Al Baker & Associates"
+	},
+	"Alexandria,_Inc": {
+		"name": "Alexandria, Inc."
+	},
+	"Almanic": {
+		"name": "Almanic"
+	},
+	"Almanic_Corp": {
+		"name": "Almanic Corp."
+	},
+	"Altron": {
+		"name": "Altron"
+	},
+	"Ancient": {
+		"name": "Ancient"
+	},
+	"Ape_Inc": {
+		"name": "Ape, Inc."
+	},
+	"Appaloosa_Interactive": {
+		"name": "Appaloosa Interactive"
+	},
+	"Arc_Developments": {
+		"name": "Arc Developments"
+	},
+	"Arcade_Zone": {
+		"name": "Arcade Zone"
+	},
+	"Argonaut_Games": {
+		"name": "Argonaut Games"
+	},
+	"Argonaut_Software": {
+		"name": "Argonaut Software"
+	},
+	"Arsys_Software": {
+		"name": "Arsys Software"
+	},
+	"Artech_Digital_Entertainment": {
+		"name": "Artech Digital Entertainment"
+	},
+	"Artech_Studios": {
+		"name": "Artech Studios"
+	},
+	"Asmik_Ace_Entertainment": {
+		"name": "Asmik Ace Entertainment"
+	},
+	"Aspect": {
+		"name": "Aspect"
+	},
+	"Atari": {
+		"name": "Atari"
+	},
+	"Atari_Games": {
+		"name": "Atari Games"
+	},
+	"Athena": {
+		"name": "Athena"
+	},
+	"Atlus": {
+		"name": "Atlus"
+	},
+	"Atod": {
+		"name": "Atod"
+	},
+	"Atod_AB": {
+		"name": "Atod AB"
+	},
+	"Audiogenic": {
+		"name": "Audiogenic"
+	},
+	"Avalanche_Software": {
+		"name": "Avalanche Software"
+	},
+	"Backbone_Entertainment": {
+		"name": "Digital Eclipse Software"
+	},
+	"Ballistic": {
+		"name": "Ballistic"
+	},
+	"Bandai": {
+		"name": "Bandai"
+	},
+	"Banpresto": {
+		"name": "Banpresto"
+	},
+	"Beam_Software": {
+		"name": "Beam Software"
+	},
+	"Betop": {
+		"name": "Betop"
+	},
+	"Beyond_Interactive": {
+		"name": "Beyond Interactive"
+	},
+	"Beyond_Software": {
+		"name": "Beyond Software"
+	},
+	"Binary_Systems": {
+		"name": "Binary Systems"
+	},
+	"Bitmap_Brothers": {
+		"name": "Bitmap Brothers"
+	},
+	"Bitmasters": {
+		"name": "Bitmasters"
+	},
+	"Bits_Corporation": {
+		"name": "Bits Corporation"
+	},
+	"Bits_Studios": {
+		"name": "Bits Studios"
+	},
+	"Bits_of_Magic": {
+		"name": "Bits of Magic"
+	},
+	"Black_Pearl_Software": {
+		"name": "Black Pearl Software"
+	},
+	"Blizzard_Entertainment": {
+		"name": "Blizzard Entertainment"
+	},
+	"BlueSky_Software": {
+		"name": "BlueSky Software"
+	},
+	"Blue_Byte_Software": {
+		"name": "Blue Byte Software"
+	},
+	"Blue_Planet_Software": {
+		"name": "Bullet-Proof Software"
+	},
+	"Brian_A._Rice,_Inc": {
+		"name": "Brian A. Rice, Inc."
+	},
+	"Brøderbund": {
+		"name": "Brøderbund"
+	},
+	"BudgeCo": {
+		"name": "BudgeCo"
+	},
+	"Bullfrog_Productions": {
+		"name": "Bullfrog Productions"
+	},
+	"C&E,_Inc": {
+		"name": "C&E, Inc."
+	},
+	"CRI": {
+		"name": "CRI"
+	},
+	"California_Dreams": {
+		"name": "California Dreams"
+	},
+	"Capcom": {
+		"name": "Capcom"
+	},
+	"Chameleon_Team": {
+		"name": "Chameleon Team"
+	},
+	"Climax": {
+		"name": "Climax"
+	},
+	"Climax_Entertainment": {
+		"name": "Climax Entertainment"
+	},
+	"Climax_Group": {
+		"name": "Climax Group"
+	},
+	"Clockwork_Tortoise": {
+		"name": "Clockwork Tortoise"
+	},
+	"Coconuts_Japan": {
+		"name": "Coconuts Japan"
+	},
+	"Code_Monkeys_Ltd": {
+		"name": "Code Monkeys Ltd."
+	},
+	"Codemasters": {
+		"name": "Codemasters"
+	},
+	"Compile": {
+		"name": "Compile"
+	},
+	"Condor,_Inc": {
+		"name": "Condor, Inc."
+	},
+	"Copya_System": {
+		"name": "Copya System"
+	},
+	"Core_Design": {
+		"name": "Core Design"
+	},
+	"Creative_Capers": {
+		"name": "Creative Capers"
+	},
+	"Creative_Software_Designs": {
+		"name": "Creative Software Designs"
+	},
+	"Cryo_Interactive": {
+		"name": "Cryo Interactive"
+	},
+	"Cube": {
+		"name": "Cube"
+	},
+	"Culture_Brain": {
+		"name": "Culture Brain"
+	},
+	"Cyclone_System": {
+		"name": "Cyclone System"
+	},
+	"Cygnus_Multimedia": {
+		"name": "Cygnus Multimedia"
+	},
+	"DMA_Design": {
+		"name": "DMA Design"
+	},
+	"DMP_Productions": {
+		"name": "DMP Productions"
+	},
+	"Data_East": {
+		"name": "Data East"
+	},
+	"David_Crane": {
+		"name": "David Crane"
+	},
+	"Davidson_Associates": {
+		"name": "Davidson & Associates"
+	},
+	"Delphine_Software": {
+		"name": "Delphine Software"
+	},
+	"Delphine_Software_International": {
+		"name": "Delphine Software International"
+	},
+	"Designer_Software": {
+		"name": "Designer Software"
+	},
+	"Developer_Resources": {
+		"name": "Developer Resources"
+	},
+	"Digital_Developments": {
+		"name": "Digital Developments"
+	},
+	"Digital_Eclipse_Software": {
+		"name": "Digital Eclipse Software"
+	},
+	"Dinamic_Software": {
+		"name": "Dinamic Software"
+	},
+	"Discovery_Software": {
+		"name": "Discovery Software"
+	},
+	"Disney_Interactive": {
+		"name": "Disney Interactive"
+	},
+	"Disney_Interactive_Studios": {
+		"name": "Disney Interactive Studios"
+	},
+	"Disney_Software": {
+		"name": "Disney Software"
+	},
+	"Distinctive_Software": {
+		"name": "Distinctive Software"
+	},
+	"Domark": {
+		"name": "Domark"
+	},
+	"Double_Diamond_Sports": {
+		"name": "Double Diamond Sports"
+	},
+	"Dynamic_Planning": {
+		"name": "Dynamic Planning"
+	},
+	"Dynamix": {
+		"name": "Dynamix"
+	},
+	"EA_Canada": {
+		"name": "EA Canada"
+	},
+	"EA_Creative_Development": {
+		"name": "EA Creative Development"
+	},
+	"EA_Sports": {
+		"name": "EA Sports"
+	},
+	"EA_Studios": {
+		"name": "EA Studios"
+	},
+	"EMI_Music_Japan": {
+		"name": "Toshiba EMI"
+	},
+	"East_Technology": {
+		"name": "East Technology"
+	},
+	"Eden_Entertainment": {
+		"name": "Eden Entertainment"
+	},
+	"Electronic_Arts": {
+		"name": "Electronic Arts"
+	},
+	"Elite": {
+		"name": "Elite"
+	},
+	"Epyx": {
+		"name": "Epyx"
+	},
+	"Eurocom": {
+		"name": "Eurocom"
+	},
+	"Eurocom_Entertainment_Software": {
+		"name": "Eurocom Entertainment Software"
+	},
+	"Eutechnyx": {
+		"name": "Zeppelin Games"
+	},
+	"Extended_Play_Productions": {
+		"name": "Extended Play Productions"
+	},
+	"FASA": {
+		"name": "FASA"
+	},
+	"FTL_Games": {
+		"name": "FTL Games"
+	},
+	"Factor_5": {
+		"name": "Factor 5"
+	},
+	"FarSight_Technologies": {
+		"name": "FarSight Technologies"
+	},
+	"Foley_Hi-Tech_Systems": {
+		"name": "Foley Hi-Tech Systems"
+	},
+	"Fortyfive": {
+		"name": "AIM"
+	},
+	"Funcom": {
+		"name": "Funcom"
+	},
+	"GTE_ImagiTrek": {
+		"name": "GTE ImagiTrek"
+	},
+	"GTE_Interactive_Media": {
+		"name": "GTE Interactive Media"
+	},
+	"Gaibrain": {
+		"name": "Gaibrain"
+	},
+	"Gainax": {
+		"name": "Gainax"
+	},
+	"GameTek": {
+		"name": "GameTek"
+	},
+	"Game_Arts": {
+		"name": "Game Arts"
+	},
+	"Game_Freak": {
+		"name": "Game Freak"
+	},
+	"Game_Refuge": {
+		"name": "Game Refuge"
+	},
+	"Gamtec": {
+		"name": "Gamtec"
+	},
+	"Gau_Entertainment": {
+		"name": "Gau Entertainment"
+	},
+	"Genki": {
+		"name": "Genki"
+	},
+	"Graftgold": {
+		"name": "Graftgold"
+	},
+	"Granite_Bay_Software": {
+		"name": "Granite Bay Software"
+	},
+	"Graphic_Research": {
+		"name": "Graphic Research"
+	},
+	"Gray_Matter_Inc": {
+		"name": "Gray Matter Inc."
+	},
+	"Gremlin_Graphics": {
+		"name": "Gremlin Graphics"
+	},
+	"Gremlin_Interactive": {
+		"name": "Gremlin Interactive"
+	},
+	"HAL_Laboratory": {
+		"name": "HAL Laboratory"
+	},
+	"Headgames": {
+		"name": "Headgames"
+	},
+	"Hertz_Co.,_Ltd": {
+		"name": "Hertz Co., Ltd."
+	},
+	"Hewson": {
+		"name": "Hewson"
+	},
+	"High_Score_Entertainment": {
+		"name": "High Score Entertainment"
+	},
+	"High_Score_Productions": {
+		"name": "High Score Productions"
+	},
+	"Hitmen_Productions": {
+		"name": "Hitmen Productions"
+	},
+	"Holocronet": {
+		"name": "Holocronet"
+	},
+	"Home_Data": {
+		"name": "Home Data"
+	},
+	"Hookstone": {
+		"name": "Hookstone"
+	},
+	"Hot-B": {
+		"name": "Hot-B"
+	},
+	"Hot_B": {
+		"name": "Hot B"
+	},
+	"Hudson_Soft": {
+		"name": "Hudson Soft"
+	},
+	"Human_Entertainment": {
+		"name": "Human Entertainment"
+	},
+	"ICOM_Simulations": {
+		"name": "ICOM Simulations"
+	},
+	"ITL": {
+		"name": "ITL"
+	},
+	"Iguana_Entertainment": {
+		"name": "Iguana Entertainment"
+	},
+	"Iguana_Entertainment_UK": {
+		"name": "Iguana Entertainment UK"
+	},
+	"Illusions": {
+		"name": "Illusions"
+	},
+	"Illusions_(company)": {
+		"name": "Illusions (company)"
+	},
+	"Illusions_Gaming_Company": {
+		"name": "Illusions Gaming Company"
+	},
+	"Image_Impressions": {
+		"name": "Image Impressions"
+	},
+	"Images_Software": {
+		"name": "Images Software"
+	},
+	"Imagexcel": {
+		"name": "Imagexcel"
+	},
+	"Imagineer": {
+		"name": "Imagineer"
+	},
+	"Imagineering": {
+		"name": "Imagineering"
+	},
+	"Imagitec_Design": {
+		"name": "Imagitec Design"
+	},
+	"Incredible_Technologies": {
+		"name": "Incredible Technologies"
+	},
+	"Infogrames": {
+		"name": "Infogrames"
+	},
+	"Innerprise": {
+		"name": "Innerprise"
+	},
+	"Innerprise_Software": {
+		"name": "Innerprise Software"
+	},
+	"Intelligent_Systems": {
+		"name": "Intelligent Systems"
+	},
+	"Inter_State": {
+		"name": "Inter State"
+	},
+	"Interactive_Designs": {
+		"name": "Interactive Designs"
+	},
+	"Interplay": {
+		"name": "Interplay"
+	},
+	"Interplay_Entertainment": {
+		"name": "Interplay Entertainment"
+	},
+	"Irem": {
+		"name": "Irem"
+	},
+	"Jaleco": {
+		"name": "Jaleco"
+	},
+	"Johnson-Voorsanger_Productions": {
+		"name": "Johnson-Voorsanger Productions"
+	},
+	"Jorudan": {
+		"name": "Jorudan"
+	},
+	"KID": {
+		"name": "KID"
+	},
+	"KID_Corp": {
+		"name": "KID Corp"
+	},
+	"Kalisto_Entertainment": {
+		"name": "Kalisto Entertainment"
+	},
+	"Kaneko": {
+		"name": "Kaneko"
+	},
+	"Kellyn_Beck": {
+		"name": "Kellyn Beck"
+	},
+	"Kemco": {
+		"name": "Kemco"
+	},
+	"Koei": {
+		"name": "Koei"
+	},
+	"Konami": {
+		"name": "Konami"
+	},
+	"Krisalis_Software": {
+		"name": "Krisalis Software"
+	},
+	"Krome_Studios_Melbourne": {
+		"name": "Beam Software"
+	},
+	"Lankhor": {
+		"name": "Lankhor"
+	},
+	"Laser_Beam_Entertainment": {
+		"name": "Laser Beam Entertainment"
+	},
+	"Left_Field_Productions": {
+		"name": "Left Field Productions"
+	},
+	"Leland_Interactive_Media": {
+		"name": "Leland Interactive Media"
+	},
+	"Looking_Glass_Technology": {
+		"name": "Looking Glass Technology"
+	},
+	"Loriciel": {
+		"name": "Loriciel"
+	},
+	"LucasArts": {
+		"name": "LucasArts"
+	},
+	"M2": {
+		"name": "M2"
+	},
+	"Magical": {
+		"name": "Magical"
+	},
+	"Malibu_Comics": {
+		"name": "Malibu Interactive"
+	},
+	"Malibu_Games": {
+		"name": "Malibu Games"
+	},
+	"Malibu_Interactive": {
+		"name": "Malibu Interactive"
+	},
+	"Manley_&_Associates": {
+		"name": "Manley & Associates"
+	},
+	"Manley_Associates": {
+		"name": "Manley & Associates"
+	},
+	"Marsu": {
+		"name": "Marsu"
+	},
+	"Maxis": {
+		"name": "Maxis"
+	},
+	"Megasoft": {
+		"name": "Megasoft"
+	},
+	"Meldac": {
+		"name": "Meldac"
+	},
+	"MicroIllusions": {
+		"name": "MicroIllusions"
+	},
+	"MicroProse": {
+		"name": "MicroProse"
+	},
+	"MicroProse_UK": {
+		"name": "MicroProse UK"
+	},
+	"Micro_Factory": {
+		"name": "Micro Factory"
+	},
+	"Micronet": {
+		"name": "Micronet"
+	},
+	"Micronics": {
+		"name": "Micronics"
+	},
+	"Microprose": {
+		"name": "Microprose"
+	},
+	"Microsmiths": {
+		"name": "Microsmiths"
+	},
+	"Millennium_Interactive": {
+		"name": "Millennium Interactive"
+	},
+	"Minakuchi_Engineering": {
+		"name": "Minakuchi Engineering"
+	},
+	"MindSpan_Technologies": {
+		"name": "MindSpan Technologies"
+	},
+	"Mindscape": {
+		"name": "Mindscape"
+	},
+	"Mirrorsoft": {
+		"name": "Mirrorsoft"
+	},
+	"Monkey_Do_Productions": {
+		"name": "Monkey Do Productions"
+	},
+	"Morning_Star_Multimedia": {
+		"name": "Morning Star Multimedia"
+	},
+	"Motivetime": {
+		"name": "Motivetime"
+	},
+	"Motown_Software": {
+		"name": "Motown Software"
+	},
+	"Music_Pen": {
+		"name": "Music Pen"
+	},
+	"Mutant_Productions": {
+		"name": "Mutant Productions"
+	},
+	"NCS": {
+		"name": "NCS"
+	},
+	"NMK": {
+		"name": "NMK"
+	},
+	"Namco": {
+		"name": "Namco"
+	},
+	"Natsume": {
+		"name": "Natsume"
+	},
+	"Naughty_Dog": {
+		"name": "Naughty Dog"
+	},
+	"Neverland": {
+		"name": "Neverland"
+	},
+	"New_Wave_Graphics": {
+		"name": "New Wave Graphics"
+	},
+	"New_World_Computing": {
+		"name": "New World Computing"
+	},
+	"Nextech": {
+		"name": "Nextech"
+	},
+	"Nextgrand": {
+		"name": "Nextgrand"
+	},
+	"Nexus_Interact": {
+		"name": "Nexus Interact"
+	},
+	"Nick_Pelling": {
+		"name": "Nick Pelling"
+	},
+	"Nihon_Falcom": {
+		"name": "Nihon Falcom"
+	},
+	"Nintendo": {
+		"name": "Nintendo"
+	},
+	"Northwest_Synergistic_Software": {
+		"name": "Synergistic Software"
+	},
+	"NovaLogic": {
+		"name": "NovaLogic"
+	},
+	"Novotrade": {
+		"name": "Novotrade"
+	},
+	"Now_Production": {
+		"name": "Now Production"
+	},
+	"NuFX": {
+		"name": "NuFX"
+	},
+	"Nu_Romantic_Productions": {
+		"name": "Nu Romantic Productions"
+	},
+	"Ocean_Software": {
+		"name": "Ocean Software"
+	},
+	"Opera_House": {
+		"name": "Opera House"
+	},
+	"Opus": {
+		"name": "Opus"
+	},
+	"Origin_Systems": {
+		"name": "Origin Systems"
+	},
+	"PF_Magic": {
+		"name": "PF Magic"
+	},
+	"Pacific_Softscape": {
+		"name": "Pacific Softscape"
+	},
+	"Pack-In-Video": {
+		"name": "Pack-In-Video"
+	},
+	"Panelcomp": {
+		"name": "Panelcomp"
+	},
+	"Panoramic": {
+		"name": "Panoramic"
+	},
+	"Paramount_Interactive": {
+		"name": "Paramount Interactive"
+	},
+	"Park_Place_Productions": {
+		"name": "Park Place Productions"
+	},
+	"Polygames": {
+		"name": "Polygames"
+	},
+	"Probe_Entertainment": {
+		"name": "Probe Entertainment"
+	},
+	"Probe_Software": {
+		"name": "Probe Software"
+	},
+	"Produce": {
+		"name": "Produce"
+	},
+	"Psygnosis": {
+		"name": "Psygnosis"
+	},
+	"Publishing_International": {
+		"name": "Publishing International"
+	},
+	"Punk_Development": {
+		"name": "Punk Development"
+	},
+	"Quest": {
+		"name": "Quest"
+	},
+	"Quintet": {
+		"name": "Quintet"
+	},
+	"Radiance_Software": {
+		"name": "Radiance Software"
+	},
+	"Radical_Entertainment": {
+		"name": "Radical Entertainment"
+	},
+	"Rage_Software": {
+		"name": "Rage Software"
+	},
+	"Rainbow_Arts": {
+		"name": "Rainbow Arts"
+	},
+	"Raising_Hell_Productions": {
+		"name": "Raising Hell Productions"
+	},
+	"Rare": {
+		"name": "Rare"
+	},
+	"Rare_Ltd": {
+		"name": "Rare Ltd."
+	},
+	"Realms": {
+		"name": "Realms"
+	},
+	"Realtime_Associates": {
+		"name": "Realtime Associates"
+	},
+	"Recreational_Brainware": {
+		"name": "Recreational Brainware"
+	},
+	"Red_Company": {
+		"name": "Red Company"
+	},
+	"Red_Entertainment": {
+		"name": "Red Entertainment"
+	},
+	"Renegade_Animation": {
+		"name": "Renegade Animation"
+	},
+	"Reno": {
+		"name": "Reno"
+	},
+	"Ringler_Studios": {
+		"name": "Ringler Studios"
+	},
+	"Riot": {
+		"name": "Riot"
+	},
+	"Rockstar_North": {
+		"name": "DMA Design"
+	},
+	"Romstar": {
+		"name": "Romstar"
+	},
+	"SCE_Studio_Liverpool": {
+		"name": "Psygnosis"
+	},
+	"SCi": {
+		"name": "SCi"
+	},
+	"SETA_Corporation": {
+		"name": "SETA Corporation"
+	},
+	"SIMS": {
+		"name": "SIMS"
+	},
+	"SNK": {
+		"name": "SNK"
+	},
+	"SNK_Playmore": {
+		"name": "SNK"
+	},
+	"SPS_Co.,_Ltd": {
+		"name": "SPS Co., Ltd."
+	},
+	"Sage's_Creation": {
+		"name": "Sage's Creation"
+	},
+	"Sales_Curve_Interactive": {
+		"name": "Sales Curve Interactive"
+	},
+	"Sammy_Corporation": {
+		"name": "American Sammy"
+	},
+	"Sandcastle_Productions": {
+		"name": "Sandcastle Productions"
+	},
+	"Sanritsu": {
+		"name": "Sanritsu"
+	},
+	"Santos": {
+		"name": "Santos"
+	},
+	"Saurus": {
+		"name": "Saurus"
+	},
+	"Sculptured_Software": {
+		"name": "Sculptured Software"
+	},
+	"Sega": {
+		"name": "Sega"
+	},
+	"Sega_AM2": {
+		"name": "Sega AM2"
+	},
+	"Sega_AM3": {
+		"name": "Sega AM3"
+	},
+	"Sega_AM6": {
+		"name": "Sega AM6"
+	},
+	"Sega_AM7": {
+		"name": "Sega AM7"
+	},
+	"Sega_InterActive": {
+		"name": "Sega InterActive"
+	},
+	"Sega_Midwest_Studio": {
+		"name": "Sega Midwest Studio"
+	},
+	"Sega_Sports": {
+		"name": "Sega Sports"
+	},
+	"Sega_Technical_Institute": {
+		"name": "Sega Technical Institute"
+	},
+	"Sega_interActive": {
+		"name": "Sega interActive"
+	},
+	"Seibu_Kaihatsu": {
+		"name": "Seibu Kaihatsu"
+	},
+	"Sensible_Software": {
+		"name": "Sensible Software"
+	},
+	"Shiny_Entertainment": {
+		"name": "Shiny Entertainment"
+	},
+	"Sigma_Pro-Tech": {
+		"name": "Sigma Pro-Tech"
+	},
+	"Silicon_&_Synapse": {
+		"name": "Silicon & Synapse"
+	},
+	"Silicon_Beach_Software": {
+		"name": "Silicon Beach Software"
+	},
+	"Silicon_Sorcery": {
+		"name": "Silicon Sorcery"
+	},
+	"Soft_Machine": {
+		"name": "Soft Machine"
+	},
+	"Software_Creations": {
+		"name": "Software Creations"
+	},
+	"Software_Creations_(UK)": {
+		"name": "Software Creations"
+	},
+	"Software_Toolworks": {
+		"name": "Software Toolworks"
+	},
+	"Solid_Software": {
+		"name": "Solid Software"
+	},
+	"Sonic": {
+		"name": "Sonic"
+	},
+	"Sonic_Team": {
+		"name": "Sonic Team"
+	},
+	"Sony_Imagesoft": {
+		"name": "Sony Imagesoft"
+	},
+	"Spectacular_Games": {
+		"name": "Spectacular Games"
+	},
+	"Spectrum_Holobyte": {
+		"name": "Spectrum Holobyte"
+	},
+	"Spidersoft": {
+		"name": "Spidersoft"
+	},
+	"Sprytes": {
+		"name": "Sprytes"
+	},
+	"Square": {
+		"name": "Square"
+	},
+	"Square_Enix_Europe": {
+		"name": "Sales Curve Interactive"
+	},
+	"Sterling_Silver_Software": {
+		"name": "Sterling Silver Software"
+	},
+	"Sting_Entertainment": {
+		"name": "Sting Entertainment"
+	},
+	"Stormfront_Studios": {
+		"name": "Stormfront Studios"
+	},
+	"Strategic_Simulations": {
+		"name": "Strategic Simulations"
+	},
+	"Success": {
+		"name": "Success"
+	},
+	"Sunsoft": {
+		"name": "Sunsoft"
+	},
+	"Supersonic_Software": {
+		"name": "Supersonic Software"
+	},
+	"Synergistic": {
+		"name": "Synergistic"
+	},
+	"Syrox_Developments": {
+		"name": "Syrox Developments"
+	},
+	"System_3": {
+		"name": "System 3"
+	},
+	"System_Sacom": {
+		"name": "System Sacom"
+	},
+	"System_Vision": {
+		"name": "System Vision"
+	},
+	"Systemsoft": {
+		"name": "Systemsoft"
+	},
+	"T&E_Soft": {
+		"name": "T&E Soft"
+	},
+	"TAD_Corporation": {
+		"name": "TAD Corporation"
+	},
+	"THQ": {
+		"name": "Black Pearl Software"
+	},
+	"Tahoe_Software": {
+		"name": "Tahoe Software"
+	},
+	"Taito": {
+		"name": "Taito"
+	},
+	"Taito_Corporation": {
+		"name": "Taito"
+	},
+	"Takara": {
+		"name": "Takara"
+	},
+	"Team_Bubsy": {
+		"name": "Team Bubsy"
+	},
+	"TecMagik": {
+		"name": "TecMagik"
+	},
+	"Technology_and_Entertainment_Software": {
+		"name": "T&E Software"
+	},
+	"Technopop": {
+		"name": "Technopop"
+	},
+	"Technosoft": {
+		"name": "Technosoft"
+	},
+	"Technōs_Japan": {
+		"name": "Technōs Japan"
+	},
+	"Tecmo": {
+		"name": "Tecmo"
+	},
+	"Teeny_Weeny_Games": {
+		"name": "Teeny Weeny Games"
+	},
+	"Telenet": {
+		"name": "Telenet"
+	},
+	"Telenet_Japan": {
+		"name": "Telenet Japan"
+	},
+	"Tengen": {
+		"name": "Tengen"
+	},
+	"Teque_London": {
+		"name": "Teque London"
+	},
+	"The_Bitmap_Brothers": {
+		"name": "The Bitmap Brothers"
+	},
+	"The_Cartoon_Mavericks": {
+		"name": "The Cartoon Mavericks"
+	},
+	"The_Creative_Assembly": {
+		"name": "The Creative Assembly"
+	},
+	"The_Global_Team": {
+		"name": "The Global Team"
+	},
+	"The_Kremlin": {
+		"name": "The Kremlin"
+	},
+	"Tiburon_Entertainment": {
+		"name": "Tiburon Entertainment"
+	},
+	"Tiertex": {
+		"name": "Tiertex"
+	},
+	"Tiertex_Design_Studios": {
+		"name": "Tiertex"
+	},
+	"Time_Warner_Interactive": {
+		"name": "Time Warner Interactive"
+	},
+	"Titus_Software": {
+		"name": "Titus Software"
+	},
+	"Toaplan": {
+		"name": "Toaplan"
+	},
+	"Toei_Company": {
+		"name": "Toei Company"
+	},
+	"Toho": {
+		"name": "Toho"
+	},
+	"Tokai_Communications": {
+		"name": "Vic Tokai"
+	},
+	"Tokyo_Shoseki": {
+		"name": "Tokyo Shoseki"
+	},
+	"Tommy_Tallarico_Studios": {
+		"name": "Tommy Tallarico Studios"
+	},
+	"Tonkin_House": {
+		"name": "Tonkin House"
+	},
+	"Tose": {
+		"name": "Tose"
+	},
+	"Toys_For_Bob": {
+		"name": "Toys For Bob"
+	},
+	"Tradewest": {
+		"name": "Tradewest"
+	},
+	"Traveller's_Tales": {
+		"name": "Traveller's Tales"
+	},
+	"Treasure": {
+		"name": "Treasure"
+	},
+	"Triad": {
+		"name": "Triad"
+	},
+	"Triffix_Entertainment": {
+		"name": "Triffix"
+	},
+	"Trimark_Interactive": {
+		"name": "Trimark Interactive"
+	},
+	"Twilight": {
+		"name": "Twilight Games"
+	},
+	"U.S._Gold": {
+		"name": "U.S. Gold"
+	},
+	"UPL_Limited": {
+		"name": "UPL Limited"
+	},
+	"Ukiyotei": {
+		"name": "Ukiyotei"
+	},
+	"Vectordean": {
+		"name": "Vectordean"
+	},
+	"Viacom": {
+		"name": "Viacom New Media"
+	},
+	"Vic_Tokai": {
+		"name": "Vic Tokai"
+	},
+	"Video_System": {
+		"name": "Video System"
+	},
+	"Virgin_Games": {
+		"name": "Virgin Games"
+	},
+	"Virgin_Interactive": {
+		"name": "Virgin Interactive"
+	},
+	"Virgin_Studios_London": {
+		"name": "Virgin Studios London"
+	},
+	"Visco_Corporation": {
+		"name": "Visco Corporation"
+	},
+	"Visual_Concepts": {
+		"name": "Visual Concepts"
+	},
+	"WJS_Design": {
+		"name": "WJS Design"
+	},
+	"WMS_Industries": {
+		"name": "Williams Entertainment"
+	},
+	"WaterMelon": {
+		"name": "WaterMelon"
+	},
+	"Waterman_Design": {
+		"name": "Waterman Design"
+	},
+	"Western_Technologies": {
+		"name": "Western Technologies"
+	},
+	"Westone": {
+		"name": "Westone"
+	},
+	"Westwood_Associates": {
+		"name": "Westwood Associates"
+	},
+	"Westwood_Studios": {
+		"name": "Westwood Studios"
+	},
+	"Winds": {
+		"name": "Winds"
+	},
+	"Wisdom_Tree": {
+		"name": "Wisdom Tree"
+	},
+	"Wolf_Team": {
+		"name": "Wolf Team"
+	},
+	"XYZ_Productions": {
+		"name": "XYZ Productions"
+	},
+	"Zeus_Software": {
+		"name": "Zeus Software"
+	},
+	"Zono": {
+		"name": "Zono"
+	},
+	"Zyrinx": {
+		"name": "Zyrinx"
+	}
 }
