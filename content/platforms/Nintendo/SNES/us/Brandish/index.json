@@ -6,6 +6,9 @@
   "name": "Brandish",
   "publisher": "Koei",
   "released": {
-    "text": "February 28. 1995"
+    "day": 28,
+    "month": 2,
+    "sortable": "1995-02-28",
+    "year": 1995
   }
 }
