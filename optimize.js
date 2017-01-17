@@ -3,6 +3,7 @@ const fs = require('fs'),
       path = require('path'),
       mkdirp = require('mkdirp'),
       _ = require('underscore'),
+      noop = () => {},
       sort = (object) => {
         //Adapted from https://zackehh.com/sorting-object-recursively-node-jsjavascript/
         let sorted = {},
@@ -37,7 +38,7 @@ const fs = require('fs'),
           if (err) {
             console.error(err);
           } else {
-            fs.writeFile(path.join(__dirname, './content/', base, '/index.json'), JSON.stringify(sort(data), null, 2)+'\n');
+            fs.writeFile(path.join(__dirname, './content/', base, '/index.json'), JSON.stringify(sort(data), null, 2)+'\n', noop);
           }
         });
       };

@@ -1,5 +1,6 @@
 {
   "platforms": [
-    "Nintendo/SNES/us"
+    "Nintendo/SNES/us",
+    "SEGA/Genesis/us"
   ]
 }
