@@ -64,7 +64,6 @@ Object.keys(root.companies).forEach((company) => {
         let game = read(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`);
 
         //Make sure there is a publisher profile
-
         let publisher = read(`publishers/${game.publisher}`);
         if(publisher.platforms) {
           if(!_.contains(publisher.platforms, `${company.guid}/${platform.guid}/${region.guid}`)) {

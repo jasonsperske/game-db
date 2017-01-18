@@ -1,0 +1,9 @@
+{
+  "guid": "TG16",
+  "name": "TurboGrafx-16",
+  "regions": {
+    "us": {
+      "name": "North American"
+    }
+  }
+}

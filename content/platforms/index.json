@@ -1,5 +1,8 @@
 {
   "companies": {
+    "NEC": {
+      "name": "NEC"
+    },
     "Nintendo": {
       "name": "Nintendo"
     },

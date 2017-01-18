@@ -1,4 +1,7 @@
 {
+  "Advanced_Productions": {
+    "name": "Advanced Productions"
+  },
   "ASCII": {
     "name": "ASCII"
   },
@@ -275,6 +278,9 @@
   "Motown_Software": {
     "name": "Motown Software"
   },
+  "NEC": {
+    "name": "NEC"
+  },
   "NTVIC": {
     "name": "NTVIC"
   },
@@ -313,6 +319,9 @@
   },
   "Psygnosis": {
     "name": "Psygnosis"
+  },
+  "Radiance_Software": {
+    "name": "Radiance Software"
   },
   "Rare": {
     "name": "Rare"
@@ -409,6 +418,9 @@
   },
   "THQ": {
     "name": "THQ"
+  },
+  "TTI": {
+    "name": "TTI"
   },
   "Taito": {
     "name": "Taito"
@@ -508,5 +520,8 @@
   },
   "Wisdom_Tree": {
     "name": "Wisdom Tree"
+  },
+  "Working_Designs": {
+    "name": "Working Designs"
   }
 }

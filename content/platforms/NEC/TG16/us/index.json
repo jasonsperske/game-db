@@ -1,0 +1,758 @@
+{
+  "games": {
+    "Aero_Blasters": {
+      "name": "Aero Blasters",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Air_Zonk": {
+      "name": "Air Zonk",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Alien_Crush": {
+      "name": "Alien Crush",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Andre_Panza_Kick_Boxing": {
+      "name": "Andre Panza Kick Boxing",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Ballistix": {
+      "name": "Ballistix",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Battle_Royale": {
+      "name": "Battle Royale",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Blazing_Lazers": {
+      "name": "Blazing Lazers",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Bloody_Wolf": {
+      "name": "Bloody Wolf",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Bomberman": {
+      "name": "Bomberman",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Bomberman_'93": {
+      "name": "Bomberman '93",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Bonk's_Adventure": {
+      "name": "Bonk's Adventure",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Bonk's_Revenge": {
+      "name": "Bonk's Revenge",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Bonk_3_Bonk's_Big_Adventure": {
+      "name": "Bonk 3: Bonk's Big Adventure",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Boxyboy": {
+      "name": "Boxyboy",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Bravoman": {
+      "name": "Bravoman",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Cadash": {
+      "name": "Cadash",
+      "publisher": "Working_Designs",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Champions_Forever_Boxing": {
+      "name": "Champions Forever Boxing",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Chase_H.Q": {
+      "name": "Chase H.Q.",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Chew_Man_Fu": {
+      "name": "Chew Man Fu",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "China_Warrior": {
+      "name": "China Warrior",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Cratermaze": {
+      "name": "Cratermaze",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Cyber_Core": {
+      "name": "Cyber Core",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Darkwing_Duck": {
+      "name": "Darkwing Duck",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Davis_Cup_Tennis": {
+      "name": "Davis Cup Tennis",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Dead_Moon": {
+      "name": "Dead Moon",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Deep_Blue": {
+      "name": "Deep Blue",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Devil's_Crush": {
+      "name": "Devil's Crush",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Double_Dungeons": {
+      "name": "Double Dungeons",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Dragon's_Curse": {
+      "name": "Dragon's Curse",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Dragon_Spirit": {
+      "name": "Dragon Spirit",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Drop_Off": {
+      "name": "Drop Off",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Dungeon_Explorer": {
+      "name": "Dungeon Explorer",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Dungeons_Dragons_Order_of_the_Griffon": {
+      "name": "Dungeons & Dragons: Order of the Griffon",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Falcon": {
+      "name": "Falcon",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Fantasy_Zone": {
+      "name": "Fantasy Zone",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Final_Lap_Twin": {
+      "name": "Final Lap Twin",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Galaga_'90": {
+      "name": "Galaga '90",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Ghost_Manor": {
+      "name": "Ghost Manor",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Gunboat": {
+      "name": "Gunboat",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Hit_the_Ice": {
+      "name": "Hit the Ice",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Impossamole": {
+      "name": "Impossamole",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "J.J._Jeff": {
+      "name": "J.J. & Jeff",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Jack_Nicklaus'_Turbo_Golf": {
+      "name": "Jack Nicklaus' Turbo Golf",
+      "publisher": "Accolade",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Jackie_Chan's_Action_Kung_Fu": {
+      "name": "Jackie Chan's Action Kung Fu",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Keith_Courage_in_Alpha_Zones": {
+      "name": "Keith Courage in Alpha Zones",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "King_Of_Casino": {
+      "name": "King Of Casino",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Klax": {
+      "name": "Klax",
+      "publisher": "Tengen",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Legend_of_Hero_Tonma": {
+      "name": "Legend of Hero Tonma",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Magical_Chase": {
+      "name": "Magical Chase",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Military_Madness": {
+      "name": "Military Madness",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Moto_Roader": {
+      "name": "Moto Roader",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Neutopia": {
+      "name": "Neutopia",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Neutopia_II": {
+      "name": "Neutopia II",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "New_Adventure_Island": {
+      "name": "New Adventure Island",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Night_Creatures": {
+      "name": "Night Creatures",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Ninja_Spirit": {
+      "name": "Ninja Spirit",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Ordyne": {
+      "name": "Ordyne",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Pac-Land": {
+      "name": "Pac-Land",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Parasol_Stars": {
+      "name": "Parasol Stars",
+      "publisher": "Working_Designs",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Power_Golf": {
+      "name": "Power Golf",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Psychosis": {
+      "name": "Psychosis",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "R-Type": {
+      "name": "R-Type",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Raiden": {
+      "name": "Raiden",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Samurai_Ghost": {
+      "name": "Samurai Ghost",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Shockman": {
+      "name": "Shockman",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Side_Arms_Hyper_Dyne": {
+      "name": "Side Arms Hyper Dyne",
+      "publisher": "Radiance_Software",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Silent_Debuggers": {
+      "name": "Silent Debuggers",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Sinistron": {
+      "name": "Sinistron",
+      "publisher": "IGS",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Soldier_Blade": {
+      "name": "Soldier Blade",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Somer_Assault": {
+      "name": "Somer Assault",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Sonic_Spike_Volleyball": {
+      "name": "Sonic Spike Volleyball",
+      "publisher": "IGS",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Space_Harrier": {
+      "name": "Space Harrier",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Splatterhouse": {
+      "name": "Splatterhouse",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Super_Star_Soldier": {
+      "name": "Super Star Soldier",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Super_Volleyball": {
+      "name": "Super Volleyball",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "TV_Sports_Basketball": {
+      "name": "TV Sports Basketball",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "TV_Sports_Football": {
+      "name": "TV Sports Football",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "TV_Sports_Hockey": {
+      "name": "TV Sports Hockey",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Takin'_it_to_the_Hoop": {
+      "name": "Takin' it to the Hoop",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "TaleSpin": {
+      "name": "TaleSpin",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "The_Legendary_Axe": {
+      "name": "The Legendary Axe",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "The_Legendary_Axe_II": {
+      "name": "The Legendary Axe II",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Tiger_Road": {
+      "name": "Tiger Road",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Time_Cruise": {
+      "name": "Time Cruise",
+      "publisher": "TTI",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Timeball": {
+      "name": "Timeball",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Tricky_Kick": {
+      "name": "Tricky Kick",
+      "publisher": "IGS",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Turrican": {
+      "name": "Turrican",
+      "publisher": "Accolade",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Veigues_Tactical_Gladiator": {
+      "name": "Veigues Tactical Gladiator",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Victory_Run": {
+      "name": "Victory Run",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "Vigilante": {
+      "name": "Vigilante",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "World_Class_Baseball": {
+      "name": "World Class Baseball",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "World_Court_Tennis": {
+      "name": "World Court Tennis",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1989-01-01",
+        "year": 1989
+      }
+    },
+    "World_Sports_Competition": {
+      "name": "World Sports Competition",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Yo_Bro": {
+      "name": "Yo, Bro",
+      "publisher": "NEC",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    }
+  },
+  "guid": "us",
+  "name": "North American"
+}

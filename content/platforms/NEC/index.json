@@ -1,0 +1,9 @@
+{
+  "guid": "NEC",
+  "name": "NEC",
+  "platforms": {
+    "TG16": {
+      "name": "TurboGrafx-16"
+    }
+  }
+}
