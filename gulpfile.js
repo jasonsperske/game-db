@@ -5,7 +5,7 @@ var gulp = require('gulp'),
     flatten = require('gulp-flatten'),
     concat = require('gulp-concat');
 
-gulp.task('script', function() {
+gulp.task('script', () => {
     return gulp.src(['src/bower/jquery/dist/jquery.js',
                      'src/bower/bootstrap-sass/assets/javascripts/bootstrap.js',
                      'src/bower/ace-builds/src-noconflict/ace.js',
@@ -19,7 +19,16 @@ gulp.task('script', function() {
                .pipe(gulp.dest('static/script/'));
 });
 
-gulp.task('script-ace-assets', function() {
+gulp.task('script-typeahead', () => {
+    return gulp.src(['src/bower/typeahead.js/dist/typeahead.bundle.js',
+                     'src/bower/typeahead.js/dist/typeahead.jquery.js'
+                   ], {base: './src'})
+               .pipe(uglify())
+               .pipe(concat('typeahead.min.js'))
+               .pipe(gulp.dest('static/script/'));
+});
+
+gulp.task('script-ace-assets', () => {
     return gulp.src(['src/bower/ace-builds/src-noconflict/theme-github.js',
                      'src/bower/ace-builds/src-noconflict/*-html.js',
                      'src/bower/ace-builds/src-noconflict/*-javascript.js',
@@ -29,7 +38,7 @@ gulp.task('script-ace-assets', function() {
 });
 
 
-gulp.task('style', function() {
+gulp.task('style', () => {
   return gulp.src('src/style/cms.scss')
              .pipe(sass({
                paths: [ 'src/' ]
@@ -38,16 +47,16 @@ gulp.task('style', function() {
              .pipe(gulp.dest('static/css/'));
 });
 
-gulp.task('fonts', function() {
+gulp.task('fonts', () => {
     return gulp.src(['src/bower/font-awesome/fonts/*',
                      'src/bower/bootstrap-sass/assets/fonts/bootstrap/*'], {base: './'})
                .pipe(flatten())
                .pipe(gulp.dest('static/fonts/'));
 });
 
-gulp.task('watch', function() {
+gulp.task('watch', () => {
   gulp.watch('./src/script/*.js', ['script']);
   gulp.watch('./src/style/*.scss', ['style']);
 });
 
-gulp.task('default', ['script', 'script-ace-assets', 'style', 'fonts']);
+gulp.task('default', ['script', 'script-typeahead', 'script-ace-assets', 'style', 'fonts']);
