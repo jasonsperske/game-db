@@ -1,6 +1,7 @@
 var gulp = require('gulp'),
     uglify = require('gulp-uglify'),
     sass = require('gulp-sass'),
+    cssimport = require("gulp-cssimport"),
     cleanCSS = require('gulp-clean-css'),
     flatten = require('gulp-flatten'),
     concat = require('gulp-concat');
@@ -43,6 +44,7 @@ gulp.task('style', () => {
              .pipe(sass({
                paths: [ 'src/' ]
              }))
+             .pipe(cssimport())
              .pipe(cleanCSS())
              .pipe(gulp.dest('static/css/'));
 });

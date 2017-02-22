@@ -26,6 +26,7 @@
     "gulp": "*",
     "gulp-clean-css": "*",
     "gulp-concat": "*",
+    "gulp-cssimport": "*",
     "gulp-flatten": "*",
     "gulp-sass": "*",
     "gulp-uglify": "*"
