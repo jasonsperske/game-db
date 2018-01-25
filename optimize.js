@@ -5,7 +5,7 @@ const fs = require('fs'),
       _ = require('underscore'),
       noop = () => {},
       sort = (object) => {
-        //Adapted from https://zackehh.com/sorting-object-recursively-node-jsjavascript/
+        //Adapted from https://whitfin.io/sorting-object-recursively-node-jsjavascript/
         let sorted = {},
             keys = _.keys(object);
 
