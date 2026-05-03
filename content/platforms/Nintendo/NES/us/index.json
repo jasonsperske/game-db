@@ -1,13 +1,12 @@
 {
   "games": {
-    "10-Yard_Fight": {
-      "name": "10-Yard Fight",
-      "publisher": "Nintendo",
+    "720": {
+      "name": "720°",
+      "publisher": "Mindscape",
       "released": {
-        "day": 18,
-        "month": 10,
-        "sortable": "1985-10-18",
-        "year": 1985
+        "month": 11,
+        "sortable": "1989-11-01",
+        "year": 1989
       }
     },
     "1942": {
@@ -17,6 +16,16 @@
         "month": 11,
         "sortable": "1986-11-01",
         "year": 1986
+      }
+    },
+    "10-Yard_Fight": {
+      "name": "10-Yard Fight",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 18,
+        "month": 10,
+        "sortable": "1985-10-18",
+        "year": 1985
       }
     },
     "1943_The_Battle_of_Midway": {
@@ -35,15 +44,6 @@
         "month": 9,
         "sortable": "1987-09-01",
         "year": 1987
-      }
-    },
-    "720": {
-      "name": "720°",
-      "publisher": "Mindscape",
-      "released": {
-        "month": 11,
-        "sortable": "1989-11-01",
-        "year": 1989
       }
     },
     "8_Eyes": {
@@ -1420,8 +1420,9 @@
       "name": "Dr. Mario",
       "publisher": "Nintendo",
       "released": {
+        "day": 19,
         "month": 10,
-        "sortable": "1990-10-01",
+        "sortable": "1990-10-19",
         "year": 1990
       }
     },

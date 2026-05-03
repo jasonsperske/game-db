@@ -3,8 +3,9 @@
   "name": "Dr. Mario",
   "publisher": "Nintendo",
   "released": {
+    "day": 19,
     "month": 10,
-    "sortable": "000000001990-10-01-0000",
+    "sortable": "1990-10-19",
     "year": 1990
   }
 }

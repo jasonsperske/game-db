@@ -10,5 +10,4 @@
     "month": 10,
     "day": 14
   }
-	Doctype:HTML5
-	IDE: c9.io
+	Doctype: HTML5

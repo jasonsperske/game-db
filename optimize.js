@@ -1,84 +1,91 @@
-"use strict";
-const fs = require('fs'),
-      path = require('path'),
-      mkdirp = require('mkdirp'),
-      _ = require('underscore'),
-      noop = () => {},
-      sort = (object) => {
-        //Adapted from https://whitfin.io/sorting-object-recursively-node-jsjavascript/
-        let sorted = {},
-            keys = _.keys(object);
+'use strict';
 
-        keys = _.sortBy(keys, function(key){
-          return key;
-        });
+const fs = require('fs');
+const path = require('path');
 
-        _.each(keys, function(key) {
-          if(typeof object[key] == 'object' && !(object[key] instanceof Array)){
-            sorted[key] = sort(object[key]);
-          } else {
-            sorted[key] = object[key];
-          }
-        });
+const sortObject = (value) => {
+  if (Array.isArray(value) || value === null || typeof value !== 'object') {
+    return value;
+  }
+  const sorted = {};
+  for (const key of Object.keys(value).sort()) {
+    sorted[key] = sortObject(value[key]);
+  }
+  return sorted;
+};
 
-        return sorted;
-      },
-      read = (base) => {
-        try {
-          fs.accessSync(path.join(__dirname, 'content', base, 'index.json'), fs.R_OK | fs.W_OK);
-          delete require.cache[require.resolve('./content/'+base+'/index.json')];
-          return require('./content/'+base+'/index.json');
-        } catch(e) {
-          console.log(e);
-          return {};
+const contentPath = (...parts) => path.join(__dirname, 'content', ...parts);
+
+const read = (base) => {
+  const target = contentPath(base, 'index.json');
+  try {
+    return JSON.parse(fs.readFileSync(target, 'utf8'));
+  } catch (e) {
+    if (e.code !== 'ENOENT') console.error(`Failed to read ${target}:`, e.message);
+    return {};
+  }
+};
+
+const save = (base, data) => {
+  const dir = contentPath(base);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(
+    contentPath(base, 'index.json'),
+    JSON.stringify(sortObject(data), null, 2) + '\n'
+  );
+};
+
+// The game record is the only authoritative record for all information.
+// To keep this database organized, this script walks every game list and
+// makes sure that the index, publishers, and developers stay in sync, and
+// that every JSON file is valid and consistently formatted.
+
+const hasPublisher = (game) => typeof game.publisher === 'string' && game.publisher !== '';
+const hasDevelopers = (game) => Array.isArray(game.developers) && game.developers.length > 0;
+const isIncomplete = (game) => !hasPublisher(game) && !hasDevelopers(game);
+
+const incomplete = [];
+
+const root = read('platforms');
+
+Object.keys(root.companies || {}).forEach((companyKey) => {
+  const company = read(`platforms/${companyKey}`);
+  Object.keys(company.platforms || {}).forEach((platformKey) => {
+    const platform = read(`platforms/${company.guid}/${platformKey}`);
+    Object.keys(platform.regions || {}).forEach((regionKey) => {
+      const region = read(`platforms/${company.guid}/${platform.guid}/${regionKey}`);
+      Object.keys(region.games || {}).forEach((guid) => {
+        const game = read(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`);
+        const platformPath = `${company.guid}/${platform.guid}/${region.guid}`;
+
+        if (isIncomplete(game)) {
+          incomplete.push(`${platformPath}/${guid}`);
         }
-      },
-      save = (base, data) => {
-        mkdirp(path.join(__dirname, './content/', base), (err) => {
-          if (err) {
-            console.error(err);
+
+        if (game.publisher) {
+          const publisher = read(`publishers/${game.publisher}`);
+          if (Array.isArray(publisher.platforms)) {
+            if (!publisher.platforms.includes(platformPath)) {
+              publisher.platforms.push(platformPath);
+            }
           } else {
-            fs.writeFile(path.join(__dirname, './content/', base, '/index.json'), JSON.stringify(sort(data), null, 2)+'\n', noop);
+            publisher.platforms = [platformPath];
           }
-        });
-      };
-
-//The game record is the only authoritate record for all information
-//To keep this database organized the script will walk though each
-//game list and make sure that:
-// [] the index is correct
-// [] the publishers list is correct
-// [] the developers list is correct
-// [] every JSON is valid and formatted
-
-let root = read('platforms');
-let publishers = read('publishers');
-
-Object.keys(root.companies).forEach((company) => {
-  company = read(`platforms/${company}`);
-  Object.keys(company.platforms).forEach((platform) => {
-    platform = read(`platforms/${company.guid}/${platform}`);
-    Object.keys(platform.regions).forEach((region) => {
-      region = read(`platforms/${company.guid}/${platform.guid}/${region}`);
-      Object.keys(region.games).forEach((guid) => {
-        let game = read(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`);
-
-        //Make sure there is a publisher profile
-        let publisher = read(`publishers/${game.publisher}`);
-        if(publisher.platforms) {
-          if(!_.contains(publisher.platforms, `${company.guid}/${platform.guid}/${region.guid}`)) {
-            publisher.platforms.push(`${company.guid}/${platform.guid}/${region.guid}`);
-          }
-        } else {
-          publisher['platforms'] = [`${company.guid}/${platform.guid}/${region.guid}`];
+          save(`publishers/${game.publisher}`, publisher);
         }
-        save(`publishers/${game.publisher}`, publisher);
-        //Check and clead
-        save(`platforms/${company.guid}/${platform.guid}/${region.guid}/${guid}`, game);
+        save(`platforms/${platformPath}/${guid}`, game);
         console.log(company.guid, '>', platform.guid, '>', region.guid, '>', game.name);
       });
     });
   });
 });
-//Now that the game list is denormalized make sure the index files for
-//developers and publishers is correct
+
+console.log('');
+if (incomplete.length) {
+  console.log(`Games with no publisher and no developers (${incomplete.length}):`);
+  for (const gamePath of incomplete) {
+    console.log(`  ${gamePath}`);
+  }
+} else {
+  console.log('All games have at least a publisher or a developer.');
+}

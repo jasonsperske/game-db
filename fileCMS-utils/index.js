@@ -1,55 +1,73 @@
 'use strict';
 
-const fs = require('fs'),
-      path = require('path'),
-      mkdirp = require('mkdirp'),
-      moment = require('moment'),
-      _ = require('underscore'),
-      sort = (object) => {
-        //Adapted from https://zackehh.com/sorting-object-recursively-node-jsjavascript/
-        let sorted = {},
-            keys = _.keys(object);
-        keys = _.sortBy(keys, function(key){
-          return key;
-        });
+const fs = require('fs');
+const path = require('path');
+const sanitizeFilename = require('sanitize-filename');
 
-        _.each(keys, function(key) {
-          if(typeof object[key] == 'object' && !(object[key] instanceof Array)){
-            sorted[key] = sort(object[key]);
-          } else {
-            sorted[key] = object[key];
-          }
-        });
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+                'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
-        return sorted;
-      };
+const ordinal = (n) => {
+  const s = ['th', 'st', 'nd', 'rd'];
+  const v = n % 100;
+  return n + (s[(v - 20) % 10] || s[v] || s[0]);
+};
 
-module.exports = function(base_path) {
+const sortObject = (value) => {
+  if (Array.isArray(value) || value === null || typeof value !== 'object') {
+    return value;
+  }
+  const sorted = {};
+  for (const key of Object.keys(value).sort()) {
+    sorted[key] = sortObject(value[key]);
+  }
+  return sorted;
+};
+
+const safeJoin = (basePath, ...segments) => {
+  const cleaned = segments.flatMap((seg) =>
+    String(seg).split('/').filter(Boolean).map(sanitizeFilename)
+  );
+  const target = path.join(basePath, ...cleaned);
+  if (!target.startsWith(basePath + path.sep) && target !== basePath) {
+    throw new Error(`path traversal blocked: ${segments.join('/')}`);
+  }
+  return target;
+};
+
+module.exports = (basePath) => {
+  const contentRoot = path.join(basePath, 'content');
+
   return {
     releasedOn: (released) => {
-      if(released.year && released.month && released.day) {
-        return moment([released.year, released.month-1, released.day]).format('MMM Do YYYY');
-      } else if(released.year && released.month) {
-        return moment([released.year, released.month-1, 1]).format('MMM YYYY');
-      } else if(released.year) {
-        return released.year;
-      } else {
-        return '-?-';
+      if (!released) return '-?-';
+      const { year, month, day } = released;
+      if (year && month && day) {
+        return `${MONTHS[month - 1]} ${ordinal(day)} ${year}`;
       }
+      if (year && month) {
+        return `${MONTHS[month - 1]} ${year}`;
+      }
+      if (year) return String(year);
+      return '-?-';
     },
-    read: (base, module) => {
+
+    read: (base, filename) => {
       try {
-        fs.accessSync(path.join(base_path, 'content', base, module), fs.R_OK | fs.W_OK);
-        delete require.cache[require.resolve(base_path+'/content/'+base+'/'+module)];
-        return require(base_path+'/content/'+base+'/'+module);
-      } catch(e) {
-        console.log(e);
+        const target = safeJoin(contentRoot, base, filename);
+        const raw = fs.readFileSync(target, 'utf8');
+        return JSON.parse(raw);
+      } catch (e) {
+        console.error(e);
         return {};
       }
     },
+
     save: (base, filename, data) => {
-      mkdirp.sync(path.join(base_path, 'content', base));
-      fs.writeFileSync(path.join(base_path, 'content', base, filename), JSON.stringify(sort(data), null, 2)+'\n');
+      const dir = safeJoin(contentRoot, base);
+      fs.mkdirSync(dir, { recursive: true });
+      const target = safeJoin(contentRoot, base, filename);
+      fs.writeFileSync(target, JSON.stringify(sortObject(data), null, 2) + '\n');
     }
   };
 };

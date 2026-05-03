@@ -1,0 +1,57 @@
+<ol class="breadcrumb">
+  <li><a href="<:= baseUrl :>/platform/">Platforms</a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>"><:= company.name :></a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>"><:= platform.name :></a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>/<:= region.guid :>"><:= region.name :></a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>/<:= region.guid :>/<:= game.guid :>"><:= game.name :></a></li>
+  <li class="active">Edit</li>
+</ol>
+<div class="container">
+  <form method="post" action="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>/<:= region.guid :>/<:= game.guid :>">
+    <div class="form-group row">
+      <label class="col-sm-2 col-form-label text-right">guid:</label>
+      <div class="col-sm-10"><span><:= game.guid :></span></div>
+    </div>
+    <div class="form-group row">
+      <label class="col-sm-2 col-form-label text-right" for="field-name">Name:</label>
+      <div class="col-sm-10">
+        <input class="form-control" id="field-name" type="text" name="name"
+               value="<:= game.name :>" required>
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class="col-sm-2 col-form-label text-right" for="field-publisher">Publisher:</label>
+      <div class="col-sm-10">
+        <input class="form-control" id="field-publisher" type="text" name="publisher"
+               value="<:= game.publisher || '' :>"
+               placeholder="publisher guid (e.g. Nintendo)">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class="col-sm-2 col-form-label text-right">Released:</label>
+      <div class="col-sm-10 form-inline">
+        <input class="form-control" type="number" name="year" min="1970" max="2100"
+               placeholder="YYYY" value="<:= (game.released && game.released.year) || '' :>">
+        <input class="form-control" type="number" name="month" min="1" max="12"
+               placeholder="MM" value="<:= (game.released && game.released.month) || '' :>">
+        <input class="form-control" type="number" name="day" min="1" max="31"
+               placeholder="DD" value="<:= (game.released && game.released.day) || '' :>">
+      </div>
+    </div>
+    <div class="form-group row">
+      <label class="col-sm-2 col-form-label text-right" for="field-developers">Developers:</label>
+      <div class="col-sm-10">
+        <input class="form-control" id="field-developers" type="text" name="developers"
+               value="<:= (game.developers || []).join('; ') :>"
+               placeholder="semicolon-separated developer guids">
+      </div>
+    </div>
+    <div class="form-group row">
+      <div class="col-sm-offset-2 col-sm-10">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a class="btn btn-default"
+           href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>/<:= region.guid :>/<:= game.guid :>">Cancel</a>
+      </div>
+    </div>
+  </form>
+</div>

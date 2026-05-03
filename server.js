@@ -1,35 +1,42 @@
-"use strict";
-const express = require('express'),
-      cms = express(),
-      urlencodedParser = require('body-parser').urlencoded({
-        extended: true
-      }),
-      env = require('node-env-file'),
-      fs = require('fs'),
-      ejs = require('ejs'),
-      utils = require('./fileCMS-utils')(__dirname);
+'use strict';
 
-try {
-    fs.accessSync(__dirname + '/.env', fs.F_OK);
-    env(__dirname + '/.env');
-} catch (e) {}
+require('dotenv').config({ path: __dirname + '/.env', quiet: true });
 
-cms.set('view engine', 'html');
-cms.engine('html', ejs.renderFile);
-cms.locals.layout = 'layout';
-cms.locals.delimiter = ':';
+const express = require('express');
+const ejs = require('ejs');
+const expressLayouts = require('express-ejs-layouts');
+const utils = require('./fileCMS-utils')(__dirname);
 
-cms.use('/static', express.static('static'));
-cms.use("/content", express.static('content'));
-cms.use(require('express-ejs-layouts'));
+const app = express();
+const port = process.env.PORT || 3000;
+const host = process.env.IP || '0.0.0.0';
+const baseUrl = (process.env.BASE_URL || '').replace(/\/$/, '');
+const editMode = process.env.NODE_ENV === 'development';
 
-cms.get('/', (req, res) => {
+app.set('view engine', 'html');
+app.engine('html', ejs.renderFile);
+app.locals.layout = 'layout';
+app.locals.delimiter = ':';
+app.locals.baseUrl = baseUrl;
+app.locals.editMode = editMode;
+
+app.use(express.urlencoded({ extended: false }));
+
+app.use(`${baseUrl}/static`, express.static('static'));
+app.use(`${baseUrl}/content`, express.static('content'));
+app.use(expressLayouts);
+
+app.get(`${baseUrl}/humans.txt`, (req, res) => {
+  res.type('text/plain').sendFile('humans.txt', { root: __dirname });
+});
+
+app.get(`${baseUrl}/`, (req, res) => {
   res.render('pages/index');
 });
 
-cms.use('/platform', require('./routes/platform')(utils));
-cms.use('/publisher', require('./routes/publisher')(utils));
+app.use(`${baseUrl}/platform`, require('./routes/platform')(utils, { editMode }));
+app.use(`${baseUrl}/publisher`, require('./routes/publisher')(utils));
 
-cms.listen(process.env.PORT, process.env.IP, () => {
-  console.log('Listening for cms requests at http://'+process.env.IP+':'+process.env.PORT+'/');
+app.listen(port, host, () => {
+  console.log(`Listening for cms requests at http://${host}:${port}/`);
 });

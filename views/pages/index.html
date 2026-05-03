@@ -1,4 +1,37 @@
+<style>
+  .game-search { position: relative; max-width: 720px; margin: 0 auto 24px; }
+  .game-search input {
+    width: 100%; padding: 12px 16px; font-size: 1.25rem; box-sizing: border-box; border-radius: 6px; border-width: thin; border-color: #aaa;
+  }
+  .game-search-menu {
+    position: absolute; left: 0; right: 0; top: 100%;
+    background: #fff; border: 1px solid #ccc; border-top: none;
+    max-height: 360px; overflow-y: auto; z-index: 10;
+  }
+  .game-search-menu[hidden] { display: none; }
+  .game-search-group-header {
+    padding: 8px 16px; font-weight: bold; background: #f5f5f5;
+    border-bottom: 1px solid #eee;
+  }
+  .game-search-item {
+    display: block; padding: 8px 16px; cursor: pointer;
+    border-bottom: 1px solid #f0f0f0;
+    color: inherit; text-decoration: none;
+  }
+  .game-search-item:hover, .game-search-item[aria-selected="true"] {
+    background: #e8f0fe;
+  }
+  .game-search-item mark { background: #fff3a0; padding: 0; }
+</style>
 <div class="jumbotron">
   <h1>GameDB</h1>
   <p>An Open Source database of videogames</p>
 </div>
+<div id="GameSearch" class="game-search">
+  <input id="GameSearchInput" type="search" autocomplete="off"
+         placeholder="Search North American games"
+         aria-label="Search games" aria-autocomplete="list"
+         aria-controls="GameSearchMenu">
+  <div id="GameSearchMenu" class="game-search-menu" role="listbox" hidden></div>
+</div>
+<script type="module" src="<:= baseUrl :>/static/script/search.js"></script>

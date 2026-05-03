@@ -1,10 +1,15 @@
 <ol class="breadcrumb">
-  <li><a href='/platform/'>Platforms</a></li>
-  <li><a href='/platform/<:=company.guid:>'><:= company.name :></a></li>
-  <li><a href='/platform/<:=company.guid:>/<:= platform.guid :>'><:= platform.name :></a></li>
-  <li><a href='/platform/<:=company.guid:>/<:= platform.guid :>/<:= region.guid :>'><:= region.name :></a></li>
+  <li><a href="<:= baseUrl :>/platform/">Platforms</a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>"><:= company.name :></a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>"><:= platform.name :></a></li>
+  <li><a href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>/<:= region.guid :>"><:= region.name :></a></li>
   <li class="active"><:= game.name :></li>
-</ol>
+  <: if (editMode) { :>
+    <li class="pull-right">
+      <a class="btn btn-default btn-xs"
+         href="<:= baseUrl :>/platform/<:= company.guid :>/<:= platform.guid :>/<:= region.guid :>/<:= game.guid :>/edit">Edit</a>
+    </li>
+  <: } :>
 <div class="container">
   <form>
     <div class="form-group row">
@@ -22,7 +27,7 @@
     <div class="form-group row">
       <label class="col-sm-2 col-form-label text-right">Published By:</label>
       <div class="col-sm-10">
-        <a href='/publisher/<:= publisher.guid :>'><:= publisher.name :></a>
+        <a href="<:= baseUrl :>/publisher/<:= publisher.guid :>"><:= publisher.name :></a>
       </div>
     </div>
 
@@ -31,7 +36,7 @@
       <div class="col-sm-10">
         <: developers.forEach((developer) => { :>
         <div class="form-check">
-          <a href='/developer/<:= developer.guid :>'><:= developer.name :></a><br/>
+          <a href="<:= baseUrl :>/developer/<:= developer.guid :>"><:= developer.name :></a><br/>
         </div>
         <: }) :>
       </div>

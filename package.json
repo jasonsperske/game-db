@@ -3,32 +3,26 @@
   "description": "a public database of videogames",
   "main": "server.js",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "cross-env NODE_ENV=development node --watch server.js",
+    "optimize": "node optimize.js",
+    "export": "node scripts/export-xlsx.js",
+    "import": "node scripts/import-xlsx.js"
+  },
   "dependencies": {
-    "body-parser": "*",
-    "cookie-parser": "*",
-    "ejs": "*",
-    "express": "*",
-    "express-ejs-layouts": "*",
-    "finalhandler": "*",
-    "mkdirp": "*",
-    "moment": "*",
-    "nconf": "*",
-    "node-env-file": "*",
-    "request": "*",
-    "sanitize-filename": "*",
-    "serve-favicon": "*",
-    "serve-static": "*",
-    "underscore": "*"
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "sanitize-filename": "^1.6.3"
   },
   "devDependencies": {
-    "bower": "*",
-    "gulp": "*",
-    "gulp-clean-css": "*",
-    "gulp-concat": "*",
-    "gulp-cssimport": "*",
-    "gulp-flatten": "*",
-    "gulp-sass": "*",
-    "gulp-uglify": "*"
+    "cross-env": "^10.1.0"
   }
 }
