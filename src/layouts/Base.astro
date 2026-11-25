@@ -1,0 +1,45 @@
+---
+import '../styles/global.css';
+import { REPO_URL, url } from '../lib/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+const { title, description = 'An open source database of video games, with downloadable data files for developers.' } = Astro.props;
+const path = Astro.url.pathname;
+const section = (p: string) => (path.startsWith(url(p)) ? 'page' : undefined);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title ? `${title} · GameDB` : 'GameDB'}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <link rel="author" type="text/plain" href={url('humans.txt')} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href={url()}><img src={url('favicon.svg')} alt="" />GameDB</a>
+        <nav class="site-nav" aria-label="Main">
+          <a href={url('platform/')} aria-current={section('platform')}>Platforms</a>
+          <a href={url('publisher/')} aria-current={section('publisher')}>Publishers</a>
+          <a href={url('developer/')} aria-current={section('developer')}>Developers</a>
+          <a href={url('data/')} aria-current={section('data')}>Data &amp; API</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        Created with &#9825; by <a href="http://jason.sperske.com/">Jason Sperske</a> ·
+        <a href={REPO_URL}>Source &amp; data on GitHub</a>
+      </div>
+    </footer>
+  </body>
+</html>

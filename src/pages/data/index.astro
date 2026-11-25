@@ -1,0 +1,87 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { REPO_URL, absUrl, dataUrl, site } from '../../lib/site';
+
+const s = site();
+const example = s.gamesById.get('Nintendo/NES/us/Mega_Man') ?? s.games[0];
+const exampleJson = JSON.stringify(example, null, 2);
+const gamesUrl = absUrl('data/v1/games.json');
+const fetchExample = `const res = await fetch('${gamesUrl}');
+const { games } = await res.json();
+
+// Index by id for O(1) lookups from your own collection records.
+const byId = new Map(games.map((g) => [g.id, g]));
+byId.get('Nintendo/NES/us/Mega_Man').released.sortable; // "1987-12-01"`;
+const collectionExample = `// Your app's table only needs to store the GameDB id.
+{ "user": 42, "game": "Nintendo/NES/us/Mega_Man", "condition": "CIB" }`;
+
+const files = [
+  ['index.json', 'Manifest: version, build time, counts and links to every file below.'],
+  ['games.json', `Every game (${s.games.length.toLocaleString('en-US')}) as one array, denormalized with publisher and developer names.`],
+  ['games.csv', 'The same data as CSV. Multiple developers are separated by ";".'],
+  ['platforms.json', 'Company → platform → region tree with game counts.'],
+  ['publishers.json', 'Publishers with display names and the ids of their games.'],
+  ['developers.json', 'Developers with display names and the ids of their games.'],
+  ['aliases.json', 'Retired ids mapped to their replacements.'],
+  ['schema/game.schema.json', 'JSON Schema for a game object.']
+];
+---
+<Base title="Data & API" description="Download the GameDB catalog as JSON, CSV or XLSX and use it in your own app.">
+  <Breadcrumbs items={[{ label: 'Data & API' }]} />
+  <h1>Data for developers</h1>
+  <p class="lede">
+    The whole catalog is published as static files that you can fetch from your app or download and bundle.
+    No API key and no rate limits. The files are regenerated every time the catalog changes.
+  </p>
+
+  <h2>Identifiers</h2>
+  <p>
+    Every game has an <code>id</code> of the form <code>&lt;company&gt;/&lt;platform&gt;/&lt;region&gt;/&lt;guid&gt;</code>,
+    for example <code>{example.id}</code>. It is unique across the catalog and stable, so use it as the foreign key in your own
+    collection tables. A <code>guid</code> on its own is only unique within one region; the same title on two platforms has two ids.
+  </p>
+  <pre><code>{collectionExample}</code></pre>
+  <p>
+    If an id ever has to change (a typo, or two duplicate records merged), the old id is listed in
+    <a href={dataUrl('aliases.json')}><code>aliases.json</code></a>, so you can migrate stored references.
+  </p>
+
+  <h2>Files</h2>
+  <p>All paths are under <code>{absUrl('data/v1/')}</code>.</p>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>File</th><th>Contents</th></tr></thead>
+      <tbody>
+        {files.map(([f, d]) => (
+          <tr><td class="nowrap"><a href={dataUrl(f)}><code>{f}</code></a></td><td>{d}</td></tr>
+        ))}
+        <tr>
+          <td class="nowrap"><code>platforms/&lt;company&gt;/&lt;platform&gt;/&lt;region&gt;.json</code><br /><code>.csv</code> · <code>.xlsx</code></td>
+          <td>One region's games. For example, <a href={dataUrl('platforms/Nintendo/NES/us.json')}><code>platforms/Nintendo/NES/us.json</code></a>.</td>
+        </tr>
+        <tr>
+          <td class="nowrap"><code>games/&lt;id&gt;.json</code></td>
+          <td>A single game. For example, <a href={dataUrl(`games/${example.id}.json`)}><code>games/{example.id}.json</code></a>.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Game object</h2>
+  <pre><code>{exampleJson}</code></pre>
+  <ul>
+    <li><code>released</code> is <code>null</code> when unknown. <code>month</code> and <code>day</code> are omitted when unknown, and <code>sortable</code> fills them in with <code>01</code> so you can sort by it as a string.</li>
+    <li><code>publisher</code> is <code>null</code> when unknown, and <code>developers</code> can be empty. Some records are still being filled in.</li>
+    <li>Fields may be added within <code>v1</code>. Removing or renaming a field will only happen in a new version path.</li>
+  </ul>
+
+  <h2>Example</h2>
+  <pre><code>{fetchExample}</code></pre>
+
+  <h2>Corrections and license</h2>
+  <p>
+    The source of truth is the JSON in the <a href={REPO_URL}>GitHub repository</a>. Each game page links to its record, so you can suggest a fix
+    with a pull request. The data is distributed under the repository's <a href={`${REPO_URL}/blob/master/LICENSE`}>license</a>.
+  </p>
+</Base>

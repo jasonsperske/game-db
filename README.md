@@ -1,70 +1,77 @@
 # game-db
-A public database of video games, plus a small Node/Express app for browsing and editing it.
+A public database of video games, published as a static website plus versioned JSON/CSV/XLSX data files that you can use in your own app.
 
-## What this system can do
-- **Browse the catalog** by company → platform → region → game, or by publisher, with every page generated from JSON in `content/`.
-- **Search across platforms live** from the home page (NES, SNES, Genesis, TG16 today) with highlighted matches and per-platform grouping.
-- **Sort any table** in the UI by clicking column headers (game name, release date, publisher, developers).
-- **Cross-reference publishers** — opening a publisher rolls up every game they shipped across all platforms.
-- **Edit games in the browser** when running in dev mode (`NODE_ENV=development`). Each game gets an edit form that writes back to the per-game `index.json` and updates the region index in one shot.
-- **Round-trip the catalog through spreadsheets**: each region lives as `data/platforms/<company>/<platform>/<region>.xlsx`, editable in any spreadsheet tool, then synced back into the JSON content with `npm run import`. `npm run export` regenerates the xlsx files from JSON.
-- **Keep data normalized automatically** — `npm run optimize` walks every game record and ensures the indexes, publishers, and developers stay consistent, cutting commit noise.
-- **Deploy under a sub-path** (e.g. `https://example.com/games/`) by setting `BASE_URL`; all in-app links and asset URLs are rewritten relative to that prefix.
-- **Stable joining key** — every game has a `guid` other projects can use as a foreign key when extending the schema.
+## What this project provides
+- **A browsable site**: company → platform → region → game, plus publisher and developer pages, live search, and sortable, filterable tables. It's built with [Astro](https://astro.build) as plain static files.
+- **Data files for developers** under `/data/v1/`: the whole catalog as `games.json` / `games.csv`, per-region JSON/CSV/XLSX, per-game JSON, publisher and developer indexes, a manifest, and JSON Schemas. See the site's **Data & API** page (`/data/`) for details.
+- **A stable key for every game**: `id` = `<company>/<platform>/<region>/<guid>`, for example `Nintendo/NES/us/Mega_Man`. Use it as a foreign key in your own collection tables. If an id ever changes, the old one is listed in `/data/v1/aliases.json` and the old page URL redirects.
+- **Tooling that keeps the data consistent**: `optimize` normalizes records and rebuilds every derived index, and `validate` checks the schema, references and dates. CI runs both on every push and pull request.
 
 ## Scope of this project
-This is a database of all released games for all consoles starting with the Magnavox Odyssey up to the Playstation 4.  The purpose is to build a definitive and accessible set of lists that can function as a collection database or the starting point for some web service.  Included in the base schema is the following fields:
+This is a database of all released games for all consoles, from the Magnavox Odyssey up to the PlayStation 4. The purpose is to build a definitive and accessible set of lists that can work as a collection database or as the starting point for a web service.
 
-    id
-    platform
-    region
-    name
-    released
-    publisher
-    developers
+Coverage today: North American releases for the NES, SNES, Genesis and TurboGrafx-16 (2,198 games).
 
-For projects that need to extend this schema the id can act as a joining foreign key.  The fields included are intended to make sorting and organizing games easy.  There are many other dimensions that a game can be organized by but these dimensions make less sense in terms or sorting or organizing.  This schema is however arbitrary and if other projects fork off of this and build up substantial data it is conceivable that they can be merged into this project or even grow to replace this project.
+The primary concept that defines a record is the first release of a physical game. This includes games that were only rarely released (such as the Nintendo World Championships 1990 Gold Cart) as well as games that had many later releases (Revenge of Shinobi for the Sega Genesis). Games that were not officially released (prototypes, or the Nintendo World Championships 1990 Grey Cart) will be organized into "prototype" or "unreleased" lists. This area is bound to have disagreements, but git lets anyone make different determinations.
 
-The primary concept that defines a record is the first release of a physical game.  This definition includes games that where only rarely released (such as the Nintendo World Championships 1990 Gold Cart) as well as games where many subsequent releases where made (Revenge of Shinobi for the Sega Genesis).  For games that where not officially released (such as prototypes or the Nintendo World Championships 1990 Grey Cart) the database will organize these into "prototype" or "unreleased" lists.  This is an area where is bound to be disagreements but the nature of `git` allows anyone to make different determinations.
+Collections, anthologies and emulated releases such as the Virtual Console are hard to get right. While the database is being built out, the focus is on original releases; re-releases come later, once the core data stabilizes.
 
-With regard to collections, anthologies and emulated releases such as the Virtual Console, this is a hard area to get totally right.  While this database is being built out we should focus on the original releases and build out releases later as the core data stabilizes.
+## Data model
+The JSON under `content/` is the **only source of truth**:
 
-## Running the Content Management System
-Requires Node.js 18 or later.  Install dependencies and start the server:
+| File | Contents | Edited by |
+|---|---|---|
+| `content/platforms/<company>/<platform>/<region>/<guid>/index.json` | One game record | hand / `npm run import` |
+| `content/platforms/<company>/index.json`, `.../<platform>/index.json`, `.../<region>/index.json` | `name` of the company / platform / region | hand (child maps are derived) |
+| `content/publishers/index.json`, `content/developers/index.json` | `guid → { name }` | hand |
+| `content/_config/aliases.json` | Retired guids → replacements | hand |
+| region `games` maps, `content/publishers/<guid>/index.json` | Derived indexes | `npm run optimize` only |
+
+A game record:
+
+```json
+{
+  "guid": "Mega_Man",
+  "name": "Mega Man",
+  "publisher": "Capcom",
+  "developers": ["Capcom"],
+  "released": { "year": 1987, "month": 12, "sortable": "1987-12-01" }
+}
+```
+
+`publisher` and `developers` are guids from the name indexes. `guid` must match the folder name and use ASCII letters, digits and `._~!$&'()+,;=@-` only. The formal schemas are in `schema/`. Extra fields are allowed and are preserved by every tool, so a fork can extend the schema and use the `id` as its joining key.
+
+To rename or merge a game, publisher or developer, add the old guid to `content/_config/aliases.json` and run `npm run optimize`. It moves folders and rewrites references, and validation then rejects the old guid. Only use aliases for spelling or encoding variants of the *same* entity. Rebrands and subsidiaries (Virgin Games vs Virgin Interactive) stay separate.
+
+## Working on the catalog
+Requires Node.js 26 (the current LTS) or later. With nvm, run `nvm use` to pick up the version in `.nvmrc`.
 
     npm install
-    npm start
+    npm run dev        # site at http://localhost:4321 with live reload
 
-The server reads `IP`, `PORT`, and (optionally) `BASE_URL` from the environment.  If you don't have these defined you can create a `.env` file in the project root (which `dotenv` will load):
+Before committing any data change:
 
-    PORT=3000
-    IP=0.0.0.0
+    npm run optimize   # normalize records and rebuild derived indexes
+    npm run validate   # schema, references, dates; add --verbose to list warnings
 
-To install the app under a sub-path on a server (e.g. `https://example.com/games/`), set `BASE_URL` to the path prefix:
+`npm run check` runs both in check-only mode, the same way CI does.
 
-    BASE_URL=/games
+### Editing as spreadsheets
+    npm run export     # writes data/platforms/<company>/<platform>/<region>.xlsx (not committed)
+    # ...edit in any spreadsheet tool...
+    npm run import     # applies the sheets to content/
+    npm run optimize && npm run validate
 
-When `BASE_URL` is unset the app serves from `/`.  All in-app links and asset URLs are generated relative to this prefix.
+The sheet owns the `name`, `publisher`, `released_*` and `developers` columns (developers are separated by `;`), and an empty cell clears that field. New guids create new games. Rows missing from the sheet are reported, never deleted. The same xlsx files can be downloaded from each region page on the site, so contributors can send edits back.
 
-For local development with auto-restart on file changes:
+## Building and deploying the site
+    npm run build      # static site + data files in dist/
+    npm run preview
 
-    npm run dev
+- `BASE_URL=/games` serves the site under a sub-path.
+- `SITE_URL=https://example.com` makes the links in `/data/v1/index.json` absolute.
 
-## Editing the catalog as spreadsheets
-The xlsx files under `data/platforms/<company>/<platform>/<region>.xlsx` are the editable source of truth for each region's catalog.  Edit them in any spreadsheet tool, then sync the JSON content with:
-
-    npm run import
-
-To regenerate the xlsx files from the JSON content (e.g. after pulling new data, or to bootstrap on a fresh checkout):
-
-    npm run export
-
-Both scripts use the columns: `guid`, `name`, `publisher`, `released_year`, `released_month`, `released_day`, `developers` (semicolon-separated guids).  The folder layout under `data/` mirrors `content/platforms/`.
-
-## Preparing a commit with updated information
-However you add new information, in order to cut down on git commit noise you should run the optimize script.  This will clean up any changed files and make sure that any new information is denormalized and consistent across all files:
-
-    npm run optimize
+The included GitHub Actions workflow validates every push and pull request. On pushes to `master` it also deploys to GitHub Pages (one-time setup: Settings → Pages → Source: GitHub Actions). Any static host works. Serve `dist/` with `Access-Control-Allow-Origin: *` if other sites will fetch the data from the browser (GitHub Pages already does this).
 
 ## Motivations for building this
-I realized while building my third website that involves video games that I was building the same database again and again.  This project is an attempt to gather all of this data together and produce something that could help others.  The information that I needed to build my applications builds on top of this data, but it is sparse.  My hope is that people who have thier own uses cases (a mobile app that mananages)
+I realized while building my third website that involves video games that I was building the same database again and again. This project is an attempt to gather all of this data together and produce something that could help others. The information that I needed to build my applications builds on top of this data, but it is sparse. My hope is that people who have their own use cases (a mobile app that manages a collection, for example) can start from this data, extend it, and contribute back.

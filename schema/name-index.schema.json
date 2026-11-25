@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "name-index.schema.json",
+  "title": "Publisher / developer index (source)",
+  "description": "content/publishers/index.json and content/developers/index.json — guid -> display name.",
+  "type": "object",
+  "propertyNames": { "pattern": "^[A-Za-z0-9][A-Za-z0-9._~!$&'()+,;=@-]*$" },
+  "additionalProperties": {
+    "type": "object",
+    "required": ["name"],
+    "properties": { "name": { "type": "string", "minLength": 1 } }
+  }
+}

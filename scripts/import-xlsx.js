@@ -1,140 +1,89 @@
-'use strict';
+// Apply edits from data/platforms/<company>/<platform>/<region>.xlsx back to
+// the JSON game records.
+//
+// The sheet owns the name / publisher / released / developers fields: an empty
+// cell clears that field. Any other fields on a record are preserved. New guids
+// create new game folders. Games missing from the sheet are reported, never
+// deleted. Run `npm run optimize && npm run validate` afterwards.
 
-const fs = require('fs');
-const path = require('path');
-const ExcelJS = require('exceljs');
+import fs from 'node:fs';
+import path from 'node:path';
+import {
+  GUID_PATTERN, PLATFORMS_DIR, ROOT,
+  loadAliases, normalizeGame, readJson, resolveAlias, writeJson
+} from '../lib/catalog.js';
+import { readWorkbookRows } from '../lib/xlsx.js';
 
-const {
-  COLUMNS,
-  DEVELOPER_SEPARATOR,
-  readJson,
-  writeJson,
-  sortObject,
-  sortableFromReleased,
-  regionJsonPath,
-  gameJsonPath,
-  walkXlsx,
-  xlsxPathToRegion
-} = require('./lib');
+const DATA_DIR = path.join(ROOT, 'data', 'platforms');
 
-const EXPECTED_HEADERS = COLUMNS.map((c) => c.header);
-
-const cellString = (value) => {
-  if (value === null || value === undefined) return '';
-  if (typeof value === 'object' && 'text' in value) return String(value.text).trim();
-  if (typeof value === 'object' && 'result' in value) return String(value.result).trim();
-  return String(value).trim();
-};
-
-const cellNumber = (value) => {
-  const str = cellString(value);
-  if (!str) return undefined;
-  const n = Number(str);
-  return Number.isFinite(n) ? n : undefined;
-};
-
-const readWorkbook = async (xlsxFile) => {
-  const workbook = new ExcelJS.Workbook();
-  await workbook.xlsx.readFile(xlsxFile);
-  const sheet = workbook.worksheets[0];
-  if (!sheet) throw new Error(`No sheets in ${xlsxFile}`);
-
-  const headerRow = sheet.getRow(1);
-  const headers = EXPECTED_HEADERS.map((_, idx) => cellString(headerRow.getCell(idx + 1).value));
-  for (let i = 0; i < EXPECTED_HEADERS.length; i++) {
-    if (headers[i] !== EXPECTED_HEADERS[i]) {
-      throw new Error(
-        `Header mismatch in ${xlsxFile}: column ${i + 1} expected "${EXPECTED_HEADERS[i]}", got "${headers[i]}"`
-      );
-    }
-  }
-
-  const rows = [];
-  sheet.eachRow((row, rowNumber) => {
-    if (rowNumber === 1) return;
-    const get = (key) => {
-      const idx = COLUMNS.findIndex((c) => c.key === key) + 1;
-      return row.getCell(idx).value;
-    };
-    const guid = cellString(get('guid'));
-    if (!guid) return;
-    rows.push({
-      guid,
-      name: cellString(get('name')),
-      publisher: cellString(get('publisher')),
-      released_year: cellNumber(get('released_year')),
-      released_month: cellNumber(get('released_month')),
-      released_day: cellNumber(get('released_day')),
-      developers: cellString(get('developers'))
-    });
+const walk = (dir) =>
+  !fs.existsSync(dir) ? [] : fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => {
+    const full = path.join(dir, e.name);
+    if (e.isDirectory()) return walk(full);
+    return e.name.endsWith('.xlsx') && !e.name.startsWith('~$') ? [full] : [];
   });
-  return rows;
-};
 
-const buildCommonFields = (row) => {
-  const fields = { name: row.name };
-  if (row.publisher) fields.publisher = row.publisher;
-
-  const released = {};
-  if (row.released_year !== undefined) released.year = row.released_year;
-  if (row.released_month !== undefined) released.month = row.released_month;
-  if (row.released_day !== undefined) released.day = row.released_day;
-  const sortable = sortableFromReleased(released);
-  if (sortable) released.sortable = sortable;
-  if (Object.keys(released).length) fields.released = released;
-
-  const developers = row.developers
-    ? row.developers.split(DEVELOPER_SEPARATOR).map((s) => s.trim()).filter(Boolean)
-    : [];
-  if (developers.length) fields.developers = developers;
-
-  return fields;
-};
-
-const buildGameEntry = (row) => buildCommonFields(row);
-
-const buildGameRecord = (row) => ({ guid: row.guid, ...buildCommonFields(row) });
-
-const importRegion = async (xlsxFile) => {
-  const region = xlsxPathToRegion(xlsxFile);
-  const rows = await readWorkbook(xlsxFile);
-
-  const jsonFile = regionJsonPath(region);
-  const existing = fs.existsSync(jsonFile) ? readJson(jsonFile) : {};
-
-  const games = {};
-  for (const row of rows) {
-    games[row.guid] = buildGameEntry(row);
-    writeJson(gameJsonPath(region, row.guid), sortObject(buildGameRecord(row)));
-  }
-
-  const merged = {
-    ...existing,
-    guid: existing.guid ?? region.region,
-    name: existing.name ?? region.region,
-    games
-  };
-
-  writeJson(jsonFile, sortObject(merged));
-  console.log(`wrote ${path.relative(process.cwd(), jsonFile)} (${rows.length} games + per-game files)`);
-  return rows.length;
-};
-
-const main = async () => {
-  const files = walkXlsx();
-  if (!files.length) {
-    console.error('No xlsx files found under data/platforms — run `npm run export` first.');
-    process.exit(1);
-  }
-  let total = 0;
-  for (const file of files) {
-    total += await importRegion(file);
-  }
-  console.log('');
-  console.log(`Imported ${files.length} xlsx file(s), ${total} games total.`);
-};
-
-main().catch((err) => {
-  console.error(err);
+const files = walk(DATA_DIR);
+if (!files.length) {
+  console.error('No xlsx files under data/platforms. Run `npm run export` first.');
   process.exit(1);
-});
+}
+
+const aliases = loadAliases();
+let created = 0, updated = 0, problems = 0;
+
+for (const file of files) {
+  const segments = path.relative(DATA_DIR, file).split(path.sep);
+  if (segments.length !== 3) {
+    console.error(`skip ${path.relative(ROOT, file)}: expected data/platforms/<company>/<platform>/<region>.xlsx`);
+    problems++;
+    continue;
+  }
+  const regionPath = [segments[0], segments[1], segments[2].replace(/\.xlsx$/, '')].join('/');
+  if (!fs.existsSync(path.join(PLATFORMS_DIR, regionPath))) {
+    console.error(`skip ${path.relative(ROOT, file)}: content/platforms/${regionPath} does not exist`);
+    problems++;
+    continue;
+  }
+
+  const rows = await readWorkbookRows(file);
+  const seen = new Set();
+
+  for (const row of rows) {
+    const id = resolveAlias(aliases.games, `${regionPath}/${row.guid}`);
+    const guid = id.split('/').pop();
+    if (!GUID_PATTERN.test(guid)) {
+      console.error(`  ${path.relative(ROOT, file)}:${row.line} invalid guid "${row.guid}" (ASCII letters, digits and ._~!$&'()+,;=@- only)`);
+      problems++;
+      continue;
+    }
+    if (seen.has(guid)) {
+      console.error(`  ${path.relative(ROOT, file)}:${row.line} duplicate guid "${guid}"`);
+      problems++;
+      continue;
+    }
+    seen.add(guid);
+
+    const recordFile = path.join(PLATFORMS_DIR, id, 'index.json');
+    const existing = readJson(recordFile, null);
+    const { name, publisher, released, developers, ...rest } = existing || {};
+    const next = normalizeGame(
+      { ...rest, name: row.name || name || guid, publisher: row.publisher, released: row.released, developers: row.developers },
+      guid,
+      aliases
+    );
+    if (writeJson(recordFile, next)) existing ? updated++ : created++;
+  }
+
+  const missing = fs.readdirSync(path.join(PLATFORMS_DIR, regionPath), { withFileTypes: true })
+    .filter((e) => e.isDirectory() && !seen.has(e.name))
+    .map((e) => e.name);
+  if (missing.length) {
+    console.log(`  ${regionPath}: ${missing.length} game(s) are not in the sheet and were left untouched: ${missing.slice(0, 5).join(', ')}${missing.length > 5 ? ', ...' : ''}`);
+  }
+  console.log(`read ${path.relative(ROOT, file)} (${rows.length} rows)`);
+}
+
+console.log(`\n${created} created, ${updated} updated, ${problems} problem(s).`);
+console.log('Next: npm run optimize && npm run validate');
+if (problems) process.exit(1);

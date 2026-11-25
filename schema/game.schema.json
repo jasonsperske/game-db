@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "game.schema.json",
+  "title": "Game (published)",
+  "description": "One entry of /data/v1/games.json and the per-region files. Publisher and developer references are denormalized with display names.",
+  "type": "object",
+  "required": ["id", "guid", "name", "company", "platform", "region", "released", "publisher", "developers"],
+  "properties": {
+    "id": {
+      "description": "Globally unique, stable key: <company>/<platform>/<region>/<guid>. Use this as your foreign key.",
+      "type": "string",
+      "pattern": "^[^/]+/[^/]+/[^/]+/[^/]+$"
+    },
+    "guid": { "description": "Unique within a region only.", "type": "string" },
+    "name": { "type": "string" },
+    "company": { "type": "string" },
+    "platform": { "type": "string" },
+    "region": { "type": "string" },
+    "released": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "game-record.schema.json#/$defs/released" }
+      ]
+    },
+    "publisher": {
+      "oneOf": [{ "type": "null" }, { "$ref": "#/$defs/ref" }]
+    },
+    "developers": { "type": "array", "items": { "$ref": "#/$defs/ref" } }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "ref": {
+      "type": "object",
+      "required": ["guid", "name"],
+      "properties": { "guid": { "type": "string" }, "name": { "type": "string" } },
+      "additionalProperties": false
+    }
+  }
+}

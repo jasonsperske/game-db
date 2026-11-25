@@ -1,0 +1,59 @@
+---
+// Sortable, filterable table of games. Columns are opt-in so the same
+// component serves region, publisher and developer pages.
+import { formatReleased, gameUrl, site, url, type Game } from '../lib/site';
+
+interface Props {
+  games: Game[];
+  columns?: ('platform' | 'publisher' | 'developers')[];
+  caption: string;
+}
+const { games, columns = ['publisher', 'developers'], caption } = Astro.props;
+const s = site();
+const show = (c: string) => columns.includes(c as never);
+const sorted = [...games].sort((a, b) => a.name.localeCompare(b.name));
+---
+<div class="table-tools">
+  <span class="muted">{games.length} {games.length === 1 ? 'game' : 'games'}</span>
+  <input class="filter" type="search" placeholder="Filter this list…" aria-label={`Filter ${caption}`} data-filter-for="games-table" />
+</div>
+<div class="table-wrap">
+  <table id="games-table" data-sortable>
+    <caption class="visually-hidden">{caption}</caption>
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        {show('platform') && <th scope="col">Platform</th>}
+        <th scope="col">Released</th>
+        {show('publisher') && <th scope="col">Publisher</th>}
+        {show('developers') && <th scope="col">Developers</th>}
+      </tr>
+    </thead>
+    <tbody>
+      {sorted.map((g) => (
+        <tr>
+          <td><a href={gameUrl(g.id)}>{g.name}</a></td>
+          {show('platform') && (
+            <td><a href={url(`platform/${g.company}/${g.platform}/${g.region}/`)}>{s.platformName(g.company, g.platform)}</a> <span class="muted">{g.region}</span></td>
+          )}
+          <td class="nowrap" data-order={g.released?.sortable ?? '9999'}>{formatReleased(g.released)}</td>
+          {show('publisher') && (
+            <td>{g.publisher ? <a href={url(`publisher/${g.publisher.guid}/`)}>{g.publisher.name}</a> : <span class="muted">—</span>}</td>
+          )}
+          {show('developers') && (
+            <td>
+              {g.developers.length
+                ? g.developers.map((d, i) => <>{i > 0 && ', '}<a href={url(`developer/${d.guid}/`)}>{d.name}</a></>)
+                : <span class="muted">—</span>}
+            </td>
+          )}
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+
+<script>
+  import { initTables } from '../scripts/tables';
+  initTables();
+</script>

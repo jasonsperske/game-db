@@ -1,0 +1,35 @@
+---
+import Base from '../../../../../layouts/Base.astro';
+import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
+import GameTable from '../../../../../components/GameTable.astro';
+import { dataUrl, site, url } from '../../../../../lib/site';
+
+export const getStaticPaths = () =>
+  site().regions.map((r) => ({
+    params: { company: r.company, platform: r.platform, region: r.guid },
+    props: { region: r }
+  }));
+
+const { region } = Astro.props;
+const s = site();
+const company = s.platforms.find((c) => c.guid === region.company)!;
+const platformName = s.platformName(region.company, region.platform);
+const games = s.gamesIn(region.path);
+const file = `platforms/${region.path}`;
+---
+<Base title={`${platformName} (${region.name})`}>
+  <Breadcrumbs items={[
+    { label: 'Platforms', href: url('platform/') },
+    { label: company.name, href: url(`platform/${company.guid}/`) },
+    { label: platformName, href: url(`platform/${region.company}/${region.platform}/`) },
+    { label: region.name }
+  ]} />
+  <h1>{platformName} <span class="muted">· {region.name}</span></h1>
+  <p class="downloads">
+    <span class="muted">Download:</span>
+    <a class="chip" href={dataUrl(`${file}.json`)}>JSON</a>
+    <a class="chip" href={dataUrl(`${file}.csv`)}>CSV</a>
+    <a class="chip" href={dataUrl(`${file}.xlsx`)} download>XLSX</a>
+  </p>
+  <GameTable games={games} caption={`${platformName} ${region.name} games`} />
+</Base>
