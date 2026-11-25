@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { REPO_URL, url } from '../lib/site';
+import { DATA_LICENSE, REPO_URL, url } from '../lib/site';
 
 interface Props {
   title?: string;
@@ -38,7 +38,8 @@ const section = (p: string) => (path.startsWith(url(p)) ? 'page' : undefined);
     <footer class="site-footer">
       <div class="container">
         Created with &#9825; by <a href="http://jason.sperske.com/">Jason Sperske</a> ·
-        <a href={REPO_URL}>Source &amp; data on GitHub</a>
+        <a href={REPO_URL}>Source &amp; data on GitHub</a> ·
+        Data <a href={DATA_LICENSE.url}>CC0</a>, code <a href={`${REPO_URL}/blob/master/LICENSE`}>MIT</a>
       </div>
     </footer>
   </body>

@@ -5,6 +5,16 @@ export { formatReleased };
 export const REPO_URL = 'https://github.com/jasonsperske/game-db';
 export const DATA_VERSION = 'v1';
 
+/** The catalog data is public domain; the code is MIT (see LICENSE). */
+export const DATA_LICENSE = {
+  id: 'CC0-1.0',
+  name: 'CC0 1.0 Universal (public domain dedication)',
+  url: 'https://creativecommons.org/publicdomain/zero/1.0/'
+};
+
+/** Header fields included in every published JSON file. */
+export const DATA_META = { version: DATA_VERSION, license: DATA_LICENSE };
+
 type Ref = { guid: string; name: string };
 export type Game = {
   id: string;
@@ -62,7 +72,7 @@ export const regionPayload = (path: string) => {
   const s = site();
   const region = s.regions.find((r) => r.path === path)!;
   return {
-    version: DATA_VERSION,
+    ...DATA_META,
     company: region.company,
     platform: region.platform,
     platformName: s.platformName(region.company, region.platform),

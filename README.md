@@ -73,5 +73,11 @@ The sheet owns the `name`, `publisher`, `released_*` and `developers` columns (d
 
 The included GitHub Actions workflow validates every push and pull request. On pushes to `master` it also deploys to GitHub Pages (one-time setup: Settings → Pages → Source: GitHub Actions). Any static host works. Serve `dist/` with `Access-Control-Allow-Origin: *` if other sites will fetch the data from the browser (GitHub Pages already does this).
 
+## License
+- **Data** (`content/` and every file generated from it, including `/data/v1/`): [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), a public domain dedication. Use it for anything, commercial or not, with no attribution required. See [`content/LICENSE`](content/LICENSE).
+- **Code** (site, scripts, schemas): [MIT](LICENSE).
+
+By contributing data you agree to release it under CC0. Before November 2026 the whole repository was GPL-3.0.
+
 ## Motivations for building this
 I realized while building my third website that involves video games that I was building the same database again and again. This project is an attempt to gather all of this data together and produce something that could help others. The information that I needed to build my applications builds on top of this data, but it is sparse. My hope is that people who have their own use cases (a mobile app that manages a collection, for example) can start from this data, extend it, and contribute back.

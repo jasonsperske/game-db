@@ -1,11 +1,11 @@
 // Manifest: what files exist, how many records, and when it was built.
-import { DATA_VERSION, absUrl, json, site } from '../../../lib/site';
+import { DATA_META, DATA_VERSION, absUrl, json, site } from '../../../lib/site';
 
 export const GET = () => {
   const s = site();
   const file = (p: string) => absUrl(`data/${DATA_VERSION}/${p}`);
   return json({
-    version: DATA_VERSION,
+    ...DATA_META,
     generatedAt: new Date().toISOString(),
     counts: {
       games: s.games.length,

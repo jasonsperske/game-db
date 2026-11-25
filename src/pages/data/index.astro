@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import { REPO_URL, absUrl, dataUrl, site } from '../../lib/site';
+import { DATA_LICENSE, REPO_URL, absUrl, dataUrl, site } from '../../lib/site';
 
 const s = site();
 const example = s.gamesById.get('Nintendo/NES/us/Mega_Man') ?? s.games[0];
@@ -31,7 +31,7 @@ const files = [
   <Breadcrumbs items={[{ label: 'Data & API' }]} />
   <h1>Data for developers</h1>
   <p class="lede">
-    The whole catalog is published as static files that you can fetch from your app or download and bundle.
+    The whole catalog is published as public-domain (CC0) static files that you can fetch from your app or download and bundle.
     No API key and no rate limits. The files are regenerated every time the catalog changes.
   </p>
 
@@ -79,9 +79,18 @@ const files = [
   <h2>Example</h2>
   <pre><code>{fetchExample}</code></pre>
 
-  <h2>Corrections and license</h2>
+  <h2>License</h2>
+  <p>
+    The data is dedicated to the public domain under <a href={DATA_LICENSE.url}>{DATA_LICENSE.name}</a>.
+    You can copy it, change it, bundle it in commercial apps and redistribute it with no attribution required.
+    Every JSON file carries a <code>license</code> field so this stays attached to downloaded copies.
+    Credit and a link back are appreciated but not required.
+  </p>
+  <p class="muted">The site and tooling code is licensed separately under MIT.</p>
+
+  <h2>Corrections</h2>
   <p>
     The source of truth is the JSON in the <a href={REPO_URL}>GitHub repository</a>. Each game page links to its record, so you can suggest a fix
-    with a pull request. The data is distributed under the repository's <a href={`${REPO_URL}/blob/master/LICENSE`}>license</a>.
+    with a pull request. By contributing data you agree to release it under CC0.
   </p>
 </Base>
