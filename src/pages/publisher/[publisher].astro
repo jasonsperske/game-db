@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import GameTable from '../../components/GameTable.astro';
+import { site, url } from '../../lib/site';
+
+export const getStaticPaths = () =>
+  site().publishers.map((entry) => ({ params: { publisher: entry.guid }, props: { entry } }));
+
+const { entry } = Astro.props;
+const games = site().lookup(entry.games);
+---
+<Base title={entry.name}>
+  <Breadcrumbs items={[{ label: 'Publishers', href: url('publisher/') }, { label: entry.name }]} />
+  <h1>{entry.name}</h1>
+  <p class="muted">Publisher id <code>{entry.guid}</code></p>
+  <GameTable games={games} columns={['platform', 'developers']} caption={`Games by ${entry.name}`} />
+</Base>

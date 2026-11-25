@@ -1,0 +1,4 @@
+// guid, display name and the ids of every game credited to each entry.
+import { DATA_META, DATA_VERSION, json, site } from '../../../lib/site';
+
+export const GET = () => json({ ...DATA_META, developers: site().developers });

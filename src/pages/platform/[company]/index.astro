@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { site, url } from '../../../lib/site';
+
+export const getStaticPaths = () =>
+  site().platforms.map((company) => ({ params: { company: company.guid }, props: { company } }));
+
+const { company } = Astro.props;
+---
+<Base title={company.name}>
+  <Breadcrumbs items={[{ label: 'Platforms', href: url('platform/') }, { label: company.name }]} />
+  <h1>{company.name}</h1>
+  <ul class="cards">
+    {company.platforms.map((p) => (
+      <li>
+        <a class="card" href={url(`platform/${company.guid}/${p.guid}/`)}>
+          <div class="title">{p.name}</div>
+          <div class="meta">{p.regions.map((r) => `${r.name}: ${r.gameCount}`).join(' · ')}</div>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

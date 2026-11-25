@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+import { dataUrl, site, url } from '../lib/site';
+
+const s = site();
+const fmt = (n: number) => n.toLocaleString('en-US');
+---
+<Base>
+  <h1>GameDB</h1>
+  <p class="lede">An open source catalog of video game releases. Browse it here, or download it as JSON, CSV or spreadsheets to use in your own app.</p>
+
+  <div class="search" id="search">
+    <input id="search-input" type="search" autocomplete="off" placeholder="Search all games…"
+           aria-label="Search games" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-controls="search-menu" />
+    <div id="search-menu" class="search-menu" role="listbox" hidden></div>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><div class="n">{fmt(s.games.length)}</div><div class="label">games</div></div>
+    <div class="stat"><div class="n">{s.regions.length}</div><div class="label">platform regions</div></div>
+    <div class="stat"><div class="n">{fmt(s.publishers.length)}</div><div class="label">publishers</div></div>
+    <div class="stat"><div class="n">{fmt(s.developers.length)}</div><div class="label">developers</div></div>
+  </div>
+
+  <h2>Platforms</h2>
+  <ul class="cards">
+    {s.regions.map((r) => (
+      <li>
+        <a class="card" href={url(`platform/${r.path}/`)}>
+          <div class="title">{s.platformName(r.company, r.platform)}</div>
+          <div class="meta">{r.name} · {fmt(r.gameCount)} games</div>
+        </a>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Building a collection app?</h2>
+  <p>
+    Every game has a stable <code>id</code> like <code>Nintendo/NES/us/Mega_Man</code> that you can use as a foreign key.
+    Start with <a href={dataUrl('games.json')}><code>games.json</code></a> or read the <a href={url('data/')}>data guide</a>.
+  </p>
+</Base>
+
+<script>
+  import { initSearch } from '../scripts/search';
+  initSearch();
+</script>

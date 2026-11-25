@@ -1,0 +1,48 @@
+{
+  "_comment": "Maps retired guids to their replacement. `npm run optimize` rewrites references (and moves game folders) using this file, `npm run validate` rejects any record that still uses a retired guid, and the site redirects old game URLs. Only add spelling/encoding variants of the same entity here; rebrands and subsidiaries (e.g. Virgin_Games vs Virgin_Interactive) stay separate.",
+  "developers": {
+    "Almanic_Corp": "Almanic",
+    "Ape,_Inc.": "Ape_Inc",
+    "Br%C3%B8derbund": "Broderbund",
+    "Brøderbund": "Broderbund",
+    "Eurocom_Entertainment_Software": "Eurocom",
+    "Hot_B": "Hot-B",
+    "Innerprise_Software": "Innerprise",
+    "Interplay": "Interplay_Entertainment",
+    "KID_Corp": "KID",
+    "Manley_Associates": "Manley_&_Associates",
+    "Microprose": "MicroProse",
+    "Rare_Ltd": "Rare",
+    "Sega_interActive": "Sega_InterActive",
+    "Taito_Corporation": "Taito",
+    "Technōs_Japan": "Technos_Japan"
+  },
+  "games": {
+    "Nintendo/NES/us/Déjà_Vu": "Nintendo/NES/us/Deja_Vu",
+    "Nintendo/SNES/us/Bébé's_Kids": "Nintendo/SNES/us/Bebe's_Kids",
+    "Nintendo/SNES/us/Ranma_½_Hard_Battle": "Nintendo/SNES/us/Ranma_1-2_Hard_Battle",
+    "Nintendo/SNES/us/Sküljagger_Revolt_of_the_Westicans": "Nintendo/SNES/us/Skuljagger_Revolt_of_the_Westicans",
+    "Nintendo/SNES/us/The_Sporting_News_Power Baseball": "Nintendo/SNES/us/The_Sporting_News_Power_Baseball",
+    "SEGA/Genesis/us/Crüe_Ball": "SEGA/Genesis/us/Crue_Ball",
+    "SEGA/Genesis/us/Pelé!": "SEGA/Genesis/us/Pele!",
+    "SEGA/Genesis/us/Pelé_II_World_Tournament_Soccer": "SEGA/Genesis/us/Pele_II_World_Tournament_Soccer"
+  },
+  "publishers": {
+    "American_Technōs": "American_Technos",
+    "Brøderbund": "Broderbund",
+    "Davidson_&_Associates": "Davidson_Associates",
+    "Elite": "Elite_Systems",
+    "Extreme Entertainment Group": "Extreme_Entertainment_Group",
+    "Extreme_Entertainment": "Extreme_Entertainment_Group",
+    "Hi-Tech_Expressions": "Hi_Tech_Expressions",
+    "Interplay": "Interplay_Entertainment",
+    "Raya Systems": "Raya_Systems",
+    "Razorsoft": "RazorSoft",
+    "RazorsoftSanritsu": "RazorSoft",
+    "Spectrum_Holobyte": "Spectrum_HoloByte",
+    "Taito_Corporation": "Taito",
+    "Technōs_Japan": "Technos_Japan",
+    "Triffix": "Triffix_Entertainment",
+    "Viacom": "Viacom_New_Media"
+  }
+}

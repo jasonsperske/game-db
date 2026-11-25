@@ -1,0 +1,58 @@
+---
+import Base from '../../../../../layouts/Base.astro';
+import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
+import { REPO_URL, dataUrl, formatReleased, site, url } from '../../../../../lib/site';
+
+export const getStaticPaths = () =>
+  site().games.map((game) => ({
+    params: { company: game.company, platform: game.platform, region: game.region, game: game.guid },
+    props: { game }
+  }));
+
+const { game } = Astro.props;
+const s = site();
+const company = s.platforms.find((c) => c.guid === game.company)!;
+const platformName = s.platformName(game.company, game.platform);
+const region = s.regions.find((r) => r.path === s.regionPath(game))!;
+const regionUrl = url(`platform/${region.path}/`);
+---
+<Base title={`${game.name} (${platformName})`} description={`${game.name} for the ${platformName} (${region.name}).`}>
+  <Breadcrumbs items={[
+    { label: 'Platforms', href: url('platform/') },
+    { label: company.name, href: url(`platform/${company.guid}/`) },
+    { label: platformName, href: url(`platform/${game.company}/${game.platform}/`) },
+    { label: region.name, href: regionUrl },
+    { label: game.name }
+  ]} />
+  <h1>{game.name}</h1>
+
+  <div class="panel">
+    <dl class="facts">
+      <dt>Platform</dt>
+      <dd><a href={regionUrl}>{platformName}</a> ({region.name})</dd>
+      <dt>Released</dt>
+      <dd>{formatReleased(game.released)}</dd>
+      <dt>Publisher</dt>
+      <dd>{game.publisher ? <a href={url(`publisher/${game.publisher.guid}/`)}>{game.publisher.name}</a> : <span class="muted">Unknown</span>}</dd>
+      <dt>{game.developers.length > 1 ? 'Developers' : 'Developer'}</dt>
+      <dd>
+        {game.developers.length
+          ? game.developers.map((d, i) => <>{i > 0 && ', '}<a href={url(`developer/${d.guid}/`)}>{d.name}</a></>)
+          : <span class="muted">Unknown</span>}
+      </dd>
+    </dl>
+  </div>
+
+  <h2>Data</h2>
+  <dl class="facts">
+    <dt>ID</dt>
+    <dd><code>{game.id}</code></dd>
+    <dt>JSON</dt>
+    <dd><a href={dataUrl(`games/${game.id}.json`)}><code>{dataUrl(`games/${game.id}.json`)}</code></a></dd>
+    <dt>Source</dt>
+    <dd>
+      <a href={`${REPO_URL}/blob/master/content/platforms/${game.id}/index.json`}>View record</a> ·
+      <a href={`${REPO_URL}/edit/master/content/platforms/${game.id}/index.json`}>Suggest a correction</a>
+    </dd>
+  </dl>
+</Base>

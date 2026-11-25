@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { site, url } from '../../lib/site';
+
+const s = site();
+const count = (c: (typeof s.platforms)[number]) =>
+  c.platforms.reduce((n, p) => n + p.regions.reduce((m, r) => m + r.gameCount, 0), 0);
+---
+<Base title="Platforms">
+  <Breadcrumbs items={[{ label: 'Platforms' }]} />
+  <h1>Platforms</h1>
+  {s.platforms.map((company) => (
+    <section>
+      <h2><a href={url(`platform/${company.guid}/`)}>{company.name}</a> <span class="muted">· {count(company).toLocaleString('en-US')} games</span></h2>
+      <ul class="cards">
+        {company.platforms.flatMap((p) => p.regions.map((r) => (
+          <li>
+            <a class="card" href={url(`platform/${company.guid}/${p.guid}/${r.guid}/`)}>
+              <div class="title">{p.name}</div>
+              <div class="meta">{r.name} · {r.gameCount.toLocaleString('en-US')} games</div>
+            </a>
+          </li>
+        )))}
+      </ul>
+    </section>
+  ))}
+</Base>

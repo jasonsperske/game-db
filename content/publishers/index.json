@@ -1,7 +1,4 @@
 {
-  "Advanced_Productions": {
-    "name": "Advanced Productions"
-  },
   "ASCII": {
     "name": "ASCII"
   },
@@ -32,7 +29,7 @@
   "American_Softworks": {
     "name": "American Softworks"
   },
-  "American_Technōs": {
+  "American_Technos": {
     "name": "American Technōs"
   },
   "Arcadia_Systems": {
@@ -65,7 +62,7 @@
   "Blue_Planet_Software": {
     "name": "Bullet-Proof Software"
   },
-  "Brøderbund": {
+  "Broderbund": {
     "name": "Brøderbund"
   },
   "Buena_Vista_Interactive": {
@@ -125,17 +122,11 @@
   "Electronic_Arts": {
     "name": "Electronic Arts"
   },
-  "Elite": {
-    "name": "Elite"
-  },
   "Elite_Systems": {
     "name": "Elite Systems"
   },
   "Enix": {
     "name": "Enix"
-  },
-  "Extreme_Entertainment": {
-    "name": "Extreme Entertainment"
   },
   "Extreme_Entertainment_Group": {
     "name": "Extreme Entertainment Group"
@@ -161,9 +152,6 @@
   "HAL_Laboratory": {
     "name": "HAL Laboratory"
   },
-  "Hi-Tech_Expressions": {
-    "name": "Hi-Tech Expressions"
-  },
   "Hi_Tech_Expressions": {
     "name": "Hi Tech Expressions"
   },
@@ -184,9 +172,6 @@
   },
   "Intellivision": {
     "name": "INTV"
-  },
-  "Interplay": {
-    "name": "Interplay"
   },
   "Interplay_Entertainment": {
     "name": "Interplay Entertainment"
@@ -332,12 +317,6 @@
   "RazorSoft": {
     "name": "RazorSoft"
   },
-  "Razorsoft": {
-    "name": "Razorsoft"
-  },
-  "RazorsoftSanritsu": {
-    "name": "Razorsoft|\n\t\t\t\tSanritsu"
-  },
   "Realtec": {
     "name": "Realtec"
   },
@@ -395,9 +374,6 @@
   "Spectrum_HoloByte": {
     "name": "Spectrum HoloByte"
   },
-  "Spectrum_Holobyte": {
-    "name": "Spectrum Holobyte"
-  },
   "Sport_Accolade": {
     "name": "Sport Accolade"
   },
@@ -425,9 +401,6 @@
   "Taito": {
     "name": "Taito"
   },
-  "Taito_Corporation": {
-    "name": "Taito"
-  },
   "Takara": {
     "name": "Takara"
   },
@@ -440,11 +413,11 @@
   "Technology_and_Entertainment_Software": {
     "name": "T&E Software"
   },
+  "Technos_Japan": {
+    "name": "Technōs Japan"
+  },
   "Technosoft": {
     "name": "Technosoft"
-  },
-  "Technōs_Japan": {
-    "name": "Technōs Japan"
   },
   "Tecmo": {
     "name": "Tecmo"
@@ -473,9 +446,6 @@
   "Treco": {
     "name": "Treco"
   },
-  "Triffix": {
-    "name": "Triffix"
-  },
   "Triffix_Entertainment": {
     "name": "Triffix"
   },
@@ -487,9 +457,6 @@
   },
   "Ultra_Games": {
     "name": "Ultra Games"
-  },
-  "Viacom": {
-    "name": "Viacom New Media"
   },
   "Viacom_New_Media": {
     "name": "Viacom New Media"

@@ -1,8 +1,10 @@
 {
-  "developers": ["Advanced_Productions"],
-  "publisher": "Advanced_Productions",
+  "developers": [
+    "Advanced_Productions"
+  ],
   "guid": "War_3010__The_Revolution",
   "name": "War 3010: The Revolution",
+  "publisher": "Advanced_Productions",
   "released": {
     "day": 1,
     "month": 10,

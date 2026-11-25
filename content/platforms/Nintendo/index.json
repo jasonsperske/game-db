@@ -3,10 +3,10 @@
   "name": "Nintendo",
   "platforms": {
     "NES": {
-      "name": "Nintendo Entrainment System"
+      "name": "Nintendo Entertainment System"
     },
     "SNES": {
-      "name": "Super Nintendo Entrainment System"
+      "name": "Super Nintendo Entertainment System"
     }
   }
 }

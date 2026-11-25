@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "game-record.schema.json",
+  "title": "Game record (source)",
+  "description": "content/platforms/<company>/<platform>/<region>/<guid>/index.json — the authoritative record for one game release.",
+  "type": "object",
+  "required": ["guid", "name"],
+  "properties": {
+    "guid": {
+      "description": "Equal to the folder name. Unique within a region.",
+      "$ref": "#/$defs/guid"
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "publisher": { "$ref": "#/$defs/guid" },
+    "developers": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/guid" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "released": { "$ref": "#/$defs/released" }
+  },
+  "additionalProperties": true,
+  "$defs": {
+    "guid": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._~!$&'()+,;=@-]*$"
+    },
+    "released": {
+      "type": "object",
+      "required": ["year", "sortable"],
+      "properties": {
+        "year": { "type": "integer", "minimum": 1971, "maximum": 2100 },
+        "month": { "type": "integer", "minimum": 1, "maximum": 12 },
+        "day": { "type": "integer", "minimum": 1, "maximum": 31 },
+        "sortable": {
+          "description": "YYYY-MM-DD; missing month/day are filled with 01.",
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        }
+      },
+      "dependentRequired": { "day": ["month"] },
+      "additionalProperties": false
+    }
+  }
+}
