@@ -1,8 +1,10 @@
 {
-  "developers": ["Advanced_Productions"],
-  "publisher": "Advanced_Productions",
+  "developers": [
+    "Advanced_Productions"
+  ],
   "guid": "War_2410",
   "name": "War 2410",
+  "publisher": "Advanced_Productions",
   "released": {
     "sortable": "1995-01-01",
     "year": 1995

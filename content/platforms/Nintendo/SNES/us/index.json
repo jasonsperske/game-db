@@ -27,8 +27,6 @@
       }
     },
     "ABC_Monday_Night_Football": {
-      "developers": [
-      ],
       "name": "ABC Monday Night Football",
       "publisher": "Data_East",
       "released": {
@@ -43,7 +41,7 @@
         "Realtime_Associates"
       ],
       "name": "AAAHH!!! Real Monsters",
-      "publisher": "Viacom",
+      "publisher": "Viacom_New_Media",
       "released": {
         "day": 15,
         "month": 8,
@@ -104,8 +102,6 @@
       }
     },
     "Adventures_of_Yogi_Bear": {
-      "developers": [
-      ],
       "name": "Adventures of Yogi Bear",
       "publisher": "Cybersoft",
       "released": {
@@ -283,8 +279,6 @@
       }
     },
     "Andre_Agassi_Tennis": {
-      "developers": [
-      ],
       "name": "Andre Agassi Tennis",
       "publisher": "TecMagik",
       "released": {
@@ -361,7 +355,7 @@
     },
     "Arkanoid__Doh_It_Again": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Arkanoid: Doh It Again",
       "publisher": "Nintendo",
@@ -399,8 +393,6 @@
       }
     },
     "B.O.B": {
-      "developers": [
-      ],
       "name": "B.O.B.",
       "publisher": "Electronic_Arts",
       "released": {
@@ -476,8 +468,6 @@
       }
     },
     "Bassin's_Black_Bass_with_Hank_Parker": {
-      "developers": [
-      ],
       "name": "Bassin's Black Bass with Hank Parker",
       "publisher": "Hot-B",
       "released": {
@@ -567,7 +557,7 @@
     },
     "Battletoads_Double_Dragon": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Battletoads & Double Dragon",
       "publisher": "Tradewest",
@@ -580,7 +570,7 @@
     },
     "Battletoads_in_Battlemaniacs": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Battletoads in Battlemaniacs",
       "publisher": "Tradewest",
@@ -609,7 +599,7 @@
         "Realtime_Associates"
       ],
       "name": "Beavis and Butt-head",
-      "publisher": "Viacom",
+      "publisher": "Viacom_New_Media",
       "released": {
         "day": 1,
         "month": 11,
@@ -617,9 +607,20 @@
         "year": 1994
       }
     },
-    "Beethoven_The_Ultimate_Canine_Caper": {
+    "Bebe's_Kids": {
       "developers": [
+        "Radical_Entertainment"
       ],
+      "name": "Bébé's Kids",
+      "publisher": "Motown_Software",
+      "released": {
+        "day": 19,
+        "month": 4,
+        "sortable": "1994-04-19",
+        "year": 1994
+      }
+    },
+    "Beethoven_The_Ultimate_Canine_Caper": {
       "name": "Beethoven: The Ultimate Canine Caper",
       "publisher": "Hi_Tech_Expressions",
       "released": {
@@ -708,8 +709,6 @@
       }
     },
     "BlaZeon": {
-      "developers": [
-      ],
       "name": "BlaZeon: The Bio-Cyborg Challenge",
       "publisher": "Atlus",
       "released": {
@@ -746,8 +745,6 @@
       }
     },
     "Bonkers": {
-      "developers": [
-      ],
       "name": "Disney's Bonkers",
       "publisher": "Capcom",
       "released": {
@@ -840,7 +837,7 @@
         "Artech_Digital_Entertainment"
       ],
       "name": "BreakThru!",
-      "publisher": "Spectrum_Holobyte",
+      "publisher": "Spectrum_HoloByte",
       "released": {
         "day": 1,
         "month": 6,
@@ -901,9 +898,8 @@
       }
     },
     "Bronkie_the_Bronchiasaurus": {
-      "developers": [
-      ],
       "name": "Bronkie the Bronchiasaurus",
+      "publisher": "Raya_Systems",
       "released": {
         "day": 26,
         "month": 9,
@@ -989,19 +985,6 @@
         "year": 1992
       }
     },
-    "Bébé's_Kids": {
-      "developers": [
-        "Radical_Entertainment"
-      ],
-      "name": "Bébé's Kids",
-      "publisher": "Motown_Software",
-      "released": {
-        "day": 19,
-        "month": 4,
-        "sortable": "1994-04-19",
-        "year": 1994
-      }
-    },
     "Cacoma_Knight_in_Bizyland": {
       "developers": [
         "SETA_Corporation"
@@ -1043,10 +1026,10 @@
     },
     "Cameltry": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "On the Ball",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "day": 1,
         "month": 11,
@@ -1055,8 +1038,6 @@
       }
     },
     "Capcom's_MVP_Football": {
-      "developers": [
-      ],
       "name": "Capcom's MVP Football",
       "publisher": "Capcom",
       "released": {
@@ -1110,6 +1091,7 @@
         "Sculptured_Software"
       ],
       "name": "Captain Novolin",
+      "publisher": "Raya_Systems",
       "released": {
         "day": 2,
         "month": 11,
@@ -1170,8 +1152,6 @@
       }
     },
     "Championship_Pool": {
-      "developers": [
-      ],
       "name": "Championship Pool",
       "publisher": "Mindscape",
       "released": {
@@ -1196,10 +1176,10 @@
     },
     "Chase_H.Q": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Super Chase H.Q.",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
@@ -1249,6 +1229,7 @@
         "Krome_Studios_Melbourne"
       ],
       "name": "Choplifter III",
+      "publisher": "Ocean_Software",
       "released": {
         "day": 1,
         "month": 1,
@@ -1284,7 +1265,7 @@
     },
     "Civilization": {
       "developers": [
-        "Microprose"
+        "MicroProse"
       ],
       "name": "Civilization",
       "publisher": "Koei",
@@ -1452,8 +1433,6 @@
       }
     },
     "Cybernator": {
-      "developers": [
-      ],
       "name": "Cybernator",
       "publisher": "Konami",
       "released": {
@@ -1491,10 +1470,10 @@
     },
     "Darius_Force": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Super Nova",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
@@ -1502,10 +1481,10 @@
     },
     "Darius_Twin": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Darius Twin",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "day": 30,
         "month": 11,
@@ -1657,7 +1636,7 @@
     },
     "Donkey_Kong_Country": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Donkey Kong Country",
       "publisher": "Nintendo",
@@ -1670,7 +1649,7 @@
     },
     "Donkey_Kong_Country_2_Diddy's_Kong_Quest": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Donkey Kong Country 2: Diddy's Kong Quest",
       "publisher": "Nintendo",
@@ -1683,7 +1662,7 @@
     },
     "Donkey_Kong_Country_3_Dixie_Kong's_Double_Trouble": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
       "publisher": "Nintendo",
@@ -1708,8 +1687,6 @@
       }
     },
     "Doom_Troopers": {
-      "developers": [
-      ],
       "name": "Doom Troopers",
       "publisher": "Playmates_Toys",
       "released": {
@@ -1746,9 +1723,8 @@
       }
     },
     "Dr._Franken": {
-      "developers": [
-      ],
       "name": "The Adventures of Dr. Franken",
+      "publisher": "DTMC",
       "released": {
         "day": 1,
         "month": 12,
@@ -1757,8 +1733,6 @@
       }
     },
     "Dragon's_Lair": {
-      "developers": [
-      ],
       "name": "Dragon's Lair",
       "publisher": "Data_East",
       "released": {
@@ -1901,7 +1875,7 @@
     "EarthBound": {
       "developers": [
         "HAL_Laboratory",
-        "Ape,_Inc."
+        "Ape_Inc"
       ],
       "name": "EarthBound",
       "publisher": "Nintendo",
@@ -1956,15 +1930,13 @@
         "Elite"
       ],
       "name": "Elite Soccer",
-      "publisher": "Elite",
+      "publisher": "Elite_Systems",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
       }
     },
     "Emmitt_Smith_Football": {
-      "developers": [
-      ],
       "name": "Emmitt Smith Football",
       "publisher": "JVC",
       "released": {
@@ -2079,8 +2051,6 @@
       }
     },
     "FIFA_International_Soccer": {
-      "developers": [
-      ],
       "name": "FIFA International Soccer",
       "publisher": "EA_Sports",
       "released": {
@@ -2104,8 +2074,6 @@
       }
     },
     "Faceball_2000": {
-      "developers": [
-      ],
       "name": "Faceball 2000",
       "publisher": "Blue_Planet_Software",
       "released": {
@@ -2298,9 +2266,8 @@
       }
     },
     "Firestriker": {
-      "developers": [
-      ],
       "name": "Firestriker",
+      "publisher": "DTMC",
       "released": {
         "day": 20,
         "month": 10,
@@ -2374,8 +2341,6 @@
       }
     },
     "Frantic_Flea": {
-      "developers": [
-      ],
       "name": "Frantic Flea",
       "publisher": "GameTek",
       "released": {
@@ -2386,8 +2351,6 @@
       }
     },
     "Frogger": {
-      "developers": [
-      ],
       "name": "Frogger",
       "publisher": "Majesco_Entertainment",
       "released": {
@@ -2646,10 +2609,10 @@
     },
     "Hit_the_Ice": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Hit the Ice",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "day": 1,
         "month": 2,
@@ -2857,7 +2820,7 @@
         "Loriciel"
       ],
       "name": "International Tennis Tour",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "day": 1,
         "month": 11,
@@ -2879,8 +2842,6 @@
       }
     },
     "Izzy's_Quest_for_the_Olympic_Rings": {
-      "developers": [
-      ],
       "name": "Izzy's Quest for the Olympic Rings",
       "publisher": "U.S._Gold",
       "released": {
@@ -2915,8 +2876,6 @@
       }
     },
     "James_Bond_Jr": {
-      "developers": [
-      ],
       "name": "James Bond Jr.",
       "publisher": "THQ",
       "released": {
@@ -3013,7 +2972,7 @@
       "developers": [
         "Sammy_Corporation"
       ],
-      "name": "Jimmy_Houston's Bass Tournament U.S.A.",
+      "name": "Jimmy Houston's Bass Tournament U.S.A.",
       "publisher": "Sammy_Corporation",
       "released": {
         "day": 1,
@@ -3154,7 +3113,7 @@
     },
     "Ken_Griffey_Jr.'s_Winning_Run": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Ken Griffey Jr.'s Winning Run",
       "publisher": "Nintendo",
@@ -3202,7 +3161,7 @@
     },
     "Killer_Instinct": {
       "developers": [
-        "Rare_Ltd"
+        "Rare"
       ],
       "name": "Killer Instinct",
       "publisher": "Nintendo",
@@ -3226,7 +3185,7 @@
     },
     "King_Arthur_the_Knights_of_Justice": {
       "developers": [
-        "Manley_Associates"
+        "Manley_&_Associates"
       ],
       "name": "King Arthur & the Knights of Justice",
       "publisher": "Enix",
@@ -3350,8 +3309,6 @@
       }
     },
     "Lagoon": {
-      "developers": [
-      ],
       "name": "Lagoon",
       "publisher": "Kemco",
       "released": {
@@ -3425,6 +3382,7 @@
         "Visual_Concepts"
       ],
       "name": "Lester the Unlikely",
+      "publisher": "DTMC",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -3492,7 +3450,7 @@
         "Neverland"
       ],
       "name": "Lufia & the Fortress of Doom",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
@@ -3577,8 +3535,6 @@
       }
     },
     "Magic_Boy": {
-      "developers": [
-      ],
       "name": "Magic Boy",
       "publisher": "JVC",
       "released": {
@@ -3587,8 +3543,6 @@
       }
     },
     "Magic_Sword": {
-      "developers": [
-      ],
       "name": "Magic Sword",
       "publisher": "Capcom",
       "released": {
@@ -3713,8 +3667,6 @@
       }
     },
     "Math_Blaster_Episode_I__In_Search_of_Spot": {
-      "developers": [
-      ],
       "name": "Math Blaster: Episode 1",
       "publisher": "Davidson_Associates",
       "released": {
@@ -3724,7 +3676,7 @@
     },
     "Maui_Mallard_in_Cold_Shadow": {
       "developers": [
-        "Eurocom_Entertainment_Software"
+        "Eurocom"
       ],
       "name": "Maui Mallard in Cold Shadow",
       "publisher": "Nintendo",
@@ -3780,8 +3732,6 @@
       }
     },
     "Mega_Man_Soccer": {
-      "developers": [
-      ],
       "name": "Mega Man Soccer",
       "publisher": "Capcom",
       "released": {
@@ -3818,8 +3768,6 @@
       }
     },
     "Mega_Man_X3": {
-      "developers": [
-      ],
       "name": "Mega Man X3",
       "publisher": "Capcom",
       "released": {
@@ -3898,8 +3846,6 @@
       }
     },
     "Mickey's_Ultimate_Challenge": {
-      "developers": [
-      ],
       "name": "Mickey's Ultimate Challenge",
       "publisher": "Hi_Tech_Expressions",
       "released": {
@@ -4253,8 +4199,6 @@
       }
     },
     "NCAA_Final_Four_Basketball": {
-      "developers": [
-      ],
       "name": "NCAA Final Four Basketball",
       "publisher": "Mindscape",
       "released": {
@@ -4431,7 +4375,7 @@
         "Viacom"
       ],
       "name": "Nickelodeon Guts",
-      "publisher": "Viacom",
+      "publisher": "Viacom_New_Media",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -4466,7 +4410,7 @@
         "Natsume"
       ],
       "name": "Ninja Warriors",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -4586,18 +4530,14 @@
       }
     },
     "Operation_Thunderbolt": {
-      "developers": [
-      ],
       "name": "Operation Thunderbolt",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
       }
     },
     "Oscar": {
-      "developers": [
-      ],
       "name": "Oscar",
       "publisher": "Titus_Software",
       "released": {
@@ -4674,8 +4614,6 @@
       }
     },
     "PGA_Tour_Golf": {
-      "developers": [
-      ],
       "name": "PGA Tour Golf",
       "publisher": "EA_Sports",
       "released": {
@@ -4719,9 +4657,8 @@
       }
     },
     "Packy_and_Marlon": {
-      "developers": [
-      ],
       "name": "Packy and Marlon",
+      "publisher": "Raya_Systems",
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
@@ -4769,15 +4706,13 @@
         "Viacom"
       ],
       "name": "Phantom 2040",
-      "publisher": "Viacom",
+      "publisher": "Viacom_New_Media",
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
       }
     },
     "Pieces": {
-      "developers": [
-      ],
       "name": "Pieces",
       "publisher": "Atlus",
       "released": {
@@ -4810,8 +4745,6 @@
       }
     },
     "Pinball_Fantasies": {
-      "developers": [
-      ],
       "name": "Pinball Fantasies",
       "publisher": "GameTek",
       "released": {
@@ -4901,8 +4834,6 @@
       }
     },
     "Porky_Pig's_Haunted_Holiday": {
-      "developers": [
-      ],
       "name": "Porky Pig's Haunted Holiday",
       "publisher": "Acclaim_Entertainment",
       "released": {
@@ -4966,8 +4897,6 @@
       }
     },
     "Primal_Rage": {
-      "developers": [
-      ],
       "name": "Primal Rage",
       "publisher": "Atari_Games",
       "released": {
@@ -5026,8 +4955,6 @@
       }
     },
     "Pushover": {
-      "developers": [
-      ],
       "name": "Pushover",
       "publisher": "Ocean_Software",
       "released": {
@@ -5039,10 +4966,10 @@
     },
     "Puzzle_Bobble": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Bust-a-Move",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "day": 1,
         "month": 3,
@@ -5129,8 +5056,6 @@
       }
     },
     "Rampart": {
-      "developers": [
-      ],
       "name": "Rampart",
       "publisher": "Electronic_Arts",
       "released": {
@@ -5140,10 +5065,9 @@
         "year": 1992
       }
     },
-    "Ranma_½_Hard_Battle": {
-      "developers": [
-      ],
+    "Ranma_1-2_Hard_Battle": {
       "name": "Ranma ½: Hard Battle",
+      "publisher": "DTMC",
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
@@ -5248,8 +5172,6 @@
       }
     },
     "Road_Riot_4WD": {
-      "developers": [
-      ],
       "name": "Road Riot 4WD",
       "publisher": "THQ",
       "released": {
@@ -5325,7 +5247,7 @@
         "Viacom"
       ],
       "name": "Rocko's Modern Life: Spunky's Dangerous Day",
-      "publisher": "Viacom",
+      "publisher": "Viacom_New_Media",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -5395,8 +5317,6 @@
       }
     },
     "Run_Saber": {
-      "developers": [
-      ],
       "name": "Run Saber",
       "publisher": "Atlus",
       "released": {
@@ -5573,8 +5493,6 @@
       }
     },
     "SimAnt": {
-      "developers": [
-      ],
       "name": "SimAnt",
       "publisher": "Maxis_Software",
       "released": {
@@ -5608,8 +5526,6 @@
       }
     },
     "SimEarth": {
-      "developers": [
-      ],
       "name": "SimEarth",
       "publisher": "Fujisankei_Communications_International",
       "released": {
@@ -5630,6 +5546,19 @@
         "year": 1996
       }
     },
+    "Skuljagger_Revolt_of_the_Westicans": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Sküljagger: Revolt of the Westicans",
+      "publisher": "ASC_Games",
+      "released": {
+        "day": 1,
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
     "Skyblazer": {
       "developers": [
         "Ukiyotei"
@@ -5643,22 +5572,7 @@
         "year": 1994
       }
     },
-    "Sküljagger_Revolt_of_the_Westicans": {
-      "developers": [
-        "Realtime_Associates"
-      ],
-      "name": "Sküljagger: Revolt of the Westicans",
-      "publisher": "ASC_Games",
-      "released": {
-        "day": 1,
-        "month": 10,
-        "sortable": "1992-10-01",
-        "year": 1992
-      }
-    },
     "Sleepwalker": {
-      "developers": [
-      ],
       "name": "Eek! The Cat",
       "publisher": "Ocean_Software",
       "released": {
@@ -5708,10 +5622,10 @@
     },
     "Sonic_Blast_Man": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Sonic Blast Man",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
@@ -5719,10 +5633,10 @@
     },
     "Sonic_Blast_Man_II": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Sonic Blast Man II",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -5742,8 +5656,6 @@
       }
     },
     "Space_Ace": {
-      "developers": [
-      ],
       "name": "Space Ace",
       "publisher": "Absolute_Entertainment",
       "released": {
@@ -5766,7 +5678,7 @@
     },
     "Space_Invaders": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Space Invaders",
       "publisher": "Nintendo",
@@ -5837,8 +5749,6 @@
       }
     },
     "Spider-Man_Animated_Series": {
-      "developers": [
-      ],
       "name": "Spider-Man: The Animated Series",
       "publisher": "LJN",
       "released": {
@@ -5924,7 +5834,7 @@
         "Spectrum_Holobyte"
       ],
       "name": "Star Trek: The Next Generation: Future's Past",
-      "publisher": "Spectrum_Holobyte",
+      "publisher": "Spectrum_HoloByte",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -6047,8 +5957,6 @@
       }
     },
     "Street_Racer": {
-      "developers": [
-      ],
       "name": "Street Racer",
       "publisher": "Ubisoft",
       "released": {
@@ -6219,8 +6127,6 @@
       }
     },
     "Super_Battleship": {
-      "developers": [
-      ],
       "name": "Super Battleship",
       "publisher": "Mindscape",
       "released": {
@@ -6255,8 +6161,6 @@
       }
     },
     "Super_Black_Bass": {
-      "developers": [
-      ],
       "name": "Super Black Bass",
       "publisher": "Hot-B",
       "released": {
@@ -6306,7 +6210,7 @@
         "Athena"
       ],
       "name": "Super Bowling",
-      "publisher": "Technōs_Japan",
+      "publisher": "Technos_Japan",
       "released": {
         "month": 9,
         "sortable": "1992-09-01",
@@ -6362,7 +6266,7 @@
     },
     "Super_Double_Dragon": {
       "developers": [
-        "Technōs_Japan"
+        "Technos_Japan"
       ],
       "name": "Super Double Dragon",
       "publisher": "Tradewest",
@@ -6578,8 +6482,6 @@
       }
     },
     "Super_R.B.I._Baseball": {
-      "developers": [
-      ],
       "name": "Super R.B.I. Baseball",
       "publisher": "Atari_Games",
       "released": {
@@ -6624,8 +6526,6 @@
       }
     },
     "Super_Slap_Shot": {
-      "developers": [
-      ],
       "name": "Super Slap Shot",
       "publisher": "Virgin_Interactive",
       "released": {
@@ -6658,10 +6558,10 @@
     },
     "Super_Soccer_Champ": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "Super Soccer Champ",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "month": 6,
         "sortable": "1992-06-01",
@@ -6669,9 +6569,8 @@
       }
     },
     "Super_Solitaire": {
-      "developers": [
-      ],
       "name": "Super Solitaire",
+      "publisher": "Extreme_Entertainment_Group",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -7110,7 +7009,7 @@
         "Bitmap_Brothers"
       ],
       "name": "Soldiers of Fortune",
-      "publisher": "Spectrum_Holobyte",
+      "publisher": "Spectrum_HoloByte",
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
@@ -7118,10 +7017,10 @@
     },
     "The_Combatribes": {
       "developers": [
-        "Technōs_Japan"
+        "Technos_Japan"
       ],
       "name": "The Combatribes",
-      "publisher": "Technōs_Japan",
+      "publisher": "Technos_Japan",
       "released": {
         "day": 1,
         "month": 3,
@@ -7170,10 +7069,10 @@
     },
     "The_Flintstones__The_Treasure_of_Sierra_Madrock": {
       "developers": [
-        "Taito_Corporation"
+        "Taito"
       ],
       "name": "The Flintstones: The Treasure of Sierra Madrock",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "day": 1,
         "month": 3,
@@ -7195,8 +7094,6 @@
       }
     },
     "The_Great_Waldo_Search": {
-      "developers": [
-      ],
       "name": "The Great Waldo Search",
       "publisher": "THQ",
       "released": {
@@ -7207,8 +7104,6 @@
       }
     },
     "The_Hunt_for_Red_October": {
-      "developers": [
-      ],
       "name": "The Hunt for Red October",
       "publisher": "Hi_Tech_Expressions",
       "released": {
@@ -7232,8 +7127,6 @@
       }
     },
     "The_Incredible_Crash_Dummies": {
-      "developers": [
-      ],
       "name": "The Incredible Crash Dummies",
       "publisher": "LJN",
       "released": {
@@ -7274,7 +7167,7 @@
         "Sting_Entertainment"
       ],
       "name": "The Jetsons: Invasion of the Planet Pirates",
-      "publisher": "Taito_Corporation",
+      "publisher": "Taito",
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
@@ -7471,8 +7364,6 @@
       }
     },
     "The_Ren_Stimpy_Show_Veediots": {
-      "developers": [
-      ],
       "name": "The Ren & Stimpy Show: Veediots!",
       "publisher": "THQ",
       "released": {
@@ -7505,7 +7396,7 @@
         "year": 1992
       }
     },
-    "The_Sporting_News_Power Baseball": {
+    "The_Sporting_News_Power_Baseball": {
       "developers": [
         "Now_Production"
       ],
@@ -7685,8 +7576,6 @@
       }
     },
     "Tom_and_Jerry": {
-      "developers": [
-      ],
       "name": "Tom and Jerry",
       "publisher": "Hi_Tech_Expressions",
       "released": {
@@ -7996,8 +7885,6 @@
       }
     },
     "Urban_Strike": {
-      "developers": [
-      ],
       "name": "Urban Strike",
       "publisher": "THQ",
       "released": {
@@ -8124,8 +8011,10 @@
     },
     "War_2410": {
       "developers": [
+        "Advanced_Productions"
       ],
       "name": "War 2410",
+      "publisher": "Advanced_Productions",
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
@@ -8133,8 +8022,10 @@
     },
     "War_3010__The_Revolution": {
       "developers": [
+        "Advanced_Productions"
       ],
       "name": "War 3010: The Revolution",
+      "publisher": "Advanced_Productions",
       "released": {
         "day": 1,
         "month": 10,
@@ -8179,8 +8070,6 @@
       }
     },
     "Wayne's_World": {
-      "developers": [
-      ],
       "name": "Wayne's World",
       "publisher": "THQ",
       "released": {
@@ -8234,7 +8123,7 @@
     },
     "Where_in_Time_Is_Carmen_Sandiego": {
       "developers": [
-        "Br%C3%B8derbund"
+        "Broderbund"
       ],
       "name": "Where in Time is Carmen Sandiego?",
       "publisher": "Hi_Tech_Expressions",
@@ -8245,7 +8134,7 @@
     },
     "Where_in_the_World_Is_Carmen_Sandiego": {
       "developers": [
-        "Br%C3%B8derbund"
+        "Broderbund"
       ],
       "name": "Where in the World Is Carmen Sandiego?",
       "publisher": "Hi_Tech_Expressions",
@@ -8255,8 +8144,6 @@
       }
     },
     "Whizz": {
-      "developers": [
-      ],
       "name": "Whizz",
       "publisher": "Titus_Software",
       "released": {
@@ -8268,7 +8155,7 @@
     },
     "WildSnake": {
       "developers": [
-        "Manley_Associates"
+        "Manley_&_Associates"
       ],
       "name": "WildSnake",
       "publisher": "Spectrum_HoloByte",
@@ -8452,8 +8339,6 @@
       }
     },
     "World_League_Soccer": {
-      "developers": [
-      ],
       "name": "World League Soccer",
       "publisher": "Mindscape",
       "released": {
@@ -8614,10 +8499,8 @@
       }
     },
     "Zoop": {
-      "developers": [
-      ],
       "name": "Zoop",
-      "publisher": "Viacom",
+      "publisher": "Viacom_New_Media",
       "released": {
         "day": 15,
         "month": 9,
