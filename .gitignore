@@ -44,3 +44,7 @@ jspm_packages
 # Astro
 dist/
 .astro/
+
+# Wikipedia download cache (scripts/wikipedia_developers.py)
+.cache/
+__pycache__/

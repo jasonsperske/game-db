@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Data_East"
+  ],
   "guid": "Silent_Debuggers",
   "name": "Silent Debuggers",
   "publisher": "NEC",

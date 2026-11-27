@@ -64,6 +64,19 @@ Before committing any data change:
 
 The sheet owns the `name`, `publisher`, `released_*` and `developers` columns (developers are separated by `;`), and an empty cell clears that field. New guids create new games. Rows missing from the sheet are reported, never deleted. The same xlsx files can be downloaded from each region page on the site, so contributors can send edits back.
 
+### Importing developers from Wikipedia
+    python3 scripts/wikipedia_developers.py --report report.md            # dry run
+    python3 scripts/wikipedia_developers.py --write                       # apply "exact" results
+    npm run optimize && npm run validate
+
+The script reads the "List of TurboGrafx-16 games" page, follows each North American title to its article, and reads the developer from the article's infobox. It needs Python 3 and no extra packages. Articles are fetched 50 at a time and cached in `.cache/wikipedia/`, so a full run takes about four requests. Each result is rated:
+
+- **exact**: Wikipedia names the developer of the TurboGrafx version, or the game was only released on TurboGrafx/PC Engine hardware. Only these are written by default.
+- **multi**: the infobox gives one developer for every platform, and that may be the developer of the original version (often an arcade game) rather than of the port. Review the report, then add `--include-multi` to write them.
+- **skipped**: the article has no link, no infobox or no developer, or it is about a different game.
+
+Existing developers are never replaced unless you pass `--overwrite`. New developers are added to `content/developers/index.json`; check the report's "similar existing" column for duplicates and add aliases where needed. Set `WIKI_USER_AGENT` to identify yourself to Wikipedia.
+
 ## Building and deploying the site
     npm run build      # static site + data files in dist/
     npm run preview
