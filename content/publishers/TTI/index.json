@@ -1,5 +1,6 @@
 {
   "platforms": [
-    "NEC/TG16/us"
+    "NEC/TG16/us",
+    "NEC/TGCD/us"
   ]
 }

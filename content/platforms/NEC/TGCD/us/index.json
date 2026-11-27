@@ -1,0 +1,405 @@
+{
+  "games": {
+    "Beyond_Shadowgate": {
+      "name": "Beyond Shadowgate",
+      "publisher": "TTI",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Bonk_3_Bonk's_Big_Adventure": {
+      "name": "Bonk 3: Bonk's Big Adventure",
+      "publisher": "TTI",
+      "released": {
+        "month": 12,
+        "sortable": "1994-12-01",
+        "year": 1994
+      }
+    },
+    "Buster_Bros.": {
+      "name": "Buster Bros.",
+      "publisher": "TTI",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Camp_California": {
+      "name": "Camp California",
+      "publisher": "TTI",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Cosmic_Fantasy_2": {
+      "name": "Cosmic Fantasy 2",
+      "publisher": "Working_Designs",
+      "released": {
+        "month": 6,
+        "sortable": "1992-06-01",
+        "year": 1992
+      }
+    },
+    "Cotton_Fantastic_Night_Dreams": {
+      "name": "Cotton: Fantastic Night Dreams",
+      "publisher": "TTI",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Dragon_Slayer_The_Legend_of_Heroes": {
+      "name": "Dragon Slayer: The Legend of Heroes",
+      "publisher": "TTI",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Dungeon_Explorer_II": {
+      "name": "Dungeon Explorer II",
+      "publisher": "TTI",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Dungeon_Master": {
+      "name": "Dungeon Master",
+      "publisher": "TTI",
+      "released": {
+        "month": 5,
+        "sortable": "1993-05-01",
+        "year": 1993
+      }
+    },
+    "Exile": {
+      "name": "Exile",
+      "publisher": "Working_Designs",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Exile_Wicked_Phenomenon": {
+      "name": "Exile: Wicked Phenomenon",
+      "publisher": "Working_Designs",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Fighting_Street": {
+      "name": "Fighting Street",
+      "publisher": "NEC",
+      "released": {
+        "month": 11,
+        "sortable": "1989-11-01",
+        "year": 1989
+      }
+    },
+    "Final_Zone_II": {
+      "name": "Final Zone II",
+      "publisher": "NEC",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Forgotten_Worlds": {
+      "name": "Forgotten Worlds",
+      "publisher": "TTI",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Gate_of_Thunder": {
+      "name": "Gate of Thunder",
+      "publisher": "TTI",
+      "released": {
+        "day": 10,
+        "month": 10,
+        "sortable": "1992-10-10",
+        "year": 1992
+      }
+    },
+    "Godzilla": {
+      "name": "Godzilla",
+      "publisher": "TTI",
+      "released": {
+        "day": 3,
+        "month": 10,
+        "sortable": "1994-10-03",
+        "year": 1994
+      }
+    },
+    "It_Came_from_the_Desert": {
+      "name": "It Came from the Desert",
+      "publisher": "NEC",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "J.B._Harold_Murder_Club": {
+      "name": "J.B. Harold Murder Club",
+      "publisher": "NEC",
+      "released": {
+        "month": 8,
+        "sortable": "1991-08-01",
+        "year": 1991
+      }
+    },
+    "Jack_Nicklaus'_Turbo_Golf": {
+      "name": "Jack Nicklaus' Turbo Golf",
+      "publisher": "Accolade",
+      "released": {
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "John_Madden_Duo_CD_Football": {
+      "name": "John Madden Duo CD Football",
+      "publisher": "TTI",
+      "released": {
+        "month": 9,
+        "sortable": "1993-09-01",
+        "year": 1993
+      }
+    },
+    "Last_Alert": {
+      "name": "Last Alert",
+      "publisher": "NEC",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Loom": {
+      "name": "Loom",
+      "publisher": "TTI",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Lords_of_Thunder": {
+      "name": "Lords of Thunder",
+      "publisher": "TTI",
+      "released": {
+        "month": 3,
+        "sortable": "1993-03-01",
+        "year": 1993
+      }
+    },
+    "Lords_of_the_Rising_Sun": {
+      "name": "Lords of the Rising Sun",
+      "publisher": "NEC",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Magical_Dinosaur_Tour": {
+      "name": "Magical Dinosaur Tour",
+      "publisher": "NEC",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Might_and_Magic_III_Isles_of_Terra": {
+      "name": "Might and Magic III: Isles of Terra",
+      "publisher": "TTI",
+      "released": {
+        "day": 17,
+        "month": 8,
+        "sortable": "1994-08-17",
+        "year": 1994
+      }
+    },
+    "Monster_Lair": {
+      "name": "Monster Lair",
+      "publisher": "NEC",
+      "released": {
+        "month": 12,
+        "sortable": "1989-12-01",
+        "year": 1989
+      }
+    },
+    "Prince_of_Persia": {
+      "name": "Prince of Persia",
+      "publisher": "TTI",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Riot_Zone": {
+      "name": "Riot Zone",
+      "publisher": "TTI",
+      "released": {
+        "month": 2,
+        "sortable": "1993-02-01",
+        "year": 1993
+      }
+    },
+    "Shadow_of_the_Beast": {
+      "name": "Shadow of the Beast",
+      "publisher": "TTI",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Shape_Shifter": {
+      "name": "Shape Shifter",
+      "publisher": "TTI",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Sherlock_Holmes_Consulting_Detective": {
+      "name": "Sherlock Holmes: Consulting Detective",
+      "publisher": "NEC",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Sherlock_Holmes_Consulting_Detective_Vol._II": {
+      "name": "Sherlock Holmes: Consulting Detective Vol. II",
+      "publisher": "TTI",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "SimEarth": {
+      "name": "SimEarth",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Splash_Lake": {
+      "name": "Splash Lake",
+      "publisher": "TTI",
+      "released": {
+        "month": 8,
+        "sortable": "1992-08-01",
+        "year": 1992
+      }
+    },
+    "Super_Air_Zonk": {
+      "name": "Super Air Zonk",
+      "publisher": "TTI",
+      "released": {
+        "month": 4,
+        "sortable": "1994-04-01",
+        "year": 1994
+      }
+    },
+    "Syd_Mead's_Terraforming": {
+      "name": "Syd Mead's Terraforming",
+      "publisher": "TTI",
+      "released": {
+        "month": 5,
+        "sortable": "1993-05-01",
+        "year": 1993
+      }
+    },
+    "The_Addams_Family": {
+      "name": "The Addams Family",
+      "publisher": "NEC",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "The_Dynastic_Hero": {
+      "name": "The Dynastic Hero",
+      "publisher": "TTI",
+      "released": {
+        "month": 3,
+        "sortable": "1994-03-01",
+        "year": 1994
+      }
+    },
+    "Valis_II": {
+      "name": "Valis II",
+      "publisher": "NEC",
+      "released": {
+        "day": 23,
+        "month": 5,
+        "sortable": "1990-05-23",
+        "year": 1990
+      }
+    },
+    "Valis_III": {
+      "name": "Valis III",
+      "publisher": "NEC",
+      "released": {
+        "month": 3,
+        "sortable": "1992-03-01",
+        "year": 1992
+      }
+    },
+    "Vasteel": {
+      "name": "Vasteel",
+      "publisher": "Working_Designs",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Ys_Book_I_II": {
+      "name": "Ys: Book I & II",
+      "publisher": "NEC",
+      "released": {
+        "month": 5,
+        "sortable": "1990-05-01",
+        "year": 1990
+      }
+    },
+    "Ys_III_Wanderers_from_Ys": {
+      "name": "Ys III: Wanderers from Ys",
+      "publisher": "NEC",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    }
+  },
+  "guid": "us",
+  "name": "North American"
+}
