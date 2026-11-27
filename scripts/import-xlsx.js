@@ -2,7 +2,8 @@
 // the JSON game records.
 //
 // The sheet owns the name / publisher / released / developers fields: an empty
-// cell clears that field. Any other fields on a record are preserved. New guids
+// cell clears that field. Any other fields on a record are preserved, except
+// that renaming a game resets its sort_name (optimize fills it in). New guids
 // create new game folders. Games missing from the sheet are reported, never
 // deleted. Run `npm run optimize && npm run validate` afterwards.
 
@@ -67,6 +68,8 @@ for (const file of files) {
     const recordFile = path.join(PLATFORMS_DIR, id, 'index.json');
     const existing = readJson(recordFile, null);
     const { name, publisher, released, developers, ...rest } = existing || {};
+    // A renamed game gets its sort_name worked out again from the new name.
+    if (row.name && row.name !== name) delete rest.sort_name;
     const next = normalizeGame(
       { ...rest, name: row.name || name || guid, publisher: row.publisher, released: row.released, developers: row.developers },
       guid,

@@ -83,7 +83,8 @@
         "month": 1,
         "sortable": "1990-01-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Boy and His Blob: Trouble on Blobolonia"
     },
     "A_Nightmare_on_Elm_Street": {
       "developers": [
@@ -95,7 +96,8 @@
         "month": 10,
         "sortable": "1990-10-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Nightmare on Elm Street"
     },
     "Abadox": {
       "developers": [
@@ -6554,7 +6556,8 @@
         "month": 1,
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Addams Family"
     },
     "The_Addams_Family_Pugsley's_Scavenger_Hunt": {
       "developers": [
@@ -6566,7 +6569,8 @@
         "month": 8,
         "sortable": "1993-08-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Addams Family: Pugsley's Scavenger Hunt"
     },
     "The_Adventures_of_Bayou_Billy": {
       "developers": [
@@ -6578,7 +6582,8 @@
         "month": 6,
         "sortable": "1989-06-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Adventures of Bayou Billy"
     },
     "The_Adventures_of_Gilligan's_Island": {
       "developers": [
@@ -6590,7 +6595,8 @@
         "month": 7,
         "sortable": "1990-07-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Adventures of Gilligan's Island"
     },
     "The_Adventures_of_Rad_Gravity": {
       "developers": [
@@ -6602,7 +6608,8 @@
         "month": 12,
         "sortable": "1990-12-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Adventures of Rad Gravity"
     },
     "The_Adventures_of_Rocky_and_Bullwinkle_and_Friends": {
       "developers": [
@@ -6614,7 +6621,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Adventures of Rocky and Bullwinkle and Friends"
     },
     "The_Adventures_of_Tom_Sawyer": {
       "developers": [
@@ -6626,7 +6634,8 @@
         "month": 8,
         "sortable": "1989-08-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Adventures of Tom Sawyer"
     },
     "The_Astyanax": {
       "developers": [
@@ -6650,7 +6659,8 @@
         "month": 11,
         "sortable": "1991-11-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Bard's Tale"
     },
     "The_Battle_of_Olympus": {
       "developers": [
@@ -6662,7 +6672,8 @@
         "month": 1,
         "sortable": "1990-01-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Battle of Olympus"
     },
     "The_Black_Bass": {
       "developers": [
@@ -6674,7 +6685,8 @@
         "month": 9,
         "sortable": "1989-09-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Black Bass"
     },
     "The_Blue_Marlin": {
       "developers": [
@@ -6686,7 +6698,8 @@
         "month": 7,
         "sortable": "1992-07-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Blue Marlin"
     },
     "The_Blues_Brothers": {
       "developers": [
@@ -6698,7 +6711,8 @@
         "month": 9,
         "sortable": "1992-09-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Blues Brothers"
     },
     "The_Bugs_Bunny_Birthday_Blowout": {
       "developers": [
@@ -6710,7 +6724,8 @@
         "month": 9,
         "sortable": "1990-09-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Bugs Bunny Birthday Blowout"
     },
     "The_Bugs_Bunny_Crazy_Castle": {
       "developers": [
@@ -6722,7 +6737,8 @@
         "month": 9,
         "sortable": "1989-09-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Bugs Bunny Crazy Castle"
     },
     "The_Flintstones_Surprise_at_Dinosaur_Peak": {
       "developers": [
@@ -6735,7 +6751,8 @@
         "month": 8,
         "sortable": "1994-08-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Flintstones: Surprise at Dinosaur Peak"
     },
     "The_Flintstones_The_Rescue_of_Dino_&_Hoppy": {
       "developers": [
@@ -6748,7 +6765,8 @@
         "month": 12,
         "sortable": "1991-12-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Flintstones: The Rescue of Dino & Hoppy"
     },
     "The_Goonies_II": {
       "developers": [
@@ -6760,7 +6778,8 @@
         "month": 11,
         "sortable": "1987-11-01",
         "year": 1987
-      }
+      },
+      "sort_name": "Goonies II"
     },
     "The_Great_Waldo_Search": {
       "developers": [
@@ -6772,7 +6791,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Great Waldo Search"
     },
     "The_Guardian_Legend": {
       "developers": [
@@ -6784,7 +6804,8 @@
         "month": 4,
         "sortable": "1989-04-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Guardian Legend"
     },
     "The_Hunt_for_Red_October": {
       "developers": [
@@ -6796,7 +6817,8 @@
         "month": 1,
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Hunt for Red October"
     },
     "The_Immortal": {
       "developers": [
@@ -6808,7 +6830,8 @@
         "month": 11,
         "sortable": "1990-11-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Immortal"
     },
     "The_Incredible_Crash_Dummies": {
       "developers": [
@@ -6820,7 +6843,8 @@
         "month": 8,
         "sortable": "1994-08-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Incredible Crash Dummies"
     },
     "The_Jetsons_Cogswell's_Caper!": {
       "developers": [
@@ -6832,7 +6856,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Jetsons: Cogswell's Caper!"
     },
     "The_Jungle_Book": {
       "developers": [
@@ -6856,7 +6881,8 @@
         "month": 11,
         "sortable": "1987-11-01",
         "year": 1987
-      }
+      },
+      "sort_name": "Karate Kid"
     },
     "The_Krion_Conquest": {
       "developers": [
@@ -6868,7 +6894,8 @@
         "month": 1,
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Krion Conquest"
     },
     "The_Last_Ninja": {
       "developers": [
@@ -6880,7 +6907,8 @@
         "month": 2,
         "sortable": "1991-02-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Last Ninja"
     },
     "The_Legend_of_Kage": {
       "developers": [
@@ -6892,7 +6920,8 @@
         "month": 8,
         "sortable": "1987-08-01",
         "year": 1987
-      }
+      },
+      "sort_name": "Legend of Kage"
     },
     "The_Legend_of_Zelda": {
       "developers": [
@@ -6905,7 +6934,8 @@
         "month": 8,
         "sortable": "1987-08-22",
         "year": 1987
-      }
+      },
+      "sort_name": "Legend of Zelda"
     },
     "The_Little_Mermaid": {
       "developers": [
@@ -6929,7 +6959,8 @@
         "month": 8,
         "sortable": "1991-08-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Lone Ranger"
     },
     "The_Mafat_Conspiracy": {
       "developers": [
@@ -6941,7 +6972,8 @@
         "month": 6,
         "sortable": "1990-06-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Mafat Conspiracy"
     },
     "The_Magic_of_Scheherazade": {
       "developers": [
@@ -6953,7 +6985,8 @@
         "month": 1,
         "sortable": "1990-01-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Magic of Scheherazade"
     },
     "The_Mutant_Virus_Crisis_in_a_Computer_World": {
       "developers": [
@@ -6965,7 +6998,8 @@
         "month": 4,
         "sortable": "1992-04-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Mutant Virus: Crisis in a Computer World"
     },
     "The_NewZealand_Story": {
       "developers": [
@@ -6989,7 +7023,8 @@
         "month": 1,
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Punisher"
     },
     "The_Ren_&_Stimpy_Show_Buckaroo$!": {
       "developers": [
@@ -7001,7 +7036,8 @@
         "month": 11,
         "sortable": "1993-11-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Buckaroo$!"
     },
     "The_Rocketeer": {
       "developers": [
@@ -7014,7 +7050,8 @@
         "month": 5,
         "sortable": "1991-05-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Rocketeer"
     },
     "The_Simpsons_Bart_vs._the_Space_Mutants": {
       "developers": [
@@ -7026,7 +7063,8 @@
         "month": 2,
         "sortable": "1991-02-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Simpsons: Bart vs. the Space Mutants"
     },
     "The_Simpsons_Bart_vs._the_World": {
       "developers": [
@@ -7038,7 +7076,8 @@
         "month": 12,
         "sortable": "1991-12-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Simpsons: Bart vs. the World"
     },
     "The_Simpsons_Bartman_Meets_Radioactive_Man": {
       "developers": [
@@ -7050,7 +7089,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Simpsons: Bartman Meets Radioactive Man"
     },
     "The_Terminator": {
       "developers": [
@@ -7062,7 +7102,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Terminator"
     },
     "The_Three_Stooges": {
       "developers": [
@@ -7074,7 +7115,8 @@
         "month": 10,
         "sortable": "1989-10-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Three Stooges"
     },
     "The_Uncanny_X-Men": {
       "name": "The Uncanny X-Men",
@@ -7083,7 +7125,8 @@
         "month": 12,
         "sortable": "1989-12-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Uncanny X-Men"
     },
     "The_Untouchables": {
       "developers": [
@@ -7095,7 +7138,8 @@
         "month": 1,
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Untouchables"
     },
     "The_Young_Indiana_Jones_Chronicles": {
       "developers": [
@@ -7566,7 +7610,8 @@
         "month": 6,
         "sortable": "1990-06-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Last Starfighter"
     },
     "Vegas_Dream": {
       "developers": [

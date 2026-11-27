@@ -53,7 +53,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Dinosaur's Tale"
     },
     "Aaahh!_Real_Monsters": {
       "developers": [
@@ -6559,7 +6560,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Addams Family"
     },
     "The_Adventures_of_Batman_&_Robin": {
       "developers": [
@@ -6570,7 +6572,8 @@
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Adventures of Batman & Robin"
     },
     "The_Adventures_of_Mighty_Max": {
       "developers": [
@@ -6581,7 +6584,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Adventures of Mighty Max"
     },
     "The_Adventures_of_Rocky_and_Bullwinkle_and_Friends": {
       "developers": [
@@ -6592,7 +6596,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Adventures of Rocky and Bullwinkle and Friends"
     },
     "The_Aquatic_Games_starring_James_Pond_and_The_Aquabats": {
       "developers": [
@@ -6603,7 +6608,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Aquatic Games starring James Pond and The Aquabats"
     },
     "The_Berenstain_Bears'_Camping_Adventure": {
       "developers": [
@@ -6614,7 +6620,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Berenstain Bears' Camping Adventure"
     },
     "The_Death_and_Return_of_Superman": {
       "developers": [
@@ -6626,7 +6633,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Death and Return of Superman"
     },
     "The_Duel_Test_Drive_II": {
       "developers": [
@@ -6638,7 +6646,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Duel: Test Drive II"
     },
     "The_Faery_Tale_Adventure": {
       "developers": [
@@ -6650,7 +6659,8 @@
       "released": {
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Faery Tale Adventure"
     },
     "The_Flintstones": {
       "developers": [
@@ -6661,7 +6671,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Flintstones"
     },
     "The_Gadget_Twins": {
       "developers": [
@@ -6672,7 +6683,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Gadget Twins"
     },
     "The_Great_Circus_Mystery_Starring_Mickey_&_Minnie": {
       "developers": [
@@ -6683,7 +6695,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Great Circus Mystery Starring Mickey & Minnie"
     },
     "The_Great_Waldo_Search": {
       "developers": [
@@ -6694,7 +6707,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Great Waldo Search"
     },
     "The_Humans": {
       "developers": [
@@ -6705,7 +6719,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Humans"
     },
     "The_Immortal": {
       "developers": [
@@ -6716,7 +6731,8 @@
       "released": {
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Immortal"
     },
     "The_Incredible_Crash_Dummies": {
       "developers": [
@@ -6727,7 +6743,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Incredible Crash Dummies"
     },
     "The_Incredible_Hulk": {
       "developers": [
@@ -6738,7 +6755,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Incredible Hulk"
     },
     "The_Jungle_Book": {
       "developers": [
@@ -6749,7 +6767,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Jungle Book"
     },
     "The_Lawnmower_Man": {
       "developers": [
@@ -6762,7 +6781,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Lawnmower Man"
     },
     "The_Lion_King": {
       "developers": [
@@ -6774,7 +6794,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Lion King"
     },
     "The_Lost_Vikings": {
       "developers": [
@@ -6786,7 +6807,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Lost Vikings"
     },
     "The_Lost_World_Jurassic_Park": {
       "developers": [
@@ -6797,7 +6819,8 @@
       "released": {
         "sortable": "1997-01-01",
         "year": 1997
-      }
+      },
+      "sort_name": "Lost World: Jurassic Park"
     },
     "The_Miracle_Piano_Teaching_System": {
       "developers": [
@@ -6808,7 +6831,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Miracle Piano Teaching System"
     },
     "The_Ooze": {
       "developers": [
@@ -6819,7 +6843,8 @@
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Ooze"
     },
     "The_Pagemaster": {
       "developers": [
@@ -6831,7 +6856,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Pagemaster"
     },
     "The_Pirates_of_Dark_Water": {
       "developers": [
@@ -6842,7 +6868,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Pirates of Dark Water"
     },
     "The_Punisher": {
       "developers": [
@@ -6853,7 +6880,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Punisher"
     },
     "The_Revenge_of_Shinobi": {
       "developers": [
@@ -6864,7 +6892,8 @@
       "released": {
         "sortable": "1989-01-01",
         "year": 1989
-      }
+      },
+      "sort_name": "Revenge of Shinobi"
     },
     "The_Simpsons_Bart's_Nightmare": {
       "developers": [
@@ -6875,7 +6904,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Simpsons: Bart's Nightmare"
     },
     "The_Simpsons_Bart_vs._the_Space_Mutants": {
       "developers": [
@@ -6886,7 +6916,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Simpsons: Bart vs. the Space Mutants"
     },
     "The_Terminator": {
       "developers": [
@@ -6898,7 +6929,8 @@
       "released": {
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Terminator"
     },
     "The_Tick": {
       "developers": [
@@ -6909,7 +6941,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Tick"
     },
     "Theme_Park": {
       "developers": [

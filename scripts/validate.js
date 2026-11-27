@@ -8,7 +8,7 @@ import path from 'node:path';
 import Ajv2020 from 'ajv/dist/2020.js';
 import {
   CONTENT_DIR, GUID_PATTERN, ROOT,
-  buildDerived, loadCatalog, normalizeGame, readJson, stringify
+  buildDerived, defaultSortName, loadCatalog, normalizeGame, readJson, stringify
 } from '../lib/catalog.js';
 
 const verbose = process.argv.includes('--verbose');
@@ -75,6 +75,11 @@ for (const game of catalog.games) {
     usedDevelopers.add(d);
     if (d in aliases.developers) error(where, `developer "${d}" is retired; use "${aliases.developers[d]}"`);
     else if (!catalog.developers[d]) error(where, `developer "${d}" is not in content/developers/index.json`);
+  }
+  // A sort_name other than the default (or the name itself) is either a
+  // deliberate choice or left over from a rename; list it for review.
+  if (r.sort_name && r.name && r.sort_name !== r.name && r.sort_name !== defaultSortName(r.name)) {
+    warn('custom sort_name', `${game.id}: "${r.sort_name}" for "${r.name}"`);
   }
   if (!r.developers) warn('no developers', game.id);
   if (!r.released) warn('no release date', game.id);
