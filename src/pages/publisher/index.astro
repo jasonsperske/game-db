@@ -1,22 +1,14 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import { dataUrl, site, url } from '../../lib/site';
+import CompanyTable from '../../components/CompanyTable.astro';
+import { dataUrl, site } from '../../lib/site';
 
-const items = [...site().publishers].sort((a, b) => a.name.localeCompare(b.name));
+const items = site().publishers;
 ---
 <Base title="Publishers">
   <Breadcrumbs items={[{ label: 'Publishers' }]} />
   <h1>Publishers</h1>
   <p class="downloads"><span class="muted">{items.length} publishers ·</span> <a class="chip" href={dataUrl('publishers.json')}>JSON</a></p>
-  <ul class="cards">
-    {items.map((p) => (
-      <li>
-        <a class="card" href={url(`publisher/${p.guid}/`)}>
-          <div class="title">{p.name}</div>
-          <div class="meta">{p.games.length} {p.games.length === 1 ? 'game' : 'games'}</div>
-        </a>
-      </li>
-    ))}
-  </ul>
+  <CompanyTable companies={items} kind="publisher" label="Publisher" />
 </Base>

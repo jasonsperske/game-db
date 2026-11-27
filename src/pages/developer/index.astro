@@ -1,58 +1,14 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import { dataUrl, site, url } from '../../lib/site';
+import CompanyTable from '../../components/CompanyTable.astro';
+import { dataUrl, site } from '../../lib/site';
 
-const s = site();
-const items = [...s.developers]
-  .sort((a, b) => a.name.localeCompare(b.name))
-  .map((p) => {
-    const games = s.lookup(p.games);
-    const platforms = [...new Map(games.map((g) => [`${g.company}/${g.platform}`, g])).values()]
-      .map((g) => ({ path: `${g.company}/${g.platform}`, name: s.platformName(g.company, g.platform) }))
-      .sort((a, b) => a.name.localeCompare(b.name));
-    const years = games.map((g) => g.released?.year).filter((y): y is number => !!y);
-    const first = years.length ? Math.min(...years) : null;
-    const last = years.length ? Math.max(...years) : null;
-    return { ...p, count: games.length, platforms, first, last };
-  });
+const items = site().developers;
 ---
 <Base title="Developers">
   <Breadcrumbs items={[{ label: 'Developers' }]} />
   <h1>Developers</h1>
   <p class="downloads"><span class="muted">{items.length} developers ·</span> <a class="chip" href={dataUrl('developers.json')}>JSON</a></p>
-  <div class="table-tools">
-    <span class="muted">Click a column heading to sort.</span>
-    <input class="filter" type="search" placeholder="Filter developers…" aria-label="Filter developers" data-filter-for="developers-table" />
-  </div>
-  <div class="table-wrap">
-    <table id="developers-table" data-sortable>
-      <caption class="visually-hidden">Developers</caption>
-      <thead>
-        <tr>
-          <th scope="col">Developer</th>
-          <th scope="col" class="num">Games</th>
-          <th scope="col">Platforms</th>
-          <th scope="col">Years</th>
-        </tr>
-      </thead>
-      <tbody>
-        {items.map((p) => (
-          <tr>
-            <td><a href={url(`developer/${p.guid}/`)}>{p.name}</a></td>
-            <td class="num" data-order={p.count}>{p.count}</td>
-            <td>{p.platforms.map((pl, i) => <>{i > 0 && ', '}<a href={url(`platform/${pl.path}/`)}>{pl.name}</a></>)}</td>
-            <td class="nowrap" data-order={p.first ?? '9999'}>
-              {p.first === null ? <span class="muted">—</span> : p.first === p.last ? p.first : `${p.first}–${p.last}`}
-            </td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  </div>
+  <CompanyTable companies={items} kind="developer" label="Developer" />
 </Base>
-
-<script>
-  import { initTables } from '../../scripts/tables';
-  initTables();
-</script>
