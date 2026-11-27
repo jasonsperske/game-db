@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "KAZe"
+  ],
   "guid": "Zombie_Nation",
   "name": "Zombie Nation",
   "publisher": "Meldac",
   "released": {
-    "month": 9,
-    "sortable": "1991-09-01",
+    "month": 1,
+    "sortable": "1991-01-01",
     "year": 1991
   }
 }

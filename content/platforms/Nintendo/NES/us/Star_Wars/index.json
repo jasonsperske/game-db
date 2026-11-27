@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Lucasfilm_Games",
+    "Beam_Software"
+  ],
   "guid": "Star_Wars",
   "name": "Star Wars",
   "publisher": "JVC",

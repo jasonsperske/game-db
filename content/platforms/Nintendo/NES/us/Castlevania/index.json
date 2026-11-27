@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Castlevania",
   "name": "Castlevania",
   "publisher": "Konami",
   "released": {
-    "month": 5,
-    "sortable": "1987-05-01",
+    "day": 30,
+    "month": 4,
+    "sortable": "1987-04-30",
     "year": 1987
   }
 }

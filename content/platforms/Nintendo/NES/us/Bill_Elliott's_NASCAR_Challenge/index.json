@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Distinctive_Software"
+  ],
   "guid": "Bill_Elliott's_NASCAR_Challenge",
   "name": "Bill Elliott's NASCAR Challenge",
   "publisher": "Konami",
   "released": {
-    "month": 12,
-    "sortable": "1991-12-01",
+    "month": 4,
+    "sortable": "1991-04-01",
     "year": 1991
   }
 }

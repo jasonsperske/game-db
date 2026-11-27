@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Contra",
   "name": "Contra",
   "publisher": "Konami",
   "released": {
+    "day": 12,
     "month": 2,
-    "sortable": "1988-02-01",
+    "sortable": "1988-02-12",
     "year": 1988
   }
 }

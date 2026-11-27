@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Nintendo_R&D2",
+    "HAL_Laboratory"
+  ],
   "guid": "NES_Open_Tournament_Golf",
   "name": "NES Open Tournament Golf",
   "publisher": "Nintendo",

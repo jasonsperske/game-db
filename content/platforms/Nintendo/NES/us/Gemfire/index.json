@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Koei"
+  ],
   "guid": "Gemfire",
   "name": "Gemfire",
   "publisher": "Koei",

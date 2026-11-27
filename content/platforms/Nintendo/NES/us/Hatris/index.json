@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Blue_Planet_Software"
+  ],
   "guid": "Hatris",
   "name": "Hatris",
   "publisher": "Blue_Planet_Software",

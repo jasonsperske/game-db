@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Super_Contra",
   "name": "Super C",
   "publisher": "Konami",
   "released": {
+    "day": 5,
     "month": 4,
-    "sortable": "1990-04-01",
+    "sortable": "1990-04-05",
     "year": 1990
   }
 }

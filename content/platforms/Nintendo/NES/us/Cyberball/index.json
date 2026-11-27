@@ -1,8 +1,12 @@
 {
+  "developers": [
+    "Tengen"
+  ],
   "guid": "Cyberball",
   "name": "Cyberball",
   "publisher": "Jaleco",
   "released": {
+    "month": 1,
     "sortable": "1992-01-01",
     "year": 1992
   }

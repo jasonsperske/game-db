@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "EIM"
+  ],
   "guid": "Panic_Restaurant",
   "name": "Panic Restaurant",
   "publisher": "Taito",
   "released": {
-    "month": 8,
-    "sortable": "1992-08-01",
+    "month": 10,
+    "sortable": "1992-10-01",
     "year": 1992
   }
 }

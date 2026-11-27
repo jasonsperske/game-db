@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Data_East",
+    "Sakata_SAS"
+  ],
   "guid": "Werewolf_The_Last_Warrior",
   "name": "Werewolf: The Last Warrior",
   "publisher": "Data_East",

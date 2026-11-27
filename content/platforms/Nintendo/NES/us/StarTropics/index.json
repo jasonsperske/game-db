@@ -1,10 +1,15 @@
 {
+  "developers": [
+    "Nintendo_R&D3",
+    "Locomotive_Corporation"
+  ],
   "guid": "StarTropics",
   "name": "StarTropics",
   "publisher": "Nintendo",
   "released": {
+    "day": 26,
     "month": 12,
-    "sortable": "1990-12-01",
+    "sortable": "1990-12-26",
     "year": 1990
   }
 }

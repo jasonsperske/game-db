@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Nintendo_R&D1",
+    "HAL_Laboratory"
+  ],
   "guid": "Pinball",
   "name": "Pinball",
   "publisher": "Nintendo",

@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Square",
+    "Workss"
+  ],
   "guid": "King's_Knight",
   "name": "King's Knight",
   "publisher": "Square",

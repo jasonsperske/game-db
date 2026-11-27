@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Data_East",
+    "Sakata_SAS"
+  ],
   "guid": "Karate_Champ",
   "name": "Karate Champ",
   "publisher": "Data_East",
   "released": {
-    "month": 11,
-    "sortable": "1986-11-01",
+    "month": 12,
+    "sortable": "1986-12-01",
     "year": 1986
   }
 }

@@ -1,9 +1,13 @@
 {
+  "developers": [
+    "Disco"
+  ],
   "guid": "Rainbow_Islands_The_Story_of_Bubble_Bobble_2",
   "name": "Rainbow Islands: The Story of Bubble Bobble 2",
   "publisher": "Taito",
   "released": {
-    "sortable": "1988-01-01",
-    "year": 1988
+    "month": 6,
+    "sortable": "1991-06-01",
+    "year": 1991
   }
 }

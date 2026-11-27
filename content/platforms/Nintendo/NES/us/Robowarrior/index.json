@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Hudson_Soft",
+    "Aicom"
+  ],
   "guid": "Robowarrior",
   "name": "Robowarrior",
   "publisher": "Jaleco",

@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Data_East",
+    "Sakata_SAS"
+  ],
   "guid": "Tag_Team_Wrestling",
   "name": "Tag Team Wrestling",
   "publisher": "Data_East",

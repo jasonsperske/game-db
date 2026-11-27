@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Kemco"
+  ],
   "guid": "The_Bugs_Bunny_Crazy_Castle",
   "name": "The Bugs Bunny Crazy Castle",
   "publisher": "Kemco",
   "released": {
-    "month": 8,
-    "sortable": "1989-08-01",
+    "month": 9,
+    "sortable": "1989-09-01",
     "year": 1989
   }
 }

@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Hudson_Soft"
+  ],
   "guid": "Bomberman",
   "name": "Bomberman",
   "publisher": "Hudson_Soft",

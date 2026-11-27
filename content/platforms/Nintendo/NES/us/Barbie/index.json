@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Imagineering"
+  ],
   "guid": "Barbie",
   "name": "Barbie",
   "publisher": "Hi_Tech_Expressions",
   "released": {
-    "month": 11,
-    "sortable": "1991-11-01",
+    "month": 12,
+    "sortable": "1991-12-01",
     "year": 1991
   }
 }

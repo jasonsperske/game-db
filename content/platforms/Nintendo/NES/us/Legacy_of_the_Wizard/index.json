@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Nihon_Falcom"
+  ],
   "guid": "Legacy_of_the_Wizard",
   "name": "Legacy of the Wizard",
   "publisher": "Broderbund",
   "released": {
-    "month": 4,
-    "sortable": "1989-04-01",
+    "month": 5,
+    "sortable": "1989-05-01",
     "year": 1989
   }
 }

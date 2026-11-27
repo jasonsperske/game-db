@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Data_East",
+    "Sakata_SAS"
+  ],
   "guid": "Bump_'n'_Jump",
   "name": "Bump 'n' Jump",
   "publisher": "Vic_Tokai",

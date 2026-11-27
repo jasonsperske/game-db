@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Taito"
+  ],
   "guid": "Arkanoid",
   "name": "Arkanoid",
   "publisher": "Taito",

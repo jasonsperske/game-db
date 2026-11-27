@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Nintendo_R&D1",
+    "Intelligent_Systems"
+  ],
   "guid": "Duck_Hunt",
   "name": "Duck Hunt",
   "publisher": "Nintendo",

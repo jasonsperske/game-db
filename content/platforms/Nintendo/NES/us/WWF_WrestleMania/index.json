@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Rare"
+  ],
   "guid": "WWF_WrestleMania",
   "name": "WWF WrestleMania",
   "publisher": "Acclaim_Entertainment",
   "released": {
-    "month": 1,
-    "sortable": "1989-01-01",
+    "month": 2,
+    "sortable": "1989-02-01",
     "year": 1989
   }
 }

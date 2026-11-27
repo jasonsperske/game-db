@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Software_Creations"
+  ],
   "guid": "The_NewZealand_Story",
   "name": "Kiwi Kraze",
   "publisher": "Taito",
   "released": {
-    "month": 3,
-    "sortable": "1991-03-01",
+    "month": 4,
+    "sortable": "1991-04-01",
     "year": 1991
   }
 }

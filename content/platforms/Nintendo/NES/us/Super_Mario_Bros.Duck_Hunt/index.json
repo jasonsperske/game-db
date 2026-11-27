@@ -1,4 +1,9 @@
 {
+  "developers": [
+    "Nintendo_R&D4",
+    "Nintendo_R&D1",
+    "Intelligent_Systems"
+  ],
   "guid": "Super_Mario_Bros.Duck_Hunt",
   "name": "Super Mario Bros./Duck Hunt",
   "publisher": "Nintendo",

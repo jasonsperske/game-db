@@ -1,9 +1,13 @@
 {
+  "developers": [
+    "Namco"
+  ],
   "guid": "R.B.I._Baseball",
   "name": "R.B.I. Baseball",
   "publisher": "Tengen",
   "released": {
-    "sortable": "1988-01-01",
+    "month": 6,
+    "sortable": "1988-06-01",
     "year": 1988
   }
 }

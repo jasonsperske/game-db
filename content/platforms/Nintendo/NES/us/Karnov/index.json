@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Data_East",
+    "Sakata_SAS"
+  ],
   "guid": "Karnov",
   "name": "Karnov",
   "publisher": "Data_East",

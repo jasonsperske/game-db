@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "HAL_Laboratory"
+  ],
   "guid": "Othello",
   "name": "Othello",
   "publisher": "Acclaim_Entertainment",

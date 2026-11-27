@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Technos_Japan"
+  ],
   "guid": "Super_Dodge_Ball",
   "name": "Super Dodge Ball",
   "publisher": "Sony_Imagesoft",
   "released": {
     "month": 6,
-    "sortable": "1988-06-01",
-    "year": 1988
+    "sortable": "1989-06-01",
+    "year": 1989
   }
 }

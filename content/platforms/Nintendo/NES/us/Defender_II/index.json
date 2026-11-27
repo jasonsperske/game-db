@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "HAL_Laboratory"
+  ],
   "guid": "Defender_II",
   "name": "Defender II",
   "publisher": "HAL_America",
   "released": {
-    "month": 7,
-    "sortable": "1988-07-01",
+    "month": 10,
+    "sortable": "1988-10-01",
     "year": 1988
   }
 }

@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Marionette",
+    "SRS"
+  ],
   "guid": "Phantom_Fighter",
   "name": "Phantom Fighter",
   "publisher": "Fujisankei_Communications_International",

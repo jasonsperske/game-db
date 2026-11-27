@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Rocket_Science_Productions"
+  ],
   "guid": "Bill_&_Ted's_Excellent_Video_Game_Adventure",
   "name": "Bill & Ted's Excellent Video Game Adventure",
   "publisher": "LJN",
   "released": {
-    "month": 4,
-    "sortable": "1991-04-01",
+    "month": 8,
+    "sortable": "1991-08-01",
     "year": 1991
   }
 }

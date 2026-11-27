@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Mindscape"
+  ],
   "guid": "Battleship",
   "name": "Battleship",
   "publisher": "Mindscape",

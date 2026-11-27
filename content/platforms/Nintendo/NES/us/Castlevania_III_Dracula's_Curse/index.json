@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Castlevania_III_Dracula's_Curse",
   "name": "Castlevania III: Dracula's Curse",
   "publisher": "Konami",
   "released": {
+    "day": 19,
     "month": 9,
-    "sortable": "1990-09-01",
+    "sortable": "1990-09-19",
     "year": 1990
   }
 }

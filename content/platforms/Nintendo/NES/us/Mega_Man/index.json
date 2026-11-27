@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Capcom"
+  ],
   "guid": "Mega_Man",
   "name": "Mega Man",
   "publisher": "Capcom",

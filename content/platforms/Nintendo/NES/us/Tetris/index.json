@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Nintendo_R&D1"
+  ],
   "guid": "Tetris",
   "name": "Tetris",
   "publisher": "Nintendo",

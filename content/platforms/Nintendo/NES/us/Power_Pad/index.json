@@ -1,11 +1,13 @@
 {
+  "developers": [
+    "Human_Entertainment"
+  ],
   "guid": "Power_Pad",
   "name": "Athletic World",
   "publisher": "Bandai",
   "released": {
-    "day": 18,
-    "month": 6,
-    "sortable": "1987-06-18",
+    "month": 7,
+    "sortable": "1987-07-01",
     "year": 1987
   }
 }

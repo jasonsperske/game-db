@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Nintendo_R&D1",
+    "Intelligent_Systems"
+  ],
   "guid": "Stack-Up",
   "name": "Stack-Up",
   "publisher": "Nintendo",

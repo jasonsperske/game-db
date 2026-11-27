@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Gray_Matter_Inc",
+    "Eastridge_Technology"
+  ],
   "guid": "Mad_Max",
   "name": "Mad Max",
   "publisher": "Mindscape",

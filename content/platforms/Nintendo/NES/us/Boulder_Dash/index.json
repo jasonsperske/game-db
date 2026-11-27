@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Data_East",
+    "Sakata_SAS"
+  ],
   "guid": "Boulder_Dash",
   "name": "Boulder Dash",
   "publisher": "JVC",

@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Bethesda_Softworks"
+  ],
   "guid": "Where's_Waldo",
   "name": "Where's Waldo?",
   "publisher": "THQ",
   "released": {
-    "month": 9,
-    "sortable": "1991-09-01",
+    "month": 7,
+    "sortable": "1991-07-01",
     "year": 1991
   }
 }
