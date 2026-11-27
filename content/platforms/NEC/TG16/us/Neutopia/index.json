@@ -3,7 +3,9 @@
   "name": "Neutopia",
   "publisher": "NEC",
   "released": {
-    "sortable": "1990-01-01",
+    "day": 15,
+    "month": 4,
+    "sortable": "1990-04-15",
     "year": 1990
   }
 }

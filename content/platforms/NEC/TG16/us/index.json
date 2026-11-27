@@ -4,15 +4,17 @@
       "name": "Aero Blasters",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
-        "year": 1990
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
       }
     },
     "Air_Zonk": {
       "name": "Air Zonk",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 10,
+        "sortable": "1992-10-01",
         "year": 1992
       }
     },
@@ -20,7 +22,9 @@
       "name": "Alien Crush",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "day": 29,
+        "month": 8,
+        "sortable": "1989-08-29",
         "year": 1989
       }
     },
@@ -28,15 +32,17 @@
       "name": "Andre Panza Kick Boxing",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
-        "year": 1990
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
       }
     },
     "Ballistix": {
       "name": "Ballistix",
       "publisher": "NEC",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 5,
+        "sortable": "1992-05-01",
         "year": 1992
       }
     },
@@ -44,7 +50,8 @@
       "name": "Battle Royale",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -52,7 +59,8 @@
       "name": "Blazing Lazers",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -60,7 +68,8 @@
       "name": "Bloody Wolf",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 6,
+        "sortable": "1990-06-01",
         "year": 1990
       }
     },
@@ -68,7 +77,8 @@
       "name": "Bomberman",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 4,
+        "sortable": "1991-04-01",
         "year": 1991
       }
     },
@@ -76,7 +86,8 @@
       "name": "Bomberman '93",
       "publisher": "TTI",
       "released": {
-        "sortable": "1993-01-01",
+        "month": 3,
+        "sortable": "1993-03-01",
         "year": 1993
       }
     },
@@ -84,7 +95,8 @@
       "name": "Bonk's Adventure",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 4,
+        "sortable": "1990-04-01",
         "year": 1990
       }
     },
@@ -92,7 +104,8 @@
       "name": "Bonk's Revenge",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 7,
+        "sortable": "1991-07-01",
         "year": 1991
       }
     },
@@ -100,7 +113,8 @@
       "name": "Bonk 3: Bonk's Big Adventure",
       "publisher": "TTI",
       "released": {
-        "sortable": "1993-01-01",
+        "month": 6,
+        "sortable": "1993-06-01",
         "year": 1993
       }
     },
@@ -108,7 +122,8 @@
       "name": "Boxyboy",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -116,7 +131,8 @@
       "name": "Bravoman",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -124,7 +140,8 @@
       "name": "Cadash",
       "publisher": "Working_Designs",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 11,
+        "sortable": "1991-11-01",
         "year": 1991
       }
     },
@@ -132,7 +149,8 @@
       "name": "Champions Forever Boxing",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 10,
+        "sortable": "1991-10-01",
         "year": 1991
       }
     },
@@ -140,7 +158,8 @@
       "name": "Chase H.Q.",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 11,
+        "sortable": "1992-11-01",
         "year": 1992
       }
     },
@@ -148,7 +167,8 @@
       "name": "Chew Man Fu",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 7,
+        "sortable": "1990-07-01",
         "year": 1990
       }
     },
@@ -156,7 +176,8 @@
       "name": "China Warrior",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -164,7 +185,8 @@
       "name": "Cratermaze",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 4,
+        "sortable": "1990-04-01",
         "year": 1990
       }
     },
@@ -172,14 +194,16 @@
       "name": "Cyber Core",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 5,
+        "sortable": "1990-05-01",
         "year": 1990
       }
     },
     "Darkwing_Duck": {
       "name": "Darkwing Duck",
-      "publisher": "NEC",
+      "publisher": "TTI",
       "released": {
+        "month": 1,
         "sortable": "1992-01-01",
         "year": 1992
       }
@@ -188,7 +212,8 @@
       "name": "Davis Cup Tennis",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 12,
+        "sortable": "1991-12-01",
         "year": 1991
       }
     },
@@ -196,7 +221,8 @@
       "name": "Dead Moon",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 10,
+        "sortable": "1992-10-01",
         "year": 1992
       }
     },
@@ -204,15 +230,17 @@
       "name": "Deep Blue",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
-        "year": 1989
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
       }
     },
     "Devil's_Crush": {
       "name": "Devil's Crush",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 9,
+        "sortable": "1990-09-01",
         "year": 1990
       }
     },
@@ -220,7 +248,8 @@
       "name": "Double Dungeons",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 7,
+        "sortable": "1990-07-01",
         "year": 1990
       }
     },
@@ -228,15 +257,17 @@
       "name": "Dragon's Curse",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
-        "year": 1991
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
       }
     },
     "Dragon_Spirit": {
       "name": "Dragon Spirit",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -244,7 +275,8 @@
       "name": "Drop Off",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -252,7 +284,9 @@
       "name": "Dungeon Explorer",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "day": 15,
+        "month": 11,
+        "sortable": "1989-11-15",
         "year": 1989
       }
     },
@@ -260,7 +294,8 @@
       "name": "Dungeons & Dragons: Order of the Griffon",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 9,
+        "sortable": "1992-09-01",
         "year": 1992
       }
     },
@@ -268,7 +303,8 @@
       "name": "Falcon",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 7,
+        "sortable": "1992-07-01",
         "year": 1992
       }
     },
@@ -276,7 +312,8 @@
       "name": "Fantasy Zone",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -284,7 +321,8 @@
       "name": "Final Lap Twin",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 2,
+        "sortable": "1990-02-01",
         "year": 1990
       }
     },
@@ -292,7 +330,8 @@
       "name": "Galaga '90",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -300,7 +339,8 @@
       "name": "Ghost Manor",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 10,
+        "sortable": "1992-10-01",
         "year": 1992
       }
     },
@@ -308,7 +348,8 @@
       "name": "Gunboat",
       "publisher": "NEC",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 6,
+        "sortable": "1992-06-01",
         "year": 1992
       }
     },
@@ -316,7 +357,8 @@
       "name": "Hit the Ice",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 11,
+        "sortable": "1992-11-01",
         "year": 1992
       }
     },
@@ -324,7 +366,8 @@
       "name": "Impossamole",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 10,
+        "sortable": "1991-10-01",
         "year": 1991
       }
     },
@@ -332,7 +375,9 @@
       "name": "J.J. & Jeff",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "day": 15,
+        "month": 3,
+        "sortable": "1990-03-15",
         "year": 1990
       }
     },
@@ -348,7 +393,8 @@
       "name": "Jackie Chan's Action Kung Fu",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 8,
+        "sortable": "1992-08-01",
         "year": 1992
       }
     },
@@ -356,7 +402,9 @@
       "name": "Keith Courage in Alpha Zones",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "day": 29,
+        "month": 8,
+        "sortable": "1989-08-29",
         "year": 1989
       }
     },
@@ -364,7 +412,8 @@
       "name": "King Of Casino",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 6,
+        "sortable": "1990-06-01",
         "year": 1990
       }
     },
@@ -372,7 +421,8 @@
       "name": "Klax",
       "publisher": "Tengen",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 9,
+        "sortable": "1990-09-01",
         "year": 1990
       }
     },
@@ -380,7 +430,8 @@
       "name": "Legend of Hero Tonma",
       "publisher": "TTI",
       "released": {
-        "sortable": "1993-01-01",
+        "month": 2,
+        "sortable": "1993-02-01",
         "year": 1993
       }
     },
@@ -388,7 +439,8 @@
       "name": "Magical Chase",
       "publisher": "TTI",
       "released": {
-        "sortable": "1993-01-01",
+        "month": 7,
+        "sortable": "1993-07-01",
         "year": 1993
       }
     },
@@ -396,15 +448,17 @@
       "name": "Military Madness",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
-        "year": 1989
+        "month": 2,
+        "sortable": "1990-02-01",
+        "year": 1990
       }
     },
     "Moto_Roader": {
       "name": "Moto Roader",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 12,
+        "sortable": "1989-12-01",
         "year": 1989
       }
     },
@@ -412,7 +466,9 @@
       "name": "Neutopia",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "day": 15,
+        "month": 4,
+        "sortable": "1990-04-15",
         "year": 1990
       }
     },
@@ -420,7 +476,8 @@
       "name": "Neutopia II",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 8,
+        "sortable": "1992-08-01",
         "year": 1992
       }
     },
@@ -428,7 +485,8 @@
       "name": "New Adventure Island",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 9,
+        "sortable": "1992-09-01",
         "year": 1992
       }
     },
@@ -436,7 +494,8 @@
       "name": "Night Creatures",
       "publisher": "NEC",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 5,
+        "sortable": "1992-05-01",
         "year": 1992
       }
     },
@@ -444,7 +503,8 @@
       "name": "Ninja Spirit",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -452,15 +512,17 @@
       "name": "Ordyne",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
-        "year": 1989
+        "month": 3,
+        "sortable": "1990-03-01",
+        "year": 1990
       }
     },
     "Pac-Land": {
       "name": "Pac-Land",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 2,
+        "sortable": "1990-02-01",
         "year": 1990
       }
     },
@@ -468,7 +530,8 @@
       "name": "Parasol Stars",
       "publisher": "Working_Designs",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 10,
+        "sortable": "1991-10-01",
         "year": 1991
       }
     },
@@ -476,7 +539,8 @@
       "name": "Power Golf",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 10,
+        "sortable": "1989-10-01",
         "year": 1989
       }
     },
@@ -484,7 +548,8 @@
       "name": "Psychosis",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -492,7 +557,8 @@
       "name": "R-Type",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -500,7 +566,8 @@
       "name": "Raiden",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 11,
+        "sortable": "1991-11-01",
         "year": 1991
       }
     },
@@ -508,7 +575,8 @@
       "name": "Samurai Ghost",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 12,
+        "sortable": "1992-12-01",
         "year": 1992
       }
     },
@@ -516,7 +584,8 @@
       "name": "Shockman",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 12,
+        "sortable": "1992-12-01",
         "year": 1992
       }
     },
@@ -524,7 +593,8 @@
       "name": "Side Arms Hyper Dyne",
       "publisher": "Radiance_Software",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 12,
+        "sortable": "1989-12-01",
         "year": 1989
       }
     },
@@ -532,7 +602,8 @@
       "name": "Silent Debuggers",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 10,
+        "sortable": "1991-10-01",
         "year": 1991
       }
     },
@@ -540,23 +611,26 @@
       "name": "Sinistron",
       "publisher": "IGS",
       "released": {
+        "month": 1,
         "sortable": "1991-01-01",
         "year": 1991
       }
     },
     "Soldier_Blade": {
       "name": "Soldier Blade",
-      "publisher": "NEC",
+      "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 9,
+        "sortable": "1992-09-01",
         "year": 1992
       }
     },
     "Somer_Assault": {
       "name": "Somer Assault",
-      "publisher": "NEC",
+      "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 12,
+        "sortable": "1992-12-01",
         "year": 1992
       }
     },
@@ -564,7 +638,8 @@
       "name": "Sonic Spike Volleyball",
       "publisher": "IGS",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 9,
+        "sortable": "1990-09-01",
         "year": 1990
       }
     },
@@ -572,15 +647,17 @@
       "name": "Space Harrier",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
-        "year": 1989
+        "month": 2,
+        "sortable": "1990-02-01",
+        "year": 1990
       }
     },
     "Splatterhouse": {
       "name": "Splatterhouse",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 8,
+        "sortable": "1990-08-01",
         "year": 1990
       }
     },
@@ -588,7 +665,8 @@
       "name": "Super Star Soldier",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 3,
+        "sortable": "1991-03-01",
         "year": 1991
       }
     },
@@ -596,7 +674,8 @@
       "name": "Super Volleyball",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 9,
+        "sortable": "1990-09-01",
         "year": 1990
       }
     },
@@ -604,7 +683,8 @@
       "name": "TV Sports Basketball",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 6,
+        "sortable": "1991-06-01",
         "year": 1991
       }
     },
@@ -612,7 +692,8 @@
       "name": "TV Sports Football",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 12,
+        "sortable": "1990-12-01",
         "year": 1990
       }
     },
@@ -620,7 +701,8 @@
       "name": "TV Sports Hockey",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 9,
+        "sortable": "1991-09-01",
         "year": 1991
       }
     },
@@ -628,15 +710,18 @@
       "name": "Takin' it to the Hoop",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
-        "year": 1989
+        "day": 15,
+        "month": 3,
+        "sortable": "1990-03-15",
+        "year": 1990
       }
     },
     "TaleSpin": {
       "name": "TaleSpin",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 7,
+        "sortable": "1991-07-01",
         "year": 1991
       }
     },
@@ -644,7 +729,9 @@
       "name": "The Legendary Axe",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "day": 29,
+        "month": 8,
+        "sortable": "1989-08-29",
         "year": 1989
       }
     },
@@ -652,7 +739,8 @@
       "name": "The Legendary Axe II",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -660,7 +748,8 @@
       "name": "Tiger Road",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 10,
+        "sortable": "1990-10-01",
         "year": 1990
       }
     },
@@ -668,7 +757,8 @@
       "name": "Time Cruise",
       "publisher": "TTI",
       "released": {
-        "sortable": "1992-01-01",
+        "month": 12,
+        "sortable": "1992-12-01",
         "year": 1992
       }
     },
@@ -676,7 +766,8 @@
       "name": "Timeball",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 7,
+        "sortable": "1990-07-01",
         "year": 1990
       }
     },
@@ -684,15 +775,17 @@
       "name": "Tricky Kick",
       "publisher": "IGS",
       "released": {
-        "sortable": "1990-01-01",
-        "year": 1990
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
       }
     },
     "Turrican": {
       "name": "Turrican",
       "publisher": "Accolade",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 11,
+        "sortable": "1991-11-01",
         "year": 1991
       }
     },
@@ -700,7 +793,8 @@
       "name": "Veigues Tactical Gladiator",
       "publisher": "NEC",
       "released": {
-        "sortable": "1990-01-01",
+        "month": 12,
+        "sortable": "1990-12-01",
         "year": 1990
       }
     },
@@ -708,7 +802,9 @@
       "name": "Victory Run",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "day": 29,
+        "month": 8,
+        "sortable": "1989-08-29",
         "year": 1989
       }
     },
@@ -716,7 +812,8 @@
       "name": "Vigilante",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 10,
+        "sortable": "1989-10-01",
         "year": 1989
       }
     },
@@ -724,7 +821,8 @@
       "name": "World Class Baseball",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 11,
+        "sortable": "1989-11-01",
         "year": 1989
       }
     },
@@ -732,7 +830,8 @@
       "name": "World Court Tennis",
       "publisher": "NEC",
       "released": {
-        "sortable": "1989-01-01",
+        "month": 12,
+        "sortable": "1989-12-01",
         "year": 1989
       }
     },
@@ -740,15 +839,17 @@
       "name": "World Sports Competition",
       "publisher": "NEC",
       "released": {
-        "sortable": "1992-01-01",
-        "year": 1992
+        "month": 2,
+        "sortable": "1993-02-01",
+        "year": 1993
       }
     },
     "Yo_Bro": {
       "name": "Yo, Bro",
       "publisher": "NEC",
       "released": {
-        "sortable": "1991-01-01",
+        "month": 9,
+        "sortable": "1991-09-01",
         "year": 1991
       }
     }

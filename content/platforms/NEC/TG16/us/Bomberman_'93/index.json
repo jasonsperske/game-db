@@ -3,7 +3,8 @@
   "name": "Bomberman '93",
   "publisher": "TTI",
   "released": {
-    "sortable": "1993-01-01",
+    "month": 3,
+    "sortable": "1993-03-01",
     "year": 1993
   }
 }

@@ -3,7 +3,8 @@
   "name": "Falcon",
   "publisher": "TTI",
   "released": {
-    "sortable": "1992-01-01",
+    "month": 7,
+    "sortable": "1992-07-01",
     "year": 1992
   }
 }

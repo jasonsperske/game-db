@@ -3,7 +3,8 @@
   "name": "Power Golf",
   "publisher": "NEC",
   "released": {
-    "sortable": "1989-01-01",
+    "month": 10,
+    "sortable": "1989-10-01",
     "year": 1989
   }
 }

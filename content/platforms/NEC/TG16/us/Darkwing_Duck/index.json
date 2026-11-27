@@ -1,8 +1,9 @@
 {
   "guid": "Darkwing_Duck",
   "name": "Darkwing Duck",
-  "publisher": "NEC",
+  "publisher": "TTI",
   "released": {
+    "month": 1,
     "sortable": "1992-01-01",
     "year": 1992
   }

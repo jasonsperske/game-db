@@ -3,7 +3,8 @@
   "name": "Super Star Soldier",
   "publisher": "NEC",
   "released": {
-    "sortable": "1991-01-01",
+    "month": 3,
+    "sortable": "1991-03-01",
     "year": 1991
   }
 }

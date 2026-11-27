@@ -3,7 +3,8 @@
   "name": "World Sports Competition",
   "publisher": "NEC",
   "released": {
-    "sortable": "1992-01-01",
-    "year": 1992
+    "month": 2,
+    "sortable": "1993-02-01",
+    "year": 1993
   }
 }

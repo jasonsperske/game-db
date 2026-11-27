@@ -3,7 +3,8 @@
   "name": "Deep Blue",
   "publisher": "NEC",
   "released": {
-    "sortable": "1989-01-01",
-    "year": 1989
+    "month": 4,
+    "sortable": "1990-04-01",
+    "year": 1990
   }
 }

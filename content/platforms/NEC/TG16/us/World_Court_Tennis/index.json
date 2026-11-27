@@ -3,7 +3,8 @@
   "name": "World Court Tennis",
   "publisher": "NEC",
   "released": {
-    "sortable": "1989-01-01",
+    "month": 12,
+    "sortable": "1989-12-01",
     "year": 1989
   }
 }

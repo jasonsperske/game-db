@@ -3,7 +3,8 @@
   "name": "Dragon's Curse",
   "publisher": "NEC",
   "released": {
-    "sortable": "1991-01-01",
-    "year": 1991
+    "month": 12,
+    "sortable": "1990-12-01",
+    "year": 1990
   }
 }
