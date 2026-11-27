@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Nintendo_R&D1",
+    "HAL_Laboratory"
+  ],
   "guid": "Balloon_Fight",
   "name": "Balloon Fight",
   "publisher": "Nintendo",
   "released": {
-    "month": 8,
-    "sortable": "1986-08-01",
+    "month": 6,
+    "sortable": "1986-06-01",
     "year": 1986
   }
 }

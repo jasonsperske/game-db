@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Nintendo_R&D1",
+    "Intelligent_Systems"
+  ],
   "guid": "Wild_Gunman",
   "name": "Wild Gunman",
   "publisher": "Nintendo",

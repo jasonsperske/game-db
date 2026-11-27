@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Castlevania_II_Simon's_Quest",
   "name": "Castlevania II: Simon's Quest",
   "publisher": "Konami",
   "released": {
-    "month": 12,
-    "sortable": "1988-12-01",
+    "day": 24,
+    "month": 11,
+    "sortable": "1988-11-24",
     "year": 1988
   }
 }

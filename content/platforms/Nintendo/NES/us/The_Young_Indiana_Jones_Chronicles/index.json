@@ -1,10 +1,14 @@
 {
+  "developers": [
+    "Gray_Matter_Inc",
+    "Jaleco"
+  ],
   "guid": "The_Young_Indiana_Jones_Chronicles",
   "name": "Young Indiana Jones Chronicles",
   "publisher": "Jaleco",
   "released": {
-    "month": 1,
-    "sortable": "1993-01-01",
-    "year": 1993
+    "month": 12,
+    "sortable": "1992-12-01",
+    "year": 1992
   }
 }

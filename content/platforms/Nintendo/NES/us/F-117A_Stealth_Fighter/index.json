@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "MicroProse"
+  ],
   "guid": "F-117A_Stealth_Fighter",
   "name": "F-117A Stealth Fighter",
   "publisher": "MicroProse",

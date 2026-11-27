@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Radical_Entertainment"
+  ],
   "guid": "Mario_Is_Missing!",
   "name": "Mario Is Missing!",
   "publisher": "Mindscape",
   "released": {
-    "month": 7,
-    "sortable": "1993-07-01",
+    "month": 6,
+    "sortable": "1993-06-01",
     "year": 1993
   }
 }

@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Beam_Software"
+  ],
   "guid": "The_Punisher",
   "name": "The Punisher",
   "publisher": "LJN",
   "released": {
-    "month": 11,
-    "sortable": "1990-11-01",
-    "year": 1990
+    "month": 1,
+    "sortable": "1991-01-01",
+    "year": 1991
   }
 }

@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Marionette",
+    "SRS"
+  ],
   "guid": "Pool_of_Radiance",
   "name": "Advanced Dungeons & Dragons: Pool of Radiance",
   "publisher": "Fujisankei_Communications_International",

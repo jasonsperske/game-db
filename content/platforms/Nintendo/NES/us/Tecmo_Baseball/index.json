@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Tecmo"
+  ],
   "guid": "Tecmo_Baseball",
   "name": "Tecmo Baseball",
   "publisher": "Tecmo",

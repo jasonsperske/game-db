@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Track_&_Field_II",
   "name": "Track & Field II",
   "publisher": "Konami",
   "released": {
-    "month": 6,
-    "sortable": "1989-06-01",
+    "month": 2,
+    "sortable": "1989-02-01",
     "year": 1989
   }
 }

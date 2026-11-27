@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Atlus",
+    "Westone"
+  ],
   "guid": "Jaws",
   "name": "Jaws",
   "publisher": "LJN",

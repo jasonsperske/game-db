@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Konami"
+  ],
   "guid": "Jackal",
   "name": "Jackal",
   "publisher": "Konami",
   "released": {
-    "month": 9,
-    "sortable": "1988-09-01",
+    "month": 10,
+    "sortable": "1988-10-01",
     "year": 1988
   }
 }

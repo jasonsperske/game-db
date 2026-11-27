@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Tokai_Communications"
+  ],
   "guid": "Clash_at_Demonhead",
   "name": "Clash at Demonhead",
   "publisher": "Vic_Tokai",
   "released": {
-    "month": 1,
-    "sortable": "1990-01-01",
-    "year": 1990
+    "month": 12,
+    "sortable": "1989-12-01",
+    "year": 1989
   }
 }

@@ -1,11 +1,14 @@
 {
+  "developers": [
+    "Nintendo_R&D4"
+  ],
   "guid": "Super_Mario_Bros._2",
   "name": "Super Mario Bros. 2",
   "publisher": "Nintendo",
   "released": {
-    "day": 10,
+    "day": 9,
     "month": 10,
-    "sortable": "1988-10-10",
+    "sortable": "1988-10-09",
     "year": 1988
   }
 }

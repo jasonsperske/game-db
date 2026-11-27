@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Namco"
+  ],
   "guid": "Pac-Man",
   "name": "Pac-Man",
   "publisher": "Namco",

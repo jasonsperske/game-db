@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Capcom"
+  ],
   "guid": "Gun.Smoke",
   "name": "Gun.Smoke",
   "publisher": "Capcom",

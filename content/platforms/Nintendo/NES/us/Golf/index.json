@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Nintendo_R&D2",
+    "HAL_Laboratory"
+  ],
   "guid": "Golf",
   "name": "Golf",
   "publisher": "Nintendo",

@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Capcom"
+  ],
   "guid": "DuckTales",
   "name": "DuckTales",
   "publisher": "Capcom",
   "released": {
-    "month": 9,
-    "sortable": "1989-09-01",
+    "month": 10,
+    "sortable": "1989-10-01",
     "year": 1989
   }
 }

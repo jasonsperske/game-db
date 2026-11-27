@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Data_East"
+  ],
   "guid": "Cobra_Command",
   "name": "Cobra Command",
   "publisher": "Data_East",

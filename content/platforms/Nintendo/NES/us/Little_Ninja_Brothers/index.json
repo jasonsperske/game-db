@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Culture_Brain"
+  ],
   "guid": "Little_Ninja_Brothers",
   "name": "Little Ninja Brothers",
   "publisher": "Culture_Brain",
   "released": {
-    "month": 12,
-    "sortable": "1990-12-01",
-    "year": 1990
+    "month": 2,
+    "sortable": "1991-02-01",
+    "year": 1991
   }
 }

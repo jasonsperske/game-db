@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Hudson_Soft"
+  ],
   "guid": "Faxanadu",
   "name": "Faxanadu",
   "publisher": "Nintendo",
   "released": {
-    "month": 8,
-    "sortable": "1989-08-01",
+    "month": 7,
+    "sortable": "1989-07-01",
     "year": 1989
   }
 }

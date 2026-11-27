@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Data_East"
+  ],
   "guid": "Bad_Dudes_Vs._DragonNinja",
   "name": "Bad Dudes Vs. DragonNinja",
   "publisher": "Data_East",
   "released": {
-    "month": 7,
-    "sortable": "1990-07-01",
-    "year": 1990
+    "month": 8,
+    "sortable": "1989-08-01",
+    "year": 1989
   }
 }

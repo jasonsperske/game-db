@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "HAL_Laboratory"
+  ],
   "guid": "Joust",
   "name": "Joust",
   "publisher": "HAL_America",

@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "LucasArts",
+    "Realtime_Associates"
+  ],
   "guid": "Maniac_Mansion",
   "name": "Maniac Mansion",
   "publisher": "Jaleco",

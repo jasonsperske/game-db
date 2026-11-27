@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Hudson_Soft"
+  ],
   "guid": "Bomberman_II",
   "name": "Bomberman II",
   "publisher": "Hudson_Soft",
   "released": {
-    "month": 3,
-    "sortable": "1992-03-01",
-    "year": 1992
+    "month": 2,
+    "sortable": "1993-02-01",
+    "year": 1993
   }
 }

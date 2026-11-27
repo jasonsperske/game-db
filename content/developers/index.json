@@ -8,6 +8,9 @@
   "ADK": {
     "name": "ADK"
   },
+  "ASCII": {
+    "name": "ASCII"
+  },
   "ASCII_Corporation": {
     "name": "ASCII Entertainment"
   },
@@ -80,6 +83,9 @@
   "Ancient": {
     "name": "Ancient"
   },
+  "Another": {
+    "name": "Another"
+  },
   "Ape_Inc": {
     "name": "Ape, Inc."
   },
@@ -88,6 +94,9 @@
   },
   "Arc_Developments": {
     "name": "Arc Developments"
+  },
+  "Arc_System_Works": {
+    "name": "Arc System Works"
   },
   "Arcade_Zone": {
     "name": "Arcade Zone"
@@ -118,6 +127,9 @@
   },
   "Atari_Games": {
     "name": "Atari Games"
+  },
+  "Atelier_Double": {
+    "name": "Atelier Double"
   },
   "Athena": {
     "name": "Athena"
@@ -151,6 +163,9 @@
   },
   "Beam_Software": {
     "name": "Beam Software"
+  },
+  "Bethesda_Softworks": {
+    "name": "Bethesda Softworks"
   },
   "Betop": {
     "name": "Betop"
@@ -221,11 +236,20 @@
   "Capcom": {
     "name": "Capcom"
   },
+  "Carry_Lab": {
+    "name": "Carry Lab"
+  },
   "Chameleon_Team": {
     "name": "Chameleon Team"
   },
+  "Chunsoft": {
+    "name": "Chunsoft"
+  },
   "Cinemaware": {
     "name": "Cinemaware"
+  },
+  "Cirque_Verte": {
+    "name": "Cirque Verte"
   },
   "Climax": {
     "name": "Climax"
@@ -266,6 +290,9 @@
   "Creative_Software_Designs": {
     "name": "Creative Software Designs"
   },
+  "Crosstalk": {
+    "name": "Crosstalk"
+  },
   "Cryo_Interactive": {
     "name": "Cryo Interactive"
   },
@@ -286,6 +313,9 @@
   },
   "DMP_Productions": {
     "name": "DMP Productions"
+  },
+  "Daiei_Seisakusho": {
+    "name": "Daiei Seisakusho"
   },
   "Data_East": {
     "name": "Data East"
@@ -316,6 +346,9 @@
   },
   "Dinamic_Software": {
     "name": "Dinamic Software"
+  },
+  "Disco": {
+    "name": "Disco"
   },
   "Discovery_Software": {
     "name": "Discovery Software"
@@ -359,11 +392,17 @@
   "EA_Studios": {
     "name": "EA Studios"
   },
+  "EIM": {
+    "name": "EIM"
+  },
   "EMI_Music_Japan": {
     "name": "Toshiba EMI"
   },
   "East_Technology": {
     "name": "East Technology"
+  },
+  "Eastridge_Technology": {
+    "name": "Eastridge Technology"
   },
   "Eden_Entertainment": {
     "name": "Eden Entertainment"
@@ -374,8 +413,17 @@
   "Elite": {
     "name": "Elite"
   },
+  "Elite_Systems": {
+    "name": "Elite Systems"
+  },
+  "Enigma_Variations": {
+    "name": "Enigma Variations"
+  },
   "Epyx": {
     "name": "Epyx"
+  },
+  "Equilibrium": {
+    "name": "Equilibrium"
   },
   "Eurocom": {
     "name": "Eurocom"
@@ -398,6 +446,9 @@
   "Factor_5": {
     "name": "Factor 5"
   },
+  "FarSight_Studios": {
+    "name": "FarSight Studios"
+  },
   "FarSight_Technologies": {
     "name": "FarSight Technologies"
   },
@@ -412,6 +463,9 @@
   },
   "Funcom": {
     "name": "Funcom"
+  },
+  "G-Amusements": {
+    "name": "G-Amusements"
   },
   "GTE_ImagiTrek": {
     "name": "GTE ImagiTrek"
@@ -436,6 +490,9 @@
   },
   "Game_Refuge": {
     "name": "Game Refuge"
+  },
+  "Game_Studio": {
+    "name": "Game Studio"
   },
   "Gamtec": {
     "name": "Gamtec"
@@ -469,6 +526,9 @@
   },
   "Headgames": {
     "name": "Headgames"
+  },
+  "Hect": {
+    "name": "Hect"
   },
   "Hertz_Co.,_Ltd": {
     "name": "Hertz Co., Ltd."
@@ -551,6 +611,9 @@
   "Incredible_Technologies": {
     "name": "Incredible Technologies"
   },
+  "Infinity": {
+    "name": "Infinity"
+  },
   "Infogrames": {
     "name": "Infogrames"
   },
@@ -575,14 +638,23 @@
   "Irem": {
     "name": "Irem"
   },
+  "Ironwind_Software": {
+    "name": "Ironwind Software"
+  },
   "Jaleco": {
     "name": "Jaleco"
+  },
+  "Jastec": {
+    "name": "Jastec"
   },
   "Johnson-Voorsanger_Productions": {
     "name": "Johnson-Voorsanger Productions"
   },
   "Jorudan": {
     "name": "Jorudan"
+  },
+  "KAZe": {
+    "name": "KAZe"
   },
   "KID": {
     "name": "KID"
@@ -626,6 +698,12 @@
   "Leland_Interactive_Media": {
     "name": "Leland Interactive Media"
   },
+  "Lenar": {
+    "name": "Lenar"
+  },
+  "Locomotive_Corporation": {
+    "name": "Locomotive Corporation"
+  },
   "Looking_Glass_Technology": {
     "name": "Looking Glass Technology"
   },
@@ -634,6 +712,9 @@
   },
   "LucasArts": {
     "name": "LucasArts"
+  },
+  "Lucasfilm_Games": {
+    "name": "Lucasfilm Games"
   },
   "M2": {
     "name": "M2"
@@ -655,6 +736,9 @@
   },
   "Manley_&_Associates": {
     "name": "Manley & Associates"
+  },
+  "Marionette": {
+    "name": "Marionette"
   },
   "Marsu": {
     "name": "Marsu"
@@ -695,6 +779,9 @@
   "Minakuchi_Engineering": {
     "name": "Minakuchi Engineering"
   },
+  "Mind's_Eye": {
+    "name": "Mind's Eye"
+  },
   "MindSpan_Technologies": {
     "name": "MindSpan Technologies"
   },
@@ -728,6 +815,9 @@
   "NMK": {
     "name": "NMK"
   },
+  "NMS_Software": {
+    "name": "NMS Software"
+  },
   "Namco": {
     "name": "Namco"
   },
@@ -740,6 +830,9 @@
   "Naxat_Soft": {
     "name": "Naxat Soft"
   },
+  "Neue_Design": {
+    "name": "Neue Design"
+  },
   "Neverland": {
     "name": "Neverland"
   },
@@ -748,6 +841,9 @@
   },
   "New_World_Computing": {
     "name": "New World Computing"
+  },
+  "Newtopia_Planning": {
+    "name": "Newtopia Planning"
   },
   "Nextech": {
     "name": "Nextech"
@@ -758,6 +854,9 @@
   "Nexus_Interact": {
     "name": "Nexus Interact"
   },
+  "Nichibutsu": {
+    "name": "Nichibutsu"
+  },
   "Nick_Pelling": {
     "name": "Nick Pelling"
   },
@@ -766,6 +865,18 @@
   },
   "Nintendo": {
     "name": "Nintendo"
+  },
+  "Nintendo_R&D1": {
+    "name": "Nintendo R&D1"
+  },
+  "Nintendo_R&D2": {
+    "name": "Nintendo R&D2"
+  },
+  "Nintendo_R&D3": {
+    "name": "Nintendo R&D3"
+  },
+  "Nintendo_R&D4": {
+    "name": "Nintendo R&D4"
   },
   "Northwest_Synergistic_Software": {
     "name": "Synergistic Software"
@@ -788,6 +899,9 @@
   "Nu_Romantic_Productions": {
     "name": "Nu Romantic Productions"
   },
+  "OLM": {
+    "name": "OLM"
+  },
   "Ocean_Software": {
     "name": "Ocean Software"
   },
@@ -809,6 +923,9 @@
   "Pack-In-Video": {
     "name": "Pack-In-Video"
   },
+  "Painting_by_Numbers": {
+    "name": "Painting by Numbers"
+  },
   "Panelcomp": {
     "name": "Panelcomp"
   },
@@ -820,6 +937,12 @@
   },
   "Park_Place_Productions": {
     "name": "Park Place Productions"
+  },
+  "Pax_Softnica": {
+    "name": "Pax Softnica"
+  },
+  "Pixel": {
+    "name": "Pixel"
   },
   "Polygames": {
     "name": "Polygames"
@@ -854,6 +977,9 @@
   "Radical_Entertainment": {
     "name": "Radical Entertainment"
   },
+  "Radioactive_Software": {
+    "name": "Radioactive Software"
+  },
   "Rage_Software": {
     "name": "Rage Software"
   },
@@ -887,6 +1013,9 @@
   "Reno": {
     "name": "Reno"
   },
+  "Riedel_Software_Productions": {
+    "name": "Riedel Software Productions"
+  },
   "Right_Stuff": {
     "name": "Right Stuff"
   },
@@ -895,6 +1024,9 @@
   },
   "Riot": {
     "name": "Riot"
+  },
+  "Rocket_Science_Productions": {
+    "name": "Rocket Science Productions"
   },
   "Rockstar_North": {
     "name": "DMA Design"
@@ -920,17 +1052,29 @@
   "SNK_Playmore": {
     "name": "SNK"
   },
+  "SOFEL": {
+    "name": "SOFEL"
+  },
   "SPS_Co.,_Ltd": {
     "name": "SPS Co., Ltd."
   },
+  "SRS": {
+    "name": "SRS"
+  },
   "Sage's_Creation": {
     "name": "Sage's Creation"
+  },
+  "Sakata_SAS": {
+    "name": "Sakata SAS"
   },
   "Sales_Curve_Interactive": {
     "name": "Sales Curve Interactive"
   },
   "Sammy_Corporation": {
     "name": "American Sammy"
+  },
+  "Sandcastle": {
+    "name": "Sandcastle"
   },
   "Sandcastle_Productions": {
     "name": "Sandcastle Productions"
@@ -980,8 +1124,14 @@
   "Sensible_Software": {
     "name": "Sensible Software"
   },
+  "Shimada_Kikaku": {
+    "name": "Shimada Kikaku"
+  },
   "Shiny_Entertainment": {
     "name": "Shiny Entertainment"
+  },
+  "Shouei_System": {
+    "name": "Shouei System"
   },
   "Sigma_Pro-Tech": {
     "name": "Sigma Pro-Tech"
@@ -995,8 +1145,14 @@
   "Silicon_Sorcery": {
     "name": "Silicon Sorcery"
   },
+  "Soft_House": {
+    "name": "Soft House"
+  },
   "Soft_Machine": {
     "name": "Soft Machine"
+  },
+  "Softie": {
+    "name": "Softie"
   },
   "Software_Creations": {
     "name": "Software Creations"
@@ -1010,6 +1166,9 @@
   "Software_Toolworks": {
     "name": "Software Toolworks"
   },
+  "Sol_Corporation": {
+    "name": "Sol Corporation"
+  },
   "Solid_Software": {
     "name": "Solid Software"
   },
@@ -1021,6 +1180,12 @@
   },
   "Sony_Imagesoft": {
     "name": "Sony Imagesoft"
+  },
+  "Source_Research_&_Development": {
+    "name": "Source Research & Development"
+  },
+  "Special_FX_Software": {
+    "name": "Special FX Software"
   },
   "Spectacular_Games": {
     "name": "Spectacular Games"
@@ -1100,6 +1265,12 @@
   "Takara": {
     "name": "Takara"
   },
+  "Takeru": {
+    "name": "Takeru"
+  },
+  "Tamtex": {
+    "name": "Tamtex"
+  },
   "Team_Bubsy": {
     "name": "Team Bubsy"
   },
@@ -1165,6 +1336,9 @@
   },
   "Time_Warner_Interactive": {
     "name": "Time Warner Interactive"
+  },
+  "Titus_France": {
+    "name": "Titus France"
   },
   "Titus_Software": {
     "name": "Titus Software"
@@ -1244,6 +1418,9 @@
   "Virgin_Interactive": {
     "name": "Virgin Interactive"
   },
+  "Virgin_Mastertronic": {
+    "name": "Virgin Mastertronic"
+  },
   "Virgin_Studios_London": {
     "name": "Virgin Studios London"
   },
@@ -1280,11 +1457,17 @@
   "Winds": {
     "name": "Winds"
   },
+  "Winkysoft": {
+    "name": "Winkysoft"
+  },
   "Wisdom_Tree": {
     "name": "Wisdom Tree"
   },
   "Wolf_Team": {
     "name": "Wolf Team"
+  },
+  "Workss": {
+    "name": "Workss"
   },
   "XYZ_Productions": {
     "name": "XYZ Productions"

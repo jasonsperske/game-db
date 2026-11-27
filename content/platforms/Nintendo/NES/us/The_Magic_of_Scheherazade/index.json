@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Culture_Brain"
+  ],
   "guid": "The_Magic_of_Scheherazade",
   "name": "The Magic of Scheherazade",
   "publisher": "Culture_Brain",
   "released": {
-    "month": 12,
-    "sortable": "1989-12-01",
-    "year": 1989
+    "month": 1,
+    "sortable": "1990-01-01",
+    "year": 1990
   }
 }

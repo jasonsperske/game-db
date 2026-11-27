@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Arc_System_Works",
+    "Capcom"
+  ],
   "guid": "Code_Name_Viper",
   "name": "Code Name: Viper",
   "publisher": "Capcom",

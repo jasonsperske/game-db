@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Rare"
+  ],
   "guid": "Anticipation",
   "name": "Anticipation",
   "publisher": "Nintendo",
   "released": {
-    "month": 11,
-    "sortable": "1988-11-01",
+    "month": 12,
+    "sortable": "1988-12-01",
     "year": 1988
   }
 }

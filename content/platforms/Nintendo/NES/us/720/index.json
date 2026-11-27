@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Beam_Software"
+  ],
   "guid": "720",
   "name": "720°",
   "publisher": "Mindscape",
   "released": {
-    "month": 11,
-    "sortable": "1989-11-01",
+    "month": 12,
+    "sortable": "1989-12-01",
     "year": 1989
   }
 }

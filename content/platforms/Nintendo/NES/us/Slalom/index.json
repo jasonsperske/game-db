@@ -1,10 +1,13 @@
 {
+  "developers": [
+    "Rare"
+  ],
   "guid": "Slalom",
   "name": "Slalom",
   "publisher": "Nintendo",
   "released": {
-    "month": 3,
-    "sortable": "1987-03-01",
+    "month": 8,
+    "sortable": "1987-08-01",
     "year": 1987
   }
 }
