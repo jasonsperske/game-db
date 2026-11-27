@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Hudson_Soft"
+  ],
   "guid": "Neutopia",
   "name": "Neutopia",
   "publisher": "NEC",
