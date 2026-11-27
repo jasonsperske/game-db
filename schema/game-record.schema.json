@@ -11,6 +11,11 @@
       "$ref": "#/$defs/guid"
     },
     "name": { "type": "string", "minLength": 1 },
+    "sort_name": {
+      "description": "Key for alphabetical sorting: the name without a leading \"The\", \"A\" or \"An\". Present only when it differs from name; `npm run optimize` fills it in.",
+      "type": "string",
+      "minLength": 1
+    },
     "publisher": { "$ref": "#/$defs/guid" },
     "developers": {
       "type": "array",

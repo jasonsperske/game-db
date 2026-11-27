@@ -276,7 +276,8 @@
         "month": 8,
         "sortable": "1994-08-30",
         "year": 1994
-      }
+      },
+      "sort_name": "American Tail: Fievel Goes West"
     },
     "Andre_Agassi_Tennis": {
       "name": "Andre Agassi Tennis",
@@ -1196,7 +1197,8 @@
         "month": 9,
         "sortable": "1991-09-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Chessmaster"
     },
     "Chester_Cheetah__Too_Cool_to_Fool": {
       "developers": [
@@ -1730,7 +1732,8 @@
         "month": 12,
         "sortable": "1993-12-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Adventures of Dr. Franken"
     },
     "Dragon's_Lair": {
       "name": "Dragon's Lair",
@@ -3563,7 +3566,8 @@
         "month": 10,
         "sortable": "1992-10-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Irem Skins Game"
     },
     "Mario's_Early_Years_Fun_with_Letters": {
       "developers": [
@@ -3899,7 +3903,8 @@
         "month": 2,
         "sortable": "1995-02-07",
         "year": 1995
-      }
+      },
+      "sort_name": "Adventures of Mighty Max"
     },
     "Mighty_Morphin_Power_Rangers": {
       "developers": [
@@ -5618,7 +5623,8 @@
         "month": 12,
         "sortable": "1993-12-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Adventures of Kid Kleets"
     },
     "Sonic_Blast_Man": {
       "developers": [
@@ -6913,7 +6919,8 @@
         "month": 8,
         "sortable": "1993-08-03",
         "year": 1993
-      }
+      },
+      "sort_name": "7th Saga"
     },
     "The_Addams_Family": {
       "developers": [
@@ -6926,7 +6933,8 @@
         "month": 3,
         "sortable": "1992-03-10",
         "year": 1992
-      }
+      },
+      "sort_name": "Addams Family"
     },
     "The_Addams_Family_Pugsley's_Scavenger_Hunt": {
       "developers": [
@@ -6939,7 +6947,8 @@
         "month": 2,
         "sortable": "1993-02-23",
         "year": 1993
-      }
+      },
+      "sort_name": "Addams Family: Pugsley's Scavenger Hunt"
     },
     "The_Adventures_of_Batman_Robin": {
       "developers": [
@@ -6952,7 +6961,8 @@
         "month": 12,
         "sortable": "1994-12-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Adventures of Batman & Robin"
     },
     "The_Adventures_of_Rocky_and_Bullwinkle_and_Friends": {
       "developers": [
@@ -6965,7 +6975,8 @@
         "month": 6,
         "sortable": "1993-06-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Adventures of Rocky and Bullwinkle and Friends"
     },
     "The_Aquatic_Games": {
       "developers": [
@@ -6976,7 +6987,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Super Aquatic Games Starring the Aquabats"
     },
     "The_Blues_Brothers": {
       "developers": [
@@ -6989,7 +7001,8 @@
         "month": 6,
         "sortable": "1993-06-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Blues Brothers"
     },
     "The_Brainies": {
       "developers": [
@@ -7002,7 +7015,8 @@
         "month": 4,
         "sortable": "1996-04-02",
         "year": 1996
-      }
+      },
+      "sort_name": "Brainies"
     },
     "The_Chaos_Engine": {
       "developers": [
@@ -7026,7 +7040,8 @@
         "month": 3,
         "sortable": "1993-03-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Combatribes"
     },
     "The_Death_and_Return_of_Superman": {
       "developers": [
@@ -7039,7 +7054,8 @@
         "month": 8,
         "sortable": "1994-08-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Death and Return of Superman"
     },
     "The_Duel__Test_Drive_II": {
       "developers": [
@@ -7052,7 +7068,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Duel: Test Drive II"
     },
     "The_Flintstones": {
       "developers": [
@@ -7065,7 +7082,8 @@
         "month": 2,
         "sortable": "1995-02-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Flintstones"
     },
     "The_Flintstones__The_Treasure_of_Sierra_Madrock": {
       "developers": [
@@ -7078,7 +7096,8 @@
         "month": 3,
         "sortable": "1994-03-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Flintstones: The Treasure of Sierra Madrock"
     },
     "The_Great_Circus_Mystery_Starring_Mickey_Minnie": {
       "developers": [
@@ -7091,7 +7110,8 @@
         "month": 10,
         "sortable": "1994-10-16",
         "year": 1994
-      }
+      },
+      "sort_name": "Great Circus Mystery Starring Mickey & Minnie"
     },
     "The_Great_Waldo_Search": {
       "name": "The Great Waldo Search",
@@ -7101,7 +7121,8 @@
         "month": 6,
         "sortable": "1993-06-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Great Waldo Search"
     },
     "The_Hunt_for_Red_October": {
       "name": "The Hunt for Red October",
@@ -7111,7 +7132,8 @@
         "month": 1,
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Hunt for Red October"
     },
     "The_Ignition_Factor": {
       "developers": [
@@ -7124,7 +7146,8 @@
         "month": 1,
         "sortable": "1995-01-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Ignition Factor"
     },
     "The_Incredible_Crash_Dummies": {
       "name": "The Incredible Crash Dummies",
@@ -7134,7 +7157,8 @@
         "month": 10,
         "sortable": "1993-10-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Incredible Crash Dummies"
     },
     "The_Incredible_Hulk": {
       "developers": [
@@ -7147,7 +7171,8 @@
         "month": 8,
         "sortable": "1994-08-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Incredible Hulk"
     },
     "The_Itchy_Scratchy_Game": {
       "developers": [
@@ -7160,7 +7185,8 @@
         "month": 3,
         "sortable": "1995-03-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Itchy & Scratchy Game"
     },
     "The_Jetsons__Invasion_of_the_Planet_Pirates": {
       "developers": [
@@ -7171,7 +7197,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Jetsons: Invasion of the Planet Pirates"
     },
     "The_Jungle_Book": {
       "developers": [
@@ -7184,7 +7211,8 @@
         "month": 4,
         "sortable": "1994-04-15",
         "year": 1994
-      }
+      },
+      "sort_name": "Jungle Book"
     },
     "The_King_of_Dragons": {
       "developers": [
@@ -7195,7 +7223,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "King of Dragons"
     },
     "The_Lawnmower_Man": {
       "developers": [
@@ -7206,7 +7235,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Lawnmower Man"
     },
     "The_Legend_of_Zelda__A_Link_to_the_Past": {
       "developers": [
@@ -7219,7 +7249,8 @@
         "month": 4,
         "sortable": "1992-04-13",
         "year": 1992
-      }
+      },
+      "sort_name": "Legend of Zelda: A Link to the Past"
     },
     "The_Legend_of_the_Mystical_Ninja": {
       "developers": [
@@ -7232,7 +7263,8 @@
         "month": 6,
         "sortable": "1992-06-30",
         "year": 1992
-      }
+      },
+      "sort_name": "Legend of the Mystical Ninja"
     },
     "The_Lion_King": {
       "developers": [
@@ -7245,7 +7277,8 @@
         "month": 12,
         "sortable": "1994-12-08",
         "year": 1994
-      }
+      },
+      "sort_name": "Lion King"
     },
     "The_Lost_Vikings": {
       "developers": [
@@ -7258,7 +7291,8 @@
         "month": 4,
         "sortable": "1993-04-29",
         "year": 1993
-      }
+      },
+      "sort_name": "Lost Vikings"
     },
     "The_Lost_Vikings_2": {
       "developers": [
@@ -7271,7 +7305,8 @@
         "month": 5,
         "sortable": "1997-05-04",
         "year": 1997
-      }
+      },
+      "sort_name": "Lost Vikings 2"
     },
     "The_Magical_Quest_Starring_Mickey_Mouse": {
       "developers": [
@@ -7284,7 +7319,8 @@
         "month": 12,
         "sortable": "1992-12-23",
         "year": 1992
-      }
+      },
+      "sort_name": "Magical Quest Starring Mickey Mouse"
     },
     "The_Mask": {
       "developers": [
@@ -7295,7 +7331,8 @@
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Mask"
     },
     "The_Pagemaster": {
       "developers": [
@@ -7306,7 +7343,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Pagemaster"
     },
     "The_Peace_Keepers": {
       "developers": [
@@ -7317,7 +7355,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Peace Keepers"
     },
     "The_Pirates_of_Dark_Water": {
       "developers": [
@@ -7339,7 +7378,8 @@
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Buckaroo$!"
     },
     "The_Ren_Stimpy_Show_Fire_Dogs": {
       "developers": [
@@ -7350,7 +7390,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Fire Dogs"
     },
     "The_Ren_Stimpy_Show_Time_Warp": {
       "developers": [
@@ -7361,7 +7402,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Time Warp"
     },
     "The_Ren_Stimpy_Show_Veediots": {
       "name": "The Ren & Stimpy Show: Veediots!",
@@ -7369,7 +7411,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Veediots!"
     },
     "The_Rocketeer": {
       "developers": [
@@ -7381,7 +7424,8 @@
         "month": 5,
         "sortable": "1992-05-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Rocketeer"
     },
     "The_Simpsons_Bart's_Nightmare": {
       "developers": [
@@ -7394,7 +7438,8 @@
         "month": 10,
         "sortable": "1992-10-12",
         "year": 1992
-      }
+      },
+      "sort_name": "Simpsons: Bart's Nightmare"
     },
     "The_Sporting_News_Power_Baseball": {
       "developers": [
@@ -7405,7 +7450,8 @@
       "released": {
         "sortable": "1995-01-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Sporting News: Power Baseball"
     },
     "The_Terminator": {
       "developers": [
@@ -7416,7 +7462,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Terminator"
     },
     "The_Tick": {
       "developers": [
@@ -7427,7 +7474,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Tick"
     },
     "The_Twisted_Tales_of_Spike_McFang": {
       "developers": [
@@ -7438,7 +7486,8 @@
       "released": {
         "sortable": "1994-01-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Twisted Tales of Spike McFang"
     },
     "The_Untouchables": {
       "developers": [
@@ -7460,7 +7509,8 @@
       "released": {
         "sortable": "1993-01-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Wizard of Oz"
     },
     "Thomas_the_Tank_Engine_Friends": {
       "developers": [

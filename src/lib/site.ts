@@ -20,6 +20,8 @@ export type Game = {
   id: string;
   guid: string;
   name: string;
+  /** name without a leading article; sort titles by this */
+  sort_name: string;
   company: string;
   platform: string;
   region: string;
@@ -90,7 +92,7 @@ const csvCell = (v: unknown) => {
 export const CSV_COLUMNS = [
   'id', 'company', 'platform', 'region', 'guid', 'name',
   'released', 'released_year', 'released_month', 'released_day',
-  'publisher', 'publisher_name', 'developers', 'developer_names'
+  'publisher', 'publisher_name', 'developers', 'developer_names', 'sort_name'
 ];
 
 export const toCsv = (games: Game[]) => {
@@ -98,7 +100,8 @@ export const toCsv = (games: Game[]) => {
     g.id, g.company, g.platform, g.region, g.guid, g.name,
     g.released?.sortable, g.released?.year, g.released?.month, g.released?.day,
     g.publisher?.guid, g.publisher?.name,
-    g.developers.map((d) => d.guid).join(';'), g.developers.map((d) => d.name).join(';')
+    g.developers.map((d) => d.guid).join(';'), g.developers.map((d) => d.name).join(';'),
+    g.sort_name
   ].map(csvCell).join(','));
   return [CSV_COLUMNS.join(','), ...rows].join('\r\n') + '\r\n';
 };

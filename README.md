@@ -41,6 +41,8 @@ A game record:
 
 `publisher` and `developers` are guids from the name indexes. `guid` must match the folder name and use ASCII letters, digits and `._~!$&'()+,;=@-` only. The formal schemas are in `schema/`. Extra fields are allowed and are preserved by every tool, so a fork can extend the schema and use the `id` as its joining key.
 
+Titles are alphabetized without a leading "The", "A" or "An", so "The Legend of Zelda" sorts under L. For those games the record also has a `sort_name` (`"sort_name": "Legend of Zelda"`), which `npm run optimize` fills in. To sort a title some other way, set `sort_name` by hand. Setting it to the name itself keeps the article. `validate` lists any `sort_name` that isn't the default.
+
 To rename or merge a game, publisher or developer, add the old guid to `content/_config/aliases.json` and run `npm run optimize`. It moves folders and rewrites references, and validation then rejects the old guid. Only use aliases for spelling or encoding variants of the *same* entity. Rebrands and subsidiaries (Virgin Games vs Virgin Interactive) stay separate.
 
 ## Working on the catalog

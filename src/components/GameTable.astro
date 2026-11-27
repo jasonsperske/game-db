@@ -11,7 +11,8 @@ interface Props {
 const { games, columns = ['publisher', 'developers'], caption } = Astro.props;
 const s = site();
 const show = (c: string) => columns.includes(c as never);
-const sorted = [...games].sort((a, b) => a.name.localeCompare(b.name));
+// Alphabetize by sort_name, so "The Legend of Zelda" files under L.
+const sorted = [...games].sort((a, b) => a.sort_name.localeCompare(b.sort_name) || a.name.localeCompare(b.name));
 ---
 <div class="table-tools">
   <span class="muted">{games.length} {games.length === 1 ? 'game' : 'games'}</span>
@@ -32,7 +33,7 @@ const sorted = [...games].sort((a, b) => a.name.localeCompare(b.name));
     <tbody>
       {sorted.map((g) => (
         <tr>
-          <td><a href={gameUrl(g.id)}>{g.name}</a></td>
+          <td data-order={g.sort_name}><a href={gameUrl(g.id)}>{g.name}</a></td>
           {show('platform') && (
             <td><a href={url(`platform/${g.company}/${g.platform}/${g.region}/`)}>{s.platformName(g.company, g.platform)}</a> <span class="muted">{g.region}</span></td>
           )}

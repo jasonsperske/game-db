@@ -864,7 +864,8 @@
         "month": 8,
         "sortable": "1989-08-29",
         "year": 1989
-      }
+      },
+      "sort_name": "Legendary Axe"
     },
     "The_Legendary_Axe_II": {
       "developers": [
@@ -877,7 +878,8 @@
         "month": 10,
         "sortable": "1990-10-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Legendary Axe II"
     },
     "Tiger_Road": {
       "developers": [

@@ -4939,7 +4939,8 @@
         "month": 1,
         "sortable": "1992-01-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Addams Family"
     },
     "The_Addams_Family_Pugsley's_Scavenger_Hunt": {
       "developers": [
@@ -4951,7 +4952,8 @@
         "month": 7,
         "sortable": "1993-07-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Addams Family: Pugsley's Scavenger Hunt"
     },
     "The_Adventures_of_Rocky_and_Bullwinkle_and_Friends": {
       "developers": [
@@ -4963,7 +4965,8 @@
         "month": 10,
         "sortable": "1992-10-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Adventures of Rocky and Bullwinkle and Friends"
     },
     "The_Adventures_of_Star_Saver": {
       "developers": [
@@ -4975,7 +4978,8 @@
         "month": 3,
         "sortable": "1992-03-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Adventures of Star Saver"
     },
     "The_Amazing_Spider-Man": {
       "developers": [
@@ -4987,7 +4991,8 @@
         "month": 7,
         "sortable": "1990-07-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Amazing Spider-Man"
     },
     "The_Amazing_Spider-Man_2": {
       "developers": [
@@ -4999,7 +5004,8 @@
         "month": 8,
         "sortable": "1992-08-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Amazing Spider-Man 2"
     },
     "The_Blues_Brothers": {
       "developers": [
@@ -5011,7 +5017,8 @@
         "month": 6,
         "sortable": "1992-06-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Blues Brothers"
     },
     "The_Bugs_Bunny_Crazy_Castle": {
       "developers": [
@@ -5023,7 +5030,8 @@
         "month": 3,
         "sortable": "1990-03-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Bugs Bunny Crazy Castle"
     },
     "The_Bugs_Bunny_Crazy_Castle_2": {
       "developers": [
@@ -5035,7 +5043,8 @@
         "month": 9,
         "sortable": "1991-09-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Bugs Bunny Crazy Castle 2"
     },
     "The_Chessmaster": {
       "developers": [
@@ -5047,7 +5056,8 @@
         "month": 1,
         "sortable": "1991-01-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Chessmaster"
     },
     "The_Fidgetts": {
       "developers": [
@@ -5059,7 +5069,8 @@
         "month": 10,
         "sortable": "1997-10-01",
         "year": 1997
-      }
+      },
+      "sort_name": "Fidgetts"
     },
     "The_Final_Fantasy_Legend": {
       "developers": [
@@ -5071,7 +5082,8 @@
         "month": 9,
         "sortable": "1990-09-01",
         "year": 1990
-      }
+      },
+      "sort_name": "Final Fantasy Legend"
     },
     "The_Flash": {
       "developers": [
@@ -5083,7 +5095,8 @@
         "month": 3,
         "sortable": "1992-03-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Flash"
     },
     "The_Flintstones": {
       "developers": [
@@ -5095,7 +5108,8 @@
         "month": 12,
         "sortable": "1994-12-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Flintstones"
     },
     "The_Flintstones_King_Rock_Treasure_Island": {
       "developers": [
@@ -5107,7 +5121,8 @@
         "month": 2,
         "sortable": "1993-02-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Flintstones: King Rock Treasure Island"
     },
     "The_Game_of_Harmony": {
       "developers": [
@@ -5119,7 +5134,8 @@
         "month": 2,
         "sortable": "1991-02-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Game of Harmony"
     },
     "The_Getaway_High_Speed_II": {
       "developers": [
@@ -5131,7 +5147,8 @@
         "month": 12,
         "sortable": "1995-12-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Getaway: High Speed II"
     },
     "The_Humans": {
       "developers": [
@@ -5143,7 +5160,8 @@
         "month": 12,
         "sortable": "1992-12-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Humans"
     },
     "The_Hunchback_of_Notre_Dame": {
       "developers": [
@@ -5155,7 +5173,8 @@
         "month": 3,
         "sortable": "1997-03-01",
         "year": 1997
-      }
+      },
+      "sort_name": "Hunchback of Notre Dame"
     },
     "The_Hunt_for_Red_October": {
       "developers": [
@@ -5167,7 +5186,8 @@
         "month": 5,
         "sortable": "1991-05-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Hunt for Red October"
     },
     "The_Incredible_Crash_Dummies": {
       "developers": [
@@ -5179,7 +5199,8 @@
         "month": 11,
         "sortable": "1992-11-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Incredible Crash Dummies"
     },
     "The_Jetsons_Robot_Panic": {
       "developers": [
@@ -5191,7 +5212,8 @@
         "month": 10,
         "sortable": "1992-10-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Jetsons: Robot Panic"
     },
     "The_Jungle_Book": {
       "developers": [
@@ -5203,7 +5225,8 @@
         "month": 8,
         "sortable": "1994-08-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Jungle Book"
     },
     "The_King_of_Fighters_'95": {
       "developers": [
@@ -5215,7 +5238,8 @@
         "month": 2,
         "sortable": "1997-02-01",
         "year": 1997
-      }
+      },
+      "sort_name": "King of Fighters '95"
     },
     "The_Legend_of_Zelda_Link's_Awakening": {
       "developers": [
@@ -5228,7 +5252,8 @@
         "month": 8,
         "sortable": "1993-08-06",
         "year": 1993
-      }
+      },
+      "sort_name": "Legend of Zelda: Link's Awakening"
     },
     "The_Lion_King": {
       "developers": [
@@ -5240,7 +5265,8 @@
         "month": 4,
         "sortable": "1995-04-01",
         "year": 1995
-      }
+      },
+      "sort_name": "Lion King"
     },
     "The_Little_Mermaid": {
       "developers": [
@@ -5252,7 +5278,8 @@
         "month": 2,
         "sortable": "1993-02-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Little Mermaid"
     },
     "The_Lost_World_Jurassic_Park": {
       "developers": [
@@ -5264,7 +5291,8 @@
         "month": 12,
         "sortable": "1997-12-01",
         "year": 1997
-      }
+      },
+      "sort_name": "Lost World: Jurassic Park"
     },
     "The_New_Chessmaster": {
       "developers": [
@@ -5276,7 +5304,8 @@
         "month": 4,
         "sortable": "1993-04-01",
         "year": 1993
-      }
+      },
+      "sort_name": "New Chessmaster"
     },
     "The_Pagemaster": {
       "developers": [
@@ -5288,7 +5317,8 @@
         "month": 11,
         "sortable": "1994-11-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Pagemaster"
     },
     "The_Punisher_The_Ultimate_Payback": {
       "developers": [
@@ -5300,7 +5330,8 @@
         "month": 7,
         "sortable": "1991-07-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Punisher: The Ultimate Payback"
     },
     "The_Real_Ghostbusters": {
       "developers": [
@@ -5312,7 +5343,8 @@
         "month": 10,
         "sortable": "1993-10-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Real Ghostbusters"
     },
     "The_Ren_&_Stimpy_Show_Space_Cadet_Adventures": {
       "developers": [
@@ -5324,7 +5356,8 @@
         "month": 11,
         "sortable": "1992-11-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Space Cadet Adventures"
     },
     "The_Ren_&_Stimpy_Show_Veediots!": {
       "developers": [
@@ -5336,7 +5369,8 @@
         "month": 10,
         "sortable": "1993-10-01",
         "year": 1993
-      }
+      },
+      "sort_name": "Ren & Stimpy Show: Veediots!"
     },
     "The_Rugrats_Movie": {
       "developers": [
@@ -5348,7 +5382,8 @@
         "month": 12,
         "sortable": "1998-12-01",
         "year": 1998
-      }
+      },
+      "sort_name": "Rugrats Movie"
     },
     "The_Simpsons_Bart_&_the_Beanstalk": {
       "developers": [
@@ -5360,7 +5395,8 @@
         "month": 2,
         "sortable": "1994-02-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Simpsons: Bart & the Beanstalk"
     },
     "The_Simpsons_Bart_vs._The_Juggernauts": {
       "developers": [
@@ -5372,7 +5408,8 @@
         "month": 9,
         "sortable": "1992-09-01",
         "year": 1992
-      }
+      },
+      "sort_name": "Simpsons: Bart vs. The Juggernauts"
     },
     "The_Simpsons_Itchy_&_Scratchy_in_Miniature_Golf_Madness": {
       "developers": [
@@ -5384,7 +5421,8 @@
         "month": 11,
         "sortable": "1994-11-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Simpsons: Itchy & Scratchy in Miniature Golf Madness"
     },
     "The_Smurfs": {
       "developers": [
@@ -5396,7 +5434,8 @@
         "month": 10,
         "sortable": "1998-10-01",
         "year": 1998
-      }
+      },
+      "sort_name": "Smurfs"
     },
     "The_Sword_of_Hope": {
       "developers": [
@@ -5408,7 +5447,8 @@
         "month": 6,
         "sortable": "1991-06-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Sword of Hope"
     },
     "The_Sword_of_Hope_II": {
       "developers": [
@@ -5420,7 +5460,8 @@
         "month": 9,
         "sortable": "1996-09-01",
         "year": 1996
-      }
+      },
+      "sort_name": "Sword of Hope II"
     },
     "Tiny_Toon_Adventures_2_Montana's_Movie_Madness": {
       "developers": [

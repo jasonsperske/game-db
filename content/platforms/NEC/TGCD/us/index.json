@@ -397,7 +397,8 @@
         "month": 11,
         "sortable": "1991-11-01",
         "year": 1991
-      }
+      },
+      "sort_name": "Addams Family"
     },
     "The_Dynastic_Hero": {
       "name": "The Dynastic Hero",
@@ -406,7 +407,8 @@
         "month": 3,
         "sortable": "1994-03-01",
         "year": 1994
-      }
+      },
+      "sort_name": "Dynastic Hero"
     },
     "Valis_II": {
       "developers": [

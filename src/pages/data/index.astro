@@ -72,6 +72,7 @@ const files = [
   <pre><code>{exampleJson}</code></pre>
   <ul>
     <li><code>released</code> is <code>null</code> when unknown. <code>month</code> and <code>day</code> are omitted when unknown, and <code>sortable</code> fills them in with <code>01</code> so you can sort by it as a string.</li>
+    <li><code>sort_name</code> is the name without a leading “The”, “A” or “An”, so sorting by it alphabetizes titles the usual English way (“The Legend of Zelda” under L). It equals <code>name</code> when there is no article. In the CSV files it is the last column.</li>
     <li><code>publisher</code> is <code>null</code> when unknown, and <code>developers</code> can be empty. Some records are still being filled in.</li>
     <li>Fields may be added within <code>v1</code>. Removing or renaming a field will only happen in a new version path.</li>
   </ul>

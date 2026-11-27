@@ -4,7 +4,7 @@
   "title": "Game (published)",
   "description": "One entry of /data/v1/games.json and the per-region files. Publisher and developer references are denormalized with display names.",
   "type": "object",
-  "required": ["id", "guid", "name", "company", "platform", "region", "released", "publisher", "developers"],
+  "required": ["id", "guid", "name", "sort_name", "company", "platform", "region", "released", "publisher", "developers"],
   "properties": {
     "id": {
       "description": "Globally unique, stable key: <company>/<platform>/<region>/<guid>. Use this as your foreign key.",
@@ -13,6 +13,10 @@
     },
     "guid": { "description": "Unique within a region only.", "type": "string" },
     "name": { "type": "string" },
+    "sort_name": {
+      "description": "Sort by this to alphabetize titles: the name without a leading \"The\", \"A\" or \"An\" (equal to name when there is none).",
+      "type": "string"
+    },
     "company": { "type": "string" },
     "platform": { "type": "string" },
     "region": { "type": "string" },
