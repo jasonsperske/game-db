@@ -44,8 +44,17 @@
   "Adrenalin": {
     "name": "Adrenalin"
   },
+  "Advance_Communication_Company": {
+    "name": "Advance Communication Company"
+  },
   "Advanced_Productions": {
     "name": "Advanced Productions"
+  },
+  "Agenda_Co.,_Ltd": {
+    "name": "Agenda Co., Ltd"
+  },
+  "Aicom": {
+    "name": "Aicom"
   },
   "Aisystem_Tokyo": {
     "name": "Aisystem Tokyo"
@@ -55,6 +64,12 @@
   },
   "Alexandria,_Inc": {
     "name": "Alexandria, Inc."
+  },
+  "Alfa_System": {
+    "name": "Alfa System"
+  },
+  "Algorithm_Institute": {
+    "name": "Algorithm Institute"
   },
   "Almanic": {
     "name": "Almanic"
@@ -158,6 +173,9 @@
   "Bits_Corporation": {
     "name": "Bits Corporation"
   },
+  "Bits_Laboratory": {
+    "name": "Bits Laboratory"
+  },
   "Bits_Studios": {
     "name": "Bits Studios"
   },
@@ -205,6 +223,9 @@
   },
   "Chameleon_Team": {
     "name": "Chameleon Team"
+  },
+  "Cinemaware": {
+    "name": "Cinemaware"
   },
   "Climax": {
     "name": "Climax"
@@ -317,6 +338,9 @@
   "Double_Diamond_Sports": {
     "name": "Double Diamond Sports"
   },
+  "Dual_Corporation": {
+    "name": "Dual Corporation"
+  },
   "Dynamic_Planning": {
     "name": "Dynamic Planning"
   },
@@ -368,11 +392,17 @@
   "FTL_Games": {
     "name": "FTL Games"
   },
+  "Face": {
+    "name": "Face"
+  },
   "Factor_5": {
     "name": "Factor 5"
   },
   "FarSight_Technologies": {
     "name": "FarSight Technologies"
+  },
+  "First_Light_Entertainment": {
+    "name": "First Light Entertainment"
   },
   "Foley_Hi-Tech_Systems": {
     "name": "Foley Hi-Tech Systems"
@@ -446,6 +476,9 @@
   "Hewson": {
     "name": "Hewson"
   },
+  "Hi-Score_Media_Work": {
+    "name": "Hi-Score Media Work"
+  },
   "High_Score_Entertainment": {
     "name": "High Score Entertainment"
   },
@@ -475,6 +508,9 @@
   },
   "ICOM_Simulations": {
     "name": "ICOM Simulations"
+  },
+  "ISCO_Inc": {
+    "name": "ISCO Inc."
   },
   "ITL": {
     "name": "ITL"
@@ -530,6 +566,9 @@
   "Interactive_Designs": {
     "name": "Interactive Designs"
   },
+  "Interactive_Pictures": {
+    "name": "Interactive Pictures"
+  },
   "Interplay_Entertainment": {
     "name": "Interplay Entertainment"
   },
@@ -578,6 +617,9 @@
   "Laser_Beam_Entertainment": {
     "name": "Laser Beam Entertainment"
   },
+  "Laser_Soft": {
+    "name": "Laser Soft"
+  },
   "Left_Field_Productions": {
     "name": "Left Field Productions"
   },
@@ -598,6 +640,9 @@
   },
   "Magical": {
     "name": "Magical"
+  },
+  "Make_Software": {
+    "name": "Make Software"
   },
   "Malibu_Comics": {
     "name": "Malibu Interactive"
@@ -692,6 +737,9 @@
   "Naughty_Dog": {
     "name": "Naughty Dog"
   },
+  "Naxat_Soft": {
+    "name": "Naxat Soft"
+  },
   "Neverland": {
     "name": "Neverland"
   },
@@ -721,6 +769,9 @@
   },
   "Northwest_Synergistic_Software": {
     "name": "Synergistic Software"
+  },
+  "Nova": {
+    "name": "Nova"
   },
   "NovaLogic": {
     "name": "NovaLogic"
@@ -836,6 +887,9 @@
   "Reno": {
     "name": "Reno"
   },
+  "Right_Stuff": {
+    "name": "Right Stuff"
+  },
   "Ringler_Studios": {
     "name": "Ringler Studios"
   },
@@ -950,6 +1004,9 @@
   "Software_Creations_(UK)": {
     "name": "Software Creations"
   },
+  "Software_Heaven": {
+    "name": "Software Heaven"
+  },
   "Software_Toolworks": {
     "name": "Software Toolworks"
   },
@@ -1031,6 +1088,9 @@
   "THQ": {
     "name": "Black Pearl Software"
   },
+  "TTI": {
+    "name": "TTI"
+  },
   "Tahoe_Software": {
     "name": "Tahoe Software"
   },
@@ -1090,6 +1150,9 @@
   },
   "The_Kremlin": {
     "name": "The Kremlin"
+  },
+  "Thinking_Rabbit": {
+    "name": "Thinking Rabbit"
   },
   "Tiburon_Entertainment": {
     "name": "Tiburon Entertainment"
@@ -1225,6 +1288,9 @@
   },
   "XYZ_Productions": {
     "name": "XYZ Productions"
+  },
+  "Zap": {
+    "name": "Zap"
   },
   "Zeus_Software": {
     "name": "Zeus Software"

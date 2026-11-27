@@ -1,6 +1,9 @@
 {
   "games": {
     "Beyond_Shadowgate": {
+      "developers": [
+        "ICOM_Simulations"
+      ],
       "name": "Beyond Shadowgate",
       "publisher": "TTI",
       "released": {
@@ -10,6 +13,9 @@
       }
     },
     "Bonk_3_Bonk's_Big_Adventure": {
+      "developers": [
+        "A.I_Company"
+      ],
       "name": "Bonk 3: Bonk's Big Adventure",
       "publisher": "TTI",
       "released": {
@@ -37,6 +43,9 @@
       }
     },
     "Cosmic_Fantasy_2": {
+      "developers": [
+        "Telenet_Japan"
+      ],
       "name": "Cosmic Fantasy 2",
       "publisher": "Working_Designs",
       "released": {
@@ -64,6 +73,9 @@
       }
     },
     "Dungeon_Explorer_II": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Dungeon Explorer II",
       "publisher": "TTI",
       "released": {
@@ -73,6 +85,11 @@
       }
     },
     "Dungeon_Master": {
+      "developers": [
+        "FTL_Games",
+        "Software_Heaven",
+        "Beam_Software"
+      ],
       "name": "Dungeon Master",
       "publisher": "TTI",
       "released": {
@@ -100,6 +117,9 @@
       }
     },
     "Fighting_Street": {
+      "developers": [
+        "Alfa_System"
+      ],
       "name": "Fighting Street",
       "publisher": "NEC",
       "released": {
@@ -109,6 +129,9 @@
       }
     },
     "Final_Zone_II": {
+      "developers": [
+        "Wolf_Team"
+      ],
       "name": "Final Zone II",
       "publisher": "NEC",
       "released": {
@@ -127,6 +150,9 @@
       }
     },
     "Gate_of_Thunder": {
+      "developers": [
+        "Red_Company"
+      ],
       "name": "Gate of Thunder",
       "publisher": "TTI",
       "released": {
@@ -137,6 +163,10 @@
       }
     },
     "Godzilla": {
+      "developers": [
+        "Toho",
+        "Alfa_System"
+      ],
       "name": "Godzilla",
       "publisher": "TTI",
       "released": {
@@ -147,6 +177,10 @@
       }
     },
     "It_Came_from_the_Desert": {
+      "developers": [
+        "Interactive_Pictures",
+        "First_Light_Entertainment"
+      ],
       "name": "It Came from the Desert",
       "publisher": "NEC",
       "released": {
@@ -165,6 +199,9 @@
       }
     },
     "Jack_Nicklaus'_Turbo_Golf": {
+      "developers": [
+        "Beam_Software"
+      ],
       "name": "Jack Nicklaus' Turbo Golf",
       "publisher": "Accolade",
       "released": {
@@ -182,6 +219,9 @@
       }
     },
     "Last_Alert": {
+      "developers": [
+        "Laser_Soft"
+      ],
       "name": "Last Alert",
       "publisher": "NEC",
       "released": {
@@ -237,6 +277,9 @@
       }
     },
     "Monster_Lair": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Monster Lair",
       "publisher": "NEC",
       "released": {
@@ -255,6 +298,9 @@
       }
     },
     "Riot_Zone": {
+      "developers": [
+        "Agenda_Co.,_Ltd"
+      ],
       "name": "Riot Zone",
       "publisher": "TTI",
       "released": {
@@ -309,6 +355,9 @@
       }
     },
     "Splash_Lake": {
+      "developers": [
+        "Bits_Laboratory"
+      ],
       "name": "Splash Lake",
       "publisher": "TTI",
       "released": {
@@ -318,6 +367,9 @@
       }
     },
     "Super_Air_Zonk": {
+      "developers": [
+        "Dual_Corporation"
+      ],
       "name": "Super Air Zonk",
       "publisher": "TTI",
       "released": {
@@ -327,6 +379,9 @@
       }
     },
     "Syd_Mead's_Terraforming": {
+      "developers": [
+        "Right_Stuff"
+      ],
       "name": "Syd Mead's Terraforming",
       "publisher": "TTI",
       "released": {
@@ -354,6 +409,9 @@
       }
     },
     "Valis_II": {
+      "developers": [
+        "Laser_Soft"
+      ],
       "name": "Valis II",
       "publisher": "NEC",
       "released": {

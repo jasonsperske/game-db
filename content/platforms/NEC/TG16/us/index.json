@@ -10,6 +10,10 @@
       }
     },
     "Air_Zonk": {
+      "developers": [
+        "Red_Company",
+        "Naxat_Soft"
+      ],
       "name": "Air Zonk",
       "publisher": "TTI",
       "released": {
@@ -19,6 +23,9 @@
       }
     },
     "Alien_Crush": {
+      "developers": [
+        "Compile"
+      ],
       "name": "Alien Crush",
       "publisher": "NEC",
       "released": {
@@ -56,6 +63,9 @@
       }
     },
     "Blazing_Lazers": {
+      "developers": [
+        "Compile"
+      ],
       "name": "Blazing Lazers",
       "publisher": "NEC",
       "released": {
@@ -74,6 +84,9 @@
       }
     },
     "Bomberman": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Bomberman",
       "publisher": "NEC",
       "released": {
@@ -110,6 +123,9 @@
       }
     },
     "Bonk_3_Bonk's_Big_Adventure": {
+      "developers": [
+        "A.I_Company"
+      ],
       "name": "Bonk 3: Bonk's Big Adventure",
       "publisher": "TTI",
       "released": {
@@ -128,6 +144,9 @@
       }
     },
     "Bravoman": {
+      "developers": [
+        "Now_Production"
+      ],
       "name": "Bravoman",
       "publisher": "NEC",
       "released": {
@@ -182,6 +201,9 @@
       }
     },
     "Cratermaze": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Cratermaze",
       "publisher": "NEC",
       "released": {
@@ -200,6 +222,10 @@
       }
     },
     "Darkwing_Duck": {
+      "developers": [
+        "Radiance_Software",
+        "Interactive_Designs"
+      ],
       "name": "Darkwing Duck",
       "publisher": "TTI",
       "released": {
@@ -218,6 +244,9 @@
       }
     },
     "Dead_Moon": {
+      "developers": [
+        "Zap"
+      ],
       "name": "Dead Moon",
       "publisher": "TTI",
       "released": {
@@ -227,6 +256,9 @@
       }
     },
     "Deep_Blue": {
+      "developers": [
+        "Hi-Score_Media_Work"
+      ],
       "name": "Deep Blue",
       "publisher": "NEC",
       "released": {
@@ -236,6 +268,9 @@
       }
     },
     "Devil's_Crush": {
+      "developers": [
+        "Compile"
+      ],
       "name": "Devil's Crush",
       "publisher": "NEC",
       "released": {
@@ -245,6 +280,9 @@
       }
     },
     "Double_Dungeons": {
+      "developers": [
+        "Thinking_Rabbit"
+      ],
       "name": "Double Dungeons",
       "publisher": "NEC",
       "released": {
@@ -272,6 +310,9 @@
       }
     },
     "Drop_Off": {
+      "developers": [
+        "ISCO_Inc"
+      ],
       "name": "Drop Off",
       "publisher": "NEC",
       "released": {
@@ -281,6 +322,9 @@
       }
     },
     "Dungeon_Explorer": {
+      "developers": [
+        "Atlus"
+      ],
       "name": "Dungeon Explorer",
       "publisher": "NEC",
       "released": {
@@ -291,6 +335,9 @@
       }
     },
     "Dungeons_Dragons_Order_of_the_Griffon": {
+      "developers": [
+        "Westwood_Associates"
+      ],
       "name": "Dungeons & Dragons: Order of the Griffon",
       "publisher": "TTI",
       "released": {
@@ -300,6 +347,9 @@
       }
     },
     "Falcon": {
+      "developers": [
+        "TTI"
+      ],
       "name": "Falcon",
       "publisher": "TTI",
       "released": {
@@ -309,6 +359,9 @@
       }
     },
     "Fantasy_Zone": {
+      "developers": [
+        "Bits_Laboratory"
+      ],
       "name": "Fantasy Zone",
       "publisher": "NEC",
       "released": {
@@ -318,6 +371,9 @@
       }
     },
     "Final_Lap_Twin": {
+      "developers": [
+        "Nova"
+      ],
       "name": "Final Lap Twin",
       "publisher": "NEC",
       "released": {
@@ -345,6 +401,9 @@
       }
     },
     "Gunboat": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
       "name": "Gunboat",
       "publisher": "NEC",
       "released": {
@@ -372,6 +431,9 @@
       }
     },
     "J.J._Jeff": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "J.J. & Jeff",
       "publisher": "NEC",
       "released": {
@@ -382,6 +444,9 @@
       }
     },
     "Jack_Nicklaus'_Turbo_Golf": {
+      "developers": [
+        "Beam_Software"
+      ],
       "name": "Jack Nicklaus' Turbo Golf",
       "publisher": "Accolade",
       "released": {
@@ -399,6 +464,9 @@
       }
     },
     "Keith_Courage_in_Alpha_Zones": {
+      "developers": [
+        "Advance_Communication_Company"
+      ],
       "name": "Keith Courage in Alpha Zones",
       "publisher": "NEC",
       "released": {
@@ -409,6 +477,9 @@
       }
     },
     "King_Of_Casino": {
+      "developers": [
+        "Algorithm_Institute"
+      ],
       "name": "King Of Casino",
       "publisher": "NEC",
       "released": {
@@ -436,6 +507,9 @@
       }
     },
     "Magical_Chase": {
+      "developers": [
+        "Quest"
+      ],
       "name": "Magical Chase",
       "publisher": "TTI",
       "released": {
@@ -454,6 +528,9 @@
       }
     },
     "Moto_Roader": {
+      "developers": [
+        "NCS"
+      ],
       "name": "Moto Roader",
       "publisher": "NEC",
       "released": {
@@ -463,6 +540,9 @@
       }
     },
     "Neutopia": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Neutopia",
       "publisher": "NEC",
       "released": {
@@ -473,6 +553,9 @@
       }
     },
     "Neutopia_II": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Neutopia II",
       "publisher": "TTI",
       "released": {
@@ -482,6 +565,9 @@
       }
     },
     "New_Adventure_Island": {
+      "developers": [
+        "Now_Production"
+      ],
       "name": "New Adventure Island",
       "publisher": "TTI",
       "released": {
@@ -527,6 +613,9 @@
       }
     },
     "Parasol_Stars": {
+      "developers": [
+        "Taito"
+      ],
       "name": "Parasol Stars",
       "publisher": "Working_Designs",
       "released": {
@@ -536,6 +625,9 @@
       }
     },
     "Power_Golf": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Power Golf",
       "publisher": "NEC",
       "released": {
@@ -545,6 +637,9 @@
       }
     },
     "Psychosis": {
+      "developers": [
+        "Naxat_Soft"
+      ],
       "name": "Psychosis",
       "publisher": "NEC",
       "released": {
@@ -554,6 +649,9 @@
       }
     },
     "R-Type": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "R-Type",
       "publisher": "NEC",
       "released": {
@@ -563,6 +661,9 @@
       }
     },
     "Raiden": {
+      "developers": [
+        "A.I_Company"
+      ],
       "name": "Raiden",
       "publisher": "NEC",
       "released": {
@@ -572,6 +673,9 @@
       }
     },
     "Samurai_Ghost": {
+      "developers": [
+        "Now_Production"
+      ],
       "name": "Samurai Ghost",
       "publisher": "TTI",
       "released": {
@@ -590,6 +694,9 @@
       }
     },
     "Side_Arms_Hyper_Dyne": {
+      "developers": [
+        "Capcom"
+      ],
       "name": "Side Arms Hyper Dyne",
       "publisher": "Radiance_Software",
       "released": {
@@ -599,6 +706,9 @@
       }
     },
     "Silent_Debuggers": {
+      "developers": [
+        "Data_East"
+      ],
       "name": "Silent Debuggers",
       "publisher": "NEC",
       "released": {
@@ -608,6 +718,9 @@
       }
     },
     "Sinistron": {
+      "developers": [
+        "Alfa_System"
+      ],
       "name": "Sinistron",
       "publisher": "IGS",
       "released": {
@@ -617,6 +730,9 @@
       }
     },
     "Soldier_Blade": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Soldier Blade",
       "publisher": "TTI",
       "released": {
@@ -626,6 +742,9 @@
       }
     },
     "Somer_Assault": {
+      "developers": [
+        "Atlus"
+      ],
       "name": "Somer Assault",
       "publisher": "TTI",
       "released": {
@@ -662,6 +781,9 @@
       }
     },
     "Super_Star_Soldier": {
+      "developers": [
+        "Kaneko"
+      ],
       "name": "Super Star Soldier",
       "publisher": "NEC",
       "released": {
@@ -671,6 +793,9 @@
       }
     },
     "Super_Volleyball": {
+      "developers": [
+        "Micronics"
+      ],
       "name": "Super Volleyball",
       "publisher": "NEC",
       "released": {
@@ -680,6 +805,9 @@
       }
     },
     "TV_Sports_Basketball": {
+      "developers": [
+        "Cinemaware"
+      ],
       "name": "TV Sports Basketball",
       "publisher": "NEC",
       "released": {
@@ -726,6 +854,9 @@
       }
     },
     "The_Legendary_Axe": {
+      "developers": [
+        "Aicom"
+      ],
       "name": "The Legendary Axe",
       "publisher": "NEC",
       "released": {
@@ -736,6 +867,10 @@
       }
     },
     "The_Legendary_Axe_II": {
+      "developers": [
+        "Atlus",
+        "Red_Company"
+      ],
       "name": "The Legendary Axe II",
       "publisher": "NEC",
       "released": {
@@ -745,6 +880,9 @@
       }
     },
     "Tiger_Road": {
+      "developers": [
+        "Advance_Communication_Company"
+      ],
       "name": "Tiger Road",
       "publisher": "NEC",
       "released": {
@@ -754,6 +892,9 @@
       }
     },
     "Time_Cruise": {
+      "developers": [
+        "Face"
+      ],
       "name": "Time Cruise",
       "publisher": "TTI",
       "released": {
@@ -772,6 +913,9 @@
       }
     },
     "Tricky_Kick": {
+      "developers": [
+        "Alfa_System"
+      ],
       "name": "Tricky Kick",
       "publisher": "IGS",
       "released": {
@@ -781,6 +925,9 @@
       }
     },
     "Turrican": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
       "name": "Turrican",
       "publisher": "Accolade",
       "released": {
@@ -799,6 +946,9 @@
       }
     },
     "Victory_Run": {
+      "developers": [
+        "Hudson_Soft"
+      ],
       "name": "Victory Run",
       "publisher": "NEC",
       "released": {
@@ -836,6 +986,9 @@
       }
     },
     "World_Sports_Competition": {
+      "developers": [
+        "Make_Software"
+      ],
       "name": "World Sports Competition",
       "publisher": "NEC",
       "released": {
@@ -845,6 +998,9 @@
       }
     },
     "Yo_Bro": {
+      "developers": [
+        "ICOM_Simulations"
+      ],
       "name": "Yo, Bro",
       "publisher": "NEC",
       "released": {

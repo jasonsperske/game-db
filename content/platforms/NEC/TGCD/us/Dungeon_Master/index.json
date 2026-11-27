@@ -1,4 +1,9 @@
 {
+  "developers": [
+    "FTL_Games",
+    "Software_Heaven",
+    "Beam_Software"
+  ],
   "guid": "Dungeon_Master",
   "name": "Dungeon Master",
   "publisher": "TTI",

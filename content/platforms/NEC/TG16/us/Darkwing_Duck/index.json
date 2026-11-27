@@ -1,4 +1,8 @@
 {
+  "developers": [
+    "Radiance_Software",
+    "Interactive_Designs"
+  ],
   "guid": "Darkwing_Duck",
   "name": "Darkwing Duck",
   "publisher": "TTI",

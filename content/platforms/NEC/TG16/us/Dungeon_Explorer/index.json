@@ -1,4 +1,7 @@
 {
+  "developers": [
+    "Atlus"
+  ],
   "guid": "Dungeon_Explorer",
   "name": "Dungeon Explorer",
   "publisher": "NEC",
