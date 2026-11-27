@@ -1,0 +1,11 @@
+{
+  "guid": "Godzilla",
+  "name": "Godzilla",
+  "publisher": "TTI",
+  "released": {
+    "day": 3,
+    "month": 10,
+    "sortable": "1994-10-03",
+    "year": 1994
+  }
+}

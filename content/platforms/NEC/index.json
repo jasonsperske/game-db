@@ -4,6 +4,9 @@
   "platforms": {
     "TG16": {
       "name": "TurboGrafx-16"
+    },
+    "TGCD": {
+      "name": "TurboGrafx-CD"
     }
   }
 }

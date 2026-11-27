@@ -1,0 +1,9 @@
+{
+  "guid": "TGCD",
+  "name": "TurboGrafx-CD",
+  "regions": {
+    "us": {
+      "name": "North American"
+    }
+  }
+}

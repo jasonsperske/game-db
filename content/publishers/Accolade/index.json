@@ -1,6 +1,7 @@
 {
   "platforms": [
     "NEC/TG16/us",
+    "NEC/TGCD/us",
     "Nintendo/SNES/us",
     "SEGA/Genesis/us"
   ]
