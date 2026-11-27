@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Kemco"
+  ],
+  "guid": "Snoopy's_Magic_Show",
+  "name": "Snoopy's Magic Show",
+  "publisher": "Kemco",
+  "released": {
+    "month": 10,
+    "sortable": "1990-10-01",
+    "year": 1990
+  }
+}

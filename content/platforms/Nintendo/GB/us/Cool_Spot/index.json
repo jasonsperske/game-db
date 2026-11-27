@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NMS_Software"
+  ],
+  "guid": "Cool_Spot",
+  "name": "Cool Spot",
+  "publisher": "Virgin_Interactive",
+  "released": {
+    "month": 10,
+    "sortable": "1994-10-01",
+    "year": 1994
+  }
+}

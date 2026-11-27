@@ -1,0 +1,6110 @@
+{
+  "games": {
+    "4-in-1_Fun_Pak": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "4-in-1 Fun Pak",
+      "publisher": "Interplay_Entertainment",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "4-in-1_Funpak_Volume_II": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "4-in-1 Funpak: Volume II",
+      "publisher": "Interplay_Entertainment",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Adventure_Island": {
+      "developers": [
+        "Hudson_Soft"
+      ],
+      "name": "Adventure Island",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Adventure_Island_II_Aliens_in_Paradise": {
+      "developers": [
+        "Now_Production"
+      ],
+      "name": "Adventure Island II: Aliens in Paradise",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 2,
+        "sortable": "1993-02-01",
+        "year": 1993
+      }
+    },
+    "Aerostar": {
+      "developers": [
+        "Tokai_Communications"
+      ],
+      "name": "Aerostar",
+      "publisher": "Tokai_Communications",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Aladdin": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Aladdin",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 10,
+        "sortable": "1995-10-01",
+        "year": 1995
+      }
+    },
+    "Alfred_Chicken": {
+      "developers": [
+        "Twilight"
+      ],
+      "name": "Alfred Chicken",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "Alien3": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Alien³",
+      "publisher": "LJN",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Alien_vs_Predator_The_Last_of_His_Clan": {
+      "developers": [
+        "ASK_Kodansha"
+      ],
+      "name": "Alien vs Predator: The Last of His Clan",
+      "publisher": "Activision",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "All-Star_Baseball_'99": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "All-Star Baseball '99",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 5,
+        "sortable": "1998-05-01",
+        "year": 1998
+      }
+    },
+    "Alleyway": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Intelligent_Systems"
+      ],
+      "name": "Alleyway",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 1,
+        "month": 8,
+        "sortable": "1989-08-01",
+        "year": 1989
+      }
+    },
+    "Altered_Space_A_3-D_Alien_Adventure": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "Altered Space: A 3-D Alien Adventure",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Amazing_Penguin": {
+      "developers": [
+        "Natsume"
+      ],
+      "name": "Amazing Penguin",
+      "publisher": "Natsume",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Amazing_Tater": {
+      "developers": [
+        "Atlus"
+      ],
+      "name": "Amazing Tater",
+      "publisher": "Atlus",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Animaniacs": {
+      "developers": [
+        "Factor_5"
+      ],
+      "name": "Animaniacs",
+      "publisher": "Konami",
+      "released": {
+        "month": 7,
+        "sortable": "1995-07-01",
+        "year": 1995
+      }
+    },
+    "Arcade_Classic_No._1_Asteroids__Missile_Command": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Arcade Classic No. 1: Asteroids / Missile Command",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 7,
+        "sortable": "1995-07-01",
+        "year": 1995
+      }
+    },
+    "Arcade_Classic_No._2_Centipede__Millipede": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Arcade Classic No. 2: Centipede / Millipede",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1995-08-01",
+        "year": 1995
+      }
+    },
+    "Arcade_Classic_No._3_Galaga__Galaxian": {
+      "developers": [
+        "Namco"
+      ],
+      "name": "Arcade Classic No. 3: Galaga / Galaxian",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 9,
+        "sortable": "1995-09-01",
+        "year": 1995
+      }
+    },
+    "Arcade_Classic_No._4_Defender__Joust": {
+      "developers": [
+        "WMS_Industries"
+      ],
+      "name": "Arcade Classic No. 4: Defender / Joust",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 10,
+        "sortable": "1995-10-01",
+        "year": 1995
+      }
+    },
+    "Arcade_Classics_Super_Breakout__Battlezone": {
+      "developers": [
+        "Black_Pearl_Software"
+      ],
+      "name": "Arcade Classics: Super Breakout / Battlezone",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 10,
+        "sortable": "1996-10-01",
+        "year": 1996
+      }
+    },
+    "Asteroids": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Asteroids",
+      "publisher": "Accolade",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Atomic_Punk": {
+      "developers": [
+        "Hudson_Soft"
+      ],
+      "name": "Atomic Punk",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Attack_of_the_Killer_Tomatoes": {
+      "developers": [
+        "Equilibrium"
+      ],
+      "name": "Attack of the Killer Tomatoes",
+      "publisher": "THQ",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Avenging_Spirit": {
+      "developers": [
+        "Jaleco"
+      ],
+      "name": "Avenging Spirit",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Balloon_Kid": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Pax_Softnica"
+      ],
+      "name": "Balloon Kid",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 5,
+        "month": 10,
+        "sortable": "1990-10-05",
+        "year": 1990
+      }
+    },
+    "Barbie_Game_Girl": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Barbie: Game Girl",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Bart_Simpson's_Escape_from_Camp_Deadly": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Bart Simpson's Escape from Camp Deadly",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Baseball": {
+      "developers": [
+        "Intelligent_Systems"
+      ],
+      "name": "Baseball",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 1,
+        "month": 8,
+        "sortable": "1989-08-01",
+        "year": 1989
+      }
+    },
+    "Bases_Loaded": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Bases Loaded",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Batman_Forever": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Batman Forever",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "day": 7,
+        "month": 9,
+        "sortable": "1995-09-07",
+        "year": 1995
+      }
+    },
+    "Batman_Return_of_the_Joker": {
+      "developers": [
+        "Sunsoft"
+      ],
+      "name": "Batman: Return of the Joker",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 5,
+        "sortable": "1992-05-01",
+        "year": 1992
+      }
+    },
+    "Batman_The_Animated_Series": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Batman: The Animated Series",
+      "publisher": "Konami",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Batman_The_Video_Game": {
+      "developers": [
+        "Sunsoft"
+      ],
+      "name": "Batman: The Video Game",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 6,
+        "sortable": "1990-06-01",
+        "year": 1990
+      }
+    },
+    "Battle_Arena_Toshinden": {
+      "developers": [
+        "Betop"
+      ],
+      "name": "Battle Arena Toshinden",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1996-11-01",
+        "year": 1996
+      }
+    },
+    "Battle_Bull": {
+      "developers": [
+        "Jorudan"
+      ],
+      "name": "Battle Bull",
+      "publisher": "SETA_Corporation",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Battle_Unit_Zeoth": {
+      "developers": [
+        "Jaleco"
+      ],
+      "name": "Battle Unit Zeoth",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 7,
+        "sortable": "1991-07-01",
+        "year": 1991
+      }
+    },
+    "Battleship": {
+      "developers": [
+        "Pack-In-Video"
+      ],
+      "name": "Battleship",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Battletoads": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Battletoads",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Battletoads_&_Double_Dragon_The_Ultimate_Team": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Battletoads & Double Dragon: The Ultimate Team",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Battletoads_in_Ragnarok's_World": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Battletoads in Ragnarok's World",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Beavis_and_Butt-head": {
+      "developers": [
+        "Torus_Games"
+      ],
+      "name": "Beavis and Butt-head",
+      "publisher": "GT_Interactive",
+      "released": {
+        "month": 3,
+        "sortable": "1999-03-01",
+        "year": 1999
+      }
+    },
+    "Beetlejuice": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Beetlejuice",
+      "publisher": "LJN",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Best_of_the_Best_Championship_Karate": {
+      "developers": [
+        "Loriciel"
+      ],
+      "name": "Best of the Best: Championship Karate",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Bill_&_Ted's_Excellent_Game_Boy_Adventure_A_Bogus_Journey!": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey!",
+      "publisher": "LJN",
+      "released": {
+        "month": 8,
+        "sortable": "1991-08-01",
+        "year": 1991
+      }
+    },
+    "Bill_Elliott's_NASCAR_Fast_Tracks": {
+      "developers": [
+        "Distinctive_Software"
+      ],
+      "name": "Bill Elliott's NASCAR Fast Tracks",
+      "publisher": "Konami",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Bionic_Battler": {
+      "developers": [
+        "Copya_System"
+      ],
+      "name": "Bionic Battler",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Bionic_Commando": {
+      "developers": [
+        "Minakuchi_Engineering"
+      ],
+      "name": "Bionic Commando",
+      "publisher": "Capcom",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Black_Bass_Lure_Fishing": {
+      "developers": [
+        "Hot-B"
+      ],
+      "name": "Black Bass: Lure Fishing",
+      "publisher": "Hot-B",
+      "released": {
+        "month": 1,
+        "sortable": "1994-01-01",
+        "year": 1994
+      }
+    },
+    "Blades_of_Steel": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Blades of Steel",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 8,
+        "sortable": "1991-08-01",
+        "year": 1991
+      }
+    },
+    "Blaster_Master_Boy": {
+      "developers": [
+        "Sunsoft"
+      ],
+      "name": "Blaster Master Boy",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Bo_Jackson_Two_Games_In_One": {
+      "developers": [
+        "Equilibrium"
+      ],
+      "name": "Bo Jackson: Two Games In One",
+      "publisher": "THQ",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Boggle_Plus": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "Boggle Plus",
+      "publisher": "Parker_Brothers",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Bomberman_GB": {
+      "developers": [
+        "S-Plan",
+        "A.I_Company"
+      ],
+      "name": "Bomberman GB",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 10,
+        "month": 4,
+        "sortable": "1998-04-10",
+        "year": 1998
+      }
+    },
+    "Bonk's_Adventure": {
+      "developers": [
+        "Red_Company",
+        "Mutech"
+      ],
+      "name": "Bonk's Adventure",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Bonk's_Revenge": {
+      "developers": [
+        "A.I_Company"
+      ],
+      "name": "Bonk's Revenge",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Boomer's_Adventure_in_ASMIK_World": {
+      "developers": [
+        "Dual_Corporation"
+      ],
+      "name": "Boomer's Adventure in ASMIK World",
+      "publisher": "Asmik_Ace_Entertainment",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "Boxxle": {
+      "developers": [
+        "Atelier_Double"
+      ],
+      "name": "Boxxle",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 2,
+        "sortable": "1990-02-01",
+        "year": 1990
+      }
+    },
+    "Boxxle_II": {
+      "developers": [
+        "Atelier_Double"
+      ],
+      "name": "Boxxle II",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 6,
+        "sortable": "1992-06-01",
+        "year": 1992
+      }
+    },
+    "Brain_Drain": {
+      "developers": [
+        "Visual_Impact"
+      ],
+      "name": "Brain Drain",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 3,
+        "sortable": "1998-03-01",
+        "year": 1998
+      }
+    },
+    "Brainbender": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Brainbender",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Bram_Stoker's_Dracula": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Bram Stoker's Dracula",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 9,
+        "sortable": "1993-09-01",
+        "year": 1993
+      }
+    },
+    "BreakThru!": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "BreakThru!",
+      "publisher": "Spectrum_HoloByte",
+      "released": {
+        "month": 1,
+        "sortable": "1995-01-01",
+        "year": 1995
+      }
+    },
+    "Bubble_Bobble": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "Bubble Bobble",
+      "publisher": "Taito",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Bubble_Bobble_Part_2": {
+      "developers": [
+        "OLM",
+        "Taito"
+      ],
+      "name": "Bubble Bobble Part 2",
+      "publisher": "Taito",
+      "released": {
+        "month": 7,
+        "sortable": "1993-07-01",
+        "year": 1993
+      }
+    },
+    "Bubble_Ghost": {
+      "developers": [
+        "Opera_House"
+      ],
+      "name": "Bubble Ghost",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Bubsy_II": {
+      "developers": [
+        "Accolade"
+      ],
+      "name": "Bubsy II",
+      "publisher": "Accolade",
+      "released": {
+        "month": 8,
+        "sortable": "1995-08-01",
+        "year": 1995
+      }
+    },
+    "Burai_Fighter_Deluxe": {
+      "developers": [
+        "KID"
+      ],
+      "name": "Burai Fighter Deluxe",
+      "publisher": "Taxan",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "BurgerTime_Deluxe": {
+      "developers": [
+        "Data_East"
+      ],
+      "name": "BurgerTime Deluxe",
+      "publisher": "Data_East",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Bust-A-Move_2_Arcade_Edition": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Bust-A-Move 2: Arcade Edition",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 2,
+        "sortable": "1998-02-01",
+        "year": 1998
+      }
+    },
+    "Buster_Brothers": {
+      "name": "Buster Brothers",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Caesars_Palace": {
+      "developers": [
+        "Magnin_and_Associates"
+      ],
+      "name": "Caesars Palace",
+      "publisher": "Arcadia_Systems",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Captain_America_and_The_Avengers": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Captain America and The Avengers",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "Casino_FunPak": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Casino FunPak",
+      "publisher": "Interplay_Entertainment",
+      "released": {
+        "month": 1,
+        "sortable": "1995-01-01",
+        "year": 1995
+      }
+    },
+    "Casper": {
+      "developers": [
+        "Bonsai_Entertainment"
+      ],
+      "name": "Casper",
+      "publisher": "Natsume",
+      "released": {
+        "month": 11,
+        "sortable": "1996-11-01",
+        "year": 1996
+      }
+    },
+    "Castelian": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Castelian",
+      "publisher": "Triffix_Entertainment",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Castlevania_II_Belmont's_Revenge": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Castlevania II: Belmont's Revenge",
+      "publisher": "Konami",
+      "released": {
+        "month": 8,
+        "sortable": "1991-08-01",
+        "year": 1991
+      }
+    },
+    "Castlevania_Legends": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Castlevania Legends",
+      "publisher": "Konami",
+      "released": {
+        "month": 3,
+        "sortable": "1998-03-01",
+        "year": 1998
+      }
+    },
+    "Castlevania_The_Adventure": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Castlevania: The Adventure",
+      "publisher": "Konami",
+      "released": {
+        "month": 12,
+        "sortable": "1989-12-01",
+        "year": 1989
+      }
+    },
+    "Catrap": {
+      "developers": [
+        "Kodansha"
+      ],
+      "name": "Catrap",
+      "publisher": "Asmik_Ace_Entertainment",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "Centipede": {
+      "developers": [
+        "Accolade"
+      ],
+      "name": "Centipede",
+      "publisher": "Accolade",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Championship_Pool": {
+      "developers": [
+        "Bitmasters"
+      ],
+      "name": "Championship Pool",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Chase_H.Q": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Chase H.Q.",
+      "publisher": "Taito",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Choplifter_II": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Choplifter II",
+      "publisher": "JVC",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Chuck_Rock": {
+      "developers": [
+        "Spidersoft"
+      ],
+      "name": "Chuck Rock",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Cliffhanger": {
+      "developers": [
+        "Spidersoft"
+      ],
+      "name": "Cliffhanger",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "College_Slam": {
+      "developers": [
+        "Acclaim_Studios_Austin"
+      ],
+      "name": "College Slam",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 3,
+        "sortable": "1996-03-01",
+        "year": 1996
+      }
+    },
+    "Contra_The_Alien_Wars": {
+      "developers": [
+        "Factor_5"
+      ],
+      "name": "Contra: The Alien Wars",
+      "publisher": "Konami",
+      "released": {
+        "month": 10,
+        "sortable": "1994-10-01",
+        "year": 1994
+      }
+    },
+    "Cool_Ball": {
+      "developers": [
+        "Bit_Managers"
+      ],
+      "name": "Cool Ball",
+      "publisher": "Takara",
+      "released": {
+        "month": 8,
+        "sortable": "1994-08-01",
+        "year": 1994
+      }
+    },
+    "Cool_Spot": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Cool Spot",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 10,
+        "sortable": "1994-10-01",
+        "year": 1994
+      }
+    },
+    "Cool_World": {
+      "developers": [
+        "Twilight"
+      ],
+      "name": "Cool World",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Cosmo_Tank": {
+      "developers": [
+        "Asuka_Technologies"
+      ],
+      "name": "Cosmo Tank",
+      "publisher": "Atlus",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "Crystal_Quest": {
+      "developers": [
+        "NovaLogic"
+      ],
+      "name": "Crystal Quest",
+      "publisher": "Data_East",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Cutthroat_Island": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "Cutthroat Island",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 1,
+        "sortable": "1996-01-01",
+        "year": 1996
+      }
+    },
+    "Cyraid": {
+      "developers": [
+        "Epoch"
+      ],
+      "name": "Cyraid",
+      "publisher": "ASCII",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Daedalian_Opus": {
+      "developers": [
+        "Tokai_Communications"
+      ],
+      "name": "Daedalian Opus",
+      "publisher": "Tokai_Communications",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Daffy_Duck_The_Marvin_Missions": {
+      "developers": [
+        "Sunsoft"
+      ],
+      "name": "Daffy Duck: The Marvin Missions",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 1,
+        "sortable": "1995-01-01",
+        "year": 1995
+      }
+    },
+    "Darkman": {
+      "name": "Darkman",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Darkwing_Duck": {
+      "name": "Darkwing Duck",
+      "publisher": "Capcom",
+      "released": {
+        "month": 2,
+        "sortable": "1993-02-01",
+        "year": 1993
+      }
+    },
+    "David_Crane's_The_Rescue_of_Princess_Blobette": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "David Crane's The Rescue of Princess Blobette",
+      "publisher": "Absolute_Entertainment",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Days_of_Thunder": {
+      "developers": [
+        "Argonaut_Games"
+      ],
+      "name": "Days of Thunder",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Dead_Heat_Scramble": {
+      "developers": [
+        "Copya_System"
+      ],
+      "name": "Dead Heat Scramble",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Dennis_the_Menace": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Dennis the Menace",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "Desert_Strike_Return_to_the_Gulf": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Desert Strike: Return to the Gulf",
+      "publisher": "THQ",
+      "released": {
+        "month": 2,
+        "sortable": "1995-02-01",
+        "year": 1995
+      }
+    },
+    "Dexterity": {
+      "developers": [
+        "SNK"
+      ],
+      "name": "Dexterity",
+      "publisher": "SNK",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Dick_Tracy": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Dick Tracy",
+      "publisher": "Bandai",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Dig_Dug": {
+      "developers": [
+        "Now_Production"
+      ],
+      "name": "Dig Dug",
+      "publisher": "Namco",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Donkey_Kong": {
+      "developers": [
+        "Nintendo_EAD",
+        "Pax_Softnica"
+      ],
+      "name": "Donkey Kong",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 6,
+        "sortable": "1994-06-01",
+        "year": 1994
+      }
+    },
+    "Donkey_Kong_Land": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Donkey Kong Land",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 6,
+        "sortable": "1995-06-01",
+        "year": 1995
+      }
+    },
+    "Donkey_Kong_Land_2": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Donkey Kong Land 2",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 23,
+        "month": 9,
+        "sortable": "1996-09-23",
+        "year": 1996
+      }
+    },
+    "Donkey_Kong_Land_III": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Donkey Kong Land III",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 10,
+        "sortable": "1997-10-01",
+        "year": 1997
+      }
+    },
+    "Double_Dragon": {
+      "developers": [
+        "Technos_Japan"
+      ],
+      "name": "Double Dragon",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 8,
+        "sortable": "1990-08-01",
+        "year": 1990
+      }
+    },
+    "Double_Dragon_3_The_Arcade_Game": {
+      "developers": [
+        "Square_Enix_Europe"
+      ],
+      "name": "Double Dragon 3: The Arcade Game",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 8,
+        "sortable": "1992-08-01",
+        "year": 1992
+      }
+    },
+    "Double_Dragon_II": {
+      "developers": [
+        "Technos_Japan"
+      ],
+      "name": "Double Dragon II",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Double_Dribble_5_on_5": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Double Dribble: 5 on 5",
+      "publisher": "Konami",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Dr._Franken": {
+      "developers": [
+        "Motivetime"
+      ],
+      "name": "Dr. Franken",
+      "publisher": "Kemco",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Dr._Franken_II": {
+      "developers": [
+        "Motivetime"
+      ],
+      "name": "Dr. Franken II",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 10,
+        "sortable": "1997-10-01",
+        "year": 1997
+      }
+    },
+    "Dr._Mario": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Dr. Mario",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Dragon's_Lair_The_Legend": {
+      "developers": [
+        "Motivetime"
+      ],
+      "name": "Dragon's Lair: The Legend",
+      "publisher": "Ubisoft",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "DragonHeart": {
+      "developers": [
+        "Torus_Games"
+      ],
+      "name": "DragonHeart",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 5,
+        "sortable": "1996-05-01",
+        "year": 1996
+      }
+    },
+    "DuckTales": {
+      "developers": [
+        "Capcom"
+      ],
+      "name": "DuckTales",
+      "publisher": "Capcom",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "DuckTales_2": {
+      "name": "DuckTales 2",
+      "publisher": "Capcom",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Earthworm_Jim": {
+      "developers": [
+        "Eurocom"
+      ],
+      "name": "Earthworm Jim",
+      "publisher": "Playmates_Interactive",
+      "released": {
+        "month": 9,
+        "sortable": "1995-09-01",
+        "year": 1995
+      }
+    },
+    "Elevator_Action": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "Elevator Action",
+      "publisher": "Taito",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Elite_Soccer": {
+      "developers": [
+        "Denton_Designs"
+      ],
+      "name": "Elite Soccer",
+      "publisher": "GameTek",
+      "released": {
+        "month": 8,
+        "sortable": "1994-08-01",
+        "year": 1994
+      }
+    },
+    "Extra_Bases": {
+      "developers": [
+        "Namco"
+      ],
+      "name": "Extra Bases",
+      "publisher": "Bandai",
+      "released": {
+        "month": 4,
+        "sortable": "1991-04-01",
+        "year": 1991
+      }
+    },
+    "F-15_Strike_Eagle": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "F-15 Strike Eagle",
+      "publisher": "MicroProse",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "F-1_Race": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "F-1 Race",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 3,
+        "month": 2,
+        "sortable": "1991-02-03",
+        "year": 1991
+      }
+    },
+    "F1_Pole_Position": {
+      "developers": [
+        "Natsu_System"
+      ],
+      "name": "F1 Pole Position",
+      "publisher": "Ubisoft",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "FIFA_International_Soccer": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "FIFA International Soccer",
+      "publisher": "THQ",
+      "released": {
+        "month": 2,
+        "sortable": "1995-02-01",
+        "year": 1995
+      }
+    },
+    "FIFA_Soccer_96": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "FIFA Soccer 96",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1995-12-01",
+        "year": 1995
+      }
+    },
+    "FIFA_Soccer_97": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "FIFA Soccer 97",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1996-11-01",
+        "year": 1996
+      }
+    },
+    "Faceball_2000": {
+      "developers": [
+        "Xanth_Software"
+      ],
+      "name": "Faceball 2000",
+      "publisher": "Blue_Planet_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Fastest_Lap": {
+      "developers": [
+        "KID"
+      ],
+      "name": "Fastest Lap",
+      "publisher": "NTVIC",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Felix_the_Cat": {
+      "developers": [
+        "A.I_Company"
+      ],
+      "name": "Felix the Cat",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 7,
+        "sortable": "1993-07-01",
+        "year": 1993
+      }
+    },
+    "Ferrari_Grand_Prix_Challenge": {
+      "developers": [
+        "System_3",
+        "NMS_Software"
+      ],
+      "name": "Ferrari Grand Prix Challenge",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Fighting_Simulator_2-in-1_Flying_Warriors": {
+      "developers": [
+        "Culture_Brain"
+      ],
+      "name": "Fighting Simulator: 2-in-1 Flying Warriors",
+      "publisher": "Culture_Brain",
+      "released": {
+        "month": 4,
+        "sortable": "1992-04-01",
+        "year": 1992
+      }
+    },
+    "Final_Fantasy_Adventure": {
+      "developers": [
+        "Square"
+      ],
+      "name": "Final Fantasy Adventure",
+      "publisher": "Square",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Final_Fantasy_Legend_II": {
+      "developers": [
+        "Square"
+      ],
+      "name": "Final Fantasy Legend II",
+      "publisher": "Square",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Final_Fantasy_Legend_III": {
+      "developers": [
+        "Square"
+      ],
+      "name": "Final Fantasy Legend III",
+      "publisher": "Square",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Fish_Dude": {
+      "developers": [
+        "Salio"
+      ],
+      "name": "Fish Dude",
+      "publisher": "SOFEL",
+      "released": {
+        "month": 4,
+        "sortable": "1991-04-01",
+        "year": 1991
+      }
+    },
+    "Fist_of_the_North_Star_10_Big_Brawls_for_the_King_of_the_Universe": {
+      "developers": [
+        "Shouei_System"
+      ],
+      "name": "Fist of the North Star: 10 Big Brawls for the King of the Universe",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "Flipull_An_Exciting_Cube_Game": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "Flipull: An Exciting Cube Game",
+      "publisher": "Taito",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "Foreman_for_Real": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "Foreman for Real",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 9,
+        "sortable": "1995-09-01",
+        "year": 1995
+      }
+    },
+    "Fortified_Zone": {
+      "developers": [
+        "Jaleco"
+      ],
+      "name": "Fortified Zone",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Frank_Thomas_Big_Hurt_Baseball": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Frank Thomas Big Hurt Baseball",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 12,
+        "sortable": "1995-12-01",
+        "year": 1995
+      }
+    },
+    "Frogger": {
+      "developers": [
+        "Majesco"
+      ],
+      "name": "Frogger",
+      "publisher": "Majesco_Sales",
+      "released": {
+        "month": 8,
+        "sortable": "1998-08-01",
+        "year": 1998
+      }
+    },
+    "Game_&_Watch_Gallery": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Tose"
+      ],
+      "name": "Game & Watch Gallery",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 5,
+        "sortable": "1997-05-01",
+        "year": 1997
+      }
+    },
+    "Game_Boy_Camera": {
+      "developers": [
+        "Creatures_Inc",
+        "Nintendo",
+        "Jupiter"
+      ],
+      "name": "Game Boy Camera",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 1,
+        "month": 6,
+        "sortable": "1998-06-01",
+        "year": 1998
+      }
+    },
+    "Gargoyle's_Quest": {
+      "developers": [
+        "Capcom"
+      ],
+      "name": "Gargoyle's Quest",
+      "publisher": "Capcom",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Gauntlet_II": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Gauntlet II",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Gear_Works": {
+      "developers": [
+        "Teque_Interactive"
+      ],
+      "name": "Gear Works",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "George_Foreman's_KO_Boxing": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "George Foreman's KO Boxing",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Ghostbusters_II": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Ghostbusters II",
+      "publisher": "Activision",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Go!_Go!_Tank": {
+      "developers": [
+        "Copya_System"
+      ],
+      "name": "Go! Go! Tank",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Goal!": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Goal!",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Godzilla": {
+      "developers": [
+        "Compile"
+      ],
+      "name": "Godzilla",
+      "publisher": "Toho",
+      "released": {
+        "month": 10,
+        "sortable": "1990-10-01",
+        "year": 1990
+      }
+    },
+    "Golf": {
+      "developers": [
+        "Nintendo_R&D2",
+        "HAL_Laboratory"
+      ],
+      "name": "Golf",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 2,
+        "sortable": "1990-02-01",
+        "year": 1990
+      }
+    },
+    "Gradius_The_Interstellar_Assault": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Gradius: The Interstellar Assault",
+      "publisher": "Konami",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Great_Greed": {
+      "developers": [
+        "Namco"
+      ],
+      "name": "Great Greed",
+      "publisher": "Namco",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Gremlins_2_The_New_Batch": {
+      "developers": [
+        "Sunsoft"
+      ],
+      "name": "Gremlins 2: The New Batch",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "HAL_Wrestling": {
+      "developers": [
+        "Human_Entertainment"
+      ],
+      "name": "HAL Wrestling",
+      "publisher": "HAL_Laboratory",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Harvest_Moon_GB": {
+      "developers": [
+        "Victor_Interactive_Software"
+      ],
+      "name": "Harvest Moon GB",
+      "publisher": "Natsume",
+      "released": {
+        "month": 8,
+        "sortable": "1998-08-01",
+        "year": 1998
+      }
+    },
+    "Hatris": {
+      "developers": [
+        "Blue_Planet_Software"
+      ],
+      "name": "Hatris",
+      "publisher": "Blue_Planet_Software",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Heavyweight_Championship_Boxing": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Heavyweight Championship Boxing",
+      "publisher": "Activision",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "Heiankyo_Alien": {
+      "developers": [
+        "Hyperware"
+      ],
+      "name": "Heiankyo Alien",
+      "publisher": "Meldac",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "Hercules": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "Hercules",
+      "publisher": "THQ",
+      "released": {
+        "month": 7,
+        "sortable": "1997-07-01",
+        "year": 1997
+      }
+    },
+    "High_Stakes_Gambling": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "High Stakes Gambling",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 6,
+        "sortable": "1992-06-01",
+        "year": 1992
+      }
+    },
+    "Hit_the_Ice": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "Hit the Ice",
+      "publisher": "Taito",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Home_Alone": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Home Alone",
+      "publisher": "THQ",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Home_Alone_2_Lost_in_New_York": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Home Alone 2: Lost in New York",
+      "publisher": "THQ",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Hook": {
+      "developers": [
+        "Painting_by_Numbers"
+      ],
+      "name": "Hook",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 4,
+        "sortable": "1992-04-01",
+        "year": 1992
+      }
+    },
+    "Hudson_Hawk": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Hudson Hawk",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Hyper_Lode_Runner_The_Labyrinth_of_Doom": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Hyper Lode Runner: The Labyrinth of Doom",
+      "publisher": "Bandai",
+      "released": {
+        "month": 2,
+        "sortable": "1990-02-01",
+        "year": 1990
+      }
+    },
+    "In_Your_Face": {
+      "developers": [
+        "Jaleco"
+      ],
+      "name": "In Your Face",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Indiana_Jones_and_the_Last_Crusade": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Indiana Jones and the Last Crusade",
+      "publisher": "Ubisoft",
+      "released": {
+        "month": 7,
+        "sortable": "1994-07-01",
+        "year": 1994
+      }
+    },
+    "InfoGenius_Productivity_Pak_Berlitz_French_Translator": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "InfoGenius Productivity Pak: Berlitz French Translator",
+      "publisher": "GameTek",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "InfoGenius_Productivity_Pak_Berlitz_Spanish_Translator": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "InfoGenius Productivity Pak: Berlitz Spanish Translator",
+      "publisher": "GameTek",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "InfoGenius_Productivity_Pak_Frommer's_Travel_Guide": {
+      "developers": [
+        "NovaLogic"
+      ],
+      "name": "InfoGenius Productivity Pak: Frommer's Travel Guide",
+      "publisher": "GameTek",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "InfoGenius_Productivity_Pak_Personal_Organizer_and_Phone_Book": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "InfoGenius Productivity Pak: Personal Organizer and Phone Book",
+      "publisher": "GameTek",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "InfoGenius_Productivity_Pak_Spell_Checker_and_Calculator": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "InfoGenius Productivity Pak: Spell Checker and Calculator",
+      "publisher": "GameTek",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "International_Superstar_Soccer": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "International Superstar Soccer",
+      "publisher": "Konami",
+      "released": {
+        "month": 10,
+        "sortable": "1998-10-01",
+        "year": 1998
+      }
+    },
+    "Iron_Man_and_X-O_Manowar_in_Heavy_Metal": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Iron Man and X-O Manowar in Heavy Metal",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "day": 14,
+        "month": 11,
+        "sortable": "1996-11-14",
+        "year": 1996
+      }
+    },
+    "Ishido_The_Way_of_Stones": {
+      "developers": [
+        "Nexoft"
+      ],
+      "name": "Ishido: The Way of Stones",
+      "publisher": "ASCII",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Jack_Nicklaus_Golf": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "Jack Nicklaus Golf",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 5,
+        "sortable": "1992-05-01",
+        "year": 1992
+      }
+    },
+    "James_Bond_007": {
+      "developers": [
+        "Saffire"
+      ],
+      "name": "James Bond 007",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 9,
+        "month": 2,
+        "sortable": "1998-02-09",
+        "year": 1998
+      }
+    },
+    "Jeep_Jamboree_Off_Road_Adventure": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Jeep Jamboree: Off Road Adventure",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Jeopardy!": {
+      "developers": [
+        "Data_Design_Interactive"
+      ],
+      "name": "Jeopardy!",
+      "publisher": "GameTek",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Jeopardy!_Platinum_Edition": {
+      "developers": [
+        "Data_Design_Interactive"
+      ],
+      "name": "Jeopardy! Platinum Edition",
+      "publisher": "GameTek",
+      "released": {
+        "month": 12,
+        "sortable": "1996-12-01",
+        "year": 1996
+      }
+    },
+    "Jeopardy!_Sports_Edition": {
+      "developers": [
+        "Data_Design_Interactive"
+      ],
+      "name": "Jeopardy! Sports Edition",
+      "publisher": "GameTek",
+      "released": {
+        "month": 5,
+        "sortable": "1994-05-01",
+        "year": 1994
+      }
+    },
+    "Jeopardy!_Teen_Tournament": {
+      "developers": [
+        "Data_Design_Interactive"
+      ],
+      "name": "Jeopardy! Teen Tournament",
+      "publisher": "GameTek",
+      "released": {
+        "month": 12,
+        "sortable": "1996-12-01",
+        "year": 1996
+      }
+    },
+    "Jimmy_Connors_Tennis": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Jimmy Connors Tennis",
+      "publisher": "Ubisoft",
+      "released": {
+        "month": 5,
+        "sortable": "1998-05-01",
+        "year": 1998
+      }
+    },
+    "Joe_&_Mac": {
+      "developers": [
+        "Motivetime"
+      ],
+      "name": "Joe & Mac",
+      "publisher": "Data_East",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Jordan_vs._Bird_One_on_One": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Jordan vs. Bird: One on One",
+      "publisher": "Electronic_Arts",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Judge_Dredd": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Judge Dredd",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 6,
+        "sortable": "1995-06-01",
+        "year": 1995
+      }
+    },
+    "Jungle_Strike": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Jungle Strike",
+      "publisher": "THQ",
+      "released": {
+        "month": 6,
+        "sortable": "1995-06-01",
+        "year": 1995
+      }
+    },
+    "Jurassic_Park": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Jurassic Park",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Jurassic_Park_Part_2_The_Chaos_Continues": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Jurassic Park Part 2: The Chaos Continues",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1994-12-01",
+        "year": 1994
+      }
+    },
+    "Ken_Griffey,_Jr._Presents_Major_League_Baseball": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "Ken Griffey, Jr. Presents Major League Baseball",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 7,
+        "sortable": "1997-07-01",
+        "year": 1997
+      }
+    },
+    "Kid_Dracula": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Kid Dracula",
+      "publisher": "Konami",
+      "released": {
+        "month": 3,
+        "sortable": "1993-03-01",
+        "year": 1993
+      }
+    },
+    "Kid_Icarus_Of_Myths_and_Monsters": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Tose"
+      ],
+      "name": "Kid Icarus: Of Myths and Monsters",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Killer_Instinct": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Killer Instinct",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1995-11-01",
+        "year": 1995
+      }
+    },
+    "Kingdom_Crusade": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "Kingdom Crusade",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Kirby's_Block_Ball": {
+      "developers": [
+        "Tose",
+        "Nintendo_R&D1"
+      ],
+      "name": "Kirby's Block Ball",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 13,
+        "month": 5,
+        "sortable": "1996-05-13",
+        "year": 1996
+      }
+    },
+    "Kirby's_Dream_Land": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Kirby's Dream Land",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1992-08-01",
+        "year": 1992
+      }
+    },
+    "Kirby's_Dream_Land_2": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Kirby's Dream Land 2",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 5,
+        "sortable": "1995-05-01",
+        "year": 1995
+      }
+    },
+    "Kirby's_Pinball_Land": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Kirby's Pinball Land",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Kirby's_Star_Stacker": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Kirby's Star Stacker",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 4,
+        "sortable": "1997-04-01",
+        "year": 1997
+      }
+    },
+    "Klax_(Mindscape)": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Klax (Mindscape)",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 7,
+        "sortable": "1991-07-01",
+        "year": 1991
+      }
+    },
+    "Knight_Quest": {
+      "developers": [
+        "Lenar"
+      ],
+      "name": "Knight Quest",
+      "publisher": "Taito",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Krusty's_Fun_House": {
+      "developers": [
+        "Audiogenic"
+      ],
+      "name": "Krusty's Fun House",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Kung-Fu_Master": {
+      "developers": [
+        "Irem"
+      ],
+      "name": "Kung-Fu Master",
+      "publisher": "Irem",
+      "released": {
+        "month": 2,
+        "sortable": "1991-02-01",
+        "year": 1991
+      }
+    },
+    "Kwirk": {
+      "developers": [
+        "Atlus"
+      ],
+      "name": "Kwirk",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 3,
+        "sortable": "1990-03-01",
+        "year": 1990
+      }
+    },
+    "Lamborghini_American_Challenge": {
+      "developers": [
+        "Titus_Software"
+      ],
+      "name": "Lamborghini American Challenge",
+      "publisher": "Titus_Software",
+      "released": {
+        "month": 4,
+        "sortable": "1994-04-01",
+        "year": 1994
+      }
+    },
+    "Last_Action_Hero": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Last Action Hero",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Lazlos'_Leap": {
+      "developers": [
+        "Hect"
+      ],
+      "name": "Lazlos' Leap",
+      "publisher": "DTMC",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Legend_of_the_River_King": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Legend of the River King",
+      "publisher": "Natsume",
+      "released": {
+        "month": 8,
+        "sortable": "1998-08-01",
+        "year": 1998
+      }
+    },
+    "Lemmings": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Lemmings",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 8,
+        "sortable": "1994-08-01",
+        "year": 1994
+      }
+    },
+    "Lethal_Weapon": {
+      "developers": [
+        "Eurocom"
+      ],
+      "name": "Lethal Weapon",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Lock_'n'_Chase": {
+      "developers": [
+        "Data_East"
+      ],
+      "name": "Lock 'n' Chase",
+      "publisher": "Data_East",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Looney_Tunes": {
+      "developers": [
+        "Sunsoft"
+      ],
+      "name": "Looney Tunes",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Loopz": {
+      "developers": [
+        "Argonaut_Games"
+      ],
+      "name": "Loopz",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Madden_'95": {
+      "developers": [
+        "Halestorm"
+      ],
+      "name": "Madden '95",
+      "publisher": "THQ",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Madden_'96": {
+      "developers": [
+        "Halestorm"
+      ],
+      "name": "Madden '96",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 10,
+        "sortable": "1995-10-01",
+        "year": 1995
+      }
+    },
+    "Madden_'97": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "Madden '97",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1996-11-01",
+        "year": 1996
+      }
+    },
+    "Malibu_Beach_Volleyball": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Malibu Beach Volleyball",
+      "publisher": "Activision",
+      "released": {
+        "month": 3,
+        "sortable": "1990-03-01",
+        "year": 1990
+      }
+    },
+    "Marble_Madness": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Marble Madness",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Mario's_Picross": {
+      "developers": [
+        "Jupiter",
+        "Ape_Inc"
+      ],
+      "name": "Mario's Picross",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 3,
+        "sortable": "1995-03-01",
+        "year": 1995
+      }
+    },
+    "Maru's_Mission": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Maru's Mission",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Maui_Mallard_in_Cold_Shadow": {
+      "developers": [
+        "Bonsai_Entertainment"
+      ],
+      "name": "Maui Mallard in Cold Shadow",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 8,
+        "sortable": "1998-08-01",
+        "year": 1998
+      }
+    },
+    "Mega_Man_Dr._Wily's_Revenge": {
+      "developers": [
+        "Minakuchi_Engineering"
+      ],
+      "name": "Mega Man: Dr. Wily's Revenge",
+      "publisher": "Capcom",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Mega_Man_II": {
+      "developers": [
+        "Thinking_Rabbit"
+      ],
+      "name": "Mega Man II",
+      "publisher": "Capcom",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Mega_Man_III": {
+      "developers": [
+        "Minakuchi_Engineering"
+      ],
+      "name": "Mega Man III",
+      "publisher": "Capcom",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Mega_Man_IV": {
+      "developers": [
+        "Minakuchi_Engineering"
+      ],
+      "name": "Mega Man IV",
+      "publisher": "Capcom",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Mega_Man_V": {
+      "developers": [
+        "Minakuchi_Engineering"
+      ],
+      "name": "Mega Man V",
+      "publisher": "Capcom",
+      "released": {
+        "month": 9,
+        "sortable": "1994-09-01",
+        "year": 1994
+      }
+    },
+    "Megalit": {
+      "developers": [
+        "ASCII"
+      ],
+      "name": "Megalit",
+      "publisher": "Takara",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Mercenary_Force": {
+      "developers": [
+        "Lenar"
+      ],
+      "name": "Mercenary Force",
+      "publisher": "Meldac",
+      "released": {
+        "month": 10,
+        "sortable": "1990-10-01",
+        "year": 1990
+      }
+    },
+    "Metal_Masters": {
+      "developers": [
+        "Bit_Managers"
+      ],
+      "name": "Metal Masters",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Metroid_II_Return_of_Samus": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Metroid II: Return of Samus",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Mickey's_Dangerous_Chase": {
+      "developers": [
+        "Now_Production"
+      ],
+      "name": "Mickey's Dangerous Chase",
+      "publisher": "Capcom",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Mickey's_Ultimate_Challenge": {
+      "developers": [
+        "Designer_Software"
+      ],
+      "name": "Mickey's Ultimate Challenge",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 5,
+        "sortable": "1994-05-01",
+        "year": 1994
+      }
+    },
+    "Mickey_Mouse_Magic_Wands!": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "Mickey Mouse: Magic Wands!",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 5,
+        "sortable": "1998-05-01",
+        "year": 1998
+      }
+    },
+    "Micro_Machines": {
+      "developers": [
+        "Mindscape"
+      ],
+      "name": "Micro Machines",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 1,
+        "sortable": "1995-01-01",
+        "year": 1995
+      }
+    },
+    "Mighty_Morphin_Power_Rangers": {
+      "developers": [
+        "Tom_Create"
+      ],
+      "name": "Mighty Morphin Power Rangers",
+      "publisher": "Bandai",
+      "released": {
+        "month": 8,
+        "sortable": "1994-08-01",
+        "year": 1994
+      }
+    },
+    "Mighty_Morphin_Power_Rangers_The_Movie": {
+      "developers": [
+        "Tom_Create"
+      ],
+      "name": "Mighty Morphin Power Rangers: The Movie",
+      "publisher": "Bandai",
+      "released": {
+        "month": 8,
+        "sortable": "1995-08-01",
+        "year": 1995
+      }
+    },
+    "Milon's_Secret_Castle": {
+      "developers": [
+        "Make_Software"
+      ],
+      "name": "Milon's Secret Castle",
+      "publisher": "Hudson_Soft",
+      "released": {
+        "month": 3,
+        "sortable": "1993-03-01",
+        "year": 1993
+      }
+    },
+    "Miner_2049er": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Miner 2049er",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Missile_Command": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Missile Command",
+      "publisher": "Accolade",
+      "released": {
+        "month": 3,
+        "sortable": "1992-03-01",
+        "year": 1992
+      }
+    },
+    "Mole_Mania": {
+      "developers": [
+        "Pax_Softnica",
+        "Nintendo_EAD"
+      ],
+      "name": "Mole Mania",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 2,
+        "sortable": "1997-02-01",
+        "year": 1997
+      }
+    },
+    "Monopoly": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "Monopoly",
+      "publisher": "Parker_Brothers",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Monster_Truck_Wars": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Monster Truck Wars",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Mortal_Kombat": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Mortal Kombat",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "day": 13,
+        "month": 9,
+        "sortable": "1993-09-13",
+        "year": 1993
+      }
+    },
+    "Mortal_Kombat_&_Mortal_Kombat_II": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Mortal Kombat & Mortal Kombat II",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1997-11-01",
+        "year": 1997
+      }
+    },
+    "Mortal_Kombat_3": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "Mortal Kombat 3",
+      "publisher": "WMS_Industries",
+      "released": {
+        "day": 13,
+        "month": 10,
+        "sortable": "1995-10-13",
+        "year": 1995
+      }
+    },
+    "Mortal_Kombat_II": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Mortal Kombat II",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "day": 9,
+        "month": 9,
+        "sortable": "1994-09-09",
+        "year": 1994
+      }
+    },
+    "Motocross_Maniacs": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Motocross Maniacs",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 1,
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "Mouse_Trap_Hotel": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Mouse Trap Hotel",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Mr._Chin's_Gourmet_Paradise": {
+      "developers": [
+        "Romstar"
+      ],
+      "name": "Mr. Chin's Gourmet Paradise",
+      "publisher": "Romstar",
+      "released": {
+        "month": 10,
+        "sortable": "1990-10-01",
+        "year": 1990
+      }
+    },
+    "Mr._Do!": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Mr. Do!",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Ms._Pac-Man": {
+      "developers": [
+        "Namco"
+      ],
+      "name": "Ms. Pac-Man",
+      "publisher": "Namco",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Muhammad_Ali_Heavyweight_Boxing": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Muhammad Ali Heavyweight Boxing",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 7,
+        "sortable": "1993-07-01",
+        "year": 1993
+      }
+    },
+    "Mulan": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "Mulan",
+      "publisher": "THQ",
+      "released": {
+        "month": 10,
+        "sortable": "1998-10-01",
+        "year": 1998
+      }
+    },
+    "Mysterium": {
+      "developers": [
+        "Maxis"
+      ],
+      "name": "Mysterium",
+      "publisher": "Asmik_Ace_Entertainment",
+      "released": {
+        "month": 7,
+        "sortable": "1991-07-01",
+        "year": 1991
+      }
+    },
+    "Mystical_Ninja_Starring_Goemon": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Mystical Ninja Starring Goemon",
+      "publisher": "Konami",
+      "released": {
+        "month": 4,
+        "sortable": "1998-04-01",
+        "year": 1998
+      }
+    },
+    "NBA_All-Star_Challenge": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "NBA All-Star Challenge",
+      "publisher": "LJN",
+      "released": {
+        "month": 2,
+        "sortable": "1991-02-01",
+        "year": 1991
+      }
+    },
+    "NBA_All-Star_Challenge_2": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "NBA All-Star Challenge 2",
+      "publisher": "LJN",
+      "released": {
+        "month": 5,
+        "sortable": "1992-05-01",
+        "year": 1992
+      }
+    },
+    "NBA_Jam": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "NBA Jam",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "NBA_Jam_Tournament_Edition": {
+      "developers": [
+        "Torus_Games"
+      ],
+      "name": "NBA Jam: Tournament Edition",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 6,
+        "sortable": "1995-06-01",
+        "year": 1995
+      }
+    },
+    "NBA_Live_96": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "NBA Live 96",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 3,
+        "sortable": "1996-03-01",
+        "year": 1996
+      }
+    },
+    "NFL_Football": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "NFL Football",
+      "publisher": "Konami",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "NFL_Quarterback_Club": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "NFL Quarterback Club",
+      "publisher": "LJN",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "NFL_Quarterback_Club_96": {
+      "developers": [
+        "Condor,_Inc"
+      ],
+      "name": "NFL Quarterback Club 96",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "day": 27,
+        "month": 10,
+        "sortable": "1995-10-27",
+        "year": 1995
+      }
+    },
+    "NFL_Quarterback_Club_II": {
+      "developers": [
+        "Condor,_Inc"
+      ],
+      "name": "NFL Quarterback Club II",
+      "publisher": "LJN",
+      "released": {
+        "month": 3,
+        "sortable": "1995-03-01",
+        "year": 1995
+      }
+    },
+    "NHL_96": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "NHL 96",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 7,
+        "sortable": "1996-07-01",
+        "year": 1996
+      }
+    },
+    "NHL_Hockey_95": {
+      "developers": [
+        "Malibu_Games"
+      ],
+      "name": "NHL Hockey 95",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 6,
+        "sortable": "1995-06-01",
+        "year": 1995
+      }
+    },
+    "Nail_'n'_Scale": {
+      "developers": [
+        "Bit2"
+      ],
+      "name": "Nail 'n' Scale",
+      "publisher": "Data_East",
+      "released": {
+        "month": 4,
+        "sortable": "1992-04-01",
+        "year": 1992
+      }
+    },
+    "Navy_SEALs": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Navy SEALs",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Nemesis": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Nemesis",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "Nigel_Mansell's_World_Championship_Racing": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Nigel Mansell's World Championship Racing",
+      "publisher": "GameTek",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Ninja_Boy": {
+      "developers": [
+        "Culture_Brain"
+      ],
+      "name": "Ninja Boy",
+      "publisher": "Culture_Brain",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Ninja_Boy_2": {
+      "developers": [
+        "Culture_Brain"
+      ],
+      "name": "Ninja Boy 2",
+      "publisher": "Culture_Brain",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Ninja_Gaiden_Shadow": {
+      "developers": [
+        "Natsume"
+      ],
+      "name": "Ninja Gaiden Shadow",
+      "publisher": "Tecmo",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Ninja_Taro": {
+      "developers": [
+        "NMK"
+      ],
+      "name": "Ninja Taro",
+      "publisher": "Sammy_Corporation",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Nintendo_World_Cup": {
+      "developers": [
+        "Technos_Japan"
+      ],
+      "name": "Nintendo World Cup",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Nobunaga's_Ambition": {
+      "developers": [
+        "Koei"
+      ],
+      "name": "Nobunaga's Ambition",
+      "publisher": "Koei",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Oddworld_Adventures": {
+      "developers": [
+        "Saffire"
+      ],
+      "name": "Oddworld Adventures",
+      "publisher": "GT_Interactive",
+      "released": {
+        "month": 12,
+        "sortable": "1998-12-01",
+        "year": 1998
+      }
+    },
+    "Olympic_Summer_Games_Atlanta_1996": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "Olympic Summer Games: Atlanta 1996",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 6,
+        "sortable": "1996-06-01",
+        "year": 1996
+      }
+    },
+    "Operation_C": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Operation C",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 2,
+        "sortable": "1991-02-01",
+        "year": 1991
+      }
+    },
+    "Out_of_Gas": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Out of Gas",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 8,
+        "sortable": "1992-08-01",
+        "year": 1992
+      }
+    },
+    "PGA_European_Tour": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "PGA European Tour",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 4,
+        "sortable": "1995-04-01",
+        "year": 1995
+      }
+    },
+    "PGA_Tour_96": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "PGA Tour 96",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1995-11-01",
+        "year": 1995
+      }
+    },
+    "Pac-Attack": {
+      "developers": [
+        "Now_Production"
+      ],
+      "name": "Pac-Attack",
+      "publisher": "Namco",
+      "released": {
+        "month": 12,
+        "sortable": "1994-12-01",
+        "year": 1994
+      }
+    },
+    "Pac-In-Time": {
+      "developers": [
+        "Kalisto_Entertainment"
+      ],
+      "name": "Pac-In-Time",
+      "publisher": "Namco",
+      "released": {
+        "month": 2,
+        "sortable": "1995-02-01",
+        "year": 1995
+      }
+    },
+    "Pac-Man": {
+      "developers": [
+        "Namco"
+      ],
+      "name": "Pac-Man",
+      "publisher": "Namco",
+      "released": {
+        "month": 4,
+        "sortable": "1991-04-01",
+        "year": 1991
+      }
+    },
+    "Panel_Action_Bingo": {
+      "developers": [
+        "Locus"
+      ],
+      "name": "Panel Action Bingo",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Paperboy": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Paperboy",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Paperboy_2": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Paperboy 2",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 4,
+        "sortable": "1992-04-01",
+        "year": 1992
+      }
+    },
+    "Penguin_Wars": {
+      "developers": [
+        "ASCII"
+      ],
+      "name": "Penguin Wars",
+      "publisher": "ASCII",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "Pinball_Dreams": {
+      "developers": [
+        "Spidersoft"
+      ],
+      "name": "Pinball Dreams",
+      "publisher": "GameTek",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Pinball_Fantasies": {
+      "developers": [
+        "Spidersoft"
+      ],
+      "name": "Pinball Fantasies",
+      "publisher": "GameTek",
+      "released": {
+        "month": 2,
+        "sortable": "1995-02-01",
+        "year": 1995
+      }
+    },
+    "Pinocchio": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Pinocchio",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 10,
+        "sortable": "1996-10-01",
+        "year": 1996
+      }
+    },
+    "Pipe_Dream": {
+      "developers": [
+        "Blue_Planet_Software"
+      ],
+      "name": "Pipe Dream",
+      "publisher": "Blue_Planet_Software",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "Pit-Fighter": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "Pit-Fighter",
+      "publisher": "THQ",
+      "released": {
+        "month": 6,
+        "sortable": "1992-06-01",
+        "year": 1992
+      }
+    },
+    "Play_Action_Football": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Play Action Football",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Pocahontas": {
+      "developers": [
+        "Black_Pearl_Software"
+      ],
+      "name": "Pocahontas",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 4,
+        "sortable": "1996-04-01",
+        "year": 1996
+      }
+    },
+    "Pokemon_Blue_Version": {
+      "developers": [
+        "Game_Freak"
+      ],
+      "name": "Pokémon Blue Version",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 28,
+        "month": 9,
+        "sortable": "1998-09-28",
+        "year": 1998
+      }
+    },
+    "Pokemon_Red_Version": {
+      "developers": [
+        "Game_Freak"
+      ],
+      "name": "Pokémon Red Version",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 28,
+        "month": 9,
+        "sortable": "1998-09-28",
+        "year": 1998
+      }
+    },
+    "Pokemon_Yellow_Version_Special_Pikachu_Edition": {
+      "developers": [
+        "Game_Freak"
+      ],
+      "name": "Pokémon Yellow Version: Special Pikachu Edition",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 19,
+        "month": 10,
+        "sortable": "1999-10-19",
+        "year": 1999
+      }
+    },
+    "Popeye_2": {
+      "developers": [
+        "Copya_System"
+      ],
+      "name": "Popeye 2",
+      "publisher": "Activision",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Power_Mission": {
+      "developers": [
+        "Graphic_Research"
+      ],
+      "name": "Power Mission",
+      "publisher": "NTVIC",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Power_Racer": {
+      "developers": [
+        "Graphic_Research"
+      ],
+      "name": "Power Racer",
+      "publisher": "Tecmo",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "Prehistorik_Man": {
+      "developers": [
+        "Titus_Software"
+      ],
+      "name": "Prehistorik Man",
+      "publisher": "Titus_Software",
+      "released": {
+        "month": 1,
+        "sortable": "1996-01-01",
+        "year": 1996
+      }
+    },
+    "Primal_Rage": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Primal Rage",
+      "publisher": "Atari_Games",
+      "released": {
+        "month": 7,
+        "sortable": "1995-07-01",
+        "year": 1995
+      }
+    },
+    "Prince_of_Persia": {
+      "developers": [
+        "Broderbund"
+      ],
+      "name": "Prince of Persia",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Prophecy_The_Viking_Child": {
+      "developers": [
+        "Imagitec_Design"
+      ],
+      "name": "Prophecy: The Viking Child",
+      "publisher": "GameTek",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Pyramids_of_Ra": {
+      "developers": [
+        "MICROS"
+      ],
+      "name": "Pyramids of Ra",
+      "publisher": "Matchbox",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "QBillion": {
+      "developers": [
+        "SETA_Corporation"
+      ],
+      "name": "QBillion",
+      "publisher": "SETA_Corporation",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "Qbert_for_Game_Boy": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Q*bert for Game Boy",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Qix": {
+      "developers": [
+        "Minakuchi_Engineering"
+      ],
+      "name": "Qix",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 5,
+        "sortable": "1990-05-01",
+        "year": 1990
+      }
+    },
+    "Quarth": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Quarth",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "R-Type": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "R-Type",
+      "publisher": "Irem",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "Race_Days": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Race Days",
+      "publisher": "GameTek",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Race_Drivin": {
+      "developers": [
+        "Argonaut_Games"
+      ],
+      "name": "Race Drivin",
+      "publisher": "THQ",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Radar_Mission": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Pax_Softnica"
+      ],
+      "name": "Radar Mission",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 2,
+        "sortable": "1991-02-01",
+        "year": 1991
+      }
+    },
+    "Raging_Fighter": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Raging Fighter",
+      "publisher": "Konami",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Rampart": {
+      "name": "Rampart",
+      "publisher": "Jaleco",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Rats!": {
+      "developers": [
+        "Tarantula_Studios"
+      ],
+      "name": "Rats!",
+      "publisher": "Take-Two_Interactive",
+      "released": {
+        "day": 14,
+        "month": 12,
+        "sortable": "1998-12-14",
+        "year": 1998
+      }
+    },
+    "Revenge_of_the_'Gator": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Revenge of the 'Gator",
+      "publisher": "HAL_Laboratory",
+      "released": {
+        "month": 3,
+        "sortable": "1990-03-01",
+        "year": 1990
+      }
+    },
+    "Riddick_Bowe_Boxing": {
+      "developers": [
+        "Equilibrium"
+      ],
+      "name": "Riddick Bowe Boxing",
+      "publisher": "Extreme_Entertainment_Group",
+      "released": {
+        "month": 1,
+        "sortable": "1994-01-01",
+        "year": 1994
+      }
+    },
+    "Ring_Rage": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "Ring Rage",
+      "publisher": "Natsume",
+      "released": {
+        "month": 4,
+        "sortable": "1998-04-01",
+        "year": 1998
+      }
+    },
+    "Road_Rash": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Road Rash",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 6,
+        "sortable": "1994-06-01",
+        "year": 1994
+      }
+    },
+    "Robin_Hood_Prince_of_Thieves": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Robin Hood: Prince of Thieves",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "RoboCop": {
+      "name": "RoboCop",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1990-12-01",
+        "year": 1990
+      }
+    },
+    "RoboCop_2": {
+      "developers": [
+        "Painting_by_Numbers"
+      ],
+      "name": "RoboCop 2",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "RoboCop_Versus_The_Terminator": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "RoboCop Versus The Terminator",
+      "publisher": "Interplay_Entertainment",
+      "released": {
+        "month": 8,
+        "sortable": "1994-08-01",
+        "year": 1994
+      }
+    },
+    "Roger_Clemens'_MVP_Baseball": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "Roger Clemens' MVP Baseball",
+      "publisher": "LJN",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Rolan's_Curse": {
+      "developers": [
+        "NMK"
+      ],
+      "name": "Rolan's Curse",
+      "publisher": "Sammy_Corporation",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Rolan's_Curse_2": {
+      "developers": [
+        "NMK"
+      ],
+      "name": "Rolan's Curse 2",
+      "publisher": "Sammy_Corporation",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Samurai_Shodown": {
+      "developers": [
+        "Takara"
+      ],
+      "name": "Samurai Shodown",
+      "publisher": "Takara",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Serpent": {
+      "developers": [
+        "Dual_Corporation"
+      ],
+      "name": "Serpent",
+      "publisher": "Taxan",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Shanghai": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Shanghai",
+      "publisher": "HAL_Laboratory",
+      "released": {
+        "month": 6,
+        "sortable": "1990-06-01",
+        "year": 1990
+      }
+    },
+    "Shaq_Fu": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "Shaq Fu",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 10,
+        "sortable": "1995-10-01",
+        "year": 1995
+      }
+    },
+    "Side_Pocket": {
+      "developers": [
+        "Data_East"
+      ],
+      "name": "Side Pocket",
+      "publisher": "Data_East",
+      "released": {
+        "month": 11,
+        "sortable": "1990-11-01",
+        "year": 1990
+      }
+    },
+    "Skate_or_Die_Bad_'N_Rad": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Skate or Die: Bad 'N Rad",
+      "publisher": "Konami",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "Skate_or_Die_Tour_de_Thrash": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Skate or Die: Tour de Thrash",
+      "publisher": "EA_Sports",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Small_Soldiers": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "Small Soldiers",
+      "publisher": "THQ",
+      "released": {
+        "month": 11,
+        "sortable": "1998-11-01",
+        "year": 1998
+      }
+    },
+    "Sneaky_Snakes": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Sneaky Snakes",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Snoopy's_Magic_Show": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "Snoopy's Magic Show",
+      "publisher": "Kemco",
+      "released": {
+        "month": 10,
+        "sortable": "1990-10-01",
+        "year": 1990
+      }
+    },
+    "Snow_Bros._Jr": {
+      "developers": [
+        "Naxat_Soft"
+      ],
+      "name": "Snow Bros. Jr.",
+      "publisher": "Capcom",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Soccer_Mania": {
+      "developers": [
+        "Kitty_Group"
+      ],
+      "name": "Soccer Mania",
+      "publisher": "Sony_Imagesoft",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Solar_Striker": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Minakuchi_Engineering"
+      ],
+      "name": "Solar Striker",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 2,
+        "sortable": "1990-02-01",
+        "year": 1990
+      }
+    },
+    "Solitaire_FunPak": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Solitaire FunPak",
+      "publisher": "Interplay_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Solomon's_Club": {
+      "developers": [
+        "Graphic_Research"
+      ],
+      "name": "Solomon's Club",
+      "publisher": "Tecmo",
+      "released": {
+        "month": 4,
+        "sortable": "1991-04-01",
+        "year": 1991
+      }
+    },
+    "Space_Invaders_(1994)": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "Space Invaders (1994)",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 10,
+        "sortable": "1994-10-01",
+        "year": 1994
+      }
+    },
+    "Spanky's_Quest": {
+      "developers": [
+        "Natsume"
+      ],
+      "name": "Spanky's Quest",
+      "publisher": "Natsume",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Speedball_2_Brutal_Deluxe": {
+      "developers": [
+        "Spidersoft"
+      ],
+      "name": "Speedball 2: Brutal Deluxe",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Speedy_Gonzales": {
+      "developers": [
+        "Citizen_Software"
+      ],
+      "name": "Speedy Gonzales",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 7,
+        "sortable": "1993-07-01",
+        "year": 1993
+      }
+    },
+    "Spider-Man_3_Invasion_of_the_Spider-Slayers": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Spider-Man 3: Invasion of the Spider-Slayers",
+      "publisher": "LJN",
+      "released": {
+        "month": 7,
+        "sortable": "1993-07-01",
+        "year": 1993
+      }
+    },
+    "Spider-Man_and_the_X-Men_in_Arcade's_Revenge": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "Spider-Man and the X-Men in Arcade's Revenge",
+      "publisher": "LJN",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Sports_Illustrated_Championship_Football_&_Baseball": {
+      "developers": [
+        "Halestorm"
+      ],
+      "name": "Sports Illustrated: Championship Football & Baseball",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Sports_Illustrated_Golf_Classic": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "Sports Illustrated: Golf Classic",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 10,
+        "sortable": "1994-10-01",
+        "year": 1994
+      }
+    },
+    "Sports_Illustrated_for_Kids_The_Ultimate_Triple_Dare!": {
+      "developers": [
+        "Halestorm"
+      ],
+      "name": "Sports Illustrated for Kids: The Ultimate Triple Dare!",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 4,
+        "sortable": "1994-04-01",
+        "year": 1994
+      }
+    },
+    "Spot_The_Cool_Adventure": {
+      "developers": [
+        "Visual_Concepts"
+      ],
+      "name": "Spot: The Cool Adventure",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Spot_The_Video_Game": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "Spot: The Video Game",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Spud's_Adventure": {
+      "developers": [
+        "Atlus"
+      ],
+      "name": "Spud's Adventure",
+      "publisher": "Atlus",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "Spy_vs._Spy_Operation_Boobytrap": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "Spy vs. Spy: Operation Boobytrap",
+      "publisher": "Kemco",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Square_Deal_The_Game_of_Two_Dimensional_Poker": {
+      "developers": [
+        "Hect"
+      ],
+      "name": "Square Deal: The Game of Two Dimensional Poker",
+      "publisher": "DTMC",
+      "released": {
+        "month": 4,
+        "sortable": "1992-04-01",
+        "year": 1992
+      }
+    },
+    "Star_Trek_25th_Anniversary": {
+      "developers": [
+        "Visual_Concepts"
+      ],
+      "name": "Star Trek: 25th Anniversary",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Star_Trek_Generations_Beyond_the_Nexus": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Star Trek Generations: Beyond the Nexus",
+      "publisher": "Absolute_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Star_Trek_The_Next_Generation": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Star Trek: The Next Generation",
+      "publisher": "Absolute_Entertainment",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Star_Wars": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Star Wars",
+      "publisher": "Capcom",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Star_Wars_The_Empire_Strikes_Back": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Star Wars: The Empire Strikes Back",
+      "publisher": "Capcom",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Stargate": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "Stargate",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 12,
+        "sortable": "1994-12-01",
+        "year": 1994
+      }
+    },
+    "Stop_That_Roach!": {
+      "developers": [
+        "Koei"
+      ],
+      "name": "Stop That Roach!",
+      "publisher": "Koei",
+      "released": {
+        "month": 6,
+        "sortable": "1994-06-01",
+        "year": 1994
+      }
+    },
+    "Street_Fighter_II": {
+      "developers": [
+        "Sun_L"
+      ],
+      "name": "Street Fighter II",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 9,
+        "sortable": "1995-09-01",
+        "year": 1995
+      }
+    },
+    "Street_Racer": {
+      "developers": [
+        "Vivid_Image"
+      ],
+      "name": "Street Racer",
+      "publisher": "Ubisoft",
+      "released": {
+        "month": 12,
+        "sortable": "1996-12-01",
+        "year": 1996
+      }
+    },
+    "Sumo_Fighter": {
+      "developers": [
+        "KID"
+      ],
+      "name": "Sumo Fighter",
+      "publisher": "DTMC",
+      "released": {
+        "month": 3,
+        "sortable": "1993-03-01",
+        "year": 1993
+      }
+    },
+    "Super_Battletank_War_in_the_Gulf": {
+      "developers": [
+        "Panoramic_Software",
+        "Eastridge_Technology"
+      ],
+      "name": "Super Battletank: War in the Gulf",
+      "publisher": "Absolute_Entertainment",
+      "released": {
+        "month": 4,
+        "sortable": "1994-04-01",
+        "year": 1994
+      }
+    },
+    "Super_Black_Bass": {
+      "developers": [
+        "Starfish"
+      ],
+      "name": "Super Black Bass",
+      "publisher": "Hot-B",
+      "released": {
+        "month": 11,
+        "sortable": "1998-11-01",
+        "year": 1998
+      }
+    },
+    "Super_Breakout": {
+      "developers": [
+        "Morning_Star_Multimedia"
+      ],
+      "name": "Super Breakout",
+      "publisher": "Majesco_Sales",
+      "released": {
+        "month": 12,
+        "sortable": "1998-12-01",
+        "year": 1998
+      }
+    },
+    "Super_Chase_H.Q": {
+      "developers": [
+        "ITL"
+      ],
+      "name": "Super Chase H.Q.",
+      "publisher": "Taito",
+      "released": {
+        "month": 1,
+        "sortable": "1994-01-01",
+        "year": 1994
+      }
+    },
+    "Super_Hunchback": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "Super Hunchback",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 4,
+        "sortable": "1992-04-01",
+        "year": 1992
+      }
+    },
+    "Super_Mario_Land": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Super Mario Land",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1989-08-01",
+        "year": 1989
+      }
+    },
+    "Super_Mario_Land_2_6_Golden_Coins": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Super Mario Land 2: 6 Golden Coins",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Super_Off_Road": {
+      "developers": [
+        "NMS_Software"
+      ],
+      "name": "Super Off Road",
+      "publisher": "Tradewest",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Super_R.C._Pro-Am": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Super R.C. Pro-Am",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 10,
+        "sortable": "1991-10-01",
+        "year": 1991
+      }
+    },
+    "Super_Scrabble": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Super Scrabble",
+      "publisher": "Milton_Bradley_Company",
+      "released": {
+        "month": 3,
+        "sortable": "1991-03-01",
+        "year": 1991
+      }
+    },
+    "Super_Star_Wars_Return_of_the_Jedi": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Super Star Wars: Return of the Jedi",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1995-11-01",
+        "year": 1995
+      }
+    },
+    "Superman": {
+      "developers": [
+        "Titus_Software"
+      ],
+      "name": "Superman",
+      "publisher": "Titus_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1997-12-01",
+        "year": 1997
+      }
+    },
+    "Swamp_Thing": {
+      "developers": [
+        "Equilibrium"
+      ],
+      "name": "Swamp Thing",
+      "publisher": "THQ",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "T2_The_Arcade_Game": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "T2: The Arcade Game",
+      "publisher": "LJN",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "Tail_'Gator": {
+      "developers": [
+        "Natsume"
+      ],
+      "name": "Tail 'Gator",
+      "publisher": "Natsume",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "TaleSpin": {
+      "developers": [
+        "Dual_Corporation"
+      ],
+      "name": "TaleSpin",
+      "publisher": "Capcom",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Tamagotchi": {
+      "developers": [
+        "Tom_Create"
+      ],
+      "name": "Tamagotchi",
+      "publisher": "Bandai",
+      "released": {
+        "month": 10,
+        "sortable": "1997-10-01",
+        "year": 1997
+      }
+    },
+    "Tarzan_Lord_of_the_Jungle": {
+      "developers": [
+        "Eurocom"
+      ],
+      "name": "Tarzan: Lord of the Jungle",
+      "publisher": "GameTek",
+      "released": {
+        "month": 10,
+        "sortable": "1994-10-01",
+        "year": 1994
+      }
+    },
+    "Tasmania_Story": {
+      "developers": [
+        "Pony_Canyon"
+      ],
+      "name": "Tasmania Story",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 4,
+        "sortable": "1991-04-01",
+        "year": 1991
+      }
+    },
+    "Taz-Mania": {
+      "developers": [
+        "David_A._Palmer_Productions"
+      ],
+      "name": "Taz-Mania",
+      "publisher": "Sunsoft",
+      "released": {
+        "month": 9,
+        "sortable": "1994-09-01",
+        "year": 1994
+      }
+    },
+    "Taz-Mania_2": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Taz-Mania 2",
+      "publisher": "THQ",
+      "released": {
+        "month": 1,
+        "sortable": "1997-01-01",
+        "year": 1997
+      }
+    },
+    "Tecmo_Bowl": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "Tecmo Bowl",
+      "publisher": "Tecmo",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "Teenage_Mutant_Ninja_Turtles_Fall_of_the_Foot_Clan": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Teenage Mutant Ninja Turtles: Fall of the Foot Clan",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 8,
+        "sortable": "1990-08-01",
+        "year": 1990
+      }
+    },
+    "Teenage_Mutant_Ninja_Turtles_III_Radical_Rescue": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Teenage Mutant Ninja Turtles III: Radical Rescue",
+      "publisher": "Konami",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Teenage_Mutant_Ninja_Turtles_II_Back_from_the_Sewers": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
+      "publisher": "Konami",
+      "released": {
+        "month": 12,
+        "sortable": "1991-12-01",
+        "year": 1991
+      }
+    },
+    "Tennis": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Intelligent_Systems"
+      ],
+      "name": "Tennis",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1989-08-01",
+        "year": 1989
+      }
+    },
+    "Terminator_2_Judgement_Day": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "Terminator 2: Judgement Day",
+      "publisher": "LJN",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "Tesserae": {
+      "developers": [
+        "Eurocom"
+      ],
+      "name": "Tesserae",
+      "publisher": "GameTek",
+      "released": {
+        "month": 8,
+        "sortable": "1993-08-01",
+        "year": 1993
+      }
+    },
+    "Tetris": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Tetris",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1989-08-01",
+        "year": 1989
+      }
+    },
+    "Tetris_2": {
+      "developers": [
+        "Nintendo_R&D1",
+        "Tose"
+      ],
+      "name": "Tetris 2",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 12,
+        "sortable": "1993-12-01",
+        "year": 1993
+      }
+    },
+    "Tetris_Attack": {
+      "developers": [
+        "Intelligent_Systems"
+      ],
+      "name": "Tetris Attack",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1996-08-01",
+        "year": 1996
+      }
+    },
+    "Tetris_Blast": {
+      "developers": [
+        "Blue_Planet_Software",
+        "Tose"
+      ],
+      "name": "Tetris Blast",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 1,
+        "sortable": "1996-01-01",
+        "year": 1996
+      }
+    },
+    "Tetris_Plus": {
+      "developers": [
+        "Natsume"
+      ],
+      "name": "Tetris Plus",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 8,
+        "sortable": "1997-08-01",
+        "year": 1997
+      }
+    },
+    "The_Addams_Family": {
+      "developers": [
+        "Ocean_Software"
+      ],
+      "name": "The Addams Family",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 1,
+        "sortable": "1992-01-01",
+        "year": 1992
+      }
+    },
+    "The_Addams_Family_Pugsley's_Scavenger_Hunt": {
+      "developers": [
+        "Enigma_Variations"
+      ],
+      "name": "The Addams Family: Pugsley's Scavenger Hunt",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 7,
+        "sortable": "1993-07-01",
+        "year": 1993
+      }
+    },
+    "The_Adventures_of_Rocky_and_Bullwinkle_and_Friends": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "The Adventures of Rocky and Bullwinkle and Friends",
+      "publisher": "THQ",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "The_Adventures_of_Star_Saver": {
+      "developers": [
+        "A-Wave"
+      ],
+      "name": "The Adventures of Star Saver",
+      "publisher": "Taito",
+      "released": {
+        "month": 3,
+        "sortable": "1992-03-01",
+        "year": 1992
+      }
+    },
+    "The_Amazing_Spider-Man": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "The Amazing Spider-Man",
+      "publisher": "LJN",
+      "released": {
+        "month": 7,
+        "sortable": "1990-07-01",
+        "year": 1990
+      }
+    },
+    "The_Amazing_Spider-Man_2": {
+      "developers": [
+        "Bits_Studios"
+      ],
+      "name": "The Amazing Spider-Man 2",
+      "publisher": "LJN",
+      "released": {
+        "month": 8,
+        "sortable": "1992-08-01",
+        "year": 1992
+      }
+    },
+    "The_Blues_Brothers": {
+      "developers": [
+        "Titus_Software"
+      ],
+      "name": "The Blues Brothers",
+      "publisher": "Titus_Software",
+      "released": {
+        "month": 6,
+        "sortable": "1992-06-01",
+        "year": 1992
+      }
+    },
+    "The_Bugs_Bunny_Crazy_Castle": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "The Bugs Bunny Crazy Castle",
+      "publisher": "Kemco",
+      "released": {
+        "month": 3,
+        "sortable": "1990-03-01",
+        "year": 1990
+      }
+    },
+    "The_Bugs_Bunny_Crazy_Castle_2": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "The Bugs Bunny Crazy Castle 2",
+      "publisher": "Kemco",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "The_Chessmaster": {
+      "developers": [
+        "Park_Place_Productions"
+      ],
+      "name": "The Chessmaster",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 1,
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "The_Fidgetts": {
+      "developers": [
+        "Game_Over"
+      ],
+      "name": "The Fidgetts",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 10,
+        "sortable": "1997-10-01",
+        "year": 1997
+      }
+    },
+    "The_Final_Fantasy_Legend": {
+      "developers": [
+        "Square"
+      ],
+      "name": "The Final Fantasy Legend",
+      "publisher": "Square",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "The_Flash": {
+      "developers": [
+        "Equilibrium"
+      ],
+      "name": "The Flash",
+      "publisher": "THQ",
+      "released": {
+        "month": 3,
+        "sortable": "1992-03-01",
+        "year": 1992
+      }
+    },
+    "The_Flintstones": {
+      "developers": [
+        "Twilight"
+      ],
+      "name": "The Flintstones",
+      "publisher": "Ocean_Software",
+      "released": {
+        "month": 12,
+        "sortable": "1994-12-01",
+        "year": 1994
+      }
+    },
+    "The_Flintstones_King_Rock_Treasure_Island": {
+      "developers": [
+        "Taito"
+      ],
+      "name": "The Flintstones: King Rock Treasure Island",
+      "publisher": "Taito",
+      "released": {
+        "month": 2,
+        "sortable": "1993-02-01",
+        "year": 1993
+      }
+    },
+    "The_Game_of_Harmony": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "The Game of Harmony",
+      "publisher": "Accolade",
+      "released": {
+        "month": 2,
+        "sortable": "1991-02-01",
+        "year": 1991
+      }
+    },
+    "The_Getaway_High_Speed_II": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "The Getaway: High Speed II",
+      "publisher": "WMS_Industries",
+      "released": {
+        "month": 12,
+        "sortable": "1995-12-01",
+        "year": 1995
+      }
+    },
+    "The_Humans": {
+      "developers": [
+        "Imagitec_Design"
+      ],
+      "name": "The Humans",
+      "publisher": "GameTek",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "The_Hunchback_of_Notre_Dame": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "The Hunchback of Notre Dame",
+      "publisher": "THQ",
+      "released": {
+        "month": 3,
+        "sortable": "1997-03-01",
+        "year": 1997
+      }
+    },
+    "The_Hunt_for_Red_October": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "The Hunt for Red October",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 5,
+        "sortable": "1991-05-01",
+        "year": 1991
+      }
+    },
+    "The_Incredible_Crash_Dummies": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "The Incredible Crash Dummies",
+      "publisher": "LJN",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "The_Jetsons_Robot_Panic": {
+      "developers": [
+        "Act_Japan"
+      ],
+      "name": "The Jetsons: Robot Panic",
+      "publisher": "Taito",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "The_Jungle_Book": {
+      "developers": [
+        "Eurocom"
+      ],
+      "name": "The Jungle Book",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 8,
+        "sortable": "1994-08-01",
+        "year": 1994
+      }
+    },
+    "The_King_of_Fighters_'95": {
+      "developers": [
+        "Gaibrain"
+      ],
+      "name": "The King of Fighters '95",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 2,
+        "sortable": "1997-02-01",
+        "year": 1997
+      }
+    },
+    "The_Legend_of_Zelda_Link's_Awakening": {
+      "developers": [
+        "Nintendo_EAD"
+      ],
+      "name": "The Legend of Zelda: Link's Awakening",
+      "publisher": "Nintendo",
+      "released": {
+        "day": 6,
+        "month": 8,
+        "sortable": "1993-08-06",
+        "year": 1993
+      }
+    },
+    "The_Lion_King": {
+      "developers": [
+        "Dark_Technologies"
+      ],
+      "name": "The Lion King",
+      "publisher": "Virgin_Interactive",
+      "released": {
+        "month": 4,
+        "sortable": "1995-04-01",
+        "year": 1995
+      }
+    },
+    "The_Little_Mermaid": {
+      "developers": [
+        "Great"
+      ],
+      "name": "The Little Mermaid",
+      "publisher": "Capcom",
+      "released": {
+        "month": 2,
+        "sortable": "1993-02-01",
+        "year": 1993
+      }
+    },
+    "The_Lost_World_Jurassic_Park": {
+      "developers": [
+        "Torus_Games"
+      ],
+      "name": "The Lost World: Jurassic Park",
+      "publisher": "THQ",
+      "released": {
+        "month": 12,
+        "sortable": "1997-12-01",
+        "year": 1997
+      }
+    },
+    "The_New_Chessmaster": {
+      "developers": [
+        "Park_Place_Productions"
+      ],
+      "name": "The New Chessmaster",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "The_Pagemaster": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "The Pagemaster",
+      "publisher": "Fox_Interactive",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "The_Punisher_The_Ultimate_Payback": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "The Punisher: The Ultimate Payback",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 7,
+        "sortable": "1991-07-01",
+        "year": 1991
+      }
+    },
+    "The_Real_Ghostbusters": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "The Real Ghostbusters",
+      "publisher": "Activision",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "The_Ren_&_Stimpy_Show_Space_Cadet_Adventures": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "The Ren & Stimpy Show: Space Cadet Adventures",
+      "publisher": "THQ",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "The_Ren_&_Stimpy_Show_Veediots!": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "The Ren & Stimpy Show: Veediots!",
+      "publisher": "THQ",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "The_Rugrats_Movie": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "The Rugrats Movie",
+      "publisher": "THQ",
+      "released": {
+        "month": 12,
+        "sortable": "1998-12-01",
+        "year": 1998
+      }
+    },
+    "The_Simpsons_Bart_&_the_Beanstalk": {
+      "developers": [
+        "Software_Creations"
+      ],
+      "name": "The Simpsons: Bart & the Beanstalk",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "The_Simpsons_Bart_vs._The_Juggernauts": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "The Simpsons: Bart vs. The Juggernauts",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "The_Simpsons_Itchy_&_Scratchy_in_Miniature_Golf_Madness": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "The Simpsons: Itchy & Scratchy in Miniature Golf Madness",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "The_Smurfs": {
+      "developers": [
+        "Bit_Managers"
+      ],
+      "name": "The Smurfs",
+      "publisher": "Infogrames",
+      "released": {
+        "month": 10,
+        "sortable": "1998-10-01",
+        "year": 1998
+      }
+    },
+    "The_Sword_of_Hope": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "The Sword of Hope",
+      "publisher": "Seika",
+      "released": {
+        "month": 6,
+        "sortable": "1991-06-01",
+        "year": 1991
+      }
+    },
+    "The_Sword_of_Hope_II": {
+      "developers": [
+        "Kemco"
+      ],
+      "name": "The Sword of Hope II",
+      "publisher": "Kemco",
+      "released": {
+        "month": 9,
+        "sortable": "1996-09-01",
+        "year": 1996
+      }
+    },
+    "Tiny_Toon_Adventures_2_Montana's_Movie_Madness": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Tiny Toon Adventures 2: Montana's Movie Madness",
+      "publisher": "Konami",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "Tiny_Toon_Adventures_Babs'_Big_Break": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Tiny Toon Adventures: Babs' Big Break",
+      "publisher": "Konami",
+      "released": {
+        "month": 2,
+        "sortable": "1992-02-01",
+        "year": 1992
+      }
+    },
+    "Tiny_Toon_Adventures_Wacky_Sports": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Tiny Toon Adventures: Wacky Sports",
+      "publisher": "Konami",
+      "released": {
+        "month": 12,
+        "sortable": "1994-12-01",
+        "year": 1994
+      }
+    },
+    "Titus_the_Fox": {
+      "developers": [
+        "Aqua_Pacific"
+      ],
+      "name": "Titus the Fox",
+      "publisher": "Titus_Software",
+      "released": {
+        "month": 6,
+        "sortable": "1993-06-01",
+        "year": 1993
+      }
+    },
+    "Tom_&_Jerry": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Tom & Jerry",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Tom_and_Jerry_Frantic_Antics": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "Tom and Jerry: Frantic Antics",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Top_Gun_Guts_and_Glory": {
+      "developers": [
+        "Distinctive_Software"
+      ],
+      "name": "Top Gun: Guts and Glory",
+      "publisher": "Konami",
+      "released": {
+        "month": 1,
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Top_Rank_Tennis": {
+      "developers": [
+        "Pax_Softnica"
+      ],
+      "name": "Top Rank Tennis",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 5,
+        "sortable": "1993-05-01",
+        "year": 1993
+      }
+    },
+    "Torpedo_Range": {
+      "developers": [
+        "SETA_Corporation"
+      ],
+      "name": "Torpedo Range",
+      "publisher": "SETA_Corporation",
+      "released": {
+        "month": 11,
+        "sortable": "1996-11-01",
+        "year": 1996
+      }
+    },
+    "Total_Carnage": {
+      "developers": [
+        "Midway_Games"
+      ],
+      "name": "Total Carnage",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "Toxic_Crusaders": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Toxic Crusaders",
+      "publisher": "Bandai",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Toy_Story": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "Toy Story",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 5,
+        "sortable": "1996-05-01",
+        "year": 1996
+      }
+    },
+    "Track_&_Field": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Track & Field",
+      "publisher": "Konami",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Track_Meet": {
+      "developers": [
+        "Interplay_Entertainment"
+      ],
+      "name": "Track Meet",
+      "publisher": "Interplay_Entertainment",
+      "released": {
+        "sortable": "1991-01-01",
+        "year": 1991
+      }
+    },
+    "Trax": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Trax",
+      "publisher": "Electro_Brain",
+      "released": {
+        "month": 9,
+        "sortable": "1991-09-01",
+        "year": 1991
+      }
+    },
+    "True_Lies": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "True Lies",
+      "publisher": "LJN",
+      "released": {
+        "month": 2,
+        "sortable": "1995-02-01",
+        "year": 1995
+      }
+    },
+    "Tumblepop": {
+      "developers": [
+        "Data_East"
+      ],
+      "name": "Tumblepop",
+      "publisher": "Data_East",
+      "released": {
+        "month": 3,
+        "sortable": "1993-03-01",
+        "year": 1993
+      }
+    },
+    "Turn_and_Burn_The_F-14_Dogfight_Simulator": {
+      "developers": [
+        "Imagineering"
+      ],
+      "name": "Turn and Burn: The F-14 Dogfight Simulator",
+      "publisher": "Absolute_Entertainment",
+      "released": {
+        "month": 5,
+        "sortable": "1992-05-01",
+        "year": 1992
+      }
+    },
+    "Turok_Battle_of_the_Bionosaurs": {
+      "developers": [
+        "Bit_Managers"
+      ],
+      "name": "Turok: Battle of the Bionosaurs",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 12,
+        "sortable": "1997-12-01",
+        "year": 1997
+      }
+    },
+    "Turrican": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Turrican",
+      "publisher": "Accolade",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "Ultima_Runes_of_Virtue": {
+      "developers": [
+        "Origin_Systems"
+      ],
+      "name": "Ultima: Runes of Virtue",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Ultima_Runes_of_Virtue_II": {
+      "developers": [
+        "Origin_Systems"
+      ],
+      "name": "Ultima: Runes of Virtue II",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 3,
+        "sortable": "1994-03-01",
+        "year": 1994
+      }
+    },
+    "Ultra_Golf": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Ultra Golf",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 3,
+        "sortable": "1992-03-01",
+        "year": 1992
+      }
+    },
+    "Universal_Soldier": {
+      "developers": [
+        "Code_Monkeys_Ltd"
+      ],
+      "name": "Universal Soldier",
+      "publisher": "Accolade",
+      "released": {
+        "month": 12,
+        "sortable": "1992-12-01",
+        "year": 1992
+      }
+    },
+    "Urban_Strike": {
+      "developers": [
+        "Borta"
+      ],
+      "name": "Urban Strike",
+      "publisher": "Black_Pearl_Software",
+      "released": {
+        "month": 11,
+        "sortable": "1996-11-01",
+        "year": 1996
+      }
+    },
+    "Vegas_Stakes": {
+      "developers": [
+        "HAL_Laboratory"
+      ],
+      "name": "Vegas Stakes",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 12,
+        "sortable": "1995-12-01",
+        "year": 1995
+      }
+    },
+    "WCW_World_Championship_Wrestling_The_Main_Event": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "WCW World Championship Wrestling: The Main Event",
+      "publisher": "Fujisankei_Communications_International",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "WWF_King_of_the_Ring": {
+      "developers": [
+        "Eastridge_Technology"
+      ],
+      "name": "WWF King of the Ring",
+      "publisher": "LJN",
+      "released": {
+        "month": 9,
+        "sortable": "1993-09-01",
+        "year": 1993
+      }
+    },
+    "WWF_Raw": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "WWF Raw",
+      "publisher": "LJN",
+      "released": {
+        "month": 9,
+        "sortable": "1994-09-01",
+        "year": 1994
+      }
+    },
+    "WWF_Superstars": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "WWF Superstars",
+      "publisher": "LJN",
+      "released": {
+        "month": 4,
+        "sortable": "1991-04-01",
+        "year": 1991
+      }
+    },
+    "WWF_Superstars_2": {
+      "developers": [
+        "Sculptured_Software"
+      ],
+      "name": "WWF Superstars 2",
+      "publisher": "LJN",
+      "released": {
+        "month": 8,
+        "sortable": "1992-08-01",
+        "year": 1992
+      }
+    },
+    "WWF_War_Zone": {
+      "developers": [
+        "Acclaim_Cheltenham"
+      ],
+      "name": "WWF War Zone",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 6,
+        "sortable": "1998-06-01",
+        "year": 1998
+      }
+    },
+    "Wario_Blast_Featuring_Bomberman!": {
+      "developers": [
+        "A.I_Company"
+      ],
+      "name": "Wario Blast: Featuring Bomberman!",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    },
+    "Wario_Land_II": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Wario Land II",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 3,
+        "sortable": "1998-03-01",
+        "year": 1998
+      }
+    },
+    "Wario_Land_Super_Mario_Land_3": {
+      "developers": [
+        "Nintendo_R&D1"
+      ],
+      "name": "Wario Land: Super Mario Land 3",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 2,
+        "sortable": "1994-02-01",
+        "year": 1994
+      }
+    },
+    "Wave_Race": {
+      "developers": [
+        "Pax_Softnica",
+        "Nintendo_EAD"
+      ],
+      "name": "Wave Race",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Wayne's_World": {
+      "developers": [
+        "Radical_Entertainment"
+      ],
+      "name": "Wayne's World",
+      "publisher": "THQ",
+      "released": {
+        "month": 11,
+        "sortable": "1993-11-01",
+        "year": 1993
+      }
+    },
+    "We're_Back!_A_Dinosaur's_Story": {
+      "developers": [
+        "Beam_Software"
+      ],
+      "name": "We're Back! A Dinosaur's Story",
+      "publisher": "Hi_Tech_Expressions",
+      "released": {
+        "month": 10,
+        "sortable": "1993-10-01",
+        "year": 1993
+      }
+    },
+    "Wheel_of_Fortune": {
+      "developers": [
+        "Data_Design_Interactive"
+      ],
+      "name": "Wheel of Fortune",
+      "publisher": "GameTek",
+      "released": {
+        "month": 9,
+        "sortable": "1990-09-01",
+        "year": 1990
+      }
+    },
+    "Who_Framed_Roger_Rabbit": {
+      "developers": [
+        "Capcom"
+      ],
+      "name": "Who Framed Roger Rabbit",
+      "publisher": "Capcom",
+      "released": {
+        "month": 11,
+        "sortable": "1991-11-01",
+        "year": 1991
+      }
+    },
+    "WildSnake": {
+      "developers": [
+        "Blue_Planet_Software"
+      ],
+      "name": "WildSnake",
+      "publisher": "Spectrum_HoloByte",
+      "released": {
+        "month": 9,
+        "sortable": "1994-09-01",
+        "year": 1994
+      }
+    },
+    "Winter_Olympic_Games_Lillehammer_'94": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "Winter Olympic Games: Lillehammer '94",
+      "publisher": "U.S._Gold",
+      "released": {
+        "month": 1,
+        "sortable": "1994-01-01",
+        "year": 1994
+      }
+    },
+    "Wizards_&_Warriors_X_The_Fortress_of_Fear": {
+      "developers": [
+        "Rare"
+      ],
+      "name": "Wizards & Warriors X: The Fortress of Fear",
+      "publisher": "Acclaim_Entertainment",
+      "released": {
+        "month": 1,
+        "sortable": "1990-01-01",
+        "year": 1990
+      }
+    },
+    "WordZap": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "WordZap",
+      "publisher": "Jaleco",
+      "released": {
+        "month": 9,
+        "sortable": "1992-09-01",
+        "year": 1992
+      }
+    },
+    "Wordtris": {
+      "developers": [
+        "Realtime_Associates"
+      ],
+      "name": "Wordtris",
+      "publisher": "Spectrum_HoloByte",
+      "released": {
+        "month": 11,
+        "sortable": "1992-11-01",
+        "year": 1992
+      }
+    },
+    "World_Bowling": {
+      "developers": [
+        "Athena"
+      ],
+      "name": "World Bowling",
+      "publisher": "Romstar",
+      "released": {
+        "month": 4,
+        "sortable": "1990-04-01",
+        "year": 1990
+      }
+    },
+    "World_Circuit_Series": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "World Circuit Series",
+      "publisher": "Ultra_Games",
+      "released": {
+        "month": 3,
+        "sortable": "1992-03-01",
+        "year": 1992
+      }
+    },
+    "World_Cup_98": {
+      "developers": [
+        "Tiertex_Design_Studios"
+      ],
+      "name": "World Cup 98",
+      "publisher": "THQ",
+      "released": {
+        "month": 6,
+        "sortable": "1998-06-01",
+        "year": 1998
+      }
+    },
+    "World_Heroes_2_Jet": {
+      "developers": [
+        "Takara"
+      ],
+      "name": "World Heroes 2 Jet",
+      "publisher": "Takara",
+      "released": {
+        "month": 8,
+        "sortable": "1995-08-01",
+        "year": 1995
+      }
+    },
+    "Xenon_2_Megablast": {
+      "developers": [
+        "Teeny_Weeny_Games"
+      ],
+      "name": "Xenon 2 Megablast",
+      "publisher": "Mindscape",
+      "released": {
+        "month": 10,
+        "sortable": "1992-10-01",
+        "year": 1992
+      }
+    },
+    "Yogi_Bear's_Gold_Rush": {
+      "developers": [
+        "Twilight"
+      ],
+      "name": "Yogi Bear's Gold Rush",
+      "publisher": "GameTek",
+      "released": {
+        "month": 10,
+        "sortable": "1994-10-01",
+        "year": 1994
+      }
+    },
+    "Yoshi": {
+      "developers": [
+        "Game_Freak"
+      ],
+      "name": "Yoshi",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 7,
+        "sortable": "1992-07-01",
+        "year": 1992
+      }
+    },
+    "Yoshi's_Cookie": {
+      "developers": [
+        "Tose"
+      ],
+      "name": "Yoshi's Cookie",
+      "publisher": "Nintendo",
+      "released": {
+        "month": 4,
+        "sortable": "1993-04-01",
+        "year": 1993
+      }
+    },
+    "Zen_Intergalactic_Ninja": {
+      "developers": [
+        "Konami"
+      ],
+      "name": "Zen: Intergalactic Ninja",
+      "publisher": "Konami",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Zool_Ninja_of_the_Nth_Dimension": {
+      "developers": [
+        "Gremlin_Graphics"
+      ],
+      "name": "Zool: Ninja of the \"Nth\" Dimension",
+      "publisher": "GameTek",
+      "released": {
+        "sortable": "1993-01-01",
+        "year": 1993
+      }
+    },
+    "Zoop": {
+      "developers": [
+        "Hookstone"
+      ],
+      "name": "Zoop",
+      "publisher": "Viacom_New_Media",
+      "released": {
+        "month": 11,
+        "sortable": "1995-11-01",
+        "year": 1995
+      }
+    },
+    "seaQuest_DSV": {
+      "developers": [
+        "Unexpected_Development"
+      ],
+      "name": "seaQuest DSV",
+      "publisher": "Malibu_Games",
+      "released": {
+        "month": 11,
+        "sortable": "1994-11-01",
+        "year": 1994
+      }
+    }
+  },
+  "guid": "us",
+  "name": "North American"
+}

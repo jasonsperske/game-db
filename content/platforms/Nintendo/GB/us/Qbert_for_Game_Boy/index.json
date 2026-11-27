@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Realtime_Associates"
+  ],
+  "guid": "Qbert_for_Game_Boy",
+  "name": "Q*bert for Game Boy",
+  "publisher": "Jaleco",
+  "released": {
+    "month": 2,
+    "sortable": "1992-02-01",
+    "year": 1992
+  }
+}

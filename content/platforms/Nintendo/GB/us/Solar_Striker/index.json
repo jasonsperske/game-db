@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Nintendo_R&D1",
+    "Minakuchi_Engineering"
+  ],
+  "guid": "Solar_Striker",
+  "name": "Solar Striker",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 2,
+    "sortable": "1990-02-01",
+    "year": 1990
+  }
+}

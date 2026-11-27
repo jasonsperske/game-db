@@ -1,0 +1,9 @@
+{
+  "guid": "GB",
+  "name": "Game Boy",
+  "regions": {
+    "us": {
+      "name": "North American"
+    }
+  }
+}

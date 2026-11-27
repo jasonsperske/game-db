@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Software_Creations"
+  ],
+  "guid": "The_Rugrats_Movie",
+  "name": "The Rugrats Movie",
+  "publisher": "THQ",
+  "released": {
+    "month": 12,
+    "sortable": "1998-12-01",
+    "year": 1998
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "guid": "Batman_The_Animated_Series",
+  "name": "Batman: The Animated Series",
+  "publisher": "Konami",
+  "released": {
+    "month": 11,
+    "sortable": "1993-11-01",
+    "year": 1993
+  }
+}

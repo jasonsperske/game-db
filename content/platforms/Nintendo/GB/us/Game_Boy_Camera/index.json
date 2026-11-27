@@ -1,0 +1,16 @@
+{
+  "developers": [
+    "Creatures_Inc",
+    "Nintendo",
+    "Jupiter"
+  ],
+  "guid": "Game_Boy_Camera",
+  "name": "Game Boy Camera",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 1,
+    "month": 6,
+    "sortable": "1998-06-01",
+    "year": 1998
+  }
+}

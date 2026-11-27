@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Nintendo_R&D1"
+  ],
+  "guid": "Tetris",
+  "name": "Tetris",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 8,
+    "sortable": "1989-08-01",
+    "year": 1989
+  }
+}

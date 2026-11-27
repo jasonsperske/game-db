@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Nintendo_R&D1",
+    "Intelligent_Systems"
+  ],
+  "guid": "Tennis",
+  "name": "Tennis",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 8,
+    "sortable": "1989-08-01",
+    "year": 1989
+  }
+}

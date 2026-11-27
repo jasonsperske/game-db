@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "A.I_Company"
+  ],
+  "guid": "Felix_the_Cat",
+  "name": "Felix the Cat",
+  "publisher": "Hudson_Soft",
+  "released": {
+    "month": 7,
+    "sortable": "1993-07-01",
+    "year": 1993
+  }
+}

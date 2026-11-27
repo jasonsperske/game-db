@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NMS_Software"
+  ],
+  "guid": "Indiana_Jones_and_the_Last_Crusade",
+  "name": "Indiana Jones and the Last Crusade",
+  "publisher": "Ubisoft",
+  "released": {
+    "month": 7,
+    "sortable": "1994-07-01",
+    "year": 1994
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Technos_Japan"
+  ],
+  "guid": "Nintendo_World_Cup",
+  "name": "Nintendo World Cup",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 6,
+    "sortable": "1991-06-01",
+    "year": 1991
+  }
+}

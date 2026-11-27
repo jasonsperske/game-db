@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Pax_Softnica",
+    "Nintendo_EAD"
+  ],
+  "guid": "Wave_Race",
+  "name": "Wave Race",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 7,
+    "sortable": "1992-07-01",
+    "year": 1992
+  }
+}

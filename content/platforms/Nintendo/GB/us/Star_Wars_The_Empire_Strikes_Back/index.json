@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NMS_Software"
+  ],
+  "guid": "Star_Wars_The_Empire_Strikes_Back",
+  "name": "Star Wars: The Empire Strikes Back",
+  "publisher": "Capcom",
+  "released": {
+    "month": 1,
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

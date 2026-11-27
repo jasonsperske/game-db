@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "guid": "Final_Fantasy_Legend_II",
+  "name": "Final Fantasy Legend II",
+  "publisher": "Square",
+  "released": {
+    "month": 11,
+    "sortable": "1991-11-01",
+    "year": 1991
+  }
+}

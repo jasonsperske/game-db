@@ -2,6 +2,9 @@
   "2K_Czech": {
     "name": "Illusion Softworks"
   },
+  "A-Wave": {
+    "name": "A-Wave"
+  },
   "A.I_Company": {
     "name": "A.I Company"
   },
@@ -16,6 +19,9 @@
   },
   "ASC_Games": {
     "name": "American Softworks"
+  },
+  "ASK_Kodansha": {
+    "name": "ASK Kodansha"
   },
   "AV_Artisan": {
     "name": "AV Artisan"
@@ -40,6 +46,9 @@
   },
   "Acme_Interactive": {
     "name": "Acme Interactive"
+  },
+  "Act_Japan": {
+    "name": "Act Japan"
   },
   "Activision": {
     "name": "Activision"
@@ -92,6 +101,9 @@
   "Appaloosa_Interactive": {
     "name": "Appaloosa Interactive"
   },
+  "Aqua_Pacific": {
+    "name": "Aqua Pacific"
+  },
   "Arc_Developments": {
     "name": "Arc Developments"
   },
@@ -121,6 +133,9 @@
   },
   "Aspect": {
     "name": "Aspect"
+  },
+  "Asuka_Technologies": {
+    "name": "Asuka Technologies"
   },
   "Atari": {
     "name": "Atari"
@@ -179,6 +194,12 @@
   "Binary_Systems": {
     "name": "Binary Systems"
   },
+  "Bit2": {
+    "name": "Bit2"
+  },
+  "Bit_Managers": {
+    "name": "Bit Managers"
+  },
   "Bitmap_Brothers": {
     "name": "Bitmap Brothers"
   },
@@ -211,6 +232,12 @@
   },
   "Blue_Planet_Software": {
     "name": "Bullet-Proof Software"
+  },
+  "Bonsai_Entertainment": {
+    "name": "Bonsai Entertainment"
+  },
+  "Borta": {
+    "name": "Borta"
   },
   "Brian_A._Rice,_Inc": {
     "name": "Brian A. Rice, Inc."
@@ -251,6 +278,9 @@
   "Cirque_Verte": {
     "name": "Cirque Verte"
   },
+  "Citizen_Software": {
+    "name": "Citizen Software"
+  },
   "Climax": {
     "name": "Climax"
   },
@@ -290,6 +320,9 @@
   "Creative_Software_Designs": {
     "name": "Creative Software Designs"
   },
+  "Creatures_Inc": {
+    "name": "Creatures Inc."
+  },
   "Crosstalk": {
     "name": "Crosstalk"
   },
@@ -317,8 +350,17 @@
   "Daiei_Seisakusho": {
     "name": "Daiei Seisakusho"
   },
+  "Dark_Technologies": {
+    "name": "Dark Technologies"
+  },
+  "Data_Design_Interactive": {
+    "name": "Data Design Interactive"
+  },
   "Data_East": {
     "name": "Data East"
+  },
+  "David_A._Palmer_Productions": {
+    "name": "David A. Palmer Productions"
   },
   "David_Crane": {
     "name": "David Crane"
@@ -331,6 +373,9 @@
   },
   "Delphine_Software_International": {
     "name": "Delphine Software International"
+  },
+  "Denton_Designs": {
+    "name": "Denton Designs"
   },
   "Designer_Software": {
     "name": "Designer Software"
@@ -419,6 +464,9 @@
   "Enigma_Variations": {
     "name": "Enigma Variations"
   },
+  "Epoch": {
+    "name": "Epoch"
+  },
   "Epyx": {
     "name": "Epyx"
   },
@@ -488,6 +536,9 @@
   "Game_Freak": {
     "name": "Game Freak"
   },
+  "Game_Over": {
+    "name": "Game Over"
+  },
   "Game_Refuge": {
     "name": "Game Refuge"
   },
@@ -515,6 +566,9 @@
   "Gray_Matter_Inc": {
     "name": "Gray Matter Inc."
   },
+  "Great": {
+    "name": "Great"
+  },
   "Gremlin_Graphics": {
     "name": "Gremlin Graphics"
   },
@@ -523,6 +577,9 @@
   },
   "HAL_Laboratory": {
     "name": "HAL Laboratory"
+  },
+  "Halestorm": {
+    "name": "Halestorm"
   },
   "Headgames": {
     "name": "Headgames"
@@ -565,6 +622,9 @@
   },
   "Human_Entertainment": {
     "name": "Human Entertainment"
+  },
+  "Hyperware": {
+    "name": "Hyperware"
   },
   "ICOM_Simulations": {
     "name": "ICOM Simulations"
@@ -653,6 +713,9 @@
   "Jorudan": {
     "name": "Jorudan"
   },
+  "Jupiter": {
+    "name": "Jupiter"
+  },
   "KAZe": {
     "name": "KAZe"
   },
@@ -670,6 +733,12 @@
   },
   "Kemco": {
     "name": "Kemco"
+  },
+  "Kitty_Group": {
+    "name": "Kitty Group"
+  },
+  "Kodansha": {
+    "name": "Kodansha"
   },
   "Koei": {
     "name": "Koei"
@@ -704,6 +773,9 @@
   "Locomotive_Corporation": {
     "name": "Locomotive Corporation"
   },
+  "Locus": {
+    "name": "Locus"
+  },
   "Looking_Glass_Technology": {
     "name": "Looking Glass Technology"
   },
@@ -719,8 +791,17 @@
   "M2": {
     "name": "M2"
   },
+  "MICROS": {
+    "name": "MICROS"
+  },
   "Magical": {
     "name": "Magical"
+  },
+  "Magnin_and_Associates": {
+    "name": "Magnin and Associates"
+  },
+  "Majesco": {
+    "name": "Majesco"
   },
   "Make_Software": {
     "name": "Make Software"
@@ -773,6 +854,9 @@
   "Microsmiths": {
     "name": "Microsmiths"
   },
+  "Midway_Games": {
+    "name": "Midway Games"
+  },
   "Millennium_Interactive": {
     "name": "Millennium Interactive"
   },
@@ -809,6 +893,9 @@
   "Mutant_Productions": {
     "name": "Mutant Productions"
   },
+  "Mutech": {
+    "name": "Mutech"
+  },
   "NCS": {
     "name": "NCS"
   },
@@ -820,6 +907,9 @@
   },
   "Namco": {
     "name": "Namco"
+  },
+  "Natsu_System": {
+    "name": "Natsu System"
   },
   "Natsume": {
     "name": "Natsume"
@@ -845,6 +935,9 @@
   "Newtopia_Planning": {
     "name": "Newtopia Planning"
   },
+  "Nexoft": {
+    "name": "Nexoft"
+  },
   "Nextech": {
     "name": "Nextech"
   },
@@ -865,6 +958,9 @@
   },
   "Nintendo": {
     "name": "Nintendo"
+  },
+  "Nintendo_EAD": {
+    "name": "Nintendo EAD"
   },
   "Nintendo_R&D1": {
     "name": "Nintendo R&D1"
@@ -932,6 +1028,9 @@
   "Panoramic": {
     "name": "Panoramic"
   },
+  "Panoramic_Software": {
+    "name": "Panoramic Software"
+  },
   "Paramount_Interactive": {
     "name": "Paramount Interactive"
   },
@@ -946,6 +1045,9 @@
   },
   "Polygames": {
     "name": "Polygames"
+  },
+  "Pony_Canyon": {
+    "name": "Pony Canyon"
   },
   "Probe_Entertainment": {
     "name": "Probe Entertainment"
@@ -1034,6 +1136,9 @@
   "Romstar": {
     "name": "Romstar"
   },
+  "S-Plan": {
+    "name": "S-Plan"
+  },
   "SCE_Studio_Liverpool": {
     "name": "Psygnosis"
   },
@@ -1061,6 +1166,9 @@
   "SRS": {
     "name": "SRS"
   },
+  "Saffire": {
+    "name": "Saffire"
+  },
   "Sage's_Creation": {
     "name": "Sage's Creation"
   },
@@ -1069,6 +1177,9 @@
   },
   "Sales_Curve_Interactive": {
     "name": "Sales Curve Interactive"
+  },
+  "Salio": {
+    "name": "Salio"
   },
   "Sammy_Corporation": {
     "name": "American Sammy"
@@ -1205,6 +1316,9 @@
   "Square_Enix_Europe": {
     "name": "Sales Curve Interactive"
   },
+  "Starfish": {
+    "name": "Starfish"
+  },
   "Sterling_Silver_Software": {
     "name": "Sterling Silver Software"
   },
@@ -1219,6 +1333,9 @@
   },
   "Success": {
     "name": "Success"
+  },
+  "Sun_L": {
+    "name": "Sun L"
   },
   "Sunsoft": {
     "name": "Sunsoft"
@@ -1271,6 +1388,9 @@
   "Tamtex": {
     "name": "Tamtex"
   },
+  "Tarantula_Studios": {
+    "name": "Tarantula Studios"
+  },
   "Team_Bubsy": {
     "name": "Team Bubsy"
   },
@@ -1303,6 +1423,9 @@
   },
   "Tengen": {
     "name": "Tengen"
+  },
+  "Teque_Interactive": {
+    "name": "Teque Interactive"
   },
   "Teque_London": {
     "name": "Teque London"
@@ -1358,11 +1481,17 @@
   "Tokyo_Shoseki": {
     "name": "Tokyo Shoseki"
   },
+  "Tom_Create": {
+    "name": "Tom Create"
+  },
   "Tommy_Tallarico_Studios": {
     "name": "Tommy Tallarico Studios"
   },
   "Tonkin_House": {
     "name": "Tonkin House"
+  },
+  "Torus_Games": {
+    "name": "Torus Games"
   },
   "Tose": {
     "name": "Tose"
@@ -1400,6 +1529,9 @@
   "Ukiyotei": {
     "name": "Ukiyotei"
   },
+  "Unexpected_Development": {
+    "name": "Unexpected Development"
+  },
   "Vectordean": {
     "name": "Vectordean"
   },
@@ -1408,6 +1540,9 @@
   },
   "Vic_Tokai": {
     "name": "Vic Tokai"
+  },
+  "Victor_Interactive_Software": {
+    "name": "Victor Interactive Software"
   },
   "Video_System": {
     "name": "Video System"
@@ -1429,6 +1564,12 @@
   },
   "Visual_Concepts": {
     "name": "Visual Concepts"
+  },
+  "Visual_Impact": {
+    "name": "Visual Impact"
+  },
+  "Vivid_Image": {
+    "name": "Vivid Image"
   },
   "WJS_Design": {
     "name": "WJS Design"
@@ -1471,6 +1612,9 @@
   },
   "XYZ_Productions": {
     "name": "XYZ Productions"
+  },
+  "Xanth_Software": {
+    "name": "Xanth Software"
   },
   "Zap": {
     "name": "Zap"

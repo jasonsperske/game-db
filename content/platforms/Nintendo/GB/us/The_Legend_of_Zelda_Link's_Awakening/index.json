@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Nintendo_EAD"
+  ],
+  "guid": "The_Legend_of_Zelda_Link's_Awakening",
+  "name": "The Legend of Zelda: Link's Awakening",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 6,
+    "month": 8,
+    "sortable": "1993-08-06",
+    "year": 1993
+  }
+}

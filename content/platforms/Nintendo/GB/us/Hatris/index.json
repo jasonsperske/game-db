@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Blue_Planet_Software"
+  ],
+  "guid": "Hatris",
+  "name": "Hatris",
+  "publisher": "Blue_Planet_Software",
+  "released": {
+    "month": 5,
+    "sortable": "1991-05-01",
+    "year": 1991
+  }
+}

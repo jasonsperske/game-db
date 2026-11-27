@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Game_Freak"
+  ],
+  "guid": "Pokemon_Yellow_Version_Special_Pikachu_Edition",
+  "name": "Pokémon Yellow Version: Special Pikachu Edition",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 19,
+    "month": 10,
+    "sortable": "1999-10-19",
+    "year": 1999
+  }
+}

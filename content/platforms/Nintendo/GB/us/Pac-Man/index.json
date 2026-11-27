@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Namco"
+  ],
+  "guid": "Pac-Man",
+  "name": "Pac-Man",
+  "publisher": "Namco",
+  "released": {
+    "month": 4,
+    "sortable": "1991-04-01",
+    "year": 1991
+  }
+}

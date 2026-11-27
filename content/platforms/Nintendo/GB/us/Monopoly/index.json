@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Sculptured_Software"
+  ],
+  "guid": "Monopoly",
+  "name": "Monopoly",
+  "publisher": "Parker_Brothers",
+  "released": {
+    "month": 12,
+    "sortable": "1991-12-01",
+    "year": 1991
+  }
+}

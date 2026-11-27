@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "HAL_Laboratory"
+  ],
+  "guid": "Shanghai",
+  "name": "Shanghai",
+  "publisher": "HAL_Laboratory",
+  "released": {
+    "month": 6,
+    "sortable": "1990-06-01",
+    "year": 1990
+  }
+}

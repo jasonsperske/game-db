@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Majesco"
+  ],
+  "guid": "Frogger",
+  "name": "Frogger",
+  "publisher": "Majesco_Sales",
+  "released": {
+    "month": 8,
+    "sortable": "1998-08-01",
+    "year": 1998
+  }
+}
