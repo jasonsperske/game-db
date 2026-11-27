@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "guid": "NFL_Football",
+  "name": "NFL Football",
+  "publisher": "Konami",
+  "released": {
+    "month": 4,
+    "sortable": "1990-04-01",
+    "year": 1990
+  }
+}

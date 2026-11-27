@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Jupiter",
+    "Ape_Inc"
+  ],
+  "guid": "Mario's_Picross",
+  "name": "Mario's Picross",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 3,
+    "sortable": "1995-03-01",
+    "year": 1995
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Intelligent_Systems"
+  ],
+  "guid": "Baseball",
+  "name": "Baseball",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 1,
+    "month": 8,
+    "sortable": "1989-08-01",
+    "year": 1989
+  }
+}

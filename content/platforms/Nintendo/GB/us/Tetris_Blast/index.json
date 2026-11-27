@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Blue_Planet_Software",
+    "Tose"
+  ],
+  "guid": "Tetris_Blast",
+  "name": "Tetris Blast",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 1,
+    "sortable": "1996-01-01",
+    "year": 1996
+  }
+}

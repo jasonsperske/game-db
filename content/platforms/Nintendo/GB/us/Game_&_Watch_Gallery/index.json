@@ -1,0 +1,14 @@
+{
+  "developers": [
+    "Nintendo_R&D1",
+    "Tose"
+  ],
+  "guid": "Game_&_Watch_Gallery",
+  "name": "Game & Watch Gallery",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 5,
+    "sortable": "1997-05-01",
+    "year": 1997
+  }
+}

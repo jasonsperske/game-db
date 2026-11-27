@@ -143,6 +143,9 @@
   "GTE_Interactive_Media": {
     "name": "GTE Interactive Media"
   },
+  "GT_Interactive": {
+    "name": "GT Interactive"
+  },
   "GameTek": {
     "name": "GameTek"
   },
@@ -223,6 +226,9 @@
   },
   "Majesco_Sales": {
     "name": "Majesco Sales"
+  },
+  "Malibu_Games": {
+    "name": "Malibu Games"
   },
   "Mandingo_Entertainment": {
     "name": "Mandingo Entertainment"
@@ -403,6 +409,9 @@
   },
   "Takara": {
     "name": "Takara"
+  },
+  "Take-Two_Interactive": {
+    "name": "Take-Two Interactive"
   },
   "Taxan": {
     "name": "Taxan"

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "HAL_Laboratory"
+  ],
+  "guid": "Kirby's_Dream_Land_2",
+  "name": "Kirby's Dream Land 2",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 5,
+    "sortable": "1995-05-01",
+    "year": 1995
+  }
+}

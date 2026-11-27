@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NMS_Software"
+  ],
+  "guid": "F-15_Strike_Eagle",
+  "name": "F-15 Strike Eagle",
+  "publisher": "MicroProse",
+  "released": {
+    "month": 6,
+    "sortable": "1993-06-01",
+    "year": 1993
+  }
+}

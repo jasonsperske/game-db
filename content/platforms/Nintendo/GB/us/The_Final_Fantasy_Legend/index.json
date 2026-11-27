@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "guid": "The_Final_Fantasy_Legend",
+  "name": "The Final Fantasy Legend",
+  "publisher": "Square",
+  "released": {
+    "month": 9,
+    "sortable": "1990-09-01",
+    "year": 1990
+  }
+}

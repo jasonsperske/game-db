@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Bits_Studios"
+  ],
+  "guid": "Alien3",
+  "name": "Alien³",
+  "publisher": "LJN",
+  "released": {
+    "month": 1,
+    "sortable": "1993-01-01",
+    "year": 1993
+  }
+}

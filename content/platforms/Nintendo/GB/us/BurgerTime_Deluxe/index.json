@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Data_East"
+  ],
+  "guid": "BurgerTime_Deluxe",
+  "name": "BurgerTime Deluxe",
+  "publisher": "Data_East",
+  "released": {
+    "month": 3,
+    "sortable": "1991-03-01",
+    "year": 1991
+  }
+}

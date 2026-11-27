@@ -10,7 +10,7 @@ A public database of video games, published as a static website plus versioned J
 ## Scope of this project
 This is a database of all released games for all consoles, from the Magnavox Odyssey up to the PlayStation 4. The purpose is to build a definitive and accessible set of lists that can work as a collection database or as the starting point for a web service.
 
-Coverage today: North American releases for the NES, SNES, Genesis, TurboGrafx-16 and TurboGrafx-CD (2,242 games).
+Coverage today: North American releases for the NES, SNES, Game Boy, Genesis, TurboGrafx-16 and TurboGrafx-CD (2,749 games).
 
 The primary concept that defines a record is the first release of a physical game. This includes games that were only rarely released (such as the Nintendo World Championships 1990 Gold Cart) as well as games that had many later releases (Revenge of Shinobi for the Sega Genesis). Games that were not officially released (prototypes, or the Nintendo World Championships 1990 Grey Cart) will be organized into "prototype" or "unreleased" lists. This area is bound to have disagreements, but git lets anyone make different determinations.
 

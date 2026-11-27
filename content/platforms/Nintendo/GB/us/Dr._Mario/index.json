@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Nintendo_R&D1"
+  ],
+  "guid": "Dr._Mario",
+  "name": "Dr. Mario",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 12,
+    "sortable": "1990-12-01",
+    "year": 1990
+  }
+}

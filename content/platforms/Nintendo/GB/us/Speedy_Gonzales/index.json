@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Citizen_Software"
+  ],
+  "guid": "Speedy_Gonzales",
+  "name": "Speedy Gonzales",
+  "publisher": "Sunsoft",
+  "released": {
+    "month": 7,
+    "sortable": "1993-07-01",
+    "year": 1993
+  }
+}

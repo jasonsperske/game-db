@@ -1,0 +1,15 @@
+{
+  "developers": [
+    "S-Plan",
+    "A.I_Company"
+  ],
+  "guid": "Bomberman_GB",
+  "name": "Bomberman GB",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 10,
+    "month": 4,
+    "sortable": "1998-04-10",
+    "year": 1998
+  }
+}

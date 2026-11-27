@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "guid": "Castlevania_The_Adventure",
+  "name": "Castlevania: The Adventure",
+  "publisher": "Konami",
+  "released": {
+    "month": 12,
+    "sortable": "1989-12-01",
+    "year": 1989
+  }
+}

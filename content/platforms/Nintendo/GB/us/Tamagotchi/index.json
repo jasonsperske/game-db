@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Tom_Create"
+  ],
+  "guid": "Tamagotchi",
+  "name": "Tamagotchi",
+  "publisher": "Bandai",
+  "released": {
+    "month": 10,
+    "sortable": "1997-10-01",
+    "year": 1997
+  }
+}

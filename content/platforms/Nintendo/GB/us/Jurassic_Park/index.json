@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Ocean_Software"
+  ],
+  "guid": "Jurassic_Park",
+  "name": "Jurassic Park",
+  "publisher": "Ocean_Software",
+  "released": {
+    "month": 8,
+    "sortable": "1993-08-01",
+    "year": 1993
+  }
+}

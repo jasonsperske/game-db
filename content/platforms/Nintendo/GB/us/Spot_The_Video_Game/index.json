@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Software_Creations"
+  ],
+  "guid": "Spot_The_Video_Game",
+  "name": "Spot: The Video Game",
+  "publisher": "Virgin_Interactive",
+  "released": {
+    "month": 9,
+    "sortable": "1991-09-01",
+    "year": 1991
+  }
+}

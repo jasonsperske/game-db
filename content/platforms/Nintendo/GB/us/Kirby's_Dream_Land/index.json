@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "HAL_Laboratory"
+  ],
+  "guid": "Kirby's_Dream_Land",
+  "name": "Kirby's Dream Land",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 8,
+    "sortable": "1992-08-01",
+    "year": 1992
+  }
+}

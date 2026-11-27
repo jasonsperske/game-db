@@ -1,0 +1,15 @@
+{
+  "developers": [
+    "Nintendo_R&D1",
+    "Intelligent_Systems"
+  ],
+  "guid": "Alleyway",
+  "name": "Alleyway",
+  "publisher": "Nintendo",
+  "released": {
+    "day": 1,
+    "month": 8,
+    "sortable": "1989-08-01",
+    "year": 1989
+  }
+}

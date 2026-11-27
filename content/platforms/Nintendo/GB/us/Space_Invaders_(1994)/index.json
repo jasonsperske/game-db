@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Taito"
+  ],
+  "guid": "Space_Invaders_(1994)",
+  "name": "Space Invaders (1994)",
+  "publisher": "Nintendo",
+  "released": {
+    "month": 10,
+    "sortable": "1994-10-01",
+    "year": 1994
+  }
+}

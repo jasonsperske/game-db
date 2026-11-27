@@ -2,6 +2,9 @@
   "guid": "Nintendo",
   "name": "Nintendo",
   "platforms": {
+    "GB": {
+      "name": "Game Boy"
+    },
     "NES": {
       "name": "Nintendo Entertainment System"
     },

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Konami"
+  ],
+  "guid": "Gradius_The_Interstellar_Assault",
+  "name": "Gradius: The Interstellar Assault",
+  "publisher": "Konami",
+  "released": {
+    "month": 1,
+    "sortable": "1992-01-01",
+    "year": 1992
+  }
+}

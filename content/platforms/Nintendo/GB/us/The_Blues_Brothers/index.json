@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Titus_Software"
+  ],
+  "guid": "The_Blues_Brothers",
+  "name": "The Blues Brothers",
+  "publisher": "Titus_Software",
+  "released": {
+    "month": 6,
+    "sortable": "1992-06-01",
+    "year": 1992
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NMS_Software"
+  ],
+  "guid": "Aladdin",
+  "name": "Aladdin",
+  "publisher": "Virgin_Interactive",
+  "released": {
+    "month": 10,
+    "sortable": "1995-10-01",
+    "year": 1995
+  }
+}

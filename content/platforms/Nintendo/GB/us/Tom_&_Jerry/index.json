@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Beam_Software"
+  ],
+  "guid": "Tom_&_Jerry",
+  "name": "Tom & Jerry",
+  "publisher": "Hi_Tech_Expressions",
+  "released": {
+    "month": 10,
+    "sortable": "1992-10-01",
+    "year": 1992
+  }
+}

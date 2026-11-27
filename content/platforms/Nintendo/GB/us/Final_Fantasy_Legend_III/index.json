@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "Square"
+  ],
+  "guid": "Final_Fantasy_Legend_III",
+  "name": "Final Fantasy Legend III",
+  "publisher": "Square",
+  "released": {
+    "month": 8,
+    "sortable": "1993-08-01",
+    "year": 1993
+  }
+}

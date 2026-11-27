@@ -1,0 +1,13 @@
+{
+  "developers": [
+    "NMS_Software"
+  ],
+  "guid": "Pinocchio",
+  "name": "Pinocchio",
+  "publisher": "Black_Pearl_Software",
+  "released": {
+    "month": 10,
+    "sortable": "1996-10-01",
+    "year": 1996
+  }
+}
