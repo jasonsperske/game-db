@@ -3,7 +3,8 @@
   "name": "Ballistix",
   "publisher": "NEC",
   "released": {
-    "sortable": "1992-01-01",
+    "month": 5,
+    "sortable": "1992-05-01",
     "year": 1992
   }
 }

@@ -3,7 +3,9 @@
   "name": "Victory Run",
   "publisher": "NEC",
   "released": {
-    "sortable": "1989-01-01",
+    "day": 29,
+    "month": 8,
+    "sortable": "1989-08-29",
     "year": 1989
   }
 }

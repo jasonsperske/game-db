@@ -3,7 +3,8 @@
   "name": "TV Sports Basketball",
   "publisher": "NEC",
   "released": {
-    "sortable": "1991-01-01",
+    "month": 6,
+    "sortable": "1991-06-01",
     "year": 1991
   }
 }

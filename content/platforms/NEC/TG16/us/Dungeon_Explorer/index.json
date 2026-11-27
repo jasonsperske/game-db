@@ -3,7 +3,9 @@
   "name": "Dungeon Explorer",
   "publisher": "NEC",
   "released": {
-    "sortable": "1989-01-01",
+    "day": 15,
+    "month": 11,
+    "sortable": "1989-11-15",
     "year": 1989
   }
 }

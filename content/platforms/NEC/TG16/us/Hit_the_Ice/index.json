@@ -3,7 +3,8 @@
   "name": "Hit the Ice",
   "publisher": "TTI",
   "released": {
-    "sortable": "1992-01-01",
+    "month": 11,
+    "sortable": "1992-11-01",
     "year": 1992
   }
 }

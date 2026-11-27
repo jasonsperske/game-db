@@ -3,7 +3,8 @@
   "name": "Bomberman",
   "publisher": "NEC",
   "released": {
-    "sortable": "1991-01-01",
+    "month": 4,
+    "sortable": "1991-04-01",
     "year": 1991
   }
 }

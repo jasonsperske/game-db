@@ -3,7 +3,8 @@
   "name": "Silent Debuggers",
   "publisher": "NEC",
   "released": {
-    "sortable": "1991-01-01",
+    "month": 10,
+    "sortable": "1991-10-01",
     "year": 1991
   }
 }

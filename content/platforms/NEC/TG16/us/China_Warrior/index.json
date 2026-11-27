@@ -3,7 +3,8 @@
   "name": "China Warrior",
   "publisher": "NEC",
   "released": {
-    "sortable": "1989-01-01",
+    "month": 11,
+    "sortable": "1989-11-01",
     "year": 1989
   }
 }

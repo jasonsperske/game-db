@@ -1,9 +1,10 @@
 {
   "guid": "Soldier_Blade",
   "name": "Soldier Blade",
-  "publisher": "NEC",
+  "publisher": "TTI",
   "released": {
-    "sortable": "1992-01-01",
+    "month": 9,
+    "sortable": "1992-09-01",
     "year": 1992
   }
 }
