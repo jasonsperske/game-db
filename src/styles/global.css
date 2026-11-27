@@ -89,6 +89,7 @@ th { background: var(--surface-2); font-weight: 600; white-space: nowrap; user-s
 th[aria-sort]::after { content: " ↑"; color: var(--muted); }
 th[aria-sort="descending"]::after { content: " ↓"; }
 td.nowrap { white-space: nowrap; font-variant-numeric: tabular-nums; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .table-tools { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem; }
 .filter { padding: 0.45rem 0.7rem; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: var(--text); font: inherit; min-width: 220px; }
 

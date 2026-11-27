@@ -1,0 +1,60 @@
+---
+// Sortable, filterable table of publishers or developers: name, game count,
+// platforms and active years. Used by the /publisher/ and /developer/ indexes.
+import { site, url } from '../lib/site';
+
+interface Props {
+  companies: { guid: string; name: string; games: string[] }[];
+  kind: 'publisher' | 'developer';
+  label: string; // column heading and caption, e.g. "Publisher"
+}
+const { companies, kind, label } = Astro.props;
+const s = site();
+const tableId = `${kind}s-table`;
+const items = [...companies]
+  .sort((a, b) => a.name.localeCompare(b.name))
+  .map((p) => {
+    const games = s.lookup(p.games);
+    const platforms = [...new Map(games.map((g) => [`${g.company}/${g.platform}`, g])).values()]
+      .map((g) => ({ path: `${g.company}/${g.platform}`, name: s.platformName(g.company, g.platform) }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+    const years = games.map((g) => g.released?.year).filter((y): y is number => !!y);
+    const first = years.length ? Math.min(...years) : null;
+    const last = years.length ? Math.max(...years) : null;
+    return { ...p, count: games.length, platforms, first, last };
+  });
+---
+<div class="table-tools">
+  <span class="muted">Click a column heading to sort.</span>
+  <input class="filter" type="search" placeholder={`Filter ${kind}s…`} aria-label={`Filter ${kind}s`} data-filter-for={tableId} />
+</div>
+<div class="table-wrap">
+  <table id={tableId} data-sortable>
+    <caption class="visually-hidden">{label}s</caption>
+    <thead>
+      <tr>
+        <th scope="col">{label}</th>
+        <th scope="col" class="num">Games</th>
+        <th scope="col">Platforms</th>
+        <th scope="col">Years</th>
+      </tr>
+    </thead>
+    <tbody>
+      {items.map((p) => (
+        <tr>
+          <td><a href={url(`${kind}/${p.guid}/`)}>{p.name}</a></td>
+          <td class="num" data-order={p.count}>{p.count}</td>
+          <td>{p.platforms.map((pl, i) => <>{i > 0 && ', '}<a href={url(`platform/${pl.path}/`)}>{pl.name}</a></>)}</td>
+          <td class="nowrap" data-order={p.first ?? '9999'}>
+            {p.first === null ? <span class="muted">—</span> : p.first === p.last ? p.first : `${p.first}–${p.last}`}
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+
+<script>
+  import { initTables } from '../scripts/tables';
+  initTables();
+</script>
